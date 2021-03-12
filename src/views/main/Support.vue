@@ -20,11 +20,10 @@
         </div> 
 
     <div class="newsletter-Support" style="padding: 20px;">
-
       <p style="font-style: italic; font-size: 15pt;">Volvox Vault is funded by nice people like you.</p>
     </div>
 
-    <div class="newsletter-Support" style="padding: 25px;">
+    <div class="newsletter-Support" style="padding: 25px; margin-bottom: 60px;">
       <h2>Newsletter</h2><br>
           <iframe src="https://cdn.forms-content.sg-form.com/18d274c9-df21-11ea-8215-a279536b68ff" width="100%" height="600px"></iframe>
     </div>
@@ -109,7 +108,7 @@ a {
 
 .newsletter-Support {
   padding: 20px;
-  margin-top: 10px;
+  margin: 20px;
   background-color:white;
   color: grey;
   border: 1px solid yellowgreen;
@@ -119,7 +118,6 @@ a {
   padding: 8px;
   font-family: sans-serif;
   text-align: center;
-  margin:10px;
 }
 
 iframe {
