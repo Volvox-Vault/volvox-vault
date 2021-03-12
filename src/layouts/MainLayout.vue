@@ -1,27 +1,20 @@
 <template>
+
   <div id="app">
+    
 
-    <div id="main">
-
-    <div id="header">
-
-   
-      <div id="head-title">
-        <router-link to="/"><h1 class="header-title">volvox vault</h1></router-link>
+      <div id="header">
+      <a href="/"><p>volvox vault</p></a>
       </div>
 
-
-    <div id="header-nav">
-      <router-link to="/about">about</router-link>
-      <router-link to="/artists.html">artists</router-link>
-      <router-link to="/c4c.html">collaborate</router-link>
-      <router-link to="/support" style="background-color: yellowgreen;">support</router-link>
-      <router-link to="/submit">submit</router-link>
-      <p>A space for artists to showcase their work, share guidance, and find compatible collaborators.</p>
-    </div>
-
-  </div>
-  </div>
+      <div id="nav">
+        <div class="nav-pill"><a href="/About">about</a></div>
+        <div class="nav-pill"><a href="/Collaborate">collaborate</a></div>
+        <div class="nav-pill"><a href="/Colony">colony</a></div>
+        <div class="nav-pill"><a href="/Support">support</a></div>
+        <div class="nav-pill"><a href="/Submit">submit</a></div>
+        <div class="nav-pill des"><a>A space for artists to showcase their work, share guidance, and find compatible collaborators.</a></div>
+      </div>
     <slot/>
   </div>
 </template>
@@ -29,81 +22,147 @@
 
 <style>
 body {
-  margin: 0 ;
-  padding: 0;
-  font-family: serif;
-  background: #D3D3D3;
+  margin: 0 auto;
+  font-family: sans-serif;
+  background-color:  #e5e5e5;
 }
 
-h1, h2, h3, h4, p {
-  padding: 0;
+p, h1, h2, h3, h4, a {
   margin: 0;
-  font-weight: normal;
-  font-size: 14px;
-  font-family: serif;
-}
-
-a {
-  color: #000;
+  padding:0;
   text-decoration: none;
-  font-weight: normal;
-  font-size: 13px;
-  cursor: pointer;
-  font-family: serif;
 }
 
-#main{
-  max-width: 920px;
-  margin-right: auto;
-  margin-left: auto;
-  margin-top: 30px;
+::-moz-selection { /* Code for Firefox */
+  color:  ghostwhite ;
+  background: yellowgreen;
 }
 
+::selection {
+  color:  ghostwhite ;
+  background: yellowgreen;
+}
+
+a:visited {
+  color: ghostwhite;
+  text-decoration: none;
+}
+
+::-webkit-scrollbar {
+  width: 0.2em;
+  background-color: yellowgreen;
+}
+
+::-webkit-scrollbar-track {
+
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: gainsboro;
+}
+
+/* HEADER */
 #header {
-    border-bottom: 1px solid black;
-    margin-top: 5px;
-    margin-bottom: 20px;
-    font-family: sans-serif;
-    text-align: left;
-    padding-top: 5px;
-    padding-right: 10px;
-    padding-bottom: 10px;
+  cursor: pointer;
+  margin: 20px;
+  margin-left: 15px;
+  background-color: yellowgreen;
+  width: 245px;
+  text-align: center;
+  font-size: 20pt;
+  padding: 33px;
+  padding-left: 32px;
+  color: ghostwhite;
+  -moz-border-radius: 100px / 50px;
+  -webkit-border-radius: 100px / 178px;
+  border-radius: 694px / 208px;
+  max-width: 300px;
+  text-decoration: none;
 }
 
-#header-col {
+#header a:hover  {
+  color: #9879a6;
+  text-decoration: none;
+}
+
+/* NAVIGATION */
+#nav {
   display: grid;
-  grid-template-columns: 30% 70%;
-  grid-gap: 10px;
-  align-items: baseline;
+  grid-template-columns: auto auto auto auto auto;
+  margin-top: 25px;
+  align-items: center;
+  text-align: center;
+  line-height: 1.5;
+  grid-gap:1px;
+  box-sizing: border-box;
 }
 
-#header p {
-  margin-bottom: 0;
-  font-size: 13px;
-
+#nav a {
+  color: grey;
+  text-decoration: none;
 }
 
-#header h1 {
-  color: black;
-  margin-bottom: 0;
-  font-size: 35px;
-  font-weight: bold;
+#nav a:hover {
+  color: #9879a6;
+  text-decoration: none;
 }
 
-#header-nav {
-  width: 88%;
-  margin-top: 10px;
-  margin-bottom: 10px;
-  padding: 5px;
+.nav-pill {
+  box-shadow:0 0 0 1px yellowgreen;
+  padding: 12px;
+  font-size: 12pt;
+  color: grey;
 }
 
-#header-nav a, #header-nav p, #footer p{
-  width: auto;
-  display:inline-block;
-  padding: 5px;
-  margin-top: 5px;
-  margin-bottom: 5px;
-  margin-right: 5px;
-  background: #fff;
+.nav-pill a:hover {
+  color: #9879a6;
+  cursor: pointer;
+}
+
+.des {
+  grid-row: 2;
+  grid-column: 1/6;
+  text-align: left;
+}
+
+
+@media(min-width: 800px) {
+  .chat-block {
+    grid-column-start: 3;
+    grid-column-end: 5;
+    grid-row-start: 2;
+    grid-row-end: 2;
+  }
+}
+
+
+@media(max-width: 800px) {
+  .chat-block {
+    grid-row: 1;
+  }
+  .des {
+    grid-row: 2;
+    grid-column: 1/6;
+    text-align: left;
+  }
+  #header {
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media only screen and (max-device-width: 566px) {
+  .chat-block {
+    grid-row: 1;
+  }
+  .des {
+    grid-row: 2;
+    grid-column: 1/6;
+    text-align: left;
+  }
+  #header {
+    margin-left: auto;
+    margin-right: auto;
+  }
 }
 </style>

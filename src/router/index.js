@@ -1,9 +1,9 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
-import Home from '../views/main/Home.vue'
+import Index from '../views/main/Index.vue'
 import About from '../views/main/About.vue'
-import Artists from '../views/main/Artists.vue'
-import Collaborate from '../views/main/Collaborate.vue'
+import Colony from '../views/main/Colony.vue'
+import Collab from '../views/main/Collab.vue'
 import Support from '../views/main/Support.vue'
 import Submit from '../views/main/Submit.vue'
 import CafeDoor from '../views/cafe/CafeDoor.vue'
@@ -18,8 +18,8 @@ Vue.use(VueRouter)
 const routes = [
   {
     path: '/',
-    name: 'Home',
-    component: Home
+    name: 'Index',
+    component: Index
   },
   {
     path: '/about',
@@ -28,15 +28,15 @@ const routes = [
   },
 
   {
-    path: '/artists.html',
-    name: 'Artists',
-    component: Artists
+    path: '/colony',
+    name: 'Colony',
+    component: Colony
   },
 
   {
-    path: '/c4c.html',
-    name: 'Collaborate',
-    component: Collaborate
+    path: '/collaborate',
+    name: 'Collab',
+    component: Collab
   },
 
   {
