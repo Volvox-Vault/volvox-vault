@@ -55,10 +55,6 @@ a:visited {
   background-color: yellowgreen;
 }
 
-::-webkit-scrollbar-track {
-
-}
-
 ::-webkit-scrollbar-thumb {
   background-color: gainsboro;
 }
