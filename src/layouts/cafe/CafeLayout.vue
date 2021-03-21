@@ -3,7 +3,7 @@
 
         <div id="cafeStyle">
 
-        <p class="cafeP"><router-link to="/">✧ volvox cafe</router-link><br>
+        <p class="cafeP">✧ <router-link to="/">volvox café</router-link><br>
         open 7am - 11pm. posts expire when a cafe closes.<br>
         choose a location…</p>
 
@@ -31,7 +31,7 @@
 <style scoped>
 
   .cafePage {
-    background-color: honeydew;
+    background-color: #f4f9e7;
     height: 100vh;
     color: saddlebrown;
     padding: 30px;
@@ -50,7 +50,7 @@
 #cafeStyle {
     margin: 0;
     color: saddlebrown;
-    background-color: honeydew;
+    background-color: #f4f9e7;
     font-family: sans-serif;
     line-height: 2;
 }
@@ -85,7 +85,8 @@
 }
 
 .cafeHr {
-  border: 0.2px dashed #d8e8cf;
+  border: 0px;
+  border-bottom: 0.5px dashed #d8dec7;
   margin-bottom: 30px;
 }
 

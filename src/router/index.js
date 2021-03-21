@@ -6,6 +6,7 @@ import Colony from '../views/main/Colony.vue'
 import Collab from '../views/main/Collab.vue'
 import Support from '../views/main/Support.vue'
 import Submit from '../views/main/Submit.vue'
+import Archive from '../views/main/Archive.vue'
 import CafeDoor from '../views/cafe/CafeDoor.vue'
 import CafeToronto from '../views/cafe/Toronto.vue'
 import CafeSeattle from '../views/cafe/Seattle.vue'
@@ -31,6 +32,12 @@ const routes = [
     path: '/colony',
     name: 'Colony',
     component: Colony
+  },
+
+  {
+    path: '/archive',
+    name: 'Archive',
+    component: Archive
   },
 
   {

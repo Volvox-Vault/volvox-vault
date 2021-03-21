@@ -20,7 +20,7 @@
         </div> 
 
     <div class="newsletter-Support" style="padding: 20px;">
-      <p style="font-style: italic; font-size: 15pt;">Volvox Vault is funded by nice people like you.</p>
+      <p style="font-style: italic; font-size: 12pt;">Volvox Vault is funded by nice people like you. ♥</p>
     </div>
 
     <div class="newsletter-Support" style="padding: 25px; margin-bottom: 60px;">

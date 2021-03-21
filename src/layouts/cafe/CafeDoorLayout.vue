@@ -3,13 +3,13 @@
 
         <div id="cafeDoorStyle">
 
-        <p class="cafeDoorP">✧ volvox cafe<br>
+        <p class="cafeDoorP">✧ <router-link to="/">volvox café</router-link><br>
         welcome. what's the password?</p>
         <br>
         <input class="cafeDoorInput" type="text" id="fname" name="fname">
         <a class="cafeEnter"><router-link to="/toronto">enter</router-link></a>
         <br><br>
-        <p class="cafeDoorP">subscribe to our <a class="cafeDoorP" style="text-decoration: underline;"><router-link to="/support">newsletter</router-link></a> for the password</p>
+        <p class="cafeDoorP">subscribe to our <a class="cafeDoorP" style="text-decoration: underline;"><router-link to="/support">newsletter</router-link></a> for the password.</p>
 
         </div>
         
@@ -21,7 +21,7 @@
 #cafeDoorStyle {
     margin: 0;
     color: saddlebrown;
-    background-color: honeydew;
+    background-color: #f4f9e7;
     font-family: sans-serif;
     width: 100vw;
     height: 100vh;
@@ -40,7 +40,7 @@
 }
 
 .cafeDoorInput {
-    height: 23px;
+    height: 25px;
     border: 1px solid saddlebrown;
 }
 

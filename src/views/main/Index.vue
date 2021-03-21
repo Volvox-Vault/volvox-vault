@@ -16,7 +16,7 @@
 
   <!-- ARTICLES -->
   <div class="block-Home">
-    <div class="block-Home-header">articles</div>
+    <div class="block-Home-header">recent</div>
     <p class="block-Home-link" style="text-align: right;">aw 20 / 21</p>
     <p class="block-Home-link"><a>article 1</a></p>
     <p class="block-Home-link"><a>about us</a></p>

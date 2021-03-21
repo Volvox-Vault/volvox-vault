@@ -9,10 +9,12 @@
 
       <div id="nav">
         <div class="nav-pill"><a href="/About">about</a></div>
+        <div class="nav-pill"><a href="/Archive">archive</a></div>
         <div class="nav-pill"><a href="/Collaborate">collaborate</a></div>
         <div class="nav-pill"><a href="/Colony">colony</a></div>
         <div class="nav-pill"><a href="/Support">support</a></div>
         <div class="nav-pill"><a href="/Submit">submit</a></div>
+        <div class="nav-pill"><a href="/CafeDoor">café</a></div>
         <div class="nav-pill des"><a>A space for artists to showcase their work, share guidance, and find compatible collaborators.</a></div>
       </div>
     <slot/>
@@ -88,7 +90,7 @@ a:visited {
 /* NAVIGATION */
 #nav {
   display: grid;
-  grid-template-columns: auto auto auto auto auto;
+  grid-template-columns: auto auto auto auto auto auto auto;
   margin-top: 25px;
   align-items: center;
   text-align: center;
@@ -121,7 +123,7 @@ a:visited {
 
 .des {
   grid-row: 2;
-  grid-column: 1/6;
+  grid-column: 1/8;
   text-align: left;
 }
 
