@@ -29,7 +29,7 @@
 
   <!-- IMG -->
   <div class="block-Home block-Home-image">
-    <img src="../../assets/mockup.png" style="display: block; height: 80%; margin: auto;">
+    <img src="../../assets/mockup.png">
   </div>
 
   <!-- SHOP -->
@@ -154,6 +154,12 @@ export default {
   text-decoration: none;
   justify-content: center;
   align-items: center;
+}
+
+.block-Home-image img {
+/* make sure the image is scaled keeping its aspect ratio */
+  max-width: 100%;
+  height: auto;
 }
 
 @media(min-width: 800px) {
