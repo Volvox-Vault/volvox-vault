@@ -7,7 +7,7 @@
   <div class="block-Submit">
     <p class="block-Submit-header">website</p>
 
-      <ul>
+      <ul class="block-Submit-ul">
         <li>Any kind of creative article / project can be submitted / pitched to the website.</li>
         <li>Volvox Vault prioritizes showcasing works with gentle, mindful, and organic vibrations.</li>
         <li>Articles, stories, paintings, photographs, films, generative art, etc.</li>
@@ -21,7 +21,7 @@
   <div class="block-Submit">
     <p class="block-Submit-header">magazine</p>
 
-      <ul>
+      <ul class="block-Submit-ul">
         <li>Deadline May 1st.</li>
         <li>The theme for this issue is Metamorphosis: An issue about transformation, growth, and change.</li>
         <li>You can create new art, or submit something you made in the past which fits the theme.</li>
@@ -107,6 +107,10 @@ export default {
   padding: 15px;
 
   align-items: center;
+}
+
+.block-Submit-ul {
+  padding-right: 15px;
 }
 
 .block-Submit-link a, li a {
