@@ -82,7 +82,6 @@ export default {
   overflow: auto;
   max-height: 100vh;
   width: 100%;
-  min-width: 500px;
   margin-left: auto;
   margin-right: auto;
   line-height: 1.8;
@@ -110,7 +109,7 @@ export default {
   align-items: center;
 }
 
-.block-Submit-link a, .block-shop a, li a {
+.block-Submit-link a, li a {
   color: #9879a6;
   text-decoration: none;
 }
@@ -120,30 +119,11 @@ export default {
   cursor: pointer;
 }
 
-.block-Submit-shop {
-  text-align: center;
-  text-decoration: none;
-  margin-top: 35%;
-  margin-bottom: 45%;
-  font-size: 10vh;
-  max-height: 50vh;
-}
-
 
 .block-Submit-image {
   display: flex;
   justify-content: center;
   align-items: center;
-}
-
-
-@media(min-width: 800px) {
-  .chat-block-Submit {
-    grid-column-start: 3;
-    grid-column-end: 5;
-    grid-row-start: 2;
-    grid-row-end: 2;
-  }
 }
 
 

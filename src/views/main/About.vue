@@ -5,7 +5,7 @@
   <!-- ABOUT -->
   <div class="block-About">
     <p class="block-About-header">about</p>
-    <p class="block-About-link"><img style="float: right; padding-bottom: 15px; padding-left: 15px;" src="../../assets/logo.png">  A <a href="https://en.wikipedia.org/wiki/Volvox" target="_blank">volvox</a> is essentially a type of algae colony, which envelops an aggregation of smaller algae colonies and so on. It's a similar matrix sensation to when you point your front camera into a mirror.<br>
+    <p class="block-About-link"><img src="../../assets/logo.png">  A <a href="https://en.wikipedia.org/wiki/Volvox" target="_blank">volvox</a> is essentially a type of algae colony, which envelops an aggregation of smaller algae colonies and so on. It's a similar matrix sensation to when you point your front camera into a mirror.<br>
       The volvox would not exist without its colonies... likewise, as creatives and human beings we strive with support from our colonies / communities.
          Volvox Vault is a special place to mindfully come together, and archive our creations and connections.
          <br><br>
@@ -80,6 +80,12 @@ export default {
   align-items: center;
 }
 
+.block-About-link img {
+  float: right; 
+  padding-bottom: 15px; 
+  padding-left: 15px;
+}
+
 .block-About-link a, .block-shop a {
   color: #9879a6;
   text-decoration: none;
@@ -105,5 +111,23 @@ export default {
   justify-content: center;
   align-items: center;
 }
+
+@media(max-width: 800px) {
+
+  .block-About-link img {
+  width: 35%;
+  }
+
+}
+
+@media only screen and (max-device-width: 566px) {
+
+  .block-About-link img {
+  width: 35%;
+  }
+
+}
+
+
 
 </style>

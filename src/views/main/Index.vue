@@ -174,7 +174,7 @@ export default {
   .block-Home-image {
       overflow: hidden;
   }
-  .chat-Home-block {
+  .chat-block-Home {
     grid-row: 1;
   }
 }
@@ -186,6 +186,9 @@ export default {
   }
   .block-Home-image {
       overflow: hidden;
+  }
+  .chat-block-Home {
+    grid-row: 1;
   }
 }
 

@@ -10,7 +10,7 @@
       <div id="nav">
         <div class="nav-pill"><a href="/About">about</a></div>
         <div class="nav-pill"><a href="/Archive">archive</a></div>
-        <div class="nav-pill"><a href="/Collaborate">collaborate</a></div>
+        <div class="nav-pill"><a href="/Bulletin">bulletin</a></div>
         <div class="nav-pill"><a href="/Colony">colony</a></div>
         <div class="nav-pill"><a href="/Support">support</a></div>
         <div class="nav-pill"><a href="/Submit">submit</a></div>
@@ -138,9 +138,12 @@ a:visited {
   .chat-block {
     grid-row: 1;
   }
+
+
+
   .des {
     grid-row: 2;
-    grid-column: 1/6;
+    grid-column: 1/8;
     text-align: left;
   }
   #header {
@@ -155,7 +158,7 @@ a:visited {
   }
   .des {
     grid-row: 2;
-    grid-column: 1/6;
+    grid-column: 1/8;
     text-align: left;
   }
   #header {

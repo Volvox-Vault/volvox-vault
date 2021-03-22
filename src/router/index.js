@@ -3,7 +3,7 @@ import VueRouter from 'vue-router'
 import Index from '../views/main/Index.vue'
 import About from '../views/main/About.vue'
 import Colony from '../views/main/Colony.vue'
-import Collab from '../views/main/Collab.vue'
+import Bulletin from '../views/main/Bulletin.vue'
 import Support from '../views/main/Support.vue'
 import Submit from '../views/main/Submit.vue'
 import Archive from '../views/main/Archive.vue'
@@ -41,9 +41,9 @@ const routes = [
   },
 
   {
-    path: '/collaborate',
-    name: 'Collab',
-    component: Collab
+    path: '/bulletin',
+    name: 'Bulletin',
+    component: Bulletin
   },
 
   {
