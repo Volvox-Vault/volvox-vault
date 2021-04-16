@@ -17,7 +17,9 @@
         <div class="nav-pill"><a href="/CafeDoor">café</a></div>
         <div class="nav-pill des"><a>A space for artists to showcase their work, share guidance, and find compatible collaborators.</a></div>
       </div>
+      
     <slot/>
+
   </div>
 </template>
 

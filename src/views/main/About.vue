@@ -6,12 +6,12 @@
   <div class="block-About">
     <p class="block-About-header">about</p>
     <p class="block-About-link"><img src="../../assets/logo.png">  A <a href="https://en.wikipedia.org/wiki/Volvox" target="_blank">volvox</a> is essentially a type of algae colony, which envelops an aggregation of smaller algae colonies and so on. It's a similar matrix sensation to when you point your front camera into a mirror.<br>
-      The volvox would not exist without its colonies... likewise, as creatives and human beings we strive with support from our colonies / communities.
+      The volvox would not exist without its colonies... likewise, as creatives and human beings we thrive with support from our colonies / communities.
          Volvox Vault is a special place to mindfully come together, and archive our creations and connections.
          <br><br>
 
     hello@volvoxvault.com<br><br>
-    We are <a>supported</a> by community members like you.<br><br>
+    We are <a href="/Support">supported</a> by community members like you.<br><br>
     Founded by <a href="http://tiana.computer/" target="_blank">Tiana Dueck</a>.</p>
   </div>
   </div>
