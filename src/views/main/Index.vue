@@ -72,7 +72,7 @@
   <!-- CHAT -->
   <div class="block-Home chat-block-Home">
     <div class="block-Home-header">chat</div>
-    <p class="block-Home-link" style="border: none;">coming soon...</p>
+    <Chat />
   </div>
 
 </div>
@@ -82,13 +82,15 @@
 
 
 <script>
-import MainLayout from '../../layouts/MainLayout'
+import MainLayout from "../../layouts/MainLayout";
+import Chat from "../../components/chat";
 
 export default {
   name: 'Home',
   components: {
-    MainLayout
-  }
+    MainLayout,
+    Chat,
+  },
 };
 </script>
 
