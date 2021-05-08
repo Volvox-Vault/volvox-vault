@@ -4,17 +4,17 @@
     
 
       <div id="header">
-      <a href="/"><p>volvox vault</p></a>
+      <router-link to="/"><p>volvox vault</p></router-link>
       </div>
 
       <div id="nav">
-        <div class="nav-pill"><router-link :to="{name: 'About' }">about</router-link></div>
-        <div class="nav-pill"><router-link :to="{name: 'Archive' }">archive</router-link></div>
-        <div class="nav-pill"><router-link :to="{name: 'Bulletin' }">bulletin</router-link></div>
-        <div class="nav-pill"><router-link :to="{name: 'Colony' }">colony</router-link></div>
-        <div class="nav-pill"><router-link :to="{name: 'Support' }">support</router-link></div>
-        <div class="nav-pill"><router-link :to="{name: 'Submit' }">submit</router-link></div>
-        <div class="nav-pill"><router-link :to="{name: 'CafeDoor' }">café</router-link></div>
+        <div class="nav-pill"><router-link to="/about">about</router-link></div>
+        <div class="nav-pill"><router-link to="/archive">archive</router-link></div>
+        <div class="nav-pill"><router-link to="/bulletin">bulletin</router-link></div>
+        <div class="nav-pill"><router-link to="/colony">colony</router-link></div>
+        <div class="nav-pill"><router-link to="/support">support</router-link></div>
+        <div class="nav-pill"><router-link to="/submit">submit</router-link></div>
+        <div class="nav-pill"><router-link to="/cafe">café</router-link></div>
         <div class="nav-pill des"><a>A space for artists to showcase their work, share guidance, and find compatible collaborators.</a></div>
       </div>
       
