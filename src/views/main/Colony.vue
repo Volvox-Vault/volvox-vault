@@ -9,7 +9,7 @@
 
 <script>
 import MainLayout from '../../layouts/MainLayout'
-import VolvoxColony from '../../components/userColony.vue'
+import VolvoxColony from '../../components/userColony'
 
 export default {
   name: 'Colony',

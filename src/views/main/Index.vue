@@ -6,25 +6,22 @@
 
   <div class="block-Home">
     <div class="block-Home-header">community</div>
+    <p class="block-Home-link"><a href="/Colony">colony</a></p>
     <div class="block-Home-link"><a>newspaper</a></div>
-    <div class="block-Home-link"><a>about us</a></div>
+    <p class="block-Home-link"><a href="https://volvoxvault.com/horoscopes.html">horoscopes</a></p>
+    <div class="block-Home-link"><a href="/About">about us</a></div>
     <div class="block-Home-link"><a>discord</a></div>
-    <div class="block-Home-link"><a>submit / pitch</a></div>
-    <div class="block-Home-link"><a>newsletter / support</a></div>
-    <p class="block-Home-link"><a>artists</a></p>
+    <div class="block-Home-link"><a href="/Submit">submit / pitch</a></div>
+    <div class="block-Home-link"><a href="/Support">newsletter / support</a></div>
   </div>
 
   <!-- ARTICLES -->
   <div class="block-Home">
     <div class="block-Home-header">recent</div>
-    <p class="block-Home-link" style="text-align: right;">aw 20 / 21</p>
-    <p class="block-Home-link"><a>article 1</a></p>
-    <p class="block-Home-link"><a>about us</a></p>
-    <p class="block-Home-link"><a>discord</a></p>
-    <p class="block-Home-link" style="text-align: right;">ss 20</p>
-    <p class="block-Home-link" ><a>submit / pitch</a></p>
-    <p class="block-Home-link"><a>newsletter / support</a></p>
-    <p class="block-Home-link"><a>artists</a></p>
+    <p class="block-Home-link"><a>Let's Hang Out</a></p>
+    <p class="block-Home-link"><a>There's No Place Like Home</a></p>
+    <p class="block-Home-link"><a>Developing At Home With Will</a></p>
+    <p class="block-Home-link" ><a>Tiny Video Showcase</a></p>
   </div>
 
   <!-- IMG -->
@@ -52,21 +49,14 @@
 
   <!-- HOROSCOPES -->
   <div class="block-Home">
-    <div class="block-Home-header">horoscopes</div>
-    <p class="block-Home-link"><a>hear/see all</a></p>
-    <p class="block-Home-link"><a>aries</a></p>
-    <p class="block-Home-link"><a>taurus</a></p>
-    <p class="block-Home-link"><a>gemini</a></p>
-    <p class="block-Home-link"><a>cancer</a></p>
-    <p class="block-Home-link"><a>leo</a></p>
-    <p class="block-Home-link"><a>virgo</a></p>
-    <p class="block-Home-link"><a>libra</a></p>
-    <p class="block-Home-link"><a>scorpio</a></p>
-    <p class="block-Home-link"><a>sagitarius</a></p>
-    <p class="block-Home-link"><a>capricorn</a></p>
-    <p class="block-Home-link"><a>aquarius</a></p>
-    <p class="block-Home-link"><a>pisces</a></p>
-    <p class="block-Home-link"><a>by em biggs</a></p>
+    <div class="block-Home-header">issues</div>
+    <p class="block-Home-link" style="text-align: right;">magazine</p>
+    <p class="block-Home-link"><a>metamorphosis</a></p>
+    <p class="block-Home-link"><a>proximity</a></p>
+    <p class="block-Home-link"><a>identity</a></p>
+    <p class="block-Home-link" style="text-align: right;">newspaper</p>
+    <p class="block-Home-link"><a>summer2021</a></p>
+    <p class="block-Home-link"><a>spring 2021</a></p>
   </div>
 
   <!-- CHAT -->
