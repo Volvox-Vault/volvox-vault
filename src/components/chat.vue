@@ -131,6 +131,9 @@ export default {
     this.connection.onopen = () => {
       this.online = true;
     };
+    window.addEventListener("beforeunload", () => {
+      this.online = false; // avoid dev mode autoreload from triggering on real leave
+    });
     this.connection.onmessage = (event) => {
       const message = JSON.parse(event.data);
       if (message.error) {
@@ -160,11 +163,11 @@ export default {
     };
 
     this.connection.addEventListener("close", () => {
-      this.online = false;
-      // reload on chat disconnect, useful for development
-      if (this.isDevMode) {
+      if (this.online && this.isDevMode) {
         window.location.reload();
       }
+      this.online = false;
+      // reload on chat disconnect, useful for development
     });
 
     this.name = localStorage.getItem("chat_name") || "";
