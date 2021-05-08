@@ -14,7 +14,7 @@
         <div class="nav-pill"><router-link to="/colony">colony</router-link></div>
         <div class="nav-pill"><router-link to="/support">support</router-link></div>
         <div class="nav-pill"><router-link to="/submit">submit</router-link></div>
-        <div class="nav-pill"><router-link to="/cafe">café</router-link></div>
+        <div class="nav-pill"><router-link to="/cafeDoor">café</router-link></div>
         <div class="nav-pill des"><a>A space for artists to showcase their work, share guidance, and find compatible collaborators.</a></div>
       </div>
       
