@@ -42,7 +42,6 @@ export default {
                 des: 'Everything',
                 contact: 'Website maker, community enthusiast, & more.',
                 website: 'tianadueck@pm.me',
-                website: 'tiana.computer',
                 date: 'she/they',
             },
             {
@@ -50,7 +49,6 @@ export default {
                 des: 'Everything',
                 contact: 'Website maker, community enthusiast, & more.',
                 website: 'tianadueck@pm.me',
-                website: 'tiana.computer',
                 date: 'she/they',
             },
             {
@@ -58,7 +56,6 @@ export default {
                 des: 'Everything',
                 contact: 'Website maker, community enthusiast, & more.',
                 website: 'tianadueck@pm.me',
-                website: 'tiana.computer',
                 date: 'she/they',
             },
             {
@@ -66,7 +63,6 @@ export default {
                 des: 'Everything',
                 contact: 'Website maker, community enthusiast, & more.',
                 website: 'tianadueck@pm.me',
-                website: 'tiana.computer',
                 date: 'she/they',
             },
             ]
