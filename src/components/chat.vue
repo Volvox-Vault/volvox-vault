@@ -193,7 +193,7 @@ const colors = (hash) =>
     .slice(0, 4);
 </script>
 
-<style>
+<style scoped>
 #chat {
   padding: 16px;
 }
