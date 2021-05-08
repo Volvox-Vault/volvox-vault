@@ -8,13 +8,13 @@
       </div>
 
       <div id="nav">
-        <div class="nav-pill"><a href="/About">about</a></div>
-        <div class="nav-pill"><a href="/Archive">archive</a></div>
-        <div class="nav-pill"><a href="/Bulletin">bulletin</a></div>
-        <div class="nav-pill"><a href="/Colony">colony</a></div>
-        <div class="nav-pill"><a href="/Support">support</a></div>
-        <div class="nav-pill"><a href="/Submit">submit</a></div>
-        <div class="nav-pill"><a href="/CafeDoor">café</a></div>
+        <div class="nav-pill"><router-link :to="{name: 'About' }">about</router-link></div>
+        <div class="nav-pill"><router-link :to="{name: 'Archive' }">archive</router-link></div>
+        <div class="nav-pill"><router-link :to="{name: 'Bulletin' }">bulletin</router-link></div>
+        <div class="nav-pill"><router-link :to="{name: 'Colony' }">colony</router-link></div>
+        <div class="nav-pill"><router-link :to="{name: 'Support' }">support</router-link></div>
+        <div class="nav-pill"><router-link :to="{name: 'Submit' }">submit</router-link></div>
+        <div class="nav-pill"><router-link :to="{name: 'CafeDoor' }">café</router-link></div>
         <div class="nav-pill des"><a>A space for artists to showcase their work, share guidance, and find compatible collaborators.</a></div>
       </div>
       
