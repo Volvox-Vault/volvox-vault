@@ -14,8 +14,7 @@
         <div class="nav-pill"><router-link to="/colony"><p>colony</p></router-link></div>
         <div class="nav-pill"><router-link to="/support"><p>support</p></router-link></div>
         <div class="nav-pill"><router-link to="/submit"><p>submit</p></router-link></div>
-        <div class="nav-pill"><router-link to="/cafeDoor"><p>café</p></router-link></div>
-        <div class="nav-pill des">A space for artists to showcase their work, share guidance, and find compatible collaborators.</div>
+        <div class="nav-pill"><router-link to="/shop"><p>shop</p></router-link></div>
       </div>
       
     <slot/>
@@ -60,7 +59,6 @@ p, h1, h2, h3, h4, a {
 #header {
   cursor: pointer;
   margin: 20px;
-  margin-left: 15px;
   background-color: yellowgreen;
   width: 245px;
   text-align: center;

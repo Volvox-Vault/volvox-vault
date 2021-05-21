@@ -5,6 +5,7 @@
       try going to the <pre>volvox-back</pre> repository and running <pre>npm run dev</pre>, then
       reloading! this warning only appears in development mode ;)
     </p>
+    
     <template v-if="online">
       <ul>
         <li
@@ -196,6 +197,7 @@ const colors = (hash) =>
 <style scoped>
 #chat {
   padding: 16px;
+  color: grey;
 }
 
 #chat ul {
@@ -205,8 +207,8 @@ const colors = (hash) =>
 }
 
 #error {
-  background: yellow;
-  color: black;
+  background: yellowgreen;
+  color: grey;
   font-size: 80%;
   padding: 4px;
 }
@@ -230,10 +232,8 @@ const colors = (hash) =>
 }
 
 hr {
-  border: 0;
-  height: 1px;
-  background: #333;
-  background-image: linear-gradient(to right, #ccc, #333, #ccc);
+  border: 0px;
+  border-bottom: 1px solid #c8c8c8;
 }
 
 pre {

@@ -30,7 +30,7 @@
 
   <!-- SHOP -->
   <div class="block-Home" style="  overflow: hidden;">
-    <div class="block-Home-shop" style="text-decoration: none;"><a href="https://www.magcloud.com/user/volvox_vault" target="_blank" style="color: #9879a6;">shop</a></div>
+    <div class="block-Home-shop" style="text-decoration: none;"><router-link to="/shop" style="color: #9879a6;">shop</router-link></div>
   </div>
 
 

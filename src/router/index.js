@@ -7,6 +7,7 @@ import Bulletin from '../views/main/Bulletin.vue'
 import Support from '../views/main/Support.vue'
 import Submit from '../views/main/Submit.vue'
 import Archive from '../views/main/Archive.vue'
+import Shop from '../views/main/Shop.vue'
 import CafeDoor from '../views/cafe/CafeDoor.vue'
 import CafeToronto from '../views/cafe/Toronto.vue'
 import CafeSeattle from '../views/cafe/Seattle.vue'
@@ -69,6 +70,12 @@ const routes = [
     path: '/submit',
     name: 'Submit',
     component: Submit
+  },
+
+  {
+    path: '/shop',
+    name: 'Shop',
+    component: Shop
   },
 
   {
