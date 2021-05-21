@@ -1,17 +1,18 @@
 <template>
 <div id="app">
 
-        <div class="select-nav"><span class="select">Type</span> <span class="select">Topic</span></div>
+        <!--<div class="select-nav"><span class="select">Type</span> <span class="select">Topic</span></div>-->
     
         <div id="blocks-Archive">
 
         <div v-for="(item, i) in colony" v-bind:key="i">
-
+        <router-link :to="item.link">
         <div class="block-Archive">
           <p class="block-Archive-header">{{item.date}} | {{item.author}}</p>
           <p class="block-Archive-link" style="border: none;">{{item.title}}</p>
         </div>
-
+        </router-link>
+        
         </div>
 </div>
 <slot/>
@@ -28,24 +29,81 @@ export default {
             title: "Archive",
             colony: [
             {
-                date: 'Tiana Dueck',
-                author: 'Everything',
-                title: 'Website maker, community enthusiast, & more.',
+                date: 'May 2021',
+                author: 'Volvox Colony',
+                title: 'Let\'s Hang Out',
+                link: '/archive/LHO',
+                type: 'project',
             },
             {
-                date: 'Tiana Dueck',
-                author: 'Everything',
-                title: 'Website maker, community enthusiast, & more.',
+                date: 'April 2021',
+                author: 'Josie Eccleston & Sofia LaGrotta',
+                title: 'There\'s No Place Like Home',
+                link: '/archive/noPlace',
+                type: 'showcase',
             },
             {
-                date: 'Tiana Dueck',
-                author: 'Everything',
-                title: 'Website maker, community enthusiast, & more.',
+                date: 'Feb 2021',
+                author: 'Will Sheppard, Tiana Dueck, & Noah Sauer',
+                title: 'Developing At Home With Will',
+                link: '/archive/developingAtHomeWithWill',
+                type: 'showcase',
             },
             {
-                date: 'Tiana Dueck',
-                author: 'Everything',
-                title: 'Website maker, community enthusiast, & more.',
+                date: 'Dec 2020',
+                author: 'Hannah Polinski',
+                title: '20-Something Home Cooking Insta: The Sweetest Place Left on the ‘Gram',
+                link: '/archive/cookingInsta',
+                type: 'article',
+            },
+            {
+                date: 'Dec 2020',
+                author: 'Tiana Dueck',
+                title: 'Adapting your Art Practice to the Stay-At-Home Era with Creative Code',
+                link: '/archive/adaptingArtCC',
+                type: 'how to',
+            },
+            {
+                date: 'Nov 2020',
+                author: 'Tiana Dueck & Will Agnew',
+                title: 'I Thought Nothing Of It - Horse Champion',
+                link: '/archive/horseChampion',
+                type: 'article',
+            },
+            {
+                date: 'Oct 2020',
+                author: 'Daniel Maluka',
+                title: 'Water Lily',
+                link: '/archive/waterLily',
+                type: 'article',
+            },
+            {
+                date: 'Oct 2020',
+                author: 'Beatrice Douaihy & Tiana Dueck',
+                title: 'Tiny Video Showcase',
+                link: '/archive/TVS',
+                type: 'showcase',
+            },
+            {
+                date: 'Sept 2020',
+                author: 'Em Biggs & Jerome Manguba',
+                title: 'The World May Have Went Haywire, But We’re Still Groovin',
+                link: '/archive/stillGroovin',
+                type: 'article',
+            },
+            {
+                date: 'Aug 2020',
+                author: 'Andrei Pora',
+                title: 'Undeclared Cargo',
+                link: '/archive/undeclaredCargo',
+                type: 'article',
+            },
+            {
+                date: 'Aug 2020',
+                author: 'Tiana Dueck, Elliott Cost, & Laurel Schwulst',
+                title: 'Exploring the independent web with Elliott Cost and Laurel Schwulst.',
+                link: '/archive/ElliottLaurel',
+                type: 'article',
             },
             ]
     };
@@ -88,6 +146,12 @@ export default {
     overflow: auto;
     height: 35vh;
     position: relative;
+    transition: 3s;
+  }
+
+  .block-Archive:hover {
+    background-color: #cbbad2;
+    color: #f0f7de;
   }
 
 

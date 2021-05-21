@@ -1,23 +1,33 @@
 <template>
 <div id="app">
 
-        <div class="bulletin-select-nav"><span class="bulletin-select">Sort</span></div>
+        <!--<div class="bulletin-select-nav"><span class="bulletin-select">Sort</span></div>-->
     
         <div id="blocks-Collab">
+
+          <div class="block-Collab">
+                <p class="block-Collab-header bulletin-event">Volvox Bulletin</p>
+          
+                <p class="block-Collab-link bulletin-des">Let the colony know what you're up to and how they can get involved here...</p>
+                <p class="block-Collab-link bulletin-www"><a href="https://form.123formbuilder.com/5749917/form" target="_blank">Submit through this form.</a></p>
+            
+                
+                <br>
+            </div>
 
             <div v-for="(item, i) in colony" v-bind:key="i">
 
             
 
             <div class="block-Collab">
-                <p class="block-Collab-header bulletin-event"><img v-bind:src="item.pic"/>{{item.header}}</p>
-                <hr class="colonyHr">
+                <p class="block-Collab-header bulletin-event">{{item.header}}</p>
+          
                 <p class="block-Collab-link bulletin-des">{{item.des}}</p>
-                <hr class="colonyHr">
+            
                 <p class="block-Collab-link bulletin-contact">{{item.contact}}</p>
-                <hr class="colonyHr">
-                <p class="block-Collab-link bulletin-www">{{item.website}}</p>
-                <hr class="colonyHr">
+      
+                <p class="block-Collab-link bulletin-www"><a href="item.website" target="_blank">{{item.website}}</a></p>
+         
                 <p class="block-Collab-link bulletin-date">{{item.date}}</p>
                 <br>
             </div>
@@ -38,32 +48,32 @@ export default {
             title: "Bulletin",
             colony: [
             {
-                header: 'Tiana Dueck',
-                des: 'Everything',
-                contact: 'Website maker, community enthusiast, & more.',
-                website: 'tianadueck@pm.me',
-                date: 'she/they',
+                header: 'Music Producers',
+                des: 'I am a filmmaker, looking for score from music producers who specialize in ambient electronic music. Not for any specific project yet...',
+                contact: 'kalil.haddad@gmail.com',
+                website: 'https://kalilhaddad.com',
+                date: 'Anytime',
             },
             {
-                header: 'Tiana Dueck',
-                des: 'Everything',
-                contact: 'Website maker, community enthusiast, & more.',
-                website: 'tianadueck@pm.me',
-                date: 'she/they',
+                header: 'Playlist Generator',
+                des: 'Looking for folks interested in building a democratic playlist generator for the post rona days, so car rides and kickbacks and what ever can be filled with music from everyone\'s taste. Hopefully it\'ll end up something that could turn a profit but that\'s not on the head of the docket.',
+                contact: 'Jacob - jacob.t.wright@ucdenver.edu',
+                website: 'No Website',
+                date: 'Anytime',
             },
             {
-                header: 'Tiana Dueck',
-                des: 'Everything',
-                contact: 'Website maker, community enthusiast, & more.',
-                website: 'tianadueck@pm.me',
-                date: 'she/they',
+                header: 'Gossips Web',
+                des: 'The directory of handmade webpages. Share your website here.',
+                contact: 'Elliott Cost',
+                website: 'https://gossipsweb.net/',
+                date: 'Anytime',
             },
             {
-                header: 'Tiana Dueck',
-                des: 'Everything',
-                contact: 'Website maker, community enthusiast, & more.',
-                website: 'tianadueck@pm.me',
-                date: 'she/they',
+                header: 'Sunday Sites',
+                des: 'This is a place to write code and socialize. A couple of Sundays a month, we meet on Zoom Gather and write HTML for around two hours. Join the club.',
+                contact: 'John Bengtsson',
+                website: 'https://sundaysites.cafe/',
+                date: 'Every other Sunday.',
             },
             ]
     };
@@ -115,10 +125,11 @@ export default {
   }
 
   .block-Collab {
+    line-height: 1.6;
     border: 1px solid yellowgreen;
       border-collapse: collapse;
     overflow: auto;
-    height: 25vh;
+    height: 200px;
   }
 
 

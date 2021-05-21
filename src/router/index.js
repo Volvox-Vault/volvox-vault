@@ -14,6 +14,19 @@ import CafeGothenburg from '../views/cafe/Gothenburg.vue'
 import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
+/* ARCHIVE */
+import LHO from '../views/archive/2021/6/LHO.vue'
+import noPlace from '../views/archive/2021/5/noPlace.vue'
+import developingAtHomeWithWill from '../views/archive/2021/4/developingAtHomeWithWill.vue'
+import cookingInsta from '../views/archive/2021/3/cookingInsta.vue'
+import adaptingArtCC from '../views/archive/2021/2/adaptingArtCC.vue'
+import horseChampion from '../views/archive/2021/1/horseChampion.vue'
+import waterLily from '../views/archive/2020/5/waterLily.vue'
+import TVS from '../views/archive/2020/4/TVS.vue'
+import stillGroovin from '../views/archive/2020/3/stillGroovin.vue'
+import undeclaredCargo from '../views/archive/2020/2/undeclaredCargo.vue'
+import ElliottLaurel from '../views/archive/2020/1/ElliottLaurel.vue'
+
 Vue.use(VueRouter)
 
 const routes = [
@@ -92,7 +105,66 @@ const routes = [
     path: '/post',
     name: 'CafePost',
     component: CafePost
+  },
+
+  /* ARCHIVE */
+
+  {
+    path: '/archive/LHO',
+    name: 'LHO',
+    component: LHO
+  },
+  {
+    path: '/archive/noPlace',
+    name: 'noPlace',
+    component: noPlace
+  },
+  {
+    path: '/archive/developingAtHomeWithWill',
+    name: 'developingAtHomeWithWill',
+    component: developingAtHomeWithWill
+  },
+  {
+    path: '/archive/cookingInsta',
+    name: 'cookingInsta',
+    component: cookingInsta
+  },
+  {
+    path: '/archive/adaptingArtCC',
+    name: 'adaptingArtCC',
+    component: adaptingArtCC
+  },
+  {
+    path: '/archive/horseChampion',
+    name: 'horseChampion',
+    component: horseChampion
+  },
+  {
+    path: '/archive/waterLily',
+    name: 'waterLily',
+    component: waterLily
+  },
+  {
+    path: '/archive/TVS',
+    name: 'TVS',
+    component: TVS
+  },
+  {
+    path: '/archive/stillGroovin',
+    name: 'stillGroovin',
+    component: stillGroovin
+  },
+  {
+    path: '/archive/undeclaredCargo',
+    name: 'undeclaredCargo',
+    component: undeclaredCargo
+  },
+  {
+    path: '/archive/ElliottLaurel',
+    name: 'ElliottLaurel',
+    component: ElliottLaurel
   }
+
 
 ]
 

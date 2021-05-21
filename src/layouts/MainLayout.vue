@@ -8,14 +8,14 @@
       </div>
 
       <div id="nav">
-        <div class="nav-pill"><router-link to="/about">about</router-link></div>
-        <div class="nav-pill"><router-link to="/archive">archive</router-link></div>
-        <div class="nav-pill"><router-link to="/bulletin">bulletin</router-link></div>
-        <div class="nav-pill"><router-link to="/colony">colony</router-link></div>
-        <div class="nav-pill"><router-link to="/support">support</router-link></div>
-        <div class="nav-pill"><router-link to="/submit">submit</router-link></div>
-        <div class="nav-pill"><router-link to="/cafeDoor">café</router-link></div>
-        <div class="nav-pill des"><a>A space for artists to showcase their work, share guidance, and find compatible collaborators.</a></div>
+        <div class="nav-pill"><router-link to="/about"><p>about</p></router-link></div>
+        <div class="nav-pill"><router-link to="/archive"><p>archive</p></router-link></div>
+        <div class="nav-pill"><router-link to="/bulletin"><p>bulletin</p></router-link></div>
+        <div class="nav-pill"><router-link to="/colony"><p>colony</p></router-link></div>
+        <div class="nav-pill"><router-link to="/support"><p>support</p></router-link></div>
+        <div class="nav-pill"><router-link to="/submit"><p>submit</p></router-link></div>
+        <div class="nav-pill"><router-link to="/cafeDoor"><p>café</p></router-link></div>
+        <div class="nav-pill des">A space for artists to showcase their work, share guidance, and find compatible collaborators.</div>
       </div>
       
     <slot/>
@@ -47,11 +47,6 @@ p, h1, h2, h3, h4, a {
   background: yellowgreen;
 }
 
-a:visited {
-  color: ghostwhite;
-  text-decoration: none;
-}
-
 ::-webkit-scrollbar {
   width: 0.2em;
   background-color: yellowgreen;
@@ -72,7 +67,6 @@ a:visited {
   font-size: 20pt;
   padding: 33px;
   padding-left: 32px;
-  color: ghostwhite;
   -moz-border-radius: 100px / 50px;
   -webkit-border-radius: 100px / 178px;
   border-radius: 694px / 208px;
@@ -80,7 +74,12 @@ a:visited {
   text-decoration: none;
 }
 
-#header a:hover  {
+#header p {
+  color: ghostwhite;
+  transition: 2s;
+}
+
+#header p:hover  {
   color: #9879a6;
   text-decoration: none;
 }
@@ -97,16 +96,6 @@ a:visited {
   box-sizing: border-box;
 }
 
-#nav a {
-  color: grey;
-  text-decoration: none;
-}
-
-#nav a:hover {
-  color: #9879a6;
-  text-decoration: none;
-}
-
 .nav-pill {
   box-shadow:0 0 0 1px yellowgreen;
   padding: 12px;
@@ -114,7 +103,12 @@ a:visited {
   color: grey;
 }
 
-.nav-pill a:hover {
+.nav-pill p {
+  transition: 2s;
+  color: grey;
+}
+
+.nav-pill p:hover {
   color: #9879a6;
   cursor: pointer;
 }

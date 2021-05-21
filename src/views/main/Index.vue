@@ -5,19 +5,18 @@
 
 
   <div class="block-Home">
-    <div class="block-Home-header">community</div>
-    <p class="block-Home-link"><a href="/Colony">colony</a></p>
-    <div class="block-Home-link"><a>newspaper</a></div>
-    <p class="block-Home-link"><a href="https://volvoxvault.com/horoscopes.html">horoscopes</a></p>
-    <div class="block-Home-link"><a href="/About">about us</a></div>
-    <div class="block-Home-link"><a>discord</a></div>
-    <div class="block-Home-link"><a href="/Submit">submit / pitch</a></div>
-    <div class="block-Home-link"><a href="/Support">newsletter / support</a></div>
+    <div class="block-Home-header">Community</div>
+    <p class="block-Home-link"><router-link to="/colony">Colony</router-link></p>
+    <div class="block-Home-link"><router-link to="/submit">Newspaper</router-link></div>
+    <p class="block-Home-link"><a href="https://volvoxvault.com/horoscopes.html">Horoscopes</a></p>
+    <div class="block-Home-link"><router-link to="/about">About</router-link></div>
+    <div class="block-Home-link"><router-link to="/submit">Submit / Pitch</router-link></div>
+    <div class="block-Home-link"><router-link to="/support">Newsletter / Support</router-link></div>
   </div>
 
   <!-- ARTICLES -->
   <div class="block-Home">
-    <div class="block-Home-header">recent</div>
+    <div class="block-Home-header">Recent</div>
     <p class="block-Home-link"><a>Let's Hang Out</a></p>
     <p class="block-Home-link"><a>There's No Place Like Home</a></p>
     <p class="block-Home-link"><a>Developing At Home With Will</a></p>
@@ -37,31 +36,31 @@
 
   <!-- MUSIC -->
   <div class="block-Home">
-    <div class="block-Home-header">music</div>
-    <p class="block-Home-link"><a>horse champion</a></p>
-    <p class="block-Home-link"><a>cloud computer</a></p>
-    <p class="block-Home-link"><a>adam collier</a></p>
-    <p class="block-Home-link"><a>uncaught (in promise)</a></p>
-    <p class="block-Home-link"><a>ti4na</a></p>
-    <p class="block-Home-link"><a>twothirty gabber</a></p>
-    <p class="block-Home-link"><a>people's republic of amsterdam</a></p>
+    <div class="block-Home-header">Music</div>
+    <p class="block-Home-link"><a href="https://horsechampion.bandcamp.com/releases" target="_blank">Horse Champion</a></p>
+    <p class="block-Home-link"><a href="https://noahsauer.bandcamp.com/album/cloud-computer" target="_blank">Cloud Computer</a></p>
+    <p class="block-Home-link"><a href="https://soundcloud.com/colliersir" target="_blank">Adam Collier</a></p>
+    <p class="block-Home-link"><a href="https://uncaughtinpromise.bandcamp.com/" target="_blank">Uncaught (in promise)</a></p>
+    <p class="block-Home-link"><a href="https://watersilk.bandcamp.com/" target="_blank">Algae</a></p>
+    <p class="block-Home-link"><a href="https://twothirtygabber.bandcamp.com/" target="_blank">Twothirty Gabber</a></p>
+    <p class="block-Home-link"><a href="https://open.spotify.com/artist/1DSuFOePUh2gDFlxyuLxkD?si=joqGSaDUR8WJtBbS01Xz7w&nd=1" target="_blank">People's Republic of Amsterdam</a></p>
   </div>
 
   <!-- HOROSCOPES -->
   <div class="block-Home">
-    <div class="block-Home-header">issues</div>
+    <div class="block-Home-header">Issues</div>
     <p class="block-Home-link" style="text-align: right;">magazine</p>
-    <p class="block-Home-link"><a>metamorphosis</a></p>
-    <p class="block-Home-link"><a>proximity</a></p>
-    <p class="block-Home-link"><a>identity</a></p>
+    <p class="block-Home-link"><a>Metamorphosis</a></p>
+    <p class="block-Home-link"><a>Proximity</a></p>
+    <p class="block-Home-link"><a>Identity</a></p>
     <p class="block-Home-link" style="text-align: right;">newspaper</p>
-    <p class="block-Home-link"><a>summer2021</a></p>
-    <p class="block-Home-link"><a>spring 2021</a></p>
+    <p class="block-Home-link"><a>Summer2021</a></p>
+    <p class="block-Home-link"><a>Spring 2021</a></p>
   </div>
 
   <!-- CHAT -->
   <div class="block-Home chat-block-Home">
-    <div class="block-Home-header">chat</div>
+    <div class="block-Home-header">Chat</div>
     <Chat />
   </div>
 
@@ -146,11 +145,12 @@ export default {
   text-decoration: none;
   justify-content: center;
   align-items: center;
+  overflow: hidden;
 }
 
 .block-Home-image img {
 /* make sure the image is scaled keeping its aspect ratio */
-  max-width: 100%;
+  max-width: 90%;
   height: auto;
 }
 
