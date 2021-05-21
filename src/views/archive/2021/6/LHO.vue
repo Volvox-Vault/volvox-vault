@@ -22,7 +22,7 @@
 
 <p>A community photo gallery project.</p><br>
 <p>We're excited to hang out with you :)<br>
-Check out our intro hang out <a href="letshangout_insta.mp4">here</a>.<br>
+Check out our intro hang out <a href="https://youtu.be/w4m-RpaJuQI">here</a>.<br>
 Please submit the following to join...</p>
 
 <br>

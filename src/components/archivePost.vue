@@ -146,7 +146,8 @@ export default {
     overflow: auto;
     height: 35vh;
     position: relative;
-    transition: 3s;
+    transition: 2s;
+    overflow: hidden;
   }
 
   .block-Archive:hover {
