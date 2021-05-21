@@ -9,7 +9,7 @@
         <router-link :to="item.link">
         <div class="block-Archive">
           <p class="block-Archive-header">{{item.date}} | {{item.author}}</p>
-          <p class="block-Archive-link" style="border: none;">{{item.title}}</p>
+          <p class="block-Archive-link" >{{item.title}}</p>
         </div>
         </router-link>
         
@@ -117,6 +117,8 @@ export default {
 
 <style>
 
+
+
   /* BLOCKS */
   #blocks-Archive {
     display: grid;
@@ -171,7 +173,6 @@ export default {
     text-align: center;
     color: grey;
     padding: 10px;
-    border-bottom: 1px solid yellowgreen;
     font-weight: bold;
     top: 50%;
     display: flex;

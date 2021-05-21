@@ -71,7 +71,7 @@ export default {
             },
             {
                 header: 'Aggregate Poster',
-                des: '$5 USD - A 12x18 poster featuring dithered image from the Aggregate issue.',
+                des: '$5 USD - A 12x18 poster featuring dithered images from the Aggregate issue.',
                 pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2FPoster-1%20(1).jpg?v=1621612416092',
                 website: 'https://www.magcloud.com/browse/issue/1922099',
                 nav: '',

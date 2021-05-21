@@ -8,6 +8,8 @@ import Support from '../views/main/Support.vue'
 import Submit from '../views/main/Submit.vue'
 import Archive from '../views/main/Archive.vue'
 import Shop from '../views/main/Shop.vue'
+import Horoscopes from '../views/main/Horoscopes.vue'
+
 import CafeDoor from '../views/cafe/CafeDoor.vue'
 import CafeToronto from '../views/cafe/Toronto.vue'
 import CafeSeattle from '../views/cafe/Seattle.vue'
@@ -27,6 +29,13 @@ import TVS from '../views/archive/2020/4/TVS.vue'
 import stillGroovin from '../views/archive/2020/3/stillGroovin.vue'
 import undeclaredCargo from '../views/archive/2020/2/undeclaredCargo.vue'
 import ElliottLaurel from '../views/archive/2020/1/ElliottLaurel.vue'
+
+/* ISSUES */
+import Identity from '../views/archive/issues/Identity/Identity.vue'
+import Proximity from '../views/archive/issues/Proximity/Proximity.vue'
+import Aggregate from '../views/archive/issues/Aggregate/Aggregate.vue'
+import Metamorphosis from '../views/archive/issues/Metamorphosis/Metamorphosis.vue'
+
 
 Vue.use(VueRouter)
 
@@ -114,6 +123,12 @@ const routes = [
     component: CafePost
   },
 
+  {
+    path: '/horoscopes',
+    name: 'Horoscopes',
+    component: Horoscopes
+  },
+
   /* ARCHIVE */
 
   {
@@ -170,8 +185,30 @@ const routes = [
     path: '/archive/ElliottLaurel',
     name: 'ElliottLaurel',
     component: ElliottLaurel
-  }
+  },
 
+  /* Issues */
+
+  {
+    path: '/issues/identity',
+    name: 'Identity',
+    component: Identity
+  },
+  {
+    path: '/issues/proximity',
+    name: 'Proximity',
+    component: Proximity
+  },
+  {
+    path: '/issues/aggregate',
+    name: 'Aggregate',
+    component: Aggregate
+  },
+  {
+    path: '/issues/metamorphosis',
+    name: 'Metamorphosis',
+    component: Metamorphosis
+  },
 
 ]
 

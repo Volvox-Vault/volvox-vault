@@ -6,21 +6,26 @@
 
   <div class="block-Home">
     <div class="block-Home-header">Community</div>
+    <p class="block-Home-link"><router-link to="/archive">Archive</router-link></p>
+    <p class="block-Home-link"><router-link to="/horoscopes">Horoscopes ☽</router-link></p>
     <p class="block-Home-link"><router-link to="/colony">Colony</router-link></p>
-    <div class="block-Home-link"><router-link to="/submit">Newspaper</router-link></div>
-    <p class="block-Home-link"><a href="https://volvoxvault.com/horoscopes.html">Horoscopes</a></p>
-    <div class="block-Home-link"><router-link to="/about">About</router-link></div>
-    <div class="block-Home-link"><router-link to="/submit">Submit / Pitch</router-link></div>
-    <div class="block-Home-link"><router-link to="/support">Newsletter / Support</router-link></div>
+    <p class="block-Home-link"><router-link to="/support">Newsletter / Support</router-link></p>
+    <p class="block-Home-link"><router-link to="/shop">Newspaper</router-link></p>
+    <p class="block-Home-link"><router-link to="/about">About</router-link></p>
+    <p class="block-Home-link"><router-link to="/submit">Submit / Pitch</router-link></p>
   </div>
 
   <!-- ARTICLES -->
   <div class="block-Home">
-    <div class="block-Home-header">Recent</div>
-    <p class="block-Home-link"><a>Let's Hang Out</a></p>
-    <p class="block-Home-link"><a>There's No Place Like Home</a></p>
-    <p class="block-Home-link"><a>Developing At Home With Will</a></p>
-    <p class="block-Home-link" ><a>Tiny Video Showcase</a></p>
+   
+    
+    <div class="recent">
+    <div class="recent-Router"><router-link to="/archive/LHO">Let's Hang Out</router-link></div>
+    <div class="recent-Router"><router-link to="/archive/noPlace">There's No Place Like Home</router-link></div>
+    <div class="recent-Router"><router-link to="/archive/developingAtHomeWithWill">Developing At Home With Will</router-link></div>
+    <div class="recent-Router"><router-link to="/archive/TVS">Tiny Video Showcase</router-link></div>
+    </div>
+
   </div>
 
   <!-- IMG -->
@@ -41,21 +46,18 @@
     <p class="block-Home-link"><a href="https://noahsauer.bandcamp.com/album/cloud-computer" target="_blank">Cloud Computer</a></p>
     <p class="block-Home-link"><a href="https://soundcloud.com/colliersir" target="_blank">Adam Collier</a></p>
     <p class="block-Home-link"><a href="https://uncaughtinpromise.bandcamp.com/" target="_blank">Uncaught (in promise)</a></p>
-    <p class="block-Home-link"><a href="https://watersilk.bandcamp.com/" target="_blank">Algae</a></p>
+    <p class="block-Home-link"><a href="https://watersilk.bandcamp.com/" target="_blank">Water Silk</a></p>
     <p class="block-Home-link"><a href="https://twothirtygabber.bandcamp.com/" target="_blank">Twothirty Gabber</a></p>
     <p class="block-Home-link"><a href="https://open.spotify.com/artist/1DSuFOePUh2gDFlxyuLxkD?si=joqGSaDUR8WJtBbS01Xz7w&nd=1" target="_blank">People's Republic of Amsterdam</a></p>
   </div>
 
   <!-- HOROSCOPES -->
   <div class="block-Home">
-    <div class="block-Home-header">Issues</div>
-    <p class="block-Home-link" style="text-align: right;">magazine</p>
-    <p class="block-Home-link"><a>Metamorphosis</a></p>
-    <p class="block-Home-link"><a>Proximity</a></p>
-    <p class="block-Home-link"><a>Identity</a></p>
-    <p class="block-Home-link" style="text-align: right;">newspaper</p>
-    <p class="block-Home-link"><a>Summer2021</a></p>
-    <p class="block-Home-link"><a>Spring 2021</a></p>
+    <div class="block-Home-header">Magazine Issues</div>
+    <p class="block-Home-link"><router-link to="/issues/metamorphosis">Metamorphosis</router-link></p>
+    <p class="block-Home-link"><router-link to="/issues/aggregate">Aggregate</router-link></p>
+    <p class="block-Home-link"><router-link to="/issues/proximity">Proximity</router-link></p>
+    <p class="block-Home-link"><router-link to="/issues/identity">Identity</router-link></p>
   </div>
 
   <!-- CHAT -->
@@ -85,6 +87,10 @@ export default {
 
 
 <style scoped>
+
+p, a, h1, h2 {
+  line-height: 1.6;
+}
 /* BLOCKS */
 #blocks-Home {
   display: grid;
@@ -118,20 +124,20 @@ export default {
   color: grey;
   padding: 10px;
   border-bottom: 1px solid #c8c8c8;
+  background-color: #f0f7de;
   align-items: center;
 }
 
-.block-Home-link a, .block-Home-shop a {
+.block-Home-link a, .recent-Router a, .block-Home-shop a {
   color: grey;
   text-decoration: none;
 }
 
-.block-Home-link a:hover, .block-Home-shop a:hover {
+.block-Home-link a:hover, .recent-Router a:hover, .block-Home-shop a:hover {
   text-decoration: underline;
   color: #9879a6;
   cursor: pointer;
 }
-
 .block-Home-shop {
   display: flex;
   justify-content: center;
@@ -152,6 +158,37 @@ export default {
 /* make sure the image is scaled keeping its aspect ratio */
   max-width: 90%;
   height: auto;
+}
+
+.recent {
+  display: grid;
+  grid-template-columns: repeat(2, 1fr);
+  margin: 0 auto;
+  padding: 0;
+  grid-gap:1px;
+  box-sizing: border-box;
+
+  height: 100%;
+  width: 100%;
+}
+
+.recent > div {
+  overflow: auto;
+  height: auto;
+  width: auto;
+  position: relative;
+  box-shadow:0 0 0 1px yellowgreen;
+}
+
+.recent-Router {
+    position: absolute;
+    font-size: 12pt;
+    text-align: center;
+    color: grey;
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 @media(min-width: 800px) {

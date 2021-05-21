@@ -39,7 +39,7 @@
     <p class="block-Submit-header">newspaper</p>
     <p class="block-Submit-link">
       Fill out <a>this form</a> or email hello@volvoxvault.com<br>
-      <a>Subscribe to Volvox Times</a>
+      <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX" target="_blank">Subscribe to Volvox Times</a>
     </p>
   </div>
 

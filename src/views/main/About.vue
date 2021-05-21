@@ -5,17 +5,20 @@
   <!-- ABOUT -->
   <div class="block-About">
     <p class="block-About-header">about</p>
-    <p class="block-About-link"><img src="../../assets/logo.png">  A <a href="https://en.wikipedia.org/wiki/Volvox" target="_blank">volvox</a> is a type of algae colony mad eup of smaller volvox colonies. It's a similar matrix sensation to when you point your front camera into a mirror.<br>
+    <p class="block-About-link"><img src="../../assets/logo.png">  
+    We are a creative community inspired by <router-link to="/colony">each other</router-link>.<br><br>
+    A <a href="https://en.wikipedia.org/wiki/Volvox" target="_blank">volvox</a> is a type of algae colony mad eup of smaller volvox colonies. It's a similar matrix sensation to when you point your front camera into a mirror.<br>
       The volvox would not exist without its colonies... likewise, as creatives and human beings we thrive with support from our colonies / communities.
          Volvox Vault is a special place to mindfully come together, and archive our creations and connections.
          <br><br>
-
-    hello@volvoxvault.com<br><br>
     We are <a href="/Support">supported</a> by community members like you.<br><br>
-    Editor-in-Chief — <a href="http://tiana.computer/" target="_blank">Tiana Dueck</a><br>
-    Website Team — Tiana Dueck &#38; Ari Lotter<br>
-    Managing Editor — Beatrice Douaihy<br>
-    Horoscopes — Em Biggs</p>
+
+    Editor-in-Chief — <a href="https://tiana.computer/" target="_blank">Tiana Dueck</a><br>
+    Website Team — Tiana Dueck &#38; <a href="https://ari.computer/" target="_blank">Ari Lotter</a><br>
+    Managing Editor — <a href="http://beatricedouaihy.com//" target="_blank">Beatrice Douaihy</a><br>
+    Horoscopes — <a href="mailto:themoonthestarsandem@gmail.com">Em Biggs</a><br><br>
+    
+    hello@volvoxvault.com</p>
 
   </div>
   </div>
