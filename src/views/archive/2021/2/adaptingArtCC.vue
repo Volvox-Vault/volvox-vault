@@ -1,19 +1,20 @@
 <template>
-  <MainLayout>
-        
-    
+  <body></body>
 
-  </MainLayout>
 </template>
 
 
 <script>
-import MainLayout from '../../../../layouts/MainLayout'
-
-export default {
-  name: 'adaptingArtCC',
-  components: {
-    MainLayout
-  }
-};
+  
+  export default {
+    name: 'adaptingArtCC',
+    components: {
+   
+    }
+  };
+  
 </script>
+
+<style scoped>
+
+</style>
