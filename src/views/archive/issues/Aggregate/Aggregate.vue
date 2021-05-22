@@ -5,10 +5,10 @@
         <div id="blocks">
          
             <a
-              style="border-bottom: none; border-radius: 25px;"
+              style="border-bottom: none;"
               href="https://www.magcloud.com/browse/issue/1915590"
               target="_blank"
-              ><img src="./dither_shop.png" width="100%" style="border-radius: 25px;"
+              ><img src="./dither_shop.png" width="100%"
             /></a>
         
 
@@ -238,7 +238,7 @@
             </video>
           </div>
 
-          <div class="schaeBlock list" style="background-color: #f7f7f7; border-radius: 25px;">
+          <div class="schaeBlock list" style="background-color: #f7f7f7;">
             <img src="./s3.png" width="100%" />
             <p
               style="
@@ -341,10 +341,6 @@ p {
   font-size: 14pt;
 }
 
-iframe, video {
-    border-radius: 25px;
-}
-
 a {
   color: yellowgreen;
   text-decoration: none;
@@ -380,7 +376,6 @@ main {
 }
 
 .block {
-  border-radius: 25px;
   background-color: ghostwhite;
   min-height: 445px;
   max-height: 445px;

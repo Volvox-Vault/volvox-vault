@@ -8,7 +8,7 @@
       </div></a>
 
 
-        <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX" target="_blank"><div class="block-Support" style="background-color: darkorange;"><br>
+        <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX" target="_blank"><div class="block-Support" style="background-color: #cbbad2;"><br>
               <h2>Newspaper</h2>
       </div></a>
 
@@ -99,11 +99,11 @@ a {
 
 /* for some reason this messes up the responsive newspaper margin... */
 .newspaper-Support {
-  background-color: darkorange;
+  background-color: #f0f7de;
 }
 
 .magazines-Support {
-  background-color: peru;
+  background-color: rebeccapurple;
 }
 
 .newsletter-Support {

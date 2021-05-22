@@ -81,15 +81,15 @@
               “Pools.” is a personal effort to encapsulate the emotional drought
               of self isolation during the COVID-19 pandemic, hoping to provide
               a sensual experience showcasing the spectrum of proximity through
-              photography & music. The photograph, taken by my partner, Hunter
+              photography &#38; music. The photograph, taken by my partner, Hunter
               McNeil, showcases my interpretation of the spectrum of proximity.
               Together, touching, genuinely nearby, expressed by the couple
               skipping rocks, and apart, isolated, or alone, the emptiness which
               surrounds them. All of which I crave simultaneously. Paired with
               the composition, an eleven-minute personal response to the
               contrasting spectrum of proximity expressed through
-              instrumentation. Together the visual, & auditory aspects of this
-              project provide an underlying sense of affection, & intimacy
+              instrumentation. Together the visual, &#38; auditory aspects of this
+              project provide an underlying sense of affection, &#38; intimacy
               within the pieces through the lens of proximity.
             </p>
           </div>
@@ -145,9 +145,13 @@
 
           <div class="block list">
             <h2>Purchase Proximity for more.</h2>
-            <a href="https://www.magcloud.com/browse/issue/1873311" target="_blank"><img src="./proxtiana-17.jpg" style="width: 100%" />
-            <img src="./apl-10.jpg" style="width: 100%" />
-            <img src="./bandday-1.jpg" style="width: 100%" /></a>
+            <a
+              href="https://www.magcloud.com/browse/issue/1873311"
+              target="_blank"
+              ><img src="./proxtiana-17.jpg" style="width: 100%" />
+              <img src="./apl-10.jpg" style="width: 100%" />
+              <img src="./bandday-1.jpg" style="width: 100%"
+            /></a>
           </div>
 
           <div class="block list">
@@ -206,11 +210,6 @@ p {
   font-size: 12pt;
 }
 
-iframe,
-video {
-  border-radius: 25px;
-}
-
 a {
   text-decoration: none;
   font-weight: normal;
@@ -241,7 +240,6 @@ main {
 }
 
 .block {
-  border-radius: 25px;
   background-color: ghostwhite;
   min-height: 445px;
   max-height: 445px;

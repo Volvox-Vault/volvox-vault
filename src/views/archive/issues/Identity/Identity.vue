@@ -314,10 +314,6 @@ p {
   font-size: 14pt;
 }
 
-iframe, video {
-    border-radius: 25px;
-}
-
 a {
   color: yellowgreen;
   text-decoration: none;
@@ -353,7 +349,6 @@ main {
 }
 
 .block {
-  border-radius: 25px;
   background-color: ghostwhite;
   min-height: 445px;
   max-height: 445px;
