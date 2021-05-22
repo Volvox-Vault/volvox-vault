@@ -106,11 +106,6 @@
               who both happened to be named Molly (<a
                 style="
                   background-color: Moccasin;
-                  display: inline;
-                  text-decoration: underline;
-                  border-bottom: 0px;
-                  padding: 0px;
-                  font-size: 20px;
                 "
                 href="https://www.instagram.com/veganish.molly/"
                 target="_blank"
@@ -119,11 +114,6 @@
               <a
                 style="
                   background-color: OliveDrab;
-                  display: inline;
-                  text-decoration: underline;
-                  border-bottom: 0px;
-                  padding: 0px;
-                  font-size: 20px;
                 "
                 href="https://www.instagram.com/umamimolly/"
                 target="_blank"
@@ -322,7 +312,8 @@ a:hover {
 }
 
 main {
-  max-width: 50%;
+  width: 50%;
+  max-width: 600px;
   min-width: 340px;
   background-color: rgb(255, 255, 255, 0.6);
   margin-right: auto;
