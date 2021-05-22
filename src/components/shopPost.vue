@@ -207,6 +207,14 @@ export default {
     align-items: center;
   }
 
+  @media(min-width: 1999px) {
+
+    .block-Shop {
+      height: 500px;
+    }
+
+  }
+
   @media(max-width: 800px) {
 
   #blocks-Shop {

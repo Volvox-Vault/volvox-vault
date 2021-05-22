@@ -1,24 +1,38 @@
 <template>
-
   <div id="app">
-    
+    <div class="header-wrap">
+      <router-link to="/"
+        ><div id="header">
+          <p>volvox vault</p>
+        </div></router-link
+      >
+    </div>
 
-      <router-link to="/"><div id="header">
-      <p>volvox vault</p>
-      </div></router-link>
-
-      <div id="nav">
-        <div class="nav-pill"><router-link to="/about"><p>about</p></router-link></div>
-        <div class="nav-pill"><router-link to="/archive"><p>archive</p></router-link></div>
-        <div class="nav-pill"><router-link to="/bulletin"><p>bulletin</p></router-link></div>
-        <div class="nav-pill"><router-link to="/colony"><p>colony</p></router-link></div>
-        <div class="nav-pill"><router-link to="/support"><p>support</p></router-link></div>
-        <div class="nav-pill"><router-link to="/submit"><p>submit</p></router-link></div>
-        <div class="nav-pill"><router-link to="/shop"><p>shop</p></router-link></div>
+    <div id="nav">
+      <div class="nav-pill">
+        <router-link to="/about"><p>about</p></router-link>
       </div>
-      
-    <slot/>
+      <div class="nav-pill">
+        <router-link to="/archive"><p>archive</p></router-link>
+      </div>
+      <div class="nav-pill">
+        <router-link to="/bulletin"><p>bulletin</p></router-link>
+      </div>
+      <div class="nav-pill">
+        <router-link to="/colony"><p>colony</p></router-link>
+      </div>
+      <div class="nav-pill">
+        <router-link to="/support"><p>support</p></router-link>
+      </div>
+      <div class="nav-pill">
+        <router-link to="/submit"><p>submit</p></router-link>
+      </div>
+      <div class="nav-pill">
+        <router-link to="/shop"><p>shop</p></router-link>
+      </div>
+    </div>
 
+    <slot />
   </div>
 </template>
 
@@ -27,22 +41,28 @@
 body {
   margin: 0 auto;
   font-family: sans-serif;
-  background-color:  #e5e5e5;
+  background-color: #e5e5e5;
 }
 
-p, h1, h2, h3, h4, a {
+p,
+h1,
+h2,
+h3,
+h4,
+a {
   margin: 0;
-  padding:0;
+  padding: 0;
   text-decoration: none;
 }
 
-::-moz-selection { /* Code for Firefox */
-  color:  ghostwhite ;
+::-moz-selection {
+  /* Code for Firefox */
+  color: ghostwhite;
   background: yellowgreen;
 }
 
 ::selection {
-  color:  ghostwhite ;
+  color: ghostwhite;
   background: yellowgreen;
 }
 
@@ -56,6 +76,11 @@ p, h1, h2, h3, h4, a {
 }
 
 /* HEADER */
+.header-wrap {
+  width: 245px;
+  max-width: 300px;
+}
+
 #header {
   cursor: pointer;
   margin: 20px;
@@ -75,9 +100,10 @@ p, h1, h2, h3, h4, a {
 #header p {
   color: ghostwhite;
   transition: 2s;
+  width: 245px;
 }
 
-#header p:hover  {
+#header p:hover {
   color: #9879a6;
   text-decoration: none;
 }
@@ -90,7 +116,7 @@ p, h1, h2, h3, h4, a {
   align-items: center;
   text-align: center;
   line-height: 1.5;
-  grid-gap:1px;
+  grid-gap: 1px;
   box-sizing: border-box;
 }
 
@@ -99,7 +125,7 @@ p, h1, h2, h3, h4, a {
 }
 
 .nav-pill {
-  box-shadow:0 0 0 1px yellowgreen;
+  box-shadow: 0 0 0 1px yellowgreen;
   font-size: 12pt;
 }
 
@@ -108,13 +134,12 @@ p, h1, h2, h3, h4, a {
   color: grey;
 }
 
-.nav-pill p:hover{
+.nav-pill p:hover {
   color: #9879a6;
   cursor: pointer;
 }
 
-
-@media(min-width: 800px) {
+@media (min-width: 800px) {
   .chat-block {
     grid-column-start: 3;
     grid-column-end: 5;
@@ -123,8 +148,7 @@ p, h1, h2, h3, h4, a {
   }
 }
 
-
-@media(max-width: 800px) {
+@media (max-width: 800px) {
   .chat-block {
     grid-row: 1;
   }
