@@ -3,9 +3,9 @@
   <div id="app">
     
 
-      <div id="header">
-      <router-link to="/"><p>volvox vault</p></router-link>
-      </div>
+      <router-link to="/"><div id="header">
+      <p>volvox vault</p>
+      </div></router-link>
 
       <div id="nav">
         <div class="nav-pill"><router-link to="/about"><p>about</p></router-link></div>
@@ -94,11 +94,13 @@ p, h1, h2, h3, h4, a {
   box-sizing: border-box;
 }
 
+#nav > div {
+  padding: 12px;
+}
+
 .nav-pill {
   box-shadow:0 0 0 1px yellowgreen;
-  padding: 12px;
   font-size: 12pt;
-  color: grey;
 }
 
 .nav-pill p {
@@ -106,15 +108,9 @@ p, h1, h2, h3, h4, a {
   color: grey;
 }
 
-.nav-pill p:hover {
+.nav-pill p:hover{
   color: #9879a6;
   cursor: pointer;
-}
-
-.des {
-  grid-row: 2;
-  grid-column: 1/8;
-  text-align: left;
 }
 
 
@@ -133,13 +129,6 @@ p, h1, h2, h3, h4, a {
     grid-row: 1;
   }
 
-
-
-  .des {
-    grid-row: 2;
-    grid-column: 1/8;
-    text-align: left;
-  }
   #header {
     margin-left: auto;
     margin-right: auto;
@@ -149,11 +138,6 @@ p, h1, h2, h3, h4, a {
 @media only screen and (max-device-width: 566px) {
   .chat-block {
     grid-row: 1;
-  }
-  .des {
-    grid-row: 2;
-    grid-column: 1/8;
-    text-align: left;
   }
   #header {
     margin-left: auto;

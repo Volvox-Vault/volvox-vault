@@ -14,7 +14,7 @@
 
           <div class="block list">
             <p style="line-height: 2; font-size: 10pt">
-              volvox vault vol. 03 | winter 2020
+              volvox vault issue 03 | winter 2020
             </p>
             <p style="font-size: 20pt; font-weight: bold; line-height: 40px">
               Aggregate
@@ -76,7 +76,6 @@
               style="
                 font-size: 12pt;
                 line-height: 200%;
-                text-decoration: underline;
               "
               target="_blank"
               >An art film by Kalil Haddad</a
@@ -328,6 +327,7 @@ export default {
 <style scoped>
 body {
   font-family: arial, sans-serif;
+  color: grey;
 }
 
 h1,
@@ -346,10 +346,15 @@ iframe, video {
 }
 
 a {
-  color: #000;
+  color: yellowgreen;
   text-decoration: none;
   font-weight: normal;
   cursor: pointer;
+  transition: 1s;
+}
+
+a:hover {
+  color: grey;
 }
 
 main {
@@ -363,7 +368,7 @@ main {
 #blocks {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-gap: 10px;
+  grid-gap: 20px;
   padding-bottom: 90px;
   align-items: flex-end;
   justify-content: flex-end;
@@ -376,17 +381,13 @@ main {
 
 .block {
   border-radius: 25px;
-  background-color: #f7f7f7;
+  background-color: ghostwhite;
   min-height: 445px;
   max-height: 445px;
   overflow: hidden;
   overflow-y: scroll;
-  line-height: 1.2;
+  line-height: 2;
   padding: 10px;
-}
-
-.block a:hover {
-  font-style: italic;
 }
 
 .schaeBlock {
@@ -399,7 +400,6 @@ main {
 
 .videoblock {
   min-height: 500px;
-  line-height: 1.2;
 }
 
 #blocks p,
@@ -464,7 +464,7 @@ main {
 }
 
 @media (max-width: 800px) {
-  #main {
+  main {
     width: 100%;
     margin-top: 10px;
   }
@@ -486,15 +486,6 @@ main {
     width: 100%;
     overflow-y: scroll;
   }
-  #header h1 {
-    font-size: 55px;
-  }
-  .gallery_display {
-    overflow-y: scroll;
-  }
-  #footer {
-    margin-bottom: 50px;
-  }
 
   .videoblock {
     min-height: 100px;
@@ -502,7 +493,7 @@ main {
 }
 
 @media only screen and (max-device-width: 566px) {
-  #main {
+  main {
     width: 100%;
     margin-top: 10px;
   }
@@ -523,18 +514,6 @@ main {
     height: 100%;
     width: 100%;
     overflow-y: scroll;
-  }
-  #header h1 {
-    font-size: 50px;
-  }
-  #header p {
-    font-size: 15px;
-  }
-  .gallery_display {
-    overflow-y: scroll;
-  }
-  #footer {
-    margin-bottom: 50px;
   }
 
   .videoblock {
