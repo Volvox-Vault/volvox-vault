@@ -2,7 +2,7 @@
   <MainLayout>
     <body>
       <main>
-        <!--
+        
         <iframe
           style="display: block; margin: 0 auto"
           width="100%"
@@ -13,8 +13,8 @@
           allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
           allowfullscreen
         ></iframe>
-        -->
-
+        
+        <!--
         <video
           width="100%"
           style="display: block; margin: 0 auto"
@@ -24,6 +24,7 @@
           <source src="./ENL.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
+        -->
 
         <br />
         <h1 class="head">
