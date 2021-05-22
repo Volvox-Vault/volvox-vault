@@ -840,7 +840,7 @@ export default {
 }
 
 .block-Artists-link a{
-  color: grey;
+  color: #9879a6;
   text-decoration: none;
 }
 

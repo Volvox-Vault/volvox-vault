@@ -1,12 +1,12 @@
 <template>
   <div id="app">
-    <div class="header-wrap">
+ 
       <router-link to="/"
         ><div id="header">
           <p>volvox vault</p>
         </div></router-link
       >
-    </div>
+ 
 
     <div id="nav">
       <div class="nav-pill">
@@ -76,10 +76,6 @@ a {
 }
 
 /* HEADER */
-.header-wrap {
-  width: 245px;
-  max-width: 300px;
-}
 
 #header {
   cursor: pointer;

@@ -1,48 +1,65 @@
 <template>
   <MainLayout>
     <div id="blocks-About">
+      <!-- ABOUT -->
+      <div class="block-About">
+        <p class="block-About-header">about</p>
+        <p class="block-About-link">
+          <img src="../../assets/logo.png" /> We are a creative community
+          inspired by
+          <router-link to="/colony">each other</router-link>.<br /><br />
+          A
+          <a href="https://en.wikipedia.org/wiki/Volvox" target="_blank"
+            >volvox</a
+          >
+          is a type of algae colony made up of smaller volvox colonies. It's a
+          similar matrix sensation to when you point your front camera into a
+          mirror.<br />
+          The volvox would not exist without its colonies... likewise, as
+          creatives and human beings we thrive with support from our colonies /
+          communities.
+          <br />Volvox Vault is a special place to mindfully come together, and
+          archive our creations and connections. <br /><br />
+          We are <a href="/Support">supported</a> by community members like
+          you.<br /><br />
 
-  <!-- ABOUT -->
-  <div class="block-About">
-    <p class="block-About-header">about</p>
-    <p class="block-About-link"><img src="../../assets/logo.png">  
-    We are a creative community inspired by <router-link to="/colony">each other</router-link>.<br><br>
-    A <a href="https://en.wikipedia.org/wiki/Volvox" target="_blank">volvox</a> is a type of algae colony mad eup of smaller volvox colonies. It's a similar matrix sensation to when you point your front camera into a mirror.<br>
-      The volvox would not exist without its colonies... likewise, as creatives and human beings we thrive with support from our colonies / communities.
-         Volvox Vault is a special place to mindfully come together, and archive our creations and connections.
-         <br><br>
-    We are <a href="/Support">supported</a> by community members like you.<br><br>
+          Editor-in-Chief —
+          <a href="https://tiana.computer/" target="_blank">Tiana Dueck</a
+          ><br />
+          Website Team — Tiana Dueck &#38;
+          <a href="https://ari.computer/" target="_blank">Ari Lotter</a><br />
+          Managing Editor —
+          <a href="http://beatricedouaihy.com//" target="_blank"
+            >Beatrice Douaihy</a
+          ><br />
+          Horoscopes —
+          <a href="mailto:themoonthestarsandem@gmail.com">Em Biggs</a
+          ><br /><br />
 
-    Editor-in-Chief — <a href="https://tiana.computer/" target="_blank">Tiana Dueck</a><br>
-    Website Team — Tiana Dueck &#38; <a href="https://ari.computer/" target="_blank">Ari Lotter</a><br>
-    Managing Editor — <a href="http://beatricedouaihy.com//" target="_blank">Beatrice Douaihy</a><br>
-    Horoscopes — <a href="mailto:themoonthestarsandem@gmail.com">Em Biggs</a><br><br>
-    
-    hello@volvoxvault.com</p>
+          hello@volvoxvault.com
+        </p>
+      </div>
+    </div>
 
-  </div>
-  </div>
-
-<br><br><br>
+    <br /><br /><br />
   </MainLayout>
 </template>
 
 
 <script>
-import MainLayout from '../../layouts/MainLayout'
+import MainLayout from "../../layouts/MainLayout";
 
 export default {
-  name: 'About',
+  name: "About",
   components: {
-    MainLayout
-  }
+    MainLayout,
+  },
 };
 </script>
 
 
 
 <style scoped>
-
 /* BLOCKS */
 #blocks-About {
   margin: 20px;
@@ -57,14 +74,13 @@ export default {
   background-color: #f0f7de;
   color: grey;
   border: 1px solid yellowgreen;
-    border-collapse: collapse;
+  border-collapse: collapse;
   overflow: auto;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
   line-height: 1.8;
 }
-
 
 .block-About-header {
   font-size: 15pt;
@@ -88,17 +104,19 @@ export default {
 }
 
 .block-About-link img {
-  float: right; 
-  padding-bottom: 15px; 
+  float: right;
+  padding-bottom: 15px;
   padding-left: 15px;
 }
 
-.block-About-link a, .block-shop a {
+.block-About-link a,
+.block-shop a {
   color: #9879a6;
   text-decoration: none;
 }
 
-.block-About-link a:hover, .block-shop a:hover {
+.block-About-link a:hover,
+.block-shop a:hover {
   text-decoration: underline;
   cursor: pointer;
 }
@@ -112,29 +130,21 @@ export default {
   max-height: 50vh;
 }
 
-
 .block-About-image {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-@media(max-width: 800px) {
-
+@media (max-width: 800px) {
   .block-About-link img {
-  width: 35%;
+    width: 35%;
   }
-
 }
 
 @media only screen and (max-device-width: 566px) {
-
   .block-About-link img {
-  width: 35%;
+    width: 35%;
   }
-
 }
-
-
-
 </style>

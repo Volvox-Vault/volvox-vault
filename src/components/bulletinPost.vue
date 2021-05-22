@@ -50,7 +50,7 @@ export default {
             {
                 header: 'Music Producers',
                 des: 'I am a filmmaker, looking for score from music producers who specialize in ambient electronic music. Not for any specific project yet...',
-                contact: 'kalil.haddad@gmail.com',
+                contact: 'Kalil Haddad - kalil.haddad@gmail.com',
                 website: 'https://kalilhaddad.com',
                 date: 'Anytime',
             },
@@ -130,6 +130,7 @@ export default {
       border-collapse: collapse;
     overflow: auto;
     height: 200px;
+    background-color: #f7fbef;
   }
 
 
@@ -151,7 +152,7 @@ export default {
   }
 
   .block-Collab-link a{
-    color: grey;
+    color: #9879a6;
     text-decoration: none;
   }
 

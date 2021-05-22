@@ -315,7 +315,7 @@ p {
 }
 
 a {
-  color: yellowgreen;
+  color: #9879a6;
   text-decoration: none;
   font-weight: normal;
   cursor: pointer;
@@ -349,7 +349,8 @@ main {
 }
 
 .block {
-  background-color: ghostwhite;
+  background-color: #f0f7de;
+  border: 1px solid yellowgreen;
   min-height: 445px;
   max-height: 445px;
   overflow: hidden;
@@ -366,21 +367,9 @@ main {
   display: block;
 }
 
-
-@media(max-width: 800px) {
+@media (max-width: 800px) {
   main {
-    width: 100%;
-    margin-top: 10px;
-  }
-    body{
-      background: #D3D3D3;
-  }
-  #blocks, #header {
-    grid-template-columns: 1fr;
-  }
-
-  iframe {
-    width: 100%;
+    width: 90%;
   }
 
   .blocks {
@@ -392,18 +381,7 @@ main {
 
 @media only screen and (max-device-width: 566px) {
   main {
-    width: 100%;
-    margin-top: 10px;
-  }
-    body{
-      background: #D3D3D3;
-  }
-  #blocks, #header {
-    grid-template-columns: 1fr;
-  }
-
-  iframe {
-    width: 100%;
+    width: 90%;
   }
 
   .blocks {

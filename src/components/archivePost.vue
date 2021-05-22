@@ -6,12 +6,12 @@
         <div id="blocks-Archive">
 
         <div v-for="(item, i) in colony" v-bind:key="i">
-        <router-link :to="item.link">
+        <a :href="item.link">
         <div class="block-Archive">
           <p class="block-Archive-header">{{item.date}} | {{item.author}}</p>
           <p class="block-Archive-link" >{{item.title}}</p>
         </div>
-        </router-link>
+        </a>
         
         </div>
 </div>
@@ -46,7 +46,7 @@ export default {
                 date: 'Feb 2021',
                 author: 'Will Sheppard, Tiana Dueck, & Noah Sauer',
                 title: 'Developing At Home With Will',
-                link: '/archive/developingAtHomeWithWill',
+                link: 'http://developingathomewithwill.glitch.me/',
                 type: 'showcase',
             },
             {
@@ -60,7 +60,7 @@ export default {
                 date: 'Dec 2020',
                 author: 'Tiana Dueck',
                 title: 'Adapting your Art Practice to the Stay-At-Home Era with Creative Code',
-                link: '/archive/adaptingArtCC',
+                link: 'https://adapting-with-creative-code.glitch.me/',
                 type: 'how to',
             },
             {

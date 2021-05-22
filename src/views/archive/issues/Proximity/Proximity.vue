@@ -81,16 +81,17 @@
               “Pools.” is a personal effort to encapsulate the emotional drought
               of self isolation during the COVID-19 pandemic, hoping to provide
               a sensual experience showcasing the spectrum of proximity through
-              photography &#38; music. The photograph, taken by my partner, Hunter
-              McNeil, showcases my interpretation of the spectrum of proximity.
-              Together, touching, genuinely nearby, expressed by the couple
-              skipping rocks, and apart, isolated, or alone, the emptiness which
-              surrounds them. All of which I crave simultaneously. Paired with
-              the composition, an eleven-minute personal response to the
-              contrasting spectrum of proximity expressed through
-              instrumentation. Together the visual, &#38; auditory aspects of this
-              project provide an underlying sense of affection, &#38; intimacy
-              within the pieces through the lens of proximity.
+              photography &#38; music. The photograph, taken by my partner,
+              Hunter McNeil, showcases my interpretation of the spectrum of
+              proximity. Together, touching, genuinely nearby, expressed by the
+              couple skipping rocks, and apart, isolated, or alone, the
+              emptiness which surrounds them. All of which I crave
+              simultaneously. Paired with the composition, an eleven-minute
+              personal response to the contrasting spectrum of proximity
+              expressed through instrumentation. Together the visual, &#38;
+              auditory aspects of this project provide an underlying sense of
+              affection, &#38; intimacy within the pieces through the lens of
+              proximity.
             </p>
           </div>
 
@@ -240,7 +241,8 @@ main {
 }
 
 .block {
-  background-color: ghostwhite;
+  background-color: #f0f7de;
+  border: 1px solid yellowgreen;
   min-height: 445px;
   max-height: 445px;
   overflow: hidden;
@@ -258,7 +260,7 @@ main {
 
 #blocks .list a {
   display: block;
-  color: yellowgreen;
+  color: #9879a6;
   transition: 1s;
 }
 
@@ -266,64 +268,9 @@ main {
   color: grey;
 }
 
-.btn-group button {
-  background-color: #fff;
-  border: 1px solid grey;
-  padding: 10px 24px; /* Some padding */
-  cursor: pointer; /* Pointer/hand icon */
-  width: 100%; /* Set a width if needed */
-  display: block; /* Make the buttons appear below each other */
-  text-align: left;
-  padding-left: 10px;
-  -webkit-appearance: none;
-}
-
-.rand_img {
-  background-size: cover;
-  background-position: center center;
-}
-
-.gallery {
-  display: grid;
-  grid-template-columns: repeat(2, 1fr);
-  width: auto;
-  height: auto;
-  grid-gap: 0px;
-}
-
-.gallery_display {
-  position: relative;
-  overflow: hidden;
-}
-
-.gallery div:hover {
-  opacity: 0.8;
-}
-
-.thumb {
-  cursor: pointer;
-}
-
-.thumb img {
-  width: 100%;
-  height: auto;
-}
-
 @media (max-width: 800px) {
   main {
-    width: 100%;
-    margin-top: 10px;
-  }
-  body {
-    background: #d3d3d3;
-  }
-  #blocks,
-  #header {
-    grid-template-columns: 1fr;
-  }
-
-  iframe {
-    width: 100%;
+    width: 90%;
   }
 
   .blocks {
@@ -335,19 +282,7 @@ main {
 
 @media only screen and (max-device-width: 566px) {
   main {
-    width: 100%;
-    margin-top: 10px;
-  }
-  body {
-    background: #d3d3d3;
-  }
-  #blocks,
-  #header {
-    grid-template-columns: 1fr;
-  }
-
-  iframe {
-    width: 100%;
+    width: 90%;
   }
 
   .blocks {

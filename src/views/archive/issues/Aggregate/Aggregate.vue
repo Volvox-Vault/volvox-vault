@@ -8,7 +8,7 @@
               style="border-bottom: none;"
               href="https://www.magcloud.com/browse/issue/1915590"
               target="_blank"
-              ><img src="./dither_shop.png" width="100%"
+              ><img style="border: 1px solid yellowgreen;" src="./dither_shop.png" width="100%"
             /></a>
         
 
@@ -228,7 +228,7 @@
 
           <div class="videoblock list">
             <video
-              style="width: 100%"
+              style="width: 100%; border: 1px solid yellowgreen;"
               class="tab"
               poster="./Lynne.jpg"
               controls
@@ -238,24 +238,24 @@
             </video>
           </div>
 
-          <div class="schaeBlock list" style="background-color: #f7f7f7;">
+          <div class="schaeBlock list">
             <img src="./s3.png" width="100%" />
             <p
               style="
                 font-size: 12pt;
                 line-height: 200%;
-                background-color: #f7f7f7;
                 text-align: center;
               "
             >
               Schaefer Genco, lLara O'Lanick, Noah Bradbury, Dylan Obront, Dame
               Anthony, &#38; Kate Shatalow
             </p>
-            <img src="./s1.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" />
-            <img src="./s2.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" />
-            <img src="./s4.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" />
-            <img src="./s5.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" />
-            <img src="./s6.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" />
+            <br>
+            <img src="./s1.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" /><br>
+            <img src="./s2.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" /><br>
+            <img src="./s4.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" /><br>
+            <img src="./s5.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" /><br>
+            <img src="./s6.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" /><br>
           </div>
 
           <div class="block">
@@ -342,7 +342,7 @@ p {
 }
 
 a {
-  color: yellowgreen;
+  color: #9879a6;
   text-decoration: none;
   font-weight: normal;
   cursor: pointer;
@@ -376,7 +376,8 @@ main {
 }
 
 .block {
-  background-color: ghostwhite;
+  background-color: #f0f7de;
+  border: 1px solid yellowgreen;
   min-height: 445px;
   max-height: 445px;
   overflow: hidden;
@@ -386,11 +387,11 @@ main {
 }
 
 .schaeBlock {
-  background-color: #f7f7f7;
   min-height: 600px;
   max-height: 600px;
   overflow-y: scroll;
-  line-height: 1.2;
+  background-color: #f0f7de;
+  border: 1px solid yellowgreen;
 }
 
 .videoblock {
@@ -460,20 +461,7 @@ main {
 
 @media (max-width: 800px) {
   main {
-    width: 100%;
-    margin-top: 10px;
-  }
-  body {
-    background: #d3d3d3;
-  }
-  #blocks,
-  #header {
-    grid-template-columns: 1fr;
-  }
-
-  iframe {
-    width: 100%;
-    height: 500px;
+    width: 90%;
   }
 
   .blocks {
@@ -481,38 +469,17 @@ main {
     width: 100%;
     overflow-y: scroll;
   }
-
-  .videoblock {
-    min-height: 100px;
-  }
 }
 
 @media only screen and (max-device-width: 566px) {
   main {
-    width: 100%;
-    margin-top: 10px;
-  }
-  body {
-    background: #d3d3d3;
-  }
-  #blocks,
-  #header {
-    grid-template-columns: 1fr;
+    width: 90%;
   }
 
-  iframe {
-    width: 100%;
-    height: 400px;
-  }
-
-  #blocks {
+  .blocks {
     height: 100%;
     width: 100%;
     overflow-y: scroll;
-  }
-
-  .videoblock {
-    min-height: 100px;
   }
 }
 </style>

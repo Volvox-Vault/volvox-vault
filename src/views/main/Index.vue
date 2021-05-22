@@ -4,15 +4,16 @@
 <div id="blocks-Home">
 
 
-  <div class="block-Home">
+  <div class="block-Home community-block">
     <div class="block-Home-header">Community</div>
     <p class="block-Home-link"><router-link to="/archive">Archive</router-link></p>
+    <p class="block-Home-link"><router-link to="/submit">Submit / Pitch</router-link></p>
     <p class="block-Home-link"><router-link to="/horoscopes">Horoscopes ☽</router-link></p>
     <p class="block-Home-link"><router-link to="/colony">Colony</router-link></p>
     <p class="block-Home-link"><router-link to="/support">Newsletter / Support</router-link></p>
     <p class="block-Home-link"><router-link to="/shop">Newspaper</router-link></p>
     <p class="block-Home-link"><router-link to="/about">About</router-link></p>
-    <p class="block-Home-link"><router-link to="/submit">Submit / Pitch</router-link></p>
+    <p class="block-Home-link"><router-link to="/shop">Shop</router-link></p>
   </div>
 
   <!-- ARTICLES -->
@@ -22,7 +23,7 @@
     <div class="recent">
     <div class="recent-Router"><router-link to="/archive/LHO">Let's Hang Out</router-link></div>
     <div class="recent-Router"><router-link to="/archive/noPlace">There's No Place Like Home</router-link></div>
-    <div class="recent-Router"><router-link to="/archive/developingAtHomeWithWill">Developing At Home With Will</router-link></div>
+    <div class="recent-Router"><a href="https://developingathomewithwill.glitch.me/">Developing At Home With Will</a></div>
     <div class="recent-Router"><router-link to="/archive/TVS">Tiny Video Showcase</router-link></div>
     </div>
 
@@ -51,8 +52,8 @@
     <p class="block-Home-link"><a href="https://open.spotify.com/artist/1DSuFOePUh2gDFlxyuLxkD?si=joqGSaDUR8WJtBbS01Xz7w&nd=1" target="_blank">People's Republic of Amsterdam</a></p>
   </div>
 
-  <!-- HOROSCOPES -->
-  <div class="block-Home">
+  <!-- MAGAZINES -->
+  <div class="block-Home magazine-block">
     <div class="block-Home-header">Magazine Issues</div>
     <p class="block-Home-link"><router-link to="/issues/metamorphosis">Metamorphosis</router-link></p>
     <p class="block-Home-link"><router-link to="/issues/aggregate">Aggregate</router-link></p>
@@ -206,11 +207,30 @@ p, a, h1, h2 {
     display: grid;
     grid-template-columns: 1fr;
   }
+  .block-Home {
+    height: 100%;
+  }
+  .recent > div {
+    padding: 25px;
+  }
   .block-Home-image {
       overflow: hidden;
   }
+  .block-Home-image img {
+/* make sure the image is scaled keeping its aspect ratio */
+  max-width: 70%;
+  height: auto;
+  }
   .chat-block-Home {
     grid-row: 1;
+    height: 400px;
+    overflow-y: auto;
+  }
+  .magazine-block {
+    grid-row: 2;
+  }
+  .community-block {
+    grid-row: 4;
   }
 }
 
@@ -219,11 +239,24 @@ p, a, h1, h2 {
     display: grid;
     grid-template-columns: 1fr;
   }
+  .block-Home {
+    height: 45vh;
+  }
   .block-Home-image {
       overflow: hidden;
   }
+  .block-Home-image img {
+/* make sure the image is scaled keeping its aspect ratio */
+  max-width: 70%;
+  height: auto;
+  }
   .chat-block-Home {
     grid-row: 1;
+    height: 400px;
+    overflow-y: scroll;
+  }
+  .magazine-block{
+    grid-row: 4;
   }
 }
 
