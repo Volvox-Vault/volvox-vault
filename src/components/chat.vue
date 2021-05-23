@@ -198,6 +198,7 @@ const colors = (hash) =>
 #chat {
   padding: 16px;
   color: grey;
+  line-height: 2;
 }
 
 #chat ul {

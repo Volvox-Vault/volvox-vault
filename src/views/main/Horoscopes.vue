@@ -15,7 +15,7 @@ contact em for birth chart and tarot readings<br>themoonthestarsandem@gmail.com<
 <p>please apply to your sun / moon / rising <br>
 written in affirmation style and meant to serve you in whatever way you need.<br>
 find your signs <a href="https://www.astrology.com.tr/birth-chart.asp" target="_blank">here</a><br>
-<a href="http://volvoxvault.com/">back to volvoxvault.com</a></p>
+<router-link to="/">back to volvoxvault.com</router-link></p>
 
 <hr style="border: none; border-bottom: 1px dashed;">
 
@@ -62,11 +62,6 @@ find your signs <a href="https://www.astrology.com.tr/birth-chart.asp" target="_
 
 <div>
 <h1>winter 2020 / 2021 horoscopes ☽</h1>
-
-<hr style="border: none; border-bottom: 1px dashed;">
-
-<p>please apply to your sun / moon / rising <br>
-find your signs <a href="https://www.astrology.com.tr/birth-chart.asp" target="_blank">here</a><br>
 
 <hr style="border: none; border-bottom: 1px dashed;">
 
