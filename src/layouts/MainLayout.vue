@@ -25,10 +25,7 @@
         <router-link to="/support"><p>support</p></router-link>
       </div>
       <div class="nav-pill">
-        <router-link to="/submit"><p>submit</p></router-link>
-      </div>
-      <div class="nav-pill">
-        <router-link to="/shop"><p>shop</p></router-link>
+        <router-link to="/contribute"><p>contribute</p></router-link>
       </div>
     </div>
 
@@ -107,7 +104,7 @@ a {
 /* NAVIGATION */
 #nav {
   display: grid;
-  grid-template-columns: auto auto auto auto auto auto auto;
+  grid-template-columns: auto auto auto auto auto auto;
   margin-top: 25px;
   align-items: center;
   text-align: center;

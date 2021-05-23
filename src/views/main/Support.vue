@@ -13,9 +13,9 @@
       </div></a>
 
 
-      <a href="https://www.magcloud.com/user/volvox_vault"><div class="block-Support magazines-Support"><br>
-          <h2>Magazines</h2>
-      </div></a>
+      <router-link to="/shop"><div class="block-Support magazines-Support"><br>
+          <h2>Shop</h2>
+      </div></router-link>
       
         </div> 
 

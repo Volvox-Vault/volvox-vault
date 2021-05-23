@@ -7,7 +7,7 @@
   <div class="block-Home community-block">
     <div class="block-Home-header">Community</div>
     <p class="block-Home-link"><router-link to="/archive">Archive</router-link></p>
-    <p class="block-Home-link"><router-link to="/submit">Submit / Pitch</router-link></p>
+    <p class="block-Home-link"><router-link to="/contribute">Contribute</router-link></p>
     <p class="block-Home-link"><router-link to="/horoscopes">Horoscopes ☽</router-link></p>
     <p class="block-Home-link"><router-link to="/colony">Colony</router-link></p>
     <p class="block-Home-link"><router-link to="/support">Newsletter / Support</router-link></p>

@@ -5,7 +5,7 @@ import About from '../views/main/About.vue'
 import Colony from '../views/main/Colony.vue'
 import Bulletin from '../views/main/Bulletin.vue'
 import Support from '../views/main/Support.vue'
-import Submit from '../views/main/Submit.vue'
+import Contribute from '../views/main/Contribute.vue'
 import Archive from '../views/main/Archive.vue'
 import Shop from '../views/main/Shop.vue'
 import Horoscopes from '../views/main/Horoscopes.vue'
@@ -76,9 +76,9 @@ const routes = [
   },
 
   {
-    path: '/submit',
-    name: 'Submit',
-    component: Submit
+    path: '/contribute',
+    name: 'Contribute',
+    component: Contribute
   },
 
   {

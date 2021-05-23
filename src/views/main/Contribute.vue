@@ -2,7 +2,7 @@
   <MainLayout>
     <div id="blocks-Submit">
       <div class="block-Submit">
-        <p class="block-Submit-header">submit</p>
+        <p class="block-Submit-header">contribute</p>
         <p style="padding: 15px">We hope to see you in our inbox sometime.</p>
       </div>
 
@@ -66,7 +66,8 @@
       <div class="block-Submit">
         <p class="block-Submit-header">newspaper</p>
         <p class="block-Submit-link">
-          Fill out <a href="https://form.123formbuilder.com/5763208/form" target="_blank">this form</a> or email hello@volvoxvault.com<br />
+          A quarterly look inside of the global independent creative-scape.<br>
+          To contribute, fill out <a href="https://form.123formbuilder.com/5763208/form" target="_blank">this form</a> or email hello@volvoxvault.com<br />
           <a
             href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX"
             target="_blank"
@@ -85,7 +86,7 @@
 import MainLayout from "../../layouts/MainLayout";
 
 export default {
-  name: "Submit",
+  name: "Contribute",
   components: {
     MainLayout,
   },
