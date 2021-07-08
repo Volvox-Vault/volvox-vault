@@ -562,8 +562,8 @@ export default {
             {
                 name: 'Ryan Luke',
                 bio: 'Musician & fashionista.',
-                website: 'https://soundcloud.com/colliersir',
-                websiteShow: 'soundcloud.com/colliersir',
+                website: '',
+                websiteShow: '-',
                 feat: 'on the website',
                 email: '-',
                 pronoun: '',
