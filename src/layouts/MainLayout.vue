@@ -146,6 +146,10 @@ a {
     grid-row: 1;
   }
 
+  #nav {
+  grid-template-columns: repeat(3, 1fr);
+  }
+
   #header {
     margin-left: auto;
     margin-right: auto;
@@ -159,6 +163,9 @@ a {
   #header {
     margin-left: auto;
     margin-right: auto;
+  }
+  #nav {
+  grid-template-columns: repeat(3fr);
   }
 }
 </style>
