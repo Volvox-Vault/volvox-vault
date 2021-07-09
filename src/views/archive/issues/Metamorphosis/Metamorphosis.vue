@@ -108,10 +108,10 @@ export default {
 body {
   background: radial-gradient(closest-side, #d7bde2, #af7ac5, #76448a);
   height: 100%;
+  padding-top: 60px;
 }
 
 .meta {
-  margin-top: 60px;
   margin-bottom: 60px;
   margin-left: auto;
   margin-right: auto;
