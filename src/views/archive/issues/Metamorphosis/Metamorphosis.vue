@@ -109,14 +109,15 @@ body {
   background: radial-gradient(closest-side, #d7bde2, #af7ac5, #76448a);
   height: 100%;
 }
-main {
-  padding: 55px;
-}
+
 .meta {
+  margin-top: 60px;
+  margin-bottom: 60px;
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
-  min-width: 300px;
+  min-width: 250px;
   max-width: 700px;
-  margin: 0 auto;
   border-radius: 30px;
   background: rgba(215, 189, 226, 0.5);
   color: #76448a;
