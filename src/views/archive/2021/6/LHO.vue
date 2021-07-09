@@ -224,7 +224,7 @@ body {
             }
             
             main, .tours {
-                width: 250px;
+                width: 260px;
             }
             
             .tours {
