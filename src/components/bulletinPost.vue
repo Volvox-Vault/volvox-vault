@@ -48,6 +48,20 @@ export default {
             title: "Bulletin",
             colony: [
             {
+                header: 'ichoose',
+                des: 'This is the creative entertainment game that you will be getting more creative mind and feel easier to do creative challenges than before.',
+                contact: 'pehu creative, community space',
+                website: 'http://ichoose.pe.hu/collection/',
+                date: 'Anytime',
+            },
+            {
+                header: 'hello mpls mn',
+                des: 'hi! i am moving to minneapolis, mn and would love to connect with ppl or projects in the city. show me a park, tell me about a concert. let\'s make a little website or a little lunch! i like the internet, zines and night-swimming',
+                contact: 'Henry Holtgeerts - henryholtgeerts@gmail.com',
+                website: 'https://www.henryholtgeerts.com/',
+                date: 'Anytime',
+            },
+            {
                 header: 'Music Producers',
                 des: 'I am a filmmaker, looking for score from music producers who specialize in ambient electronic music. Not for any specific project yet...',
                 contact: 'Kalil Haddad - kalil.haddad@gmail.com',
