@@ -1,7 +1,7 @@
 <template>
   <MainLayout>
 
-    <Chat />
+    <Chat></Chat>
 
   </MainLayout>
 </template>
@@ -10,7 +10,6 @@
 <script>
 import MainLayout from '../../layouts/MainLayout'
 import Chat from '../../components/chat'
-
 
 export default {
   name: 'Chat',
