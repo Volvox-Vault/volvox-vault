@@ -64,7 +64,7 @@ These points are guides more so than strict rules.</i></p>
     
     </main>
     
-    <br><br><br>
+    
     
 </body>
   </div>
@@ -224,7 +224,7 @@ body {
             }
             
             main, .tours {
-                width: 85%;
+                width: 250px;
             }
             
             .tours {
@@ -232,7 +232,7 @@ body {
             }
             
             tr {
-            height: 200px;
+            height: 100px;
         }
         
         td {
