@@ -48,6 +48,13 @@ export default {
             title: "Bulletin",
             colony: [
             {
+                header: 'fruitful.school',
+                des: 'An independently-run learning initiative for making “fruitful websites” founded in 2020 by Laurel Schwulst and John Provencher.',
+                contact: 'support@fruitful.school',
+                website: 'https://fruitful.school/',
+                date: 'Anytime',
+            },
+            {
                 header: 'ichoose',
                 des: 'This is the creative entertainment game that you will be getting more creative mind and feel easier to do creative challenges than before.',
                 contact: 'pehu creative, community space',
