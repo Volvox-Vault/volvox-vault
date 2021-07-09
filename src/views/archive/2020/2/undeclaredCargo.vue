@@ -165,7 +165,6 @@ a:hover {
 }
 
 main {
-  max-width: 50%;
   min-width: 340px;
   max-width: 500px;
   background-color: rgb(255, 255, 255, 0.6);
@@ -210,5 +209,17 @@ img {
   justify-content: center;
   padding-top: 30px;
   padding-bottom: 30px;
+}
+
+@media (max-width: 800px) {
+  main {
+  width: 340px;
+}
+}
+
+@media only screen and (max-device-width: 566px) {
+  main {
+  width: 340px;
+}
 }
 </style>
