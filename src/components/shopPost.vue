@@ -150,6 +150,7 @@ export default {
     border: 1px solid yellowgreen;
       border-collapse: collapse;
     overflow-y: auto;
+    overflow-x: hidden;
     height: 300px;
     background-color: #f0f7de;
   }
