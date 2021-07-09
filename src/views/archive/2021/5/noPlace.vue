@@ -343,11 +343,11 @@ a:visited {
   }
 
   h1 {
-    font-size: 70pt;
+    font-size: 30pt;
   }
 
   p {
-    font-size: 30pt;
+    font-size: 12pt;
     line-height: 1.6;
   }
 }
