@@ -213,7 +213,7 @@ img {
 
 @media (max-width: 800px) {
   main {
-  width: 300px;
+  max-width: 300px;
 }
 }
 
