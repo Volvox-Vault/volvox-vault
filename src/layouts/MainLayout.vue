@@ -165,7 +165,7 @@ a {
     margin-right: auto;
   }
   #nav {
-  grid-template-columns: repeat(3fr);
+  grid-template-columns: repeat(3, 1fr);
   }
 }
 </style>
