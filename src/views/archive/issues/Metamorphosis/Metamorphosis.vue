@@ -109,10 +109,10 @@ body {
   background: radial-gradient(closest-side, #d7bde2, #af7ac5, #76448a);
   height: 100%;
   padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .meta {
-  margin-bottom: 60px;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
