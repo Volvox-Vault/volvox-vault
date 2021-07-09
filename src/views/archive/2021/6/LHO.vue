@@ -217,7 +217,7 @@ body {
         }
         }
         
-        @media only screen and (max-device-width: 566px) {
+        @media only screen and (max-device-width: 800px) {
         
             body {
                 margin-bottom: 300px;
