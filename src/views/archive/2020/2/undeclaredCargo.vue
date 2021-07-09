@@ -213,13 +213,13 @@ img {
 
 @media (max-width: 800px) {
   main {
-  width: 340px;
+  width: 300px;
 }
 }
 
-@media only screen and (max-device-width: 566px) {
+@media only screen and (max-device-width: 800px) {
   main {
-  max-width: 330px;
+  max-width: 300px;
 }
 }
 </style>
