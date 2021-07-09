@@ -31,7 +31,7 @@
 
   <!-- IMG -->
   <div class="block-Home block-Home-image">
-    <img style="padding: 10px;" src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2F2butterflies.png?v=1625607326499">
+    <img src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fbutterweb.png?v=1625841250777">
   </div>
 
   <!-- SHOP -->
