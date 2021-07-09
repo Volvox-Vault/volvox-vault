@@ -241,4 +241,20 @@ img {
   padding-top: 30px;
   padding-bottom: 30px;
 }
+
+@media (max-width: 800px) {
+  main {
+    margin-top: 25px;
+    min-width: 300px;
+    max-width: 300px;
+  }
+}
+
+@media only screen and (max-device-width: 800px) {
+  main {
+    margin-top: 25px;
+    min-width: 300px;
+    max-width: 300px;
+  }
+}
 </style>
