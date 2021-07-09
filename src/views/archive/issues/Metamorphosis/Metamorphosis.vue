@@ -114,6 +114,7 @@ main {
 }
 .meta {
   width: 50%;
+  min-width: 300px;
   max-width: 700px;
   margin: 0 auto;
   border-radius: 30px;
