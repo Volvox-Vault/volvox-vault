@@ -11,7 +11,7 @@
     <p class="block-Home-link"><router-link to="/horoscopes">Horoscopes ☽</router-link></p>
     <p class="block-Home-link"><router-link to="/colony">Colony</router-link></p>
     <p class="block-Home-link"><router-link to="/support">Newsletter / Support</router-link></p>
-    <p class="block-Home-link"><router-link to="/shop">Newspaper</router-link></p>
+    <p class="block-Home-link"><a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX">Newspaper</a></p>
     <p class="block-Home-link"><router-link to="/about">About</router-link></p>
     <p class="block-Home-link"><router-link to="/shop">Shop</router-link></p>
   </div>
