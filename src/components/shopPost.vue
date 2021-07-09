@@ -149,7 +149,7 @@ export default {
     line-height: 1.6;
     border: 1px solid yellowgreen;
       border-collapse: collapse;
-    overflow: auto;
+    overflow-y: auto;
     height: 300px;
     background-color: #f0f7de;
   }
