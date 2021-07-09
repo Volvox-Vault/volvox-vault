@@ -45,6 +45,7 @@
     <div class="block-Home-header">Music</div>
     <p class="block-Home-link"><a href="https://jjeroboam.bandcamp.com/" target="_blank">JEROBOAM</a></p>
     <p class="block-Home-link"><a href="https://76666.world/mixes/76666-ideals-19-inwoo-jung-for-those-with-heads-full-of-images/" target="_blank">Inwoo Jung</a></p>
+    <p class="block-Home-link"><a href="https://soundcloud.com/76666" target="_blank">76666</a></p>
     <p class="block-Home-link"><a href="https://jacobnico.bandcamp.com/" target="_blank">Jacob Nico</a></p>
     <p class="block-Home-link"><a href="https://virgorisingband.bandcamp.com/" target="_blank">Virgo Rising</a></p>
     <p class="block-Home-link"><a href="https://soundcloud.com/foil_music" target="_blank">FOIL</a></p>
