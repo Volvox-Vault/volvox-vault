@@ -507,7 +507,7 @@ export default {
                 feat: 'on the website',
                 email: '-',
                 pronoun: '',
-                pic: 'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fnoah.png?v=1621627555482',
+                pic: 'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fdither_it_noah.png?v=1625841540409',
             },
             {
                 name: 'Rebecca Clarke',
