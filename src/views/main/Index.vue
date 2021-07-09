@@ -228,6 +228,7 @@ p, a, h1, h2 {
   }
   .magazine-block {
     grid-row: 2;
+    height: 100%;
   }
   .community-block {
     grid-row: 4;
@@ -257,6 +258,7 @@ p, a, h1, h2 {
   }
   .magazine-block{
     grid-row: 2;
+    height: 100%;
   }
 }
 
