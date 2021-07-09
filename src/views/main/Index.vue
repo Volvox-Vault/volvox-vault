@@ -241,7 +241,7 @@ p, a, h1, h2 {
     grid-template-columns: 1fr;
   }
   .block-Home {
-    height: 45vh;
+    height: 100%;
   }
   .block-Home-image {
       overflow: hidden;
