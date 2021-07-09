@@ -57,7 +57,7 @@ These points are guides more so than strict rules.</i></p>
     
     <div class="slide">
     <div class="text">Are you free today?</div>
-    <img src="/lho_eg.jpg"/>
+    <img src="./lho_eg.jpg"/>
     </div>
     
     
@@ -84,7 +84,7 @@ body {
             line-height: 1.6;
             color: midnightblue;
             background-color: midnightblue;
-            margin-bottom: 50px;
+            padding-bottom: 60px;
         }
         
         main {
