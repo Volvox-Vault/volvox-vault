@@ -5,7 +5,7 @@
     
     <div id="back" style="position: absolute; border: 1px solid midnightblue; padding: 10px;"><a href="../../">back</a></div>
     
-    <br> <br> <br>
+    <br>
     <div class="tours">
     <h1 style="font-weight: normal;">Hang out with...</h1>
     <table>
@@ -14,7 +14,7 @@
     </table>
     </div>
     
-    <br><br>
+    <br>
     
     <main>
         
@@ -89,7 +89,6 @@ body {
         
         main {
             padding: 35px;
-            padding-top: 10px;
             width: 500px;
             margin-left: auto;
             margin-right: auto;
@@ -129,11 +128,10 @@ body {
         .tours {
             border: 1px solid midnightblue;
             padding: 35px;
-            padding-top: 10px;
             width: 70%;
             margin-left: auto;
             margin-right: auto;
-            margin-bottom: 20px;
+            margin-bottom: 10px;
             background: url(lho_bg.jpg);
               background-repeat: no-repeat;
               background-size: cover;
