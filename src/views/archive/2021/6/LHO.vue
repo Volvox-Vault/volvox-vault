@@ -21,10 +21,11 @@
     <h1 style="font-weight: normal;">Let's Hang Out</h1>
     
     <p>A community photo gallery project.</p>
-    
+    <br>
     <div style="border: 1px dashed midnightblue; padding: 15px;">
    <p style="margin: 0px; padding: 0px;">We are inspired by getting to know each other through our personal environments. Because of the pandemic, we've been stepping into each other's personal bubbles less often unfortunately. The exciting feeling of stepping into a friend’s room for the first time has become somewhat nostalgic. One of the simplest ways to experience another person's world is to hang out in their room. So, let’s learn more about the nice people in our community, and have a chill time.<br>[ A message sent from Tiana's room. ]</p>
 </div>
+<br>
 
 
 <p>We're excited to hang out with you :)<br>
@@ -242,7 +243,7 @@ body {
         
         p, table {
             font-family: sans-serif;
-            font-size: 12pt;
+            font-size: 10pt;
         }
         
         .slide .text {
