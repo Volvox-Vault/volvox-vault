@@ -43,6 +43,16 @@
   <!-- MUSIC -->
   <div class="block-Home">
     <div class="block-Home-header">Music</div>
+    <p class="block-Home-link"><a href="https://jjeroboam.bandcamp.com/" target="_blank">JEROBOAM</a></p>
+    <p class="block-Home-link"><a href="https://76666.world/mixes/76666-ideals-19-inwoo-jung-for-those-with-heads-full-of-images/" target="_blank">Inwoo Jung</a></p>
+    <p class="block-Home-link"><a href="https://jacobnico.bandcamp.com/" target="_blank">Jacob Nico</a></p>
+    <p class="block-Home-link"><a href="https://virgorisingband.bandcamp.com/" target="_blank">Virgo Rising</a></p>
+    <p class="block-Home-link"><a href="https://soundcloud.com/foil_music" target="_blank">FOIL</a></p>
+    <p class="block-Home-link"><a href="https://soundcloud.com/ohew" target="_blank">Ohew</a></p>
+    <p class="block-Home-link"><a href="https://soundcloud.com/lp_sters" target="_blank">Sters</a></p>
+    <p class="block-Home-link"><a href="https://packstheband.bandcamp.com/" target="_blank">PACKS</a></p>
+    <p class="block-Home-link"><a href="https://alexnunes.bandcamp.com/" target="_blank">Alex Nunes</a></p>
+    <p class="block-Home-link"><a href="https://astraking.bandcamp.com/" target="_blank">Astra King</a></p>
     <p class="block-Home-link"><a href="https://horsechampion.bandcamp.com/releases" target="_blank">Horse Champion</a></p>
     <p class="block-Home-link"><a href="https://noahsauer.bandcamp.com/album/cloud-computer" target="_blank">Cloud Computer</a></p>
     <p class="block-Home-link"><a href="https://soundcloud.com/colliersir" target="_blank">Adam Collier</a></p>
