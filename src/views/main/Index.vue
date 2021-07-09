@@ -234,7 +234,7 @@ p, a, h1, h2 {
   }
 }
 
-@media only screen and (max-device-width: 566px) {
+@media only screen and (max-device-width: 800px) {
   #blocks-Home {
     display: grid;
     grid-template-columns: 1fr;
@@ -256,7 +256,7 @@ p, a, h1, h2 {
     overflow-y: scroll;
   }
   .magazine-block{
-    grid-row: 4;
+    grid-row: 2;
   }
 }
 

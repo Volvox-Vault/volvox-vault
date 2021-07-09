@@ -236,19 +236,19 @@ body {
         }
         
         td {
-            font-size: 20pt;
+            font-size: 10pt;
         }
         h1 {
-            font-size: 40pt;
+            font-size: 20pt;
         }
         
         p, table {
             font-family: sans-serif;
-            font-size: 25pt;
+            font-size: 12pt;
         }
         
         .slide .text {
-         font-size: 30pt;   
+         font-size: 15pt;   
         }
         }
 </style>
