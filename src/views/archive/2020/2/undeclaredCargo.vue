@@ -219,7 +219,7 @@ img {
 
 @media only screen and (max-device-width: 566px) {
   main {
-  width: 340px;
+  max-width: 330px;
 }
 }
 </style>
