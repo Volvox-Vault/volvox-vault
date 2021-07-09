@@ -343,7 +343,7 @@ a:visited {
   }
 
   h1 {
-    font-size: 30pt;
+    font-size: 40pt;
   }
 
   p {
