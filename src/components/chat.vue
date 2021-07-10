@@ -57,7 +57,7 @@
           >
           <input
             type="text"
-            placeholder="make up your secret colour code."
+            placeholder="your secret colour code."
             v-model="code"
             required
             id="code"
