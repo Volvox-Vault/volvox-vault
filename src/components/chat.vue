@@ -232,6 +232,11 @@ const colors = (hash) =>
   width: auto;
 }
 
+input {
+  color: grey;
+  width: 100%;
+}
+
 hr {
   border: 0px;
   border-bottom: 1px solid #c8c8c8;
