@@ -234,7 +234,7 @@ p, a, h1, h2 {
   }
   .chat-block-Home {
     grid-row: 1;
-    height: 300px;
+    height: 500px;
     overflow-y: auto;
   }
   .magazine-block {
@@ -264,8 +264,8 @@ p, a, h1, h2 {
   }
   .chat-block-Home {
     grid-row: 1;
-    height: 300px;
-    overflow-y: scroll;
+    height: 500px;
+    overflow-y: auto;
   }
   .magazine-block{
     grid-row: 2;
