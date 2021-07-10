@@ -37,7 +37,7 @@
       <form @submit.prevent="sendMessage()">
         <span v-if="error.length" id="error">woah! {{ error }} :)</span>
         <div class="chat-input">
-          <label for="name">nickname: </label>
+          <label for="name">name: </label>
           <span>{{ name }}</span>
           <input
             type="text"
@@ -45,7 +45,7 @@
             id="name"
             name="name"
             required
-            placeholder="include your pronouns!"
+            placeholder="volvox"
           />
         </div>
         <div class="chat-input">
@@ -69,7 +69,7 @@
 
         <input
           type="text"
-          placeholder="what's going on?"
+          placeholder="what's up?"
           v-model="message"
           required
         />
