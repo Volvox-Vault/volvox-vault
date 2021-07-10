@@ -245,7 +245,7 @@ const colors = (hash) =>
 
 .send {
   color: grey;
-  width: 10%;
+  width: 9%;
 }
 
 hr {
