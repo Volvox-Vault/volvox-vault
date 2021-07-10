@@ -54,7 +54,7 @@
 
       <ul>
         <li
-          v-for="message in messages.slice().reverse"
+          v-for="message in messages.slice().reverse()"
           :key="message.time + message.name + message.colors + message.message"
         >
           {{
