@@ -27,7 +27,7 @@
             :key="color + $index"
             class="colorblock"
             :style="color"
-            >█</span
+            >█ </span
           > {{ message.name }} — {{ message.message }}
         </li>
       </ul>
@@ -53,11 +53,12 @@
             :key="color + $index"
             class="colorblock"
             :style="color"
-            > </span
+            >█ </span
           >
           <input
             type="text"
             placeholder="make up your secret colour code."
+            style=" width: 100px;"
             v-model="code"
             required
             id="code"
