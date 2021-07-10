@@ -38,7 +38,7 @@
             <i
               >Featuring <a href="https://tiana.computer/">Tiana Dueck</a>,
               <a>Rue Yi</a>, <a href="https://e-worm.club/">e-worm.club</a>,
-              <a href="https://fee.cool/">Jake Fee</a>, Ada Bierling,
+              <a href="http://fee.cool/">Jake Fee</a>, Ada Bierling,
               <a href="https://www.beatricedouaihy.com/">Beatrice Douaihy</a>,
               Shannon Kennedy,
               <a href="https://khalilstemmler.com/">Khalil Stemmler</a>,
