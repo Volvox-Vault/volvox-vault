@@ -112,6 +112,13 @@ body {
   height: 100%;
   padding-top: 60px;
   padding-bottom: 60px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+@font-face {
+    font-family: 'cantiquenormal';
+    src: url('./Cantique-Normal.woff2') format('woff2'),
+         url('./Cantique-Normal.woff') format('woff');
 }
 
 .meta {
@@ -130,9 +137,12 @@ body {
 h1 {
   font-size: 25pt;
   text-align: center;
+  font-family: cantiquenormal, Arial, Helvetica, sans-serif;
 }
 h2 {
-  font-size: 16pt;
+  font-size: 20pt;
+  font-family: cantiquenormal, Arial, Helvetica, sans-serif;
+  line-height: 3;
 }
 p {
   font-size: 13pt;
