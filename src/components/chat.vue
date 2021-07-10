@@ -235,6 +235,10 @@ const colors = (hash) =>
   width: auto;
 }
 
+input {
+  color: grey;
+}
+
 .write {
   color: grey;
   width: 80%;
