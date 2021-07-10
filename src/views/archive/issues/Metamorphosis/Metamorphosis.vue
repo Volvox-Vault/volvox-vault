@@ -138,7 +138,7 @@ body {
   line-height: 2;
 }
 h1 {
-  font-size: 25pt;
+  font-size: 20pt;
   text-align: center;
   font-family: cantiquenormal, Arial, Helvetica, sans-serif;
 }
