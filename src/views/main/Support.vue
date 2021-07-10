@@ -21,7 +21,7 @@
 
     <div class="newsletter-Support" style="padding: 20px;">
       <p style="font-style: italic; font-size: 12pt; line-height: 2;">Volvox Vault is funded by nice people like you. ♥<br>
-      Thank you to our first patron, Seán.</p>
+      Thank you to our patrons: Daniela Sandoval and Seán.</p>
     </div>
 
     <div class="newsletter-Support" style="padding: 25px; margin-bottom: 60px;">
