@@ -16,10 +16,10 @@
             /* Show date if it's been more than 24 hrs since message,
              * and always show time. */
             Date.now() - message.time > 1000 * 60 * 60 * 24
-              ? new Date(message.time).toLocaleDateString().toLowerCase()
+              ? new Date(message.time).toLocaleDateString([],{timeStyle:'short'}).toLowerCase()
               : "" +
                 " " +
-                new Date(message.time).toLocaleTimeString().toLowerCase()
+                new Date(message.time).toLocaleTimeString([],{timeStyle:'short'}).toLowerCase()
           }} <span
             v-for="(color, $index) in message.colors.map(
               (c) => `color: #${c};`
@@ -53,11 +53,11 @@
             :key="color + $index"
             class="colorblock"
             :style="color"
-            >█</span
+            > </span
           >
           <input
             type="text"
-            placeholder="make it up & keep it secret!"
+            placeholder="make up your secret colour code."
             v-model="code"
             required
             id="code"
