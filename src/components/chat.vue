@@ -130,8 +130,13 @@ export default {
   },
   created: function () {
     this.connection = new WebSocket((window.location.protocol === "https:" ? 'wss://' : 'ws://') + window.location.host + "/chat");
+    let heartbeat;
     this.connection.onopen = () => {
       this.online = true;
+      clearInterval(heartbeat);
+      heartbeat = setInterval(() => {
+        this.connection.send('heartbeat');
+      }, 10_000);
     };
     this.connection.onmessage = (event) => {
       const message = JSON.parse(event.data);
