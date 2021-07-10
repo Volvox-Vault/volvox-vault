@@ -253,13 +253,14 @@ input:focus {
 
 .write {
   color: grey;
-  width: 80%;
+  width: 70%;
+  min-width: 200px;
   border: grey;
+  margin-right: 8px;
 }
 
 .send {
   color: grey;
-  margin-left: 10px;
 }
 
 .write:hover,
