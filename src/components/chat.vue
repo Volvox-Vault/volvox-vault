@@ -29,8 +29,7 @@
             class="colorblock"
             :style="color"
             >█</span
-          >
-          {{ message.name }}] {{ message.message }}
+          > {{ message.name }}] — {{ message.message }}
         </li>
       </ul>
       <hr />
