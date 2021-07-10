@@ -7,8 +7,8 @@
           <br />
           <table class="buy">
             <tr>
-              <td><a href="https://tiana.computer/">Buy the book.</a></td>
-              <td><a href="https://tiana.computer/">Buy the pdf.</a></td>
+              <td><a href="https://www.blurb.ca/b/10779132-metamorphosis">Buy the book.</a></td>
+              <td><a href="https://checkout.square.site/merchant/VP8DEG0CP9DTF/checkout/ZIZCUOION452OBJHAA6YNUE3">Buy the pdf.</a></td>
             </tr>
           </table>
 
