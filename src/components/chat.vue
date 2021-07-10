@@ -1,6 +1,6 @@
 <template>
   <div id="chat">
-    <p v-if="!online">Chat coming soon...</p>
+    <p v-if="!online">Chat coming soon... try refreshing this tab.</p>
     <p v-if="!online && isDevMode">
       try going to the <pre>volvox-back</pre> repository and running <pre>npm run dev</pre>, then
       reloading! this warning only appears in development mode ;)
