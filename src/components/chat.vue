@@ -250,7 +250,7 @@ input {
   margin-left: 10px;
 }
 
-.write:hover {
+.write:hover, .write:focus {
   border:grey;
 }
 
