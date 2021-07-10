@@ -48,7 +48,7 @@
                 >Rebecca Clarke</a
               >,
               <a href="https://www.instagram.com/_adrianpop/">Adrian Pop</a></i
-            >.
+            >. Special thanks to <a href="http://wadeful.net/">Norman O'Hagan</a>!
           </p>
 
           <hr />
