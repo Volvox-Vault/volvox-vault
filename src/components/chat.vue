@@ -238,12 +238,11 @@ const colors = (hash) =>
 
 .write {
   color: grey;
-  width: 90%;
+  width: 80%;
 }
 
 .send {
   color: grey;
-  width: 9%;
 }
 
 hr {
