@@ -162,7 +162,7 @@ hr {
 td {
   padding: 20px;
 }
-video {
+video, iframe {
   border-radius: 30px;
   box-shadow: 0 5px 10px rgb(215 189 226 / 0.5);
 }
