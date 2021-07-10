@@ -16,6 +16,7 @@
 
           <iframe width="100%" height="355" src="https://www.youtube.com/embed/z4W8Esxp1S0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<br><br>
           <p>
             Metamorphosis is a collection of creative projects from various
             artists, presented by Volvox Vault, ruminating on transformation,
@@ -23,10 +24,12 @@
             butterfly; discover reflections, workshops, interviews, visual art,
             and more that may inspire a shift in your life.
           </p>
+          <p style="text-align: right;" ><a href="https://checkout.square.site/buy/LMHV2EEIN2PVH6FFK3KU4W2L">Buy the bag!</a></p>
+
     
           <img
-            src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2F2butterflies.png?v=1625607326499"
-            width="30%"
+            src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fbagsm.jpg?v=1625879209143"
+            width="100%"
             style="display: block; margin: 0 auto; padding-top: 20px;"
           />
        
