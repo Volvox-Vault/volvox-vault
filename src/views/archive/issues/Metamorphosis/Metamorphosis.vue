@@ -14,7 +14,7 @@
 
           <hr />
 
-          <iframe width="100%" height="400" src="https://www.youtube.com/embed/z4W8Esxp1S0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="100%" height="355" src="https://www.youtube.com/embed/z4W8Esxp1S0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
           <p>
             Metamorphosis is a collection of creative projects from various
