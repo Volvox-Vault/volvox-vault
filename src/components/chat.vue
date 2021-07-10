@@ -7,32 +7,7 @@
     </p>
     
     <template v-if="online">
-      <ul>
-        <li
-          v-for="message in messages"
-          :key="message.time + message.name + message.colors + message.message"
-        >
-          {{
-            /* Show date if it's been more than 24 hrs since message,
-             * and always show time. */
-            Date.now() - message.time > 1000 * 60 * 60 * 24
-              ? new Date(message.time).toLocaleDateString().toLowerCase()
-              : "" +
-                " " +
-                new Date(message.time).toLocaleTimeString([],{timeStyle:'short'}).toLowerCase()
-          }} <span
-            v-for="(color, $index) in message.colors.map(
-              (c) => `color: #${c};`
-            )"
-            :key="color + $index"
-            class="colorblock"
-            :style="color"
-            >█</span
-          > {{ message.name }} — {{ message.message }}
-        </li>
-      </ul>
       
-      <hr />
       <form @submit.prevent="sendMessage()">
         <span v-if="error.length" id="error">woah! {{ error }} :)</span>
         <div class="chat-input">
@@ -74,6 +49,34 @@
           required
         /> <input type="submit" class="send" value="Send" />
       </form>
+
+      <hr />
+
+      <ul>
+        <li
+          v-for="message in messages.slice().reverse"
+          :key="message.time + message.name + message.colors + message.message"
+        >
+          {{
+            /* Show date if it's been more than 24 hrs since message,
+             * and always show time. */
+            Date.now() - message.time > 1000 * 60 * 60 * 24
+              ? new Date(message.time).toLocaleDateString().toLowerCase()
+              : "" +
+                " " +
+                new Date(message.time).toLocaleTimeString([],{timeStyle:'short'}).toLowerCase()
+          }} <span
+            v-for="(color, $index) in message.colors.map(
+              (c) => `color: #${c};`
+            )"
+            :key="color + $index"
+            class="colorblock"
+            :style="color"
+            >█</span
+          > {{ message.name }} — {{ message.message }}
+        </li>
+      </ul>
+    
     </template>
   </div>
 </template>
@@ -127,13 +130,17 @@ export default {
     },
   },
   created: function () {
-    this.connection = new WebSocket((window.location.protocol === "https:" ? 'wss://' : 'ws://') + window.location.host + "/chat");
+    this.connection = new WebSocket(
+      (window.location.protocol === "https:" ? "wss://" : "ws://") +
+        window.location.host +
+        "/chat"
+    );
     let heartbeat;
     this.connection.onopen = () => {
       this.online = true;
       clearInterval(heartbeat);
       heartbeat = setInterval(() => {
-        this.connection.send('heartbeat');
+        this.connection.send("heartbeat");
       }, 10_000);
     };
     this.connection.onmessage = (event) => {
@@ -198,6 +205,8 @@ const colors = (hash) =>
     .slice(0, 4);
 </script>
 
+
+
 <style scoped>
 #chat {
   padding: 16px;
@@ -236,7 +245,8 @@ const colors = (hash) =>
   width: auto;
 }
 
-input, input:focus {
+input,
+input:focus {
   color: grey;
   outline: none;
 }
@@ -244,7 +254,7 @@ input, input:focus {
 .write {
   color: grey;
   width: 80%;
-  border:grey;
+  border: grey;
 }
 
 .send {
@@ -252,8 +262,9 @@ input, input:focus {
   margin-left: 10px;
 }
 
-.write:hover, .write:focus {
-  border:grey;
+.write:hover,
+.write:focus {
+  border: grey;
   outline: none;
 }
 
