@@ -50,7 +50,7 @@ export default {
             },
             {
                 header: 'Metamorphosis (SS 21)',
-                des: 'COMING SOON - An issue about transformation, growth, and change.',
+                des: '$30 CAD - An issue about transformation, growth, and change.',
                 pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fbutterweb.png?v=1625841250777',
                 website: 'https://volvoxvault.com/issues/metamorphosis',
                 nav: '',
@@ -71,7 +71,7 @@ export default {
             },
             {
                 header: 'Entire Digital Archive',
-                des: '$25 CAD - Includes all Volvox Times and Magazine issues. Tax included.',
+                des: '$30 CAD - Includes all Volvox Times and Magazine issues. Tax included.',
                 pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Falgaegrain2.png?v=1625602972717',
                 website: 'https://checkout.square.site/merchant/VP8DEG0CP9DTF/checkout/7SGPFZTQH4UQ43556V63BMVG',
                 nav: '',
