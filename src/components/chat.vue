@@ -242,7 +242,7 @@ input, input:focus {
 
 .write {
   color: grey;
-  width: 90%;
+  width: 80%;
   border:grey;
 }
 
