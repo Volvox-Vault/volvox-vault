@@ -235,8 +235,9 @@ const colors = (hash) =>
   width: auto;
 }
 
-input {
+input, input:focus {
   color: grey;
+  outline: none;
 }
 
 .write {
@@ -252,6 +253,7 @@ input {
 
 .write:hover, .write:focus {
   border:grey;
+  outline: none;
 }
 
 hr {
