@@ -240,7 +240,12 @@ const colors = (hash) =>
 
 .write {
   color: grey;
-  width: 80%;
+  width: 90%;
+}
+
+.send {
+  color: grey;
+  width: 10%;
 }
 
 hr {
