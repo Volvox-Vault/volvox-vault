@@ -7,7 +7,6 @@
     </p>
     
     <template v-if="online">
-      <div class="wrapper">
       <ul>
         <li
           v-for="message in messages"
@@ -32,8 +31,7 @@
           > {{ message.name }} — {{ message.message }}
         </li>
       </ul>
-
-      <div class="bottom">
+      
       <hr />
       <form @submit.prevent="sendMessage()">
         <span v-if="error.length" id="error">woah! {{ error }} :)</span>
@@ -76,8 +74,6 @@
           required
         /> <input type="submit" class="send" value="Send" />
       </form>
-      </div>
-      </div>
     </template>
   </div>
 </template>
@@ -131,17 +127,13 @@ export default {
     },
   },
   created: function () {
-    this.connection = new WebSocket(
-      (window.location.protocol === "https:" ? "wss://" : "ws://") +
-        window.location.host +
-        "/chat"
-    );
+    this.connection = new WebSocket((window.location.protocol === "https:" ? 'wss://' : 'ws://') + window.location.host + "/chat");
     let heartbeat;
     this.connection.onopen = () => {
       this.online = true;
       clearInterval(heartbeat);
       heartbeat = setInterval(() => {
-        this.connection.send("heartbeat");
+        this.connection.send('heartbeat');
       }, 10_000);
     };
     this.connection.onmessage = (event) => {
@@ -244,8 +236,7 @@ const colors = (hash) =>
   width: auto;
 }
 
-input,
-input:focus {
+input, input:focus {
   color: grey;
   outline: none;
 }
@@ -253,7 +244,7 @@ input:focus {
 .write {
   color: grey;
   width: 80%;
-  border: grey;
+  border:grey;
 }
 
 .send {
@@ -261,9 +252,8 @@ input:focus {
   margin-left: 10px;
 }
 
-.write:hover,
-.write:focus {
-  border: grey;
+.write:hover, .write:focus {
+  border:grey;
   outline: none;
 }
 
@@ -280,7 +270,4 @@ hr {
 pre {
   display: inline-block;
 }
-
-.wrapper{position:relative;}
-.bottom{position:absolute; bottom:0;}
 </style>
