@@ -52,7 +52,7 @@ export default {
                 header: 'Metamorphosis (SS 21)',
                 des: 'COMING SOON - An issue about transformation, growth, and change.',
                 pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fbutterweb.png?v=1625841250777',
-                website: '',
+                website: 'https://volvoxvault.com/issues/metamorphosis',
                 nav: '',
             },
             {
