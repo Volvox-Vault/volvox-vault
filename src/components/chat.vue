@@ -128,7 +128,7 @@ export default {
     },
   },
   created: function () {
-    this.connection = new WebSocket("ws://localhost:4455/chat");
+    this.connection = new WebSocket((window.location.protocol === "https:" ? 'wss://' : 'ws://') + window.location.host + "/chat");
     this.connection.onopen = () => {
       this.online = true;
     };
