@@ -249,6 +249,10 @@ input {
   margin-left: 10px;
 }
 
+.write:hover {
+  border:grey;
+}
+
 hr {
   border: 0px;
   border-bottom: 1px solid #c8c8c8;
