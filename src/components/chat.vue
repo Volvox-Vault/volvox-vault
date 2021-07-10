@@ -262,7 +262,7 @@ hr {
 }
 
 #code {
-  width: 70%;
+  width: 150px;
   margin-left: 10px;
 }
 
