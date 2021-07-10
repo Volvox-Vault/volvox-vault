@@ -69,11 +69,12 @@
 
         <input
           type="text"
+          class="write"
           placeholder="what's up?"
           v-model="message"
           required
         />
-        <input type="submit" value="Send" />
+        <input type="submit" class="send" value="Send" />
       </form>
     </template>
   </div>
@@ -232,9 +233,9 @@ const colors = (hash) =>
   width: auto;
 }
 
-input {
+.write {
   color: grey;
-  width: 100%;
+  width: 80%;
 }
 
 hr {
