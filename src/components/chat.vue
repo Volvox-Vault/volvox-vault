@@ -71,8 +71,7 @@
           placeholder="what's up?"
           v-model="message"
           required
-        />
-        <input type="submit" class="send" value="Send" />
+        /> <input type="submit" class="send" value="Send" />
       </form>
     </template>
   </div>
@@ -243,6 +242,7 @@ const colors = (hash) =>
 
 .send {
   color: grey;
+  margin-left: 10px;
 }
 
 hr {
