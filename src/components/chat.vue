@@ -241,7 +241,7 @@ input {
 
 .write {
   color: grey;
-  width: 80%;
+  width: 90%;
 }
 
 .send {
