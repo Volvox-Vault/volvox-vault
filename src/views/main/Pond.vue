@@ -44,13 +44,14 @@ export default {
 }
 
 .header {
-  text-align: center;
+  text-align: right;
   color: grey;
   font-size: 20px;
+  float: right;
 }
 
 .space {
-  padding: 40px;
+  padding: 20px;
 }
 
 .chatness {
