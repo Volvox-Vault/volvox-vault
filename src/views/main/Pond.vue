@@ -11,13 +11,14 @@
     <footer
       style="
         position: fixed;
-        bottom: 0.5em;
-        width: 100%;
+        bottom: 2em;
+        right: 2em;
+        width: 50%;
       "
     >
       <img
         src="@/assets/pond.png"
-        style="display: block; margin: 0 auto; width: 50%"
+        style="display: block; margin: 0 auto; width: 30%; min-width: 150px;"
       />
     </footer>
   </div>
