@@ -2,7 +2,7 @@
   <div class="pond">
     <div class="space">
       <p class="header">The Pond</p>
-      <br /><br />
+      <br />
       <div class="chatness">
         <Chat />
       </div>
@@ -17,7 +17,7 @@
     >
       <img
         src="@/assets/pond.png"
-        style="display: block; margin: 0 auto; width: 50%"
+        style="display: block; margin-right: 20px; width: 50%"
       />
     </footer>
   </div>
