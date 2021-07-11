@@ -209,7 +209,6 @@ const colors = (hash) =>
 
 <style scoped>
 #chat {
-  padding: 16px;
   color: grey;
   line-height: 2;
 }
@@ -271,7 +270,7 @@ input:focus {
 
 hr {
   border: 0px;
-  border-bottom: 1px solid #c8c8c8;
+  border-bottom: 1px solid grey;
 }
 
 #code {

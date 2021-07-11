@@ -75,7 +75,9 @@
   <!-- CHAT -->
   <div class="block-Home chat-block-Home">
     <div class="block-Home-header">The Pond</div>
+    <div style="padding: 16px;">
     <Chat />
+    </div>
   </div>
 
 </div>
