@@ -96,6 +96,11 @@ hr {
   overflow-y: auto;
 }
 
+.pondpic {
+  margin: 15px; 
+  margin-right: 15px;
+}
+
 }
 </style>
 
