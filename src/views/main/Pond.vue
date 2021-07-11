@@ -52,10 +52,7 @@ export default {
   padding: 20px;
 }
 
-.chatness {
-  height: 70vh;
-  overflow-y: auto;
-}
+
 
 hr {
   border: none;
