@@ -261,7 +261,7 @@ input:focus {
   margin-right: 8px;
 }
 
-text {
+placeholder {
   color: grey;
 }
 
