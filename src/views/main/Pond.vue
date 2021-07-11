@@ -1,8 +1,8 @@
 <template>
   <div class="pond">
     <div class="space">
-      <p class="header">The Pond</p>
-      <br />
+      <router-link to="/"><p class="header">the volvox pond</p></router-link>
+      <hr />
       <div class="chatness">
         <Chat />
       </div>
@@ -11,14 +11,14 @@
     <footer
       style="
         position: fixed;
-        bottom: 2em;
-        right: 2em;
-        width: 50%;
+        bottom: 20px;
+        right: 20px;
+        width: 100%;
       "
     >
       <img
         src="@/assets/pond.png"
-        style="display: block; margin: 0 auto; width: 100%; min-width: 150px;"
+        class="pondpic"
       />
     </footer>
   </div>
@@ -39,15 +39,13 @@ export default {
 <style scoped>
 .pond {
   height: 100vh;
-  background-color: honeydew;
-  background: linear-gradient(honeydew, lightblue);
+  background-color: midnightblue;
 }
 
 .header {
-  text-align: right;
+  text-align: center;
   color: grey;
-  font-size: 20px;
-  float: right;
+  font-size: 14pt;
 }
 
 .space {
@@ -57,6 +55,29 @@ export default {
 .chatness {
   height: 70vh;
   overflow-y: auto;
+}
+
+hr {
+  border: none;
+  border-bottom: 1px solid grey;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.pondpic {
+  display: block; 
+  float: right; 
+  margin: 20px; 
+  width: 40%; 
+  min-width: 300px; 
+  max-width: 600px;
+}
+
+@media(max-width: 1990px) {
+  .pondpic {
+    max-width: 400px;
+    min-width: 300px;
+  }
 }
 </style>
 
