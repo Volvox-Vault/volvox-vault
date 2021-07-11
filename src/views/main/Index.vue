@@ -1,5 +1,8 @@
 <template>
   <MainLayout>
+
+    <script data-goatcounter="https://volvoxvault.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
     
 <div id="blocks-Home">
 

@@ -1,5 +1,7 @@
 <template>
   <div class="pond">
+    <script data-goatcounter="https://volvoxvault.goatcounter.com/count"
+        async src="//gc.zgo.at/count.js"></script>
     <div class="space">
       <router-link to="/"><p class="header">volvox pond</p></router-link>
       <hr />
