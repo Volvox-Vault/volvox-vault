@@ -247,7 +247,8 @@ const colors = (hash) =>
 input,
 input:focus {
   color: grey;
-  outline: none;
+  outline: 1px solid grey;
+  background: none;
 }
 
 .write {
