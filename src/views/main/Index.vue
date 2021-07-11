@@ -155,6 +155,7 @@ p, a, h1, h2 {
 
 .block-Home-header a {
   color: #9879a6;
+  line-height: 0;
 }
 
 .block-Home-shop {
