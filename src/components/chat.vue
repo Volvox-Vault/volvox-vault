@@ -50,7 +50,7 @@
         /> <input type="submit" class="send" value="Send" />
       </form>
 
-      <hr />
+      <br>
 
       <ul>
         <li
@@ -245,7 +245,7 @@ const colors = (hash) =>
 }
 
 input,
-input:focus {
+input:focus, input[type=submit] {
   color: grey;
   outline: 1px solid grey;
   background: none;
@@ -253,7 +253,8 @@ input:focus {
   margin-left: 1px;
 }
 
-#code, #name {
+#code,
+#name {
   outline: none;
 }
 
