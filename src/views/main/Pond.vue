@@ -1,7 +1,7 @@
 <template>
   <div class="pond">
     <div class="space">
-      <router-link to="/"><p class="header">the volvox pond</p></router-link>
+      <router-link to="/"><p class="header">volvox pond</p></router-link>
       <hr />
       <div class="chatness">
         <Chat />
