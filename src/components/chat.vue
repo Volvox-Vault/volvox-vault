@@ -253,6 +253,10 @@ input:focus {
   margin-left: 1px;
 }
 
+#code, #name {
+  outline: none;
+}
+
 .write {
   color: grey;
   width: 70%;
