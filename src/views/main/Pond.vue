@@ -74,6 +74,15 @@ hr {
   max-width: 600px;
 }
 
+::-webkit-scrollbar {
+  width: 0.2em;
+  background-color: midnightblue;
+}
+
+::-webkit-scrollbar-thumb {
+  background-color: grey;
+}
+
 @media(max-width: 1990px) {
   .pondpic {
     max-width: 400px;
