@@ -74,7 +74,7 @@
 
   <!-- CHAT -->
   <div class="block-Home chat-block-Home">
-    <div class="block-Home-header">Chat</div>
+    <div class="block-Home-header">The Pond</div>
     <Chat />
   </div>
 

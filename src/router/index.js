@@ -9,7 +9,7 @@ import Contribute from '../views/main/Contribute.vue'
 import Archive from '../views/main/Archive.vue'
 import Shop from '../views/main/Shop.vue'
 import Horoscopes from '../views/main/Horoscopes.vue'
-import Chat from '../views/main/Chatting.vue'
+import Pond from '../views/main/Pond.vue'
 
 import CafeDoor from '../views/cafe/CafeDoor.vue'
 import CafeToronto from '../views/cafe/Toronto.vue'
@@ -83,9 +83,9 @@ const routes = [
   },
 
   {
-    path: '/chatting',
-    name: 'Chat',
-    component: Chat
+    path: '/Pond',
+    name: 'Pond',
+    component: Pond
   },
 
   {

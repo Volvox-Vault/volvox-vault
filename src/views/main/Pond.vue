@@ -1,7 +1,7 @@
 <template>
   <MainLayout>
     <div>
-      <div>Chat</div>
+      <div>The Pond</div>
       <Chat />
     </div>
   </MainLayout>
