@@ -147,11 +147,16 @@ p, a, h1, h2 {
   text-decoration: none;
 }
 
-.block-Home-link a:hover, .recent-Router a:hover, .block-Home-shop a:hover {
+.block-Home-link a:hover, .recent-Router a:hover, .block-Home-shop a:hover, .block-Home-header a:hover {
   text-decoration: underline;
   color: #9879a6;
   cursor: pointer;
 }
+
+.block-Home-header a {
+  color: #9879a6;
+}
+
 .block-Home-shop {
   display: flex;
   justify-content: center;
