@@ -259,7 +259,7 @@ input:focus, input[type=submit] {
 }
 
 form {
-  margin-bottom: 15px;
+  margin-bottom: 14px;
 }
 
 .write {
