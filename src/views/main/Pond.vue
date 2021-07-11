@@ -13,13 +13,11 @@
         position: fixed;
         bottom: 0;
         width: 100%;
-        padding-bottom: 0.5em;
-        font-size: 1vw;
       "
     >
       <img
         src="@/assets/pond.png"
-        style="display: block; margin: 0 auto; width: 90%"
+        style="display: block; margin: 0 auto; width: 50%"
       />
     </footer>
   </div>
