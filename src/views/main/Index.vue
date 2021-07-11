@@ -75,7 +75,7 @@
   <!-- CHAT -->
   <div class="block-Home chat-block-Home">
     <div class="block-Home-header"><router-link to="/pond">Pond</router-link></div>
-    <div style="padding: 16px;">
+    <div style="padding: 10px;">
     <Chat />
     </div>
   </div>
