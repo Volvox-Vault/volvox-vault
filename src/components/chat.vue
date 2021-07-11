@@ -249,6 +249,8 @@ input:focus {
   color: grey;
   outline: 1px solid grey;
   background: none;
+  padding: 3px;
+  margin-left: 3px;
 }
 
 .write {
@@ -257,6 +259,10 @@ input:focus {
   min-width: 200px;
   border: grey;
   margin-right: 8px;
+}
+
+text {
+  color: grey;
 }
 
 .send {
