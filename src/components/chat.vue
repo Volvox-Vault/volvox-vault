@@ -250,7 +250,7 @@ input:focus {
   outline: 1px solid grey;
   background: none;
   padding: 3px;
-  margin-left: 3px;
+  margin-left: 1px;
 }
 
 .write {

@@ -80,5 +80,13 @@ hr {
     min-width: 300px;
   }
 }
+
+@media only screen and (max-device-width: 800px) {
+.chatness {
+  height: 50vh;
+  overflow-y: auto;
+}
+
+}
 </style>
 
