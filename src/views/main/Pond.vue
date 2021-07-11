@@ -43,7 +43,7 @@ export default {
 }
 
 .header {
-  text-align: center;
+  text-align: right;
   color: grey;
   font-size: 14pt;
 }
@@ -68,6 +68,7 @@ hr {
   display: block; 
   float: right; 
   margin: 20px; 
+  margin-right: 25px;
   width: 40%; 
   min-width: 300px; 
   max-width: 600px;
