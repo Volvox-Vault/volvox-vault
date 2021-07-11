@@ -1,17 +1,28 @@
 <template>
-    <div class="pond">
-      <div class="space">
+  <div class="pond">
+    <div class="space">
       <p class="header">The Pond</p>
-      <br><br>
-      <Chat />
+      <br /><br />
+      <div class="chatness">
+        <Chat />
       </div>
-
-         
-<footer style="position: fixed; bottom: 0; width: 100%;
-padding-bottom: 0.5em; font-size: 1vw;">
-<img src="@/assets/pond.png" style="display: block; margin: 0 auto; width: 90%"/>
-</footer>
     </div>
+
+    <footer
+      style="
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+        padding-bottom: 0.5em;
+        font-size: 1vw;
+      "
+    >
+      <img
+        src="@/assets/pond.png"
+        style="display: block; margin: 0 auto; width: 90%"
+      />
+    </footer>
+  </div>
 </template>
 
 
@@ -21,7 +32,7 @@ import Chat from "../../components/chat";
 export default {
   name: "Pond",
   components: {
-    Chat
+    Chat,
   },
 };
 </script>
@@ -42,4 +53,10 @@ export default {
 .space {
   padding: 40px;
 }
+
+.chatness {
+  height: 70vh;
+  overflow-y: auto;
+}
 </style>
+
