@@ -50,7 +50,7 @@
         /> <input type="submit" class="send" value="Send" />
       </form>
 
-      <br>
+      
 
       <ul>
         <li
@@ -256,6 +256,10 @@ input:focus, input[type=submit] {
 #code,
 #name {
   outline: none;
+}
+
+form {
+  margin-bottom: 5px;
 }
 
 .write {
