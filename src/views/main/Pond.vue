@@ -18,7 +18,7 @@
     >
       <img
         src="@/assets/pond.png"
-        style="display: block; margin: 0 auto; width: 30%; min-width: 150px;"
+        style="display: block; margin: 0 auto; width: 100%; min-width: 150px;"
       />
     </footer>
   </div>
