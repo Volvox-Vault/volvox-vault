@@ -253,15 +253,18 @@ input:focus, input[type=submit] {
   background: none;
   padding: 3px;
   margin-left: 1px;
+  font-size: 12pt;
 }
 
 #code,
 #name {
   outline: none;
+  font-size: 12pt;
 }
 
 form {
   margin-bottom: 14px;
+  font-size: 12pt;
 }
 
 .write {
@@ -270,6 +273,7 @@ form {
   min-width: 200px;
   border: grey;
   margin-right: 8px;
+  font-size: 12pt;
 }
 
 placeholder {
@@ -278,6 +282,7 @@ placeholder {
 
 .send {
   color: grey;
+  font-size: 12pt;
 }
 
 .write:hover,
