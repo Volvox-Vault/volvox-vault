@@ -164,10 +164,11 @@ export default {
           message.name === this.name &&
           message.hash === this.doubleHashedCode &&
           message.message === this.message
-        )
+        ){
           // Clear the input box, cause our message is sent!
           this.message = "";
         localStorage.setItem("chat_message", "");
+        }
       }
     };
 
