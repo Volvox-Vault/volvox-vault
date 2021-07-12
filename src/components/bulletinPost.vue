@@ -202,7 +202,7 @@ export default {
 
   #blocks-Collab {
     display: grid;
-    grid-template-columns: repeat(1, 1fr);
+    grid-template-columns: repeat(2, 1fr);
     grid-gap: 10px;
     margin: 20px;
     padding: 0;
@@ -214,7 +214,7 @@ export default {
 
 #blocks-Collab {
   display: grid;
-  grid-template-columns: repeat(1, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   grid-gap: 10px;
   margin: 20px;
   padding: 0;
