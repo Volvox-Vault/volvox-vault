@@ -212,6 +212,7 @@ const colors = (hash) =>
 #chat {
   color: grey;
   line-height: 2;
+  font-size: 12pt;
 }
 
 #chat ul {
