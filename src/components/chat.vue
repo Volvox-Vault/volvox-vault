@@ -157,18 +157,18 @@ export default {
       ) {
         message.colors = colors(message.hash);
 
-        delete message.hash;
-        this.messages.push(message);
-
         if (
           message.name === this.name &&
           message.hash === this.doubleHashedCode &&
           message.message === this.message
-        ){
+        ) {
           // Clear the input box, cause our message is sent!
           this.message = "";
-        localStorage.setItem("chat_message", "");
+          localStorage.setItem("chat_message", "");
         }
+
+        delete message.hash;
+        this.messages.push(message);
       }
     };
 
@@ -247,7 +247,8 @@ const colors = (hash) =>
 }
 
 input,
-input:focus, input[type=submit] {
+input:focus,
+input[type="submit"] {
   color: grey;
   outline: 1px solid grey;
   background: none;
