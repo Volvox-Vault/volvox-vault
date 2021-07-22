@@ -10,7 +10,7 @@
     <h1 style="font-weight: normal;">Hang out with...</h1>
     <table>
         <tr><td><a href="http://tianasroom.glitch.me/">tiana</a></td><td><a href="http://andreisroom.glitch.me/">andrei</a></td><td><a href="https://madeleinesroom.glitch.me/">madeleine</a></td><td><a href="http://tianasroom.glitch.me/">you?</a></td></tr>
-        <tr><td><a href="http://tianasroom.glitch.me/">friend</a></td><td><a href="http://tianasroom.glitch.me/">friend</a><td><a href="http://tianasroom.glitch.me/">friend</a></td><td><a href="http://tianasroom.glitch.me/">friend</a></td></tr>
+        <tr><td><a href="http://ezrasroom.glitch.me/">ezra</a></td><td><a href="http://tianasroom.glitch.me/">...</a><td><a href="http://tianasroom.glitch.me/">...</a></td><td><a href="http://tianasroom.glitch.me/">...</a></td></tr>
     </table>
     </div>
     
