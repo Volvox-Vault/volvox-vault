@@ -85,7 +85,7 @@
             controls
           >
             <source
-              src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2FLeslie%20Spit%20Proj%20Cut%202.mp4?v=1625605177984"
+              src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fthumbnails%2Fleslie-spit-subtitle.mov?1627752102572"
               type="video/mp4"
             />
             Your browser does not support the video tag.
