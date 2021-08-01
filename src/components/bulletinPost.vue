@@ -90,7 +90,7 @@ export default {
                 date: 'Anytime',
             },
             {
-                header: 'Music Producers',
+                header: 'ISO Music Producers',
                 des: 'I am a filmmaker, looking for score from music producers who specialize in ambient electronic music. Not for any specific project yet...',
                 contact: 'Kalil Haddad - kalil.haddad@gmail.com',
                 website: 'https://kalilhaddad.com',
