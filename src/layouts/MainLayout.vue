@@ -40,6 +40,7 @@
   scrollbar-color: #e5e5e5 yellowgreen;
   scrollbar-width: thin !important;
 }
+
 body {
   margin: 0 auto;
   font-family: sans-serif;

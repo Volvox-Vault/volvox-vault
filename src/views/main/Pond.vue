@@ -76,6 +76,12 @@ export default {
 </script>
 
 <style scoped>
+
+* {
+  scrollbar-color: grey midnightblue;
+  scrollbar-width: thin !important;
+}
+
 .pond {
   height: 100vh;
   background-color: midnightblue;
