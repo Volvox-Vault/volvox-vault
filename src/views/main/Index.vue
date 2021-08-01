@@ -25,7 +25,7 @@
     
     <div class="recent">
     <div class="recent-Router"><router-link to="/archive/LHO">Let's Hang Out</router-link></div>
-    <div class="recent-Router"><router-link to="/archive/noPlace">There's No Place Like Home</router-link></div>
+    <div class="recent-Router"><router-link to="/archive/alchemy">Better Living Through Alchemy</router-link></div>
     <div class="recent-Router"><a href="https://developingathomewithwill.glitch.me/">Developing At Home With Will</a></div>
     <div class="recent-Router"><router-link to="/archive/TVS">Tiny Video Showcase</router-link></div>
     </div>
