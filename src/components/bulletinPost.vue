@@ -55,6 +55,13 @@ export default {
                 date: 'September 18th, 2021',
             },
             {
+                header: 'Teal Process & Company',
+                des: 'Teal Process & Company is always an open question.',
+                contact: 'heyo@tealprocess.net',
+                website: 'https://tealprocess.net/',
+                date: 'Anytime',
+            },
+            {
                 header: 'ponyHAUS',
                 des: 'The A/V livestream show for neighsayers.',
                 contact: 'Instagram: @ponyhaus',
