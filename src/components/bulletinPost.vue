@@ -55,6 +55,13 @@ export default {
                 date: 'September 18th, 2021',
             },
             {
+                header: 'ponyHAUS',
+                des: 'The A/V livestream show for neighsayers.',
+                contact: 'Instagram: @ponyhaus',
+                website: 'https://ponyhaus.com/',
+                date: 'Follow for news on upcoming shows.',
+            },
+            {
                 header: 'craft makerspace',
                 des: 'Craft Makerspace is an online community open to anyone working between the fields of craft and technology. We welcome sourdough connoisseurs, weavers, 3-d printer enthusiasts, game designers, coders, welders, and any person who enjoys making things from scratch. Our mission is to provide a supportive web community for people to share their handcrafted knowledge and projects with one another and to offer a fruitful space for collaboration.',
                 contact: 'christinasadovnikov@gmail.com',
