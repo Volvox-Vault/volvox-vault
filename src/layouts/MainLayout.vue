@@ -37,7 +37,7 @@
 <style>
 
 * {
-  scrollbar-color: yellowgreen #e5e5e5;
+  scrollbar-color: #e5e5e5 yellowgreen;
   scrollbar-width: thin !important;
 }
 body {
