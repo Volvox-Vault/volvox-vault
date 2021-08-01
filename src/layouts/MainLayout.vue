@@ -35,12 +35,15 @@
 
 
 <style>
+
+* {
+  scrollbar-color: yellowgreen gainsboro;
+  scrollbar-width: thin !important;
+}
 body {
   margin: 0 auto;
   font-family: sans-serif;
   background-color: #e5e5e5;
-  scrollbar-color: yellowgreen gainsboro;
-  scrollbar-width: thin !important;
 }
 
 p,
