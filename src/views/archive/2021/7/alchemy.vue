@@ -5,7 +5,7 @@
         Volvox Vault - An essay by Jake Fee, featured in Metamorphosis.
       </title>
 
-      <link rel="shortcut icon" type="image/jpg" href="hp_0.jpg" />
+      <link rel="shortcut icon" type="image/jpg" href="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fjake.png?v=1627754078271" />
 
       <meta name="viewport" content="width=device-width, initial-scale=1" />
 
