@@ -417,8 +417,8 @@
 
             <a href="http://fee.cool/" target="_blank">
               Jake Fee's website.
-            </a> | <a href="" target="_blank">
-              Jake Fee's Tip Jar ☕ - coming soon
+            </a> | <a href="https://www.paypal.com/paypalme/ti4na" target="_blank">
+              Tip Jar ☕
             </a>
           </div>
         </div>

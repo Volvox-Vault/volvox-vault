@@ -23,15 +23,15 @@
           We are <a href="/Support">supported</a> by community members like
           you.<br /><br />
 
-          Editor-in-Chief —
+          Community Director —
           <a href="https://tiana.computer/" target="_blank">Tiana Dueck</a
           ><br />
-          Website Team — Tiana Dueck &#38;
-          <a href="https://ari.computer/" target="_blank">Ari Lotter</a><br />
-          Managing Editor —
+          Community Manager —
           <a href="http://beatricedouaihy.com//" target="_blank"
             >Beatrice Douaihy</a
           ><br />
+          Website Team — Tiana Dueck &#38;
+          <a href="https://ari.computer/" target="_blank">Ari Lotter</a><br />
           Horoscopes —
           <a href="mailto:themoonthestarsandem@gmail.com">Em Biggs</a
           ><br /><br />
