@@ -6,7 +6,7 @@
         on the ‘Gram
       </title>
 
-      <link rel="shortcut icon" type="image/jpg" href="./hp_0.jpg" />
+      <link rel="shortcut icon" type="image/jpg" href="@views/archive/2021/3/hp_0.jpg" />
 
       <meta name="viewport" content="width=device-width, initial-scale=1" />
 
