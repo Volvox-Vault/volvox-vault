@@ -234,7 +234,7 @@
               
               <h2>♍ Virgo: Distillation</h2>
               <p>Ingredients: digested dough, plastic bag</p> 
-              <p>Mold the dough into a
+              <p>1. Mold the dough into a
               form that represents your experience. Do not think about the form,
               rather, simply keep your hands moving and shaping until the piece
               feels finished. Whatever you come up with will be the correct
