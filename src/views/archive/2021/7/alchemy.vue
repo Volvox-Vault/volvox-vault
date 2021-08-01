@@ -80,7 +80,7 @@
               
             </p>
             <br>
-            <p style="text-align: center;">♈ ♉ ♊ ♋ ♌ ♍ ♎ ♏ ♐ ♑ ♒ ♓</p>
+            <p style="text-align: center; font-size: 10pt;">♈ ♉ ♊ ♋ ♌ ♍ ♎ ♏ ♐ ♑ ♒ ♓</p>
             <br>
             <p>
               
