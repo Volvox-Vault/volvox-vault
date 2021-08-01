@@ -4,30 +4,30 @@
 
     <head>
       <title>
-        Volvox Vault - An essay by Jake Fee, featured in Metamorphosis.
+        Volvox Vault
       </title>
 
-      <link rel="shortcut icon" type="image/png" href="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fjake.png?v=1627754078271" />
+      <link rel="shortcut icon" type="image/png" href="@assets/logo.png" />
 
       <meta name="viewport" content="width=device-width, initial-scale=1" />
 
       <meta
         name="description"
-        content="An essay by Jake Fee, featured in Metamorphosis."
+        content="a creative community"
       />
       <meta name="author" content="Jake Fee" />
 
       <meta
         property="og:title"
-        content="Volvox Vault - An essay by Jake Fee, featured in Metamorphosis."
+        content="Volvox Vault"
       />
       <meta
         property="og:description"
-        content="An essay by Jake Fee, featured in Metamorphosis."
+        content="a creative community"
       />
       <meta
         property="og:image"
-        content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fjake.png?v=1627754078271"
+        content="@assets/logo.png"
       />
       <meta
         property="og:url"
@@ -36,19 +36,19 @@
 
       <meta
         property="twitter:title"
-        content="Volvox Vault - Better Living Through Alchemy"
+        content="Volvox Vault"
       />
       <meta
         property="twitter:description"
-        content="An essay by Jake Fee, featured in Metamorphosis."
+        content="a creative community"
       />
       <meta
         property="twitter:image"
-        content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fjake.png?v=1627754078271"
+        content="@assets/logo.png"
       />
       <meta
         property="twitter:url"
-        content="http://volvoxvault.com/articles/2021/homeCooking/"
+        content="http://volvoxvault.com/"
       />
     </head>
 
