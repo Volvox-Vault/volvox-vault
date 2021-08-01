@@ -29,6 +29,13 @@ export default {
             title: "Archive",
             colony: [
             {
+                date: 'July 2021',
+                author: 'Jake Fee',
+                title: 'Better Living Through Alchemy',
+                link: '/archive/alchemy',
+                type: 'article',
+            },
+            {
                 date: 'May 2021',
                 author: 'Volvox Colony',
                 title: 'Let\'s Hang Out',
