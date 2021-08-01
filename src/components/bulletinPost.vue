@@ -26,7 +26,7 @@
             
                 <p class="block-Collab-link bulletin-contact">{{item.contact}}</p>
       
-                <p class="block-Collab-link bulletin-www"><a href="item.website" target="_blank">{{item.website}}</a></p>
+                <p class="block-Collab-link bulletin-www"><a v-bind:href="item.website" target="_blank">{{item.website}}</a></p>
          
                 <p class="block-Collab-link bulletin-date">{{item.date}}</p>
                 <br>
