@@ -1,28 +1,65 @@
 <template>
-  <div class="pond">
-    <script data-goatcounter="https://volvoxvault.goatcounter.com/count"
-        async src="//gc.zgo.at/count.js"></script>
-    <div class="space">
-      <router-link to="/"><p class="header">volvox pond</p></router-link>
-      <hr />
-      <div class="chatness">
-        <Chat />
-      </div>
-    </div>
+  <div>
+    <head>
+      <title>Volvox Vault</title>
 
-    <footer
-      style="
-        position: fixed;
-        bottom: 20px;
-        right: 20px;
-        width: 100%;
-      "
-    >
-      <img
-        src="@/assets/pond.png"
-        class="pondpic"
-      />
-    </footer>
+      <link rel="shortcut icon" type="image/png" href="@assets/logo.png" />
+
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+      <meta name="description" content="welcome to the pond" />
+      <meta name="author" content="Tiana Dueck" />
+
+      <meta property="og:title" content="Volvox Pond" />
+      <meta property="og:description" content="welcome to the pond" />
+      <meta property="og:image" content="@assets/logo.png" />
+      <meta property="og:url" content="http://volvoxvault.com/" />
+
+      <meta property="twitter:title" content="Volvox Pond" />
+      <meta property="twitter:description" content="welcome to the pond" />
+      <meta property="twitter:image" content="@assets/logo.png" />
+      <meta property="twitter:url" content="http://volvoxvault.com/" />
+
+      <!-- Global site tag (gtag.js) - Google Analytics -->
+      <script
+        async
+        src="https://www.googletagmanager.com/gtag/js?id=UA-85410486-3"
+      ></script>
+      <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() {
+          dataLayer.push(arguments);
+        }
+        gtag("js", new Date());
+
+        gtag("config", "UA-85410486-3");
+      </script>
+
+      <script
+        data-goatcounter="https://volvoxvault.goatcounter.com/count"
+        async
+        src="//gc.zgo.at/count.js"
+      ></script>
+    </head>
+
+    <div class="pond">
+      <script
+        data-goatcounter="https://volvoxvault.goatcounter.com/count"
+        async
+        src="//gc.zgo.at/count.js"
+      ></script>
+      <div class="space">
+        <router-link to="/"><p class="header">volvox pond</p></router-link>
+        <hr />
+        <div class="chatness">
+          <Chat />
+        </div>
+      </div>
+
+      <footer style="position: fixed; bottom: 20px; right: 20px; width: 100%">
+        <img src="@/assets/pond.png" class="pondpic" />
+      </footer>
+    </div>
   </div>
 </template>
 
@@ -67,12 +104,12 @@ hr {
 }
 
 .pondpic {
-  display: block; 
-  float: right; 
-  margin: 20px; 
+  display: block;
+  float: right;
+  margin: 20px;
   margin-right: 25px;
-  width: 40%; 
-  min-width: 300px; 
+  width: 40%;
+  min-width: 300px;
   max-width: 600px;
 }
 
@@ -85,7 +122,7 @@ hr {
   background-color: grey;
 }
 
-@media(max-width: 1990px) {
+@media (max-width: 1990px) {
   .pondpic {
     max-width: 400px;
     min-width: 300px;
@@ -93,16 +130,15 @@ hr {
 }
 
 @media only screen and (max-device-width: 800px) {
-.chatness {
-  height: 50vh;
-  overflow-y: auto;
-}
+  .chatness {
+    height: 50vh;
+    overflow-y: auto;
+  }
 
-.pondpic {
-  margin: 15px; 
-  margin-right: 15px;
-}
-
+  .pondpic {
+    margin: 15px;
+    margin-right: 15px;
+  }
 }
 </style>
 
