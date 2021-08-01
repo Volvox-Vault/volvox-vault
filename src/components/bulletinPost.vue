@@ -47,7 +47,14 @@ export default {
         return {
             title: "Bulletin",
             colony: [
-              {
+            {
+                header: 'Glutenhead, fanclubwallet, Alex Nunes',
+                des: 'Young Toronto art-rockers Glutenhead celebrate the release of their newest single with extra-special guest from Ottawa - fanclubwallet! Plus: Alex Nunes of Spirit Josh introducing his new solo project.',
+                contact: 'The Monarch Tavern - Toronto, ON',
+                website: 'https://embed.showclix.com/event/glutenhead-fanclubwallet-alex-nunes',
+                date: 'September 18th, 2021',
+            },
+            {
                 header: 'craft makerspace',
                 des: 'Craft Makerspace is an online community open to anyone working between the fields of craft and technology. We welcome sourdough connoisseurs, weavers, 3-d printer enthusiasts, game designers, coders, welders, and any person who enjoys making things from scratch. Our mission is to provide a supportive web community for people to share their handcrafted knowledge and projects with one another and to offer a fruitful space for collaboration.',
                 contact: 'christinasadovnikov@gmail.com',
