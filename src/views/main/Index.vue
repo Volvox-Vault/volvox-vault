@@ -151,8 +151,23 @@
           <a href="https://packstheband.bandcamp.com/" target="_blank">PACKS</a>
         </p>
         <p class="block-Home-link">
+          <a href="https://glutenhead.bandcamp.com/" target="_blank"
+            >Glutenhead</a
+          >
+        </p>
+        <p class="block-Home-link">
           <a href="https://alexnunes.bandcamp.com/" target="_blank"
             >Alex Nunes</a
+          >
+        </p>
+        <p class="block-Home-link">
+          <a href="https://fanclubwallet.bandcamp.com/" target="_blank"
+            >fanclubwallet</a
+          >
+        </p>
+        <p class="block-Home-link">
+          <a href="https://lunali.bandcamp.com/" target="_blank"
+            >Luna Li</a
           >
         </p>
         <p class="block-Home-link">
