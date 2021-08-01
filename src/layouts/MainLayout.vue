@@ -39,6 +39,8 @@ body {
   margin: 0 auto;
   font-family: sans-serif;
   background-color: #e5e5e5;
+  scrollbar-color: gainsboro yellowgreen;
+  scrollbar-width: thin;
 }
 
 p,
