@@ -52,6 +52,9 @@
           <router-link to="/archive">Archive</router-link>
         </p>
         <p class="block-Home-link">
+          <router-link to="/bulletin">Bulletin ~ Find out what's new.</router-link>
+        </p>
+        <p class="block-Home-link">
           <router-link to="/contribute">Contribute</router-link>
         </p>
         <p class="block-Home-link">
