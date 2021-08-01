@@ -37,7 +37,7 @@
 <style>
 
 * {
-  scrollbar-color: yellowgreen gainsboro;
+  scrollbar-color: yellowgreen #e5e5e5;
   scrollbar-width: thin !important;
 }
 body {
