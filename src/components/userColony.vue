@@ -42,7 +42,7 @@ export default {
             {
                 name: 'Tiana Dueck',
                 feat: 'in everything',
-                bio: 'Website maker, community enthusiast, & more.',
+                bio: 'Website maker, community enthusiast, & more. (aka algae)',
                 email: 'tiana@volvoxvault.com',
                 website: 'https://tiana.computer/',
                 websiteShow: 'tiana.computer',
