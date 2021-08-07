@@ -37,8 +37,8 @@
 
         <ul class="block-Submit-ul">
           <li><b>
-            Heart: An issue reflecting on confidence, empowerment, and
-            empathy.</b></li>
+            Heart: An issue reflecting on empathy, friendship, and
+            love.</b></li>
           <li>Deadline November 10th.</li>
           <li>
             You can create new art, or submit something you made in the past
