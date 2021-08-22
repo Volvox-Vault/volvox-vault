@@ -279,7 +279,8 @@
         to go out on a limb and express how you’re feeling... most likely they
         are feeling the same way.
       </p>
-      <br />
+
+      <hr style="border: none; border-bottom: 1px dashed" />
 
       <p>
         We strive to make our horoscopes accessible to all visitors!<br />
