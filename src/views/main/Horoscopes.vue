@@ -1,6 +1,6 @@
 <template>
   <body>
-    <div>
+    <div style="background: linear-gradient(#ebf5fb, #aed6f1);">
       <h1>summer 2021 horoscopes ☽</h1>
 
       <hr style="border: none; border-bottom: 1px dashed" />
