@@ -1,6 +1,5 @@
 <template>
   <body>
-    <title>horoscopes</title>
     <div style="background: linear-gradient(#ebf5fb, #aed6f1);">
       <h1>summer 2021 horoscopes ☽</h1>
 
@@ -279,7 +278,7 @@
         need for tenderness from friends, family, or a partner, it may be time
         to go out on a limb and express how you’re feeling... most likely they
         are feeling the same way.
-      </p>
+      </p><br />
 
       <hr style="border: none; border-bottom: 1px dashed" />
 
