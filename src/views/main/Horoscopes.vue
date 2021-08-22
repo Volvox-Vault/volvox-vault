@@ -59,87 +59,230 @@
         nature. Think of yourself as an animal, because after all, that’s what
         you are...isn’t it?
       </p>
+      <br />
 
       <p>
-        <strong>LEO</strong> ~ Little lion cub, this is the season for you to embrace your bliss. What makes you shine brighter than the rest is your ability to channel the energy of ecstasy and pure enjoyment. Make time for healthy and holistic “fun”. Participate in opportunities that activate your flow state. Everything under the sun is a playground for you to run, dance, and sing in. This quality of following your bliss is attractive beyond measure. Love yourself, then love the world.
+        <strong>LEO</strong> ~ Little lion cub, this is the season for you to
+        embrace your bliss. What makes you shine brighter than the rest is your
+        ability to channel the energy of ecstasy and pure enjoyment. Make time
+        for healthy and holistic “fun”. Participate in opportunities that
+        activate your flow state. Everything under the sun is a playground for
+        you to run, dance, and sing in. This quality of following your bliss is
+        attractive beyond measure. Love yourself, then love the world.
       </p>
-    <br />
+      <br />
 
       <p>
-        <strong>SAGITTARIUS</strong> ~ Hello fire power! Dearest Sagittarius, it is time to be inspired by everything. The good, the bad, and yes, even the ugly can offer up inspiration to our deepest levels of consciousness. If you are going through a dry spell in terms of creativity, take the pressure OFF. Remind yourself that inspiration does not insist upon action. The potency of an idea is all it takes. If it isn’t jiving the way you’d like to do now, give it a rest and return back to the root of your muse. Recognize how the simple things inspire you, and how you are an inspiration to the world around you on a daily basis. 
+        <strong>SAGITTARIUS</strong> ~ Hello fire power! Dearest Sagittarius, it
+        is time to be inspired by everything. The good, the bad, and yes, even
+        the ugly can offer up inspiration to our deepest levels of
+        consciousness. If you are going through a dry spell in terms of
+        creativity, take the pressure OFF. Remind yourself that inspiration does
+        not insist upon action. The potency of an idea is all it takes. If it
+        isn’t jiving the way you’d like to do now, give it a rest and return
+        back to the root of your muse. Recognize how the simple things inspire
+        you, and how you are an inspiration to the world around you on a daily
+        basis.
       </p>
- <br />
+      <br />
 
       <p>
-        <strong>ARIES</strong> ~ Aries, both precious and precocious shapeshifters...take heart in being everything all at once. Do not box yourself in with labels and meaningless identifications. This season, leave your nametag at the door and allow your vibration to change and shift with your own unique cycle. At times it may feel overwhelming and confusing when you are constantly in flux. Remember that no matter what you are rooted in the present moment, and all else will fall into place. 
+        <strong>ARIES</strong> ~ Aries, both precious and precocious
+        shapeshifters...take heart in being everything all at once. Do not box
+        yourself in with labels and meaningless identifications. This season,
+        leave your nametag at the door and allow your vibration to change and
+        shift with your own unique cycle. At times it may feel overwhelming and
+        confusing when you are constantly in flux. Remember that no matter what
+        you are rooted in the present moment, and all else will fall into place.
       </p>
       <br />
 
       <h2>Water Signs: Goddess Guidance</h2>
-      <p><i>Corn Woman: Nourishment</i><br><br>
-      The Goddess of the harvest reminds us to nourish ourselves as we would nourish our crops so that both may flourish, growing strong enough to offer back that nourishment to the greater good. This is a continuous cycle that depends upon the principle of self care. Ah yes, that all too often capitalistic idea of “self care” makes us overspend and underestimate what it really means to take care of our body, mind, and spirit. Be smart enough to stay far away from this shallow interpretation of nourishment. This season, the focus of nourishment calls forward a holistic approach. What food do you fuel your body with? What words do you water your soul with? What kind of energies do you allow into your home? Nourishing ourselves involves tender care AND discipline. Finding the happy medium between the two is of utmost importance. 
-      </p>
-
       <p>
-        <strong>CANCER</strong> ~ You are outgrowing your shell, little lunar one. In the Western hemisphere, Summer begins with your season. Have you ever noticed how things seem to change as your birthday draws near? This is because you are a cyclical crab, entering another round of death and rebirth. Release what no longer serves you. Release what you’ve outgrown. If your shell is getting too heavy, it is time to squiggle out and be vulnerable for a time before you slowly begin again— finding your new comforts. Listen to your intuition. That gut feeling that you describe as “claustrophobia” is here to announce this wisdom: change is good. It is part of who you are. Find the beauty in the beginning again. 
+        <i>Corn Woman: Nourishment</i><br /><br />
+        The Goddess of the harvest reminds us to nourish ourselves as we would
+        nourish our crops so that both may flourish, growing strong enough to
+        offer back that nourishment to the greater good. This is a continuous
+        cycle that depends upon the principle of self care. Ah yes, that all too
+        often capitalistic idea of “self care” makes us overspend and
+        underestimate what it really means to take care of our body, mind, and
+        spirit. Be smart enough to stay far away from this shallow
+        interpretation of nourishment. This season, the focus of nourishment
+        calls forward a holistic approach. What food do you fuel your body with?
+        What words do you water your soul with? What kind of energies do you
+        allow into your home? Nourishing ourselves involves tender care AND
+        discipline. Finding the happy medium between the two is of utmost
+        importance.
       </p>
       <br />
 
       <p>
-      <strong>SCORPIO</strong> ~ This season is all about compassion and vulnerability. When you feel that something isn’t quite right you have the tendency to tense up and draw those pincers up— ready to defend and protect your heart. There is nothing wrong with that Scorpio, but it will only get you so far. Somethings in life are meant to permeate our slick scorpion armour. Compassion is one of those things. Have you been too hard on yourself or those around you? Have you been feeling like no one is considering your feelings? Have you been hiding your true feelings in order to avoid being seen fully? The gaze of compassion seeks all, but settles only on those who are humble enough to be looked at. 
+        <strong>CANCER</strong> ~ You are outgrowing your shell, little lunar
+        one. In the Western hemisphere, Summer begins with your season. Have you
+        ever noticed how things seem to change as your birthday draws near? This
+        is because you are a cyclical crab, entering another round of death and
+        rebirth. Release what no longer serves you. Release what you’ve
+        outgrown. If your shell is getting too heavy, it is time to squiggle out
+        and be vulnerable for a time before you slowly begin again— finding your
+        new comforts. Listen to your intuition. That gut feeling that you
+        describe as “claustrophobia” is here to announce this wisdom: change is
+        good. It is part of who you are. Find the beauty in the beginning again.
       </p>
       <br />
 
       <p>
-      <strong>PISCES</strong> ~ Anger is not you primary emotion, little fish, but as you swim through more turbulent waters it is important that you don’t cut yourself short of the experience of frustration. Often, as sensitive individuals, we are taught that anger is only destructive and creates conflict. This may be true for some, but with your watery wisdom and aloof dreamer mind, you can coach yourself through your “not so nice” emotions so that you experience them fully and express them for the highest good of all. Don’t swim away from a bad feeling. Approach it with an open mind and a loving heart, and watch how the healing waters transform it into a new treasure. 
+        <strong>SCORPIO</strong> ~ This season is all about compassion and
+        vulnerability. When you feel that something isn’t quite right you have
+        the tendency to tense up and draw those pincers up— ready to defend and
+        protect your heart. There is nothing wrong with that Scorpio, but it
+        will only get you so far. Somethings in life are meant to permeate our
+        slick scorpion armour. Compassion is one of those things. Have you been
+        too hard on yourself or those around you? Have you been feeling like no
+        one is considering your feelings? Have you been hiding your true
+        feelings in order to avoid being seen fully? The gaze of compassion
+        seeks all, but settles only on those who are humble enough to be looked
+        at.
       </p>
       <br />
 
-      
+      <p>
+        <strong>PISCES</strong> ~ Anger is not you primary emotion, little fish,
+        but as you swim through more turbulent waters it is important that you
+        don’t cut yourself short of the experience of frustration. Often, as
+        sensitive individuals, we are taught that anger is only destructive and
+        creates conflict. This may be true for some, but with your watery wisdom
+        and aloof dreamer mind, you can coach yourself through your “not so
+        nice” emotions so that you experience them fully and express them for
+        the highest good of all. Don’t swim away from a bad feeling. Approach it
+        with an open mind and a loving heart, and watch how the healing waters
+        transform it into a new treasure.
+      </p>
+      <br />
+
       <h2>Earth Signs: Goddess Guidance</h2>
       <p>
         <i>Sulis: Illness / Wellness </i><br /><br />
-        The Goddess Sulis offers deep knowledge of the mystery of health. So often we are caught up in our afflictions, both physical and spiritual, that we miss an important truth: the illness is the medicine. We are not meant to “overcome” our afflictions in the sense that we win, but work with them to learn the potency of their deeper meaning in our lives. What knowledge do we gain if we never take the time to hear the villains backstory? Sulis also calls us to recognize what state of living we are in. When we are in illness we are being called to direct our energy and efforts internally, to ourselves. When we are in wellness we are being called to direct that energy outwards, to others and to the world around us. 
-      </p>
-
-      <p>
-      <strong>TAURUS</strong> ~ Healing is not linear. It is elemental. Look for the reflection of your healing journey in the elements around you. Mother nature experiences trauma, just as you have. When it comes to reconciling with the Earth, we must treat it as we would our own holy bodies. Look for opportunities that allow you to dig up past painful experiences and use them as fertilizer for new seeds to be sown. Think of your healing process as a compost process. After all, the Taurean timeline knows that patience is of the essence. What once was the jagged edge of an egg shell can slowly but surely turn into a new leaf. 
+        The Goddess Sulis offers deep knowledge of the mystery of health. So
+        often we are caught up in our afflictions, both physical and spiritual,
+        that we miss an important truth: the illness is the medicine. We are not
+        meant to “overcome” our afflictions in the sense that we win, but work
+        with them to learn the potency of their deeper meaning in our lives.
+        What knowledge do we gain if we never take the time to hear the villains
+        backstory? Sulis also calls us to recognize what state of living we are
+        in. When we are in illness we are being called to direct our energy and
+        efforts internally, to ourselves. When we are in wellness we are being
+        called to direct that energy outwards, to others and to the world around
+        us.
       </p>
       <br />
 
       <p>
-      <strong>CAPRICORN</strong> ~ Empowerment is what comes after we realize our challenges are merely opportunities for growth. How has your personal power been developing over this season? Have you been feeling sturdy in your boots, or shaky at the knees? The most empowering experiences are born when we allow ourselves to be vulnerable. This season is a time to remain open to the concept of being naked without being afraid. Know that when you feel weak and unstable, it is only an invitation to realize that you are up for the challenge. On the other side of your fear is empowerment. If you are still in the midst of feeling at a loss, allow yourself to wobble. 
+        <strong>TAURUS</strong> ~ Healing is not linear. It is elemental. Look
+        for the reflection of your healing journey in the elements around you.
+        Mother nature experiences trauma, just as you have. When it comes to
+        reconciling with the Earth, we must treat it as we would our own holy
+        bodies. Look for opportunities that allow you to dig up past painful
+        experiences and use them as fertilizer for new seeds to be sown. Think
+        of your healing process as a compost process. After all, the Taurean
+        timeline knows that patience is of the essence. What once was the jagged
+        edge of an egg shell can slowly but surely turn into a new leaf.
       </p>
       <br />
 
       <p>
-      <strong>VIRGO</strong> ~ Dearest earthly yet ethereal Virgo, despite your desire to be the keeper of order, you cannot know all. Make room for mystery and life will surprise you with more joy, more excitement, and more appreciation for the unknown. When it comes to control, you’d rather be IN it, but what does it really mean to be IN control? Control is not a real place. Accepting that we don’t know and cannot know everything provides us with the chance to let loose and not take things so seriously. The allure of mother mystery is such that we cannot know her. We cannot see her beauty, but we sense it. Allow this feeling to tug at your heart strings and open your mind to the endless possibilities that await.
+        <strong>CAPRICORN</strong> ~ Empowerment is what comes after we realize
+        our challenges are merely opportunities for growth. How has your
+        personal power been developing over this season? Have you been feeling
+        sturdy in your boots, or shaky at the knees? The most empowering
+        experiences are born when we allow ourselves to be vulnerable. This
+        season is a time to remain open to the concept of being naked without
+        being afraid. Know that when you feel weak and unstable, it is only an
+        invitation to realize that you are up for the challenge. On the other
+        side of your fear is empowerment. If you are still in the midst of
+        feeling at a loss, allow yourself to wobble.
+      </p>
+      <br />
+
+      <p>
+        <strong>VIRGO</strong> ~ Dearest earthly yet ethereal Virgo, despite
+        your desire to be the keeper of order, you cannot know all. Make room
+        for mystery and life will surprise you with more joy, more excitement,
+        and more appreciation for the unknown. When it comes to control, you’d
+        rather be IN it, but what does it really mean to be IN control? Control
+        is not a real place. Accepting that we don’t know and cannot know
+        everything provides us with the chance to let loose and not take things
+        so seriously. The allure of mother mystery is such that we cannot know
+        her. We cannot see her beauty, but we sense it. Allow this feeling to
+        tug at your heart strings and open your mind to the endless
+        possibilities that await.
       </p>
       <br />
 
       <h2>Air Signs: Goddess Guidance</h2>
       <p>
         <i>Kali: Fear</i><br /><br />
-        When we look at our fears in the face, we see them for what they truly are. Kali offers us a new way of coping with what keeps us up at night. Much like a horror movie that only shows glimpses of the sinister monster lurking in the shadows, we fear what we refuse to look at. Trust that whatever your deepest terror may be is no match for the ever-triumphant force of love. During this season ask yourself, “what am I afraid of?” Rather than letting these ambiguous thoughts toil and bubble in your mind, write them down! Get them out on paper and look at them in the face. If there has been a situation or feeling you have been avoiding for some time, it is more important than ever to deal with it. The universe will continually throw situations of “fear” at you until you step up to face them with love. Treat each fear like a wanting child. Give it a face and a name. Ask it what its true motivations are. More often than not, all it’s doing is waiting to speak once it’s been spoken to. Only then will you be able to move forward. 
-        </p>
-
-      <p>
-      <strong>AQUARIUS</strong> ~ You know the weight of certain energy and the lightness of others. Known as the “water bearer,” wise Aquarius, you are also a carrier of energetic ripples. Notice how these may affect you on a day to day basis. What downloads have you been receiving from beyond the veil? What has been swirling in the cosmos that is now ready to be bestowed upon the Earth? As an air sign it may feel like most things happen in your head, but don’t forget that you have a body too! Take note this season on how energy moves through you and your body. Despite what pop-astrology says, you DO have feelings, and you experience things deeply, no matter how objective you can be. Remember the importance of protecting your own energy field and set boundaries as needed. 
+        When we look at our fears in the face, we see them for what they truly
+        are. Kali offers us a new way of coping with what keeps us up at night.
+        Much like a horror movie that only shows glimpses of the sinister
+        monster lurking in the shadows, we fear what we refuse to look at. Trust
+        that whatever your deepest terror may be is no match for the
+        ever-triumphant force of love. During this season ask yourself, “what am
+        I afraid of?” Rather than letting these ambiguous thoughts toil and
+        bubble in your mind, write them down! Get them out on paper and look at
+        them in the face. If there has been a situation or feeling you have been
+        avoiding for some time, it is more important than ever to deal with it.
+        The universe will continually throw situations of “fear” at you until
+        you step up to face them with love. Treat each fear like a wanting
+        child. Give it a face and a name. Ask it what its true motivations are.
+        More often than not, all it’s doing is waiting to speak once it’s been
+        spoken to. Only then will you be able to move forward.
       </p>
       <br />
 
       <p>
-      <strong>LIBRA</strong> ~ Oh soft, soulful Libra. What has been weighing you down so much that your scale is tipping? This season, it is important to honour your grief. Whatever pain and sorrow you have experienced over the previous season, this summer is a time where you may be feeling it all. Take up journalling or another mode of recollection so that you can map out your experience of grief. What stage are you in? Do not rush to the finish line. What lies in between denial and acceptance is a whole lot of learning. 
+        <strong>AQUARIUS</strong> ~ You know the weight of certain energy and
+        the lightness of others. Known as the “water bearer,” wise Aquarius, you
+        are also a carrier of energetic ripples. Notice how these may affect you
+        on a day to day basis. What downloads have you been receiving from
+        beyond the veil? What has been swirling in the cosmos that is now ready
+        to be bestowed upon the Earth? As an air sign it may feel like most
+        things happen in your head, but don’t forget that you have a body too!
+        Take note this season on how energy moves through you and your body.
+        Despite what pop-astrology says, you DO have feelings, and you
+        experience things deeply, no matter how objective you can be. Remember
+        the importance of protecting your own energy field and set boundaries as
+        needed.
       </p>
       <br />
 
       <p>
-      <strong>GEMINI</strong> ~ Love is in abundance for you this season. Whether or not you are in a romantic partnership, look for ways in which you experience union and unity. A oneness consciousness allows us to be in love regardless of our relationship status. Once you see the world around you as a reflection of your inner world, you will discover synchronicities that eternally hint at the interconnectedness of all things. Love is all. Love is all there is. If you have been avoiding the need for tenderness from friends, family, or a partner, it may be time to go out on a limb and express how you’re feeling... most likely they are feeling the same way. 
+        <strong>LIBRA</strong> ~ Oh soft, soulful Libra. What has been weighing
+        you down so much that your scale is tipping? This season, it is
+        important to honour your grief. Whatever pain and sorrow you have
+        experienced over the previous season, this summer is a time where you
+        may be feeling it all. Take up journalling or another mode of
+        recollection so that you can map out your experience of grief. What
+        stage are you in? Do not rush to the finish line. What lies in between
+        denial and acceptance is a whole lot of learning.
       </p>
       <br />
 
       <p>
-        We strive to make our horoscopes accessible to all visitors!
+        <strong>GEMINI</strong> ~ Love is in abundance for you this season.
+        Whether or not you are in a romantic partnership, look for ways in which
+        you experience union and unity. A oneness consciousness allows us to be
+        in love regardless of our relationship status. Once you see the world
+        around you as a reflection of your inner world, you will discover
+        synchronicities that eternally hint at the interconnectedness of all
+        things. Love is all. Love is all there is. If you have been avoiding the
+        need for tenderness from friends, family, or a partner, it may be time
+        to go out on a limb and express how you’re feeling... most likely they
+        are feeling the same way.
+      </p>
+      <br />
+
+      <p>
+        We strive to make our horoscopes accessible to all visitors!<br />
         Please email hello@volvoxvault.com with any feedback.
       </p>
     </div>
