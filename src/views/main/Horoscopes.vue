@@ -28,7 +28,7 @@
         by MoonTidePoet on Apple Podcasts. I hope to hear from you soon!
         <br /><br />
         Much love,<br />
-        MoontidePoet
+        <a href="https://www.moontidepoet.com/?ltclid=0ee64697-8f5c-4bd9-9155-aaf3cc6e77ff" targer="_blank">MoontidePoet</a>
       </p>
 
       <hr style="border: none; border-bottom: 1px dashed" />
