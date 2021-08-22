@@ -49,8 +49,18 @@
         src="//gc.zgo.at/count.js"
       ></script>
       <div class="space">
-        <p style="flaot: left; color: grey;"> august 26th @ 7pm est ~ picnic with <a style="color: grey; text-decoration: underline;" href="http://mattdowdy.online/" target="_blank">dj candle</a> live at the pond</p>
-        <router-link to="/"><p style="flaot: right;" class="header">volvox pond</p></router-link>
+        <router-link to="/"><p class="header">volvox pond</p></router-link>
+        <hr />
+        <p style="color: grey">
+          august 26th @ 7pm est ~ picnic with
+          <a
+            style="color: grey; text-decoration: underline"
+            href="http://mattdowdy.online/"
+            target="_blank"
+            >dj candle</a
+          >
+          live at the pond.
+        </p>
         <hr />
         <div class="chatness">
           <Chat />
@@ -77,7 +87,6 @@ export default {
 </script>
 
 <style scoped>
-
 * {
   scrollbar-color: grey midnightblue;
   scrollbar-width: thin !important;
