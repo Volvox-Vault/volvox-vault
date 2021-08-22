@@ -6,7 +6,7 @@
       <hr style="border: none; border-bottom: 1px dashed" />
 
       <p>
-        <i>We have a new horoscopes writer!</i> <br />
+        <i>We have a new horoscopes writer! ~ Meet Julie...</i> <br />
         <br />
         Hello MoonTides,<br />
         <br />
