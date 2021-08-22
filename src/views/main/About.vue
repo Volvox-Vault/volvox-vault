@@ -23,17 +23,13 @@
           We are <a href="/Support">supported</a> by community members like
           you.<br /><br />
 
-          Community Director —
-          <a href="https://tiana.computer/" target="_blank">Tiana Dueck</a
-          ><br />
           Community Manager —
-          <a href="http://beatricedouaihy.com//" target="_blank"
-            >Beatrice Douaihy</a
+          <a href="https://tiana.computer/" target="_blank">Tiana Dueck</a
           ><br />
           Website Team — Tiana Dueck &#38;
           <a href="https://ari.computer/" target="_blank">Ari Lotter</a><br />
           Horoscopes —
-          <a href="mailto:themoonthestarsandem@gmail.com">Em Biggs</a
+          <a href="https://www.moontidepoet.com/">Julie MoontidePoet</a
           ><br /><br />
 
           hello@volvoxvault.com
