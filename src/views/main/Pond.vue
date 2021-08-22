@@ -49,8 +49,8 @@
         src="//gc.zgo.at/count.js"
       ></script>
       <div class="space">
-        <p style="flaot: left;"> august 26th @ 7pm est ~ picnic with dj candle live at the pond</p>
-        <router-link to="/"><p class="header">volvox pond</p></router-link>
+        <p style="flaot: left; color: grey;"> august 26th @ 7pm est ~ picnic with dj candle live at the pond</p>
+        <router-link to="/"><p style="flaot: right;" class="header">volvox pond</p></router-link>
         <hr />
         <div class="chatness">
           <Chat />
