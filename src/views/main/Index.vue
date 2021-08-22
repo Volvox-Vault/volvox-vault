@@ -58,7 +58,7 @@
           <router-link to="/contribute">Contribute</router-link>
         </p>
         <p class="block-Home-link">
-          <router-link to="/horoscopes">Horoscopes ☽</router-link>
+          <router-link to="/horoscopes"><i>NEW</i> ~ Horoscopes ☽</router-link>
         </p>
         <p class="block-Home-link">
           <router-link to="/colony">Colony</router-link>
