@@ -1462,7 +1462,7 @@ div {
   }
 
   p {
-    font-size: 15pt;
+    font-size: 13pt;
     line-height: 2;
   }
 
@@ -1488,7 +1488,7 @@ div {
   }
 
   p {
-    font-size: 15pt;
+    font-size: 13pt;
     line-height: 2;
   }
 
