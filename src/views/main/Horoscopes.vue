@@ -1436,6 +1436,21 @@ div {
   line-height: 2;
 }
 
+  p {
+    font-size: 12pt;
+    line-height: 2;
+  }
+
+  h1 {
+    font-size: 20pt;
+    line-height: 2;
+  }
+
+  h2 {
+    font-size: 15pt;
+    line-height: 2;
+  }
+
 @media (max-width: 800px) {
   div {
     width: 80%;
@@ -1447,12 +1462,12 @@ div {
   }
 
   p {
-    font-size: 15pt;
+    font-size: 12pt;
     line-height: 2;
   }
 
   h1 {
-    font-size: 20pt;
+    font-size: 15pt;
     line-height: 2;
   }
 }
@@ -1468,12 +1483,12 @@ div {
   }
 
   p {
-    font-size: 15pt;
+    font-size: 12pt;
     line-height: 2;
   }
 
   h1 {
-    font-size: 20pt;
+    font-size: 15pt;
     line-height: 2;
   }
 }
