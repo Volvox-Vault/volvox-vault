@@ -1459,20 +1459,20 @@ div {
 
 @media only screen and (max-device-width: 566px) {
   div {
-    width: 100%;
-    max-width: 750px;
+    width: 90%;
+    max-width: 500px;
     margin: auto;
     margin-top: 20px;
     padding: 30px;
   }
 
   p {
-    font-size: 35px;
+    font-size: 15pt;
     line-height: 200%;
   }
 
   h1 {
-    font-size: 45px;
+    font-size: 20pt;
     line-height: 200%;
   }
 }
