@@ -9,7 +9,7 @@
         <i>We have a new horoscopes writer! 
         <br>Meet Julie...</i> <br />
         <br />
-        Hello MoonTides,<br />
+        Hello Moontides,<br />
         <br />
         Welcome to my first set of Oracle based Horoscopes for Volvox Vault! I
         am so excited to share these with you. These horoscopes are written
@@ -26,7 +26,7 @@
         <br /><br />
         For inquiries and personal oracle readings please message @moontidepoet
         on Instagram. To listen to my podcast, subscribe to Poetic Meditations
-        by MoonTidePoet on Apple Podcasts. I hope to hear from you soon!
+        by MoontidePoet on Apple Podcasts. I hope to hear from you soon!
         <br /><br />
         Much love,<br />
         <a
