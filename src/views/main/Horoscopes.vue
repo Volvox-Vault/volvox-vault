@@ -1440,11 +1440,15 @@ a:hover {
 div {
   margin: auto;
   width: 50%;
-  border: dashed 1px;
+  border: dashed 1px #383838;
   min-width: 350px;
   padding: 30px;
   font-family: Times New Roman, serif;
   line-height: 2;
+}
+
+hr {
+  border-color: #383838;
 }
 
   p {
