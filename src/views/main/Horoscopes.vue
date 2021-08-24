@@ -1453,16 +1453,16 @@ div {
 
 @media (max-width: 800px) {
   div {
-    width: 80%;
+    width: 75%;
     max-width: 400px;
     min-width: 100px;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 30px;
   }
 
   p {
-    font-size: 12pt;
+    font-size: 15pt;
     line-height: 2;
   }
 
@@ -1470,24 +1470,34 @@ div {
     font-size: 15pt;
     line-height: 2;
   }
+
+  h2 {
+    font-size: 15pt;
+    line-height: 2;
+  }
 }
 
 @media only screen and (max-device-width: 566px) {
   div {
-    width: 80%;
+    width: 75%;
     max-width: 400px;
     min-width: 100px;
     margin: auto;
-    margin-top: 20px;
+    margin-top: 10px;
     padding: 30px;
   }
 
   p {
-    font-size: 12pt;
+    font-size: 15pt;
     line-height: 2;
   }
 
   h1 {
+    font-size: 15pt;
+    line-height: 2;
+  }
+
+  h2 {
     font-size: 15pt;
     line-height: 2;
   }
