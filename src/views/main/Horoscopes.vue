@@ -1,6 +1,6 @@
 <template>
   <body>
-    <div style="background: linear-gradient(#ebf5fb, #aed6f1);">
+    <div style="background: linear-gradient(#ebf5fb, #aed6f1)">
       <h1>summer 2021 horoscopes ☽</h1>
 
       <hr style="border: none; border-bottom: 1px dashed" />
@@ -28,8 +28,13 @@
         by MoonTidePoet on Apple Podcasts. I hope to hear from you soon!
         <br /><br />
         Much love,<br />
-        <a href="https://www.moontidepoet.com/?ltclid=0ee64697-8f5c-4bd9-9155-aaf3cc6e77ff" targer="_blank">MoontidePoet</a>
+        <a
+          href="https://www.moontidepoet.com/?ltclid=0ee64697-8f5c-4bd9-9155-aaf3cc6e77ff"
+          targer="_blank"
+          >MoontidePoet</a
+        >
       </p>
+      <br />
 
       <hr style="border: none; border-bottom: 1px dashed" />
 
@@ -42,7 +47,7 @@
       </p>
 
       <hr style="border: none; border-bottom: 1px dashed" />
-      <br>
+      <br />
       <h2>Fire Signs: Goddess Guidance</h2>
       <p>
         <i>Baba Yaga // Wild Woman</i><br /><br />
@@ -99,10 +104,10 @@
       <br />
 
       <hr style="border: none; border-bottom: 1px dashed" />
-      <br>
+      <br />
 
       <h2>Water Signs: Goddess Guidance</h2>
-      
+
       <p>
         <i>Corn Woman: Nourishment</i><br /><br />
         The Goddess of the harvest reminds us to nourish ourselves as we would
@@ -165,7 +170,7 @@
       <br />
 
       <hr style="border: none; border-bottom: 1px dashed" />
-      <br>
+      <br />
 
       <h2>Earth Signs: Goddess Guidance</h2>
       <p>
@@ -227,7 +232,7 @@
       <br />
 
       <hr style="border: none; border-bottom: 1px dashed" />
-      <br>
+      <br />
 
       <h2>Air Signs: Goddess Guidance</h2>
       <p>
@@ -289,7 +294,8 @@
         need for tenderness from friends, family, or a partner, it may be time
         to go out on a limb and express how you’re feeling... most likely they
         are feeling the same way.
-      </p><br />
+      </p>
+      <br />
 
       <hr style="border: none; border-bottom: 1px dashed" />
 
@@ -1451,20 +1457,20 @@ hr {
   border-color: #383838;
 }
 
-  p {
-    font-size: 12pt;
-    line-height: 2;
-  }
+p {
+  font-size: 12pt;
+  line-height: 2;
+}
 
-  h1 {
-    font-size: 20pt;
-    line-height: 2;
-  }
+h1 {
+  font-size: 20pt;
+  line-height: 2;
+}
 
-  h2 {
-    font-size: 15pt;
-    line-height: 2;
-  }
+h2 {
+  font-size: 15pt;
+  line-height: 2;
+}
 
 @media (max-width: 800px) {
   div {
@@ -1472,7 +1478,7 @@ hr {
     max-width: 400px;
     min-width: 100px;
     margin: auto;
-    margin-top: 10px;
+    margin-top: 5px;
     padding: 30px;
   }
 
@@ -1498,7 +1504,7 @@ hr {
     max-width: 400px;
     min-width: 100px;
     margin: auto;
-    margin-top: 10px;
+    margin-top: 5px;
     padding: 30px;
   }
 
