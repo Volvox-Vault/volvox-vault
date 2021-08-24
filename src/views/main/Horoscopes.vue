@@ -1440,7 +1440,7 @@ div {
   div {
     width: 90%;
     max-width: 500px;
-    min-width: 300px;
+    min-width: 200px;
     margin: auto;
     margin-top: 20px;
     padding: 30px;
@@ -1448,12 +1448,12 @@ div {
 
   p {
     font-size: 15pt;
-    line-height: 200%;
+    line-height: 1.6;
   }
 
   h1 {
     font-size: 20pt;
-    line-height: 200%;
+    line-height: 1.6;
   }
 }
 
@@ -1461,6 +1461,7 @@ div {
   div {
     width: 90%;
     max-width: 500px;
+    min-width: 200px;
     margin: auto;
     margin-top: 20px;
     padding: 30px;
@@ -1468,12 +1469,12 @@ div {
 
   p {
     font-size: 15pt;
-    line-height: 200%;
+    line-height: 1.6;
   }
 
   h1 {
     font-size: 20pt;
-    line-height: 200%;
+    line-height: 1.6;
   }
 }
 </style>
