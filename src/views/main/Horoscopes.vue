@@ -42,6 +42,7 @@
       </p>
 
       <hr style="border: none; border-bottom: 1px dashed" />
+      <br>
       <h2>Fire Signs: Goddess Guidance</h2>
       <p>
         <i>Baba Yaga // Wild Woman</i><br /><br />
@@ -97,7 +98,11 @@
       </p>
       <br />
 
+      <hr style="border: none; border-bottom: 1px dashed" />
+      <br>
+
       <h2>Water Signs: Goddess Guidance</h2>
+      
       <p>
         <i>Corn Woman: Nourishment</i><br /><br />
         The Goddess of the harvest reminds us to nourish ourselves as we would
@@ -159,6 +164,9 @@
       </p>
       <br />
 
+      <hr style="border: none; border-bottom: 1px dashed" />
+      <br>
+
       <h2>Earth Signs: Goddess Guidance</h2>
       <p>
         <i>Sulis: Illness / Wellness </i><br /><br />
@@ -217,6 +225,9 @@
         possibilities that await.
       </p>
       <br />
+
+      <hr style="border: none; border-bottom: 1px dashed" />
+      <br>
 
       <h2>Air Signs: Goddess Guidance</h2>
       <p>
