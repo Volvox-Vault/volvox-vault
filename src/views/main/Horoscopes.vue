@@ -1438,7 +1438,7 @@ div {
 
 @media (max-width: 800px) {
   div {
-    width: 100%;
+    width: 90%;
     max-width: 500px;
     min-width: 300px;
     margin: auto;
@@ -1447,12 +1447,12 @@ div {
   }
 
   p {
-    font-size: 25px;
+    font-size: 15pt;
     line-height: 200%;
   }
 
   h1 {
-    font-size: 35;
+    font-size: 20pt;
     line-height: 200%;
   }
 }
