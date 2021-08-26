@@ -63,7 +63,7 @@
         </div>
       </div>
 
-      <footer style="position: fixed; bottom: 20px; right: 20px; width: 100%">
+      <footer style="position: fixed; bottom: 20px; right: 20px; width: 100%; background-color: none;">
         <img src="@/assets/pond.png" class="pondpic" />
       </footer>
     </div>
@@ -93,6 +93,7 @@ export default {
 * {
   scrollbar-color: grey midnightblue;
   scrollbar-width: thin !important;
+  background-color: midnightblue;
 }
 
 body {
