@@ -47,15 +47,15 @@
         <router-link to="/"><p class="header">volvox pond</p></router-link>
         <hr />
         <iframe width="560" height="315" src="https://www.youtube.com/embed/6qh0ivd1EGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <br>
         <p style="color: grey">
-          today @ 7pm est ~ picnic with
+          welcome to our picnic with
           <a
             style="color: grey; text-decoration: underline"
             href="http://mattdowdy.online/"
             target="_blank"
             >dj candle</a
-          >
-          live at the pond.
+          >.
         </p>
         <hr />
         <div class="chatness">
