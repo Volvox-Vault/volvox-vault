@@ -46,7 +46,7 @@
       <div class="space">
         <router-link to="/"><p class="header">volvox pond</p></router-link>
         <hr />
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/6qh0ivd1EGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/6qh0ivd1EGM?controls=0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
         <p style="color: grey">
           welcome to our picnic with
