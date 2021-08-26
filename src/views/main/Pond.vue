@@ -46,6 +46,7 @@
       <div class="space">
         <router-link to="/"><p class="header">volvox pond</p></router-link>
         <hr />
+        <iframe width="560" height="315" src="https://www.youtube.com/embed/6qh0ivd1EGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <p style="color: grey">
           today @ 7pm est ~ picnic with
           <a
