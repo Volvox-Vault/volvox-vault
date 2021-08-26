@@ -35,11 +35,6 @@
         gtag("config", "UA-85410486-3");
       </script>
 
-      <script
-        data-goatcounter="https://volvoxvault.goatcounter.com/count"
-        async
-        src="//gc.zgo.at/count.js"
-      ></script>
     </head>
 
     <div class="pond">
@@ -52,7 +47,7 @@
         <router-link to="/"><p class="header">volvox pond</p></router-link>
         <hr />
         <p style="color: grey">
-          august 26th @ 7pm est ~ picnic with
+          today @ 7pm est ~ picnic with
           <a
             style="color: grey; text-decoration: underline"
             href="http://mattdowdy.online/"
@@ -71,6 +66,13 @@
         <img src="@/assets/pond.png" class="pondpic" />
       </footer>
     </div>
+
+    <script
+        data-goatcounter="https://volvoxvault.goatcounter.com/count"
+        async
+        src="//gc.zgo.at/count.js"
+      ></script>
+
   </div>
 </template>
 
