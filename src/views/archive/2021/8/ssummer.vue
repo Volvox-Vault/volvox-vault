@@ -2,55 +2,55 @@
   <MainLayout>
     <head>
       <title>
-        Volvox Vault - An essay by Jake Fee, featured in Metamorphosis.
+        Volvox Vault - How are you appreciating nature this summer?
       </title>
 
       <link
         rel="shortcut icon"
         type="image/png"
-        href="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fjake.png?v=1627754078271"
+        href="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588"
       />
 
       <meta name="viewport" content="width=device-width, initial-scale=1" />
 
       <meta
         name="description"
-        content="An essay by Jake Fee, featured in Metamorphosis."
+        content="Seán responded..."
       />
-      <meta name="author" content="Jake Fee" />
+      <meta name="author" content="Seán" />
 
       <meta
         property="og:title"
-        content="Volvox Vault - An essay by Jake Fee, featured in Metamorphosis."
+        content="Volvox Vault - Seán responded..."
       />
       <meta
         property="og:description"
-        content="An essay by Jake Fee, featured in Metamorphosis."
+        content="Seán responded..."
       />
       <meta
         property="og:image"
-        content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fjake.png?v=1627754078271"
+        content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588"
       />
       <meta
         property="og:url"
-        content="http://volvoxvault.com/articles/2021/homeCooking/"
+        content="https://volvoxvault.com/archive/ssummer"
       />
 
       <meta
         property="twitter:title"
-        content="Volvox Vault - Better Living Through Alchemy"
+        content="Volvox Vault - How are you appreciating nature this summer?"
       />
       <meta
         property="twitter:description"
-        content="An essay by Jake Fee, featured in Metamorphosis."
+        content="Seán responded..."
       />
       <meta
         property="twitter:image"
-        content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fjake.png?v=1627754078271"
+        content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588"
       />
       <meta
         property="twitter:url"
-        content="http://volvoxvault.com/articles/2021/homeCooking/"
+        content="https://volvoxvault.com/archive/ssummer"
       />
     </head>
 
@@ -95,9 +95,7 @@
             <hr />
             <br />
 
-            <a href="https://write.as/hummingcrow/little-paintings-a-bumble-bee-rests-in-the-sun" target="_blank"> Seán's website. </a>
-            |
-            <a href="https://www.paypal.com/paypalme/ti4na" target="_blank">
+            <a href="https://write.as/hummingcrow/little-paintings-a-bumble-bee-rests-in-the-sun" target="_blank"> Seán's website. </a> | Email us about your summer ~ hello@volvoxvault.com | <a href="https://www.paypal.com/paypalme/ti4na" target="_blank">
               Tip Jar ☕
             </a>
           </div>
