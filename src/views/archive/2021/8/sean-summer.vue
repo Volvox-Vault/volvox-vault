@@ -58,10 +58,11 @@
       <main>
         <div>
           <div>
-            <h1 class="head">Better Living Through Alchemy</h1>
+            <h1 class="head">"How are you appreciating nature this summer?"</h1>
 
             <p class="headDes">
-              An essay by Jake Fee, featured in Metamorphosis.
+              Tiana asked the Volvox community "How are you appreciating nature this summer?"<br>
+              Seán responded...
             </p>
 
             <br />
@@ -75,23 +76,27 @@
               which plants attract which kinds of bees (and other insects). This
               summer, I'll be illustrating/painting some of the species that I
               observe, and might create a mini zine or two about bees at some
-              point to send to family &amp; friends. More broadly, I'm also learning
+              point to send to family &amp; friends. 
+              <br><br>
+              More broadly, I'm also learning
               to become better at listening to the land, and recognizing when I
               should stay out of the way to let other organisms &amp; processes have
               the space &amp; time to work things out on their own. Reflecting on
               how I can better support other-than-human stewardship and how the
-              landscape might change over the next millennium and beyond. My
-              first bee painting (from last summer):
+              landscape might change over the next millennium and beyond. 
+              <br><br>
+              My first bee painting (from last summer):
             </p>
 
             <img src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588" alt="Seán holding his painting of a bumble bee hanging out on a leaf between his index and thumb."/>
+            <br>
             <img src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2F7Xaw0gu.jpeg?v=1630533851359" alt="Seán holding his painting of a bumble bee hanging out on a leaf between his index and thumb."/>
 
             <br />
             <hr />
             <br />
 
-            <a href="http://fee.cool/" target="_blank"> Jake Fee's website. </a>
+            <a href="https://write.as/hummingcrow/little-paintings-a-bumble-bee-rests-in-the-sun" target="_blank"> Seán's website. </a>
             |
             <a href="https://www.paypal.com/paypalme/ti4na" target="_blank">
               Tip Jar ☕
