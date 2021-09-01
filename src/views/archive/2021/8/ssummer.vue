@@ -61,7 +61,6 @@
             <h1 class="head">"How are you appreciating nature this summer?"</h1>
 
             <p class="headDes">
-              Tiana asked the Volvox community "How are you appreciating nature this summer?"<br>
               Seán responded...
             </p>
 
@@ -87,7 +86,7 @@
               <br><br>
               My first bee painting (from last summer):
             </p>
-
+<br>
             <img src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588" alt="Seán holding his painting of a bumble bee hanging out on a leaf between his index and thumb."/>
             <br>
             <img src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2F7Xaw0gu.jpeg?v=1630533851359" alt="Seán holding his painting of a bumble bee hanging out on a leaf between his index and thumb."/>
