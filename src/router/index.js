@@ -19,6 +19,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */
+import alchemy from '../views/archive/2021/7/sean-summer.vue'
 import alchemy from '../views/archive/2021/7/alchemy.vue'
 import LHO from '../views/archive/2021/6/LHO.vue'
 import noPlace from '../views/archive/2021/5/noPlace.vue'
@@ -139,6 +140,11 @@ const routes = [
 
   /* ARCHIVE */
 
+  {
+    path: '/archive/sean-summer',
+    name: 'sean-summer',
+    component: sean-summer
+  },
   {
     path: '/archive/alchemy',
     name: 'alchemy',
