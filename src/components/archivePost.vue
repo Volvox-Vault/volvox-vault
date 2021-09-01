@@ -32,7 +32,7 @@ export default {
                 date: 'August 2021',
                 author: 'Seán',
                 title: '"How are you appreciating nature this summer?"',
-                link: '/archive/sean-summer',
+                link: '/archive/ssummer',
                 type: 'article',
             },
             {
