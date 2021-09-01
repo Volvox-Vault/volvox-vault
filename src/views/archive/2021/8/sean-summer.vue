@@ -108,7 +108,7 @@
 import MainLayout from "../../../../layouts/MainLayout";
 
 export default {
-  name: "alchemy",
+  name: "sean-summer",
   components: {
     MainLayout,
   },

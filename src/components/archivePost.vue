@@ -29,6 +29,13 @@ export default {
             title: "Archive",
             colony: [
             {
+                date: 'August 2021',
+                author: 'Seán',
+                title: '"How are you appreciating nature this summer?"',
+                link: '/archive/sean-summer',
+                type: 'article',
+            },
+            {
                 date: 'July 2021',
                 author: 'Jake Fee',
                 title: 'Better Living Through Alchemy',
