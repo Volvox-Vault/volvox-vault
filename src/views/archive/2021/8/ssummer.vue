@@ -113,7 +113,7 @@
 import MainLayout from "../../../../layouts/MainLayout";
 
 export default {
-  name: "sean-summer",
+  name: "ssummer",
   components: {
     MainLayout,
   },
