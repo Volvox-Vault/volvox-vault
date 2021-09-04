@@ -1,9 +1,7 @@
 <template>
   <MainLayout>
     <head>
-      <title>
-        Volvox Vault - How are you appreciating nature this summer?
-      </title>
+      <title>Volvox Vault - How are you appreciating nature this summer?</title>
 
       <link
         rel="shortcut icon"
@@ -13,20 +11,11 @@
 
       <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-      <meta
-        name="description"
-        content="Seán responded..."
-      />
+      <meta name="description" content="Seán responded..." />
       <meta name="author" content="Seán" />
 
-      <meta
-        property="og:title"
-        content="Volvox Vault - Seán responded..."
-      />
-      <meta
-        property="og:description"
-        content="Seán responded..."
-      />
+      <meta property="og:title" content="Volvox Vault - Seán responded..." />
+      <meta property="og:description" content="Seán responded..." />
       <meta
         property="og:image"
         content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588"
@@ -40,10 +29,7 @@
         property="twitter:title"
         content="Volvox Vault - How are you appreciating nature this summer?"
       />
-      <meta
-        property="twitter:description"
-        content="Seán responded..."
-      />
+      <meta property="twitter:description" content="Seán responded..." />
       <meta
         property="twitter:image"
         content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588"
@@ -60,42 +46,72 @@
           <div>
             <h1 class="head">"How are you appreciating nature this summer?"</h1>
 
-            <p class="headDes">
-              Seán responded...
-            </p>
+            <p class="headDes">Seán responded...</p>
 
             <br />
             <hr />
             <br />
 
             <p>
-              After taking a pollinator stewardship course last year, I've been
-              learning about the bees that are visiting the flowers around my
-              home this year and am pausing a lot more than usual to notice
-              which plants attract which kinds of bees (and other insects). This
-              summer, I'll be illustrating/painting some of the species that I
-              observe, and might create a mini zine or two about bees at some
-              point to send to family &amp; friends. 
-              <br><br>
-              More broadly, I'm also learning
-              to become better at listening to the land, and recognizing when I
-              should stay out of the way to let other organisms &amp; processes have
-              the space &amp; time to work things out on their own. Reflecting on
-              how I can better support other-than-human stewardship and how the
-              landscape might change over the next millennium and beyond. 
-              <br><br>
+              After taking a
+              <a href="https://pollinatorpartnership.ca/" target="_blank"
+                >pollinator stewardship course</a
+              >
+              last year, I've been learning about the bees that are visiting the
+              flowers around my home this year and am pausing a lot more than
+              usual to notice which plants attract which kinds of bees (and
+              other insects). This summer, I'll be illustrating/painting some of
+              the species that I observe, and might create a mini zine or two
+              about bees at some point to send to family &amp; friends.
+              <br /><br />
+              More broadly, I'm also learning to become better at listening to
+              the land, and recognizing when I should stay out of the way to let
+              other organisms &amp; processes have the space &amp; time to work
+              things out on their own. Reflecting on how I can better support
+              other-than-human stewardship and how the landscape might change
+              over the next millennium and beyond.
+              <br /><br />
+              My partner and I did a couple of small paintings for Pollinator
+              Week, which you can find
+              <a
+                href="https://write.as/hummingcrow/pollinator-portraits-skip-and-sweat"
+                target="_blank"
+                >here</a
+              >.<br />
+              We also have a couple of tiny bee/pollinator zines sketched out
+              which we're hoping to bring to life this fall, while we sow and
+              grow lots of new pollinator-friendly plantings! We're creating
+              <a
+                href="https://blog.cobrahead.com/2013/07/28/making-native-bee-nesting-logs/"
+                target="_blank"
+                >nesting logs</a
+              >
+              and grounds for our local bees as well. <br /><br />
               My first bee painting (from last summer):
             </p>
-<br>
-            <img src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588" alt="Seán holding his painting of a bumble bee hanging out on a leaf between his index and thumb."/>
-            <br>
-            <img src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2F7Xaw0gu.jpeg?v=1630533851359" alt="Seán holding his painting of a bumble bee hanging out on a leaf between his index and thumb."/>
+            <br />
+            <img
+              src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588"
+              alt="Seán holding his painting of a bumble bee hanging out on a leaf between his index and thumb."
+            />
+            <br />
+            <img
+              src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2F7Xaw0gu.jpeg?v=1630533851359"
+              alt="Seán holding his painting of a bumble bee hanging out on a leaf between his index and thumb."
+            />
 
             <br />
             <hr />
             <br />
 
-            <a href="https://write.as/hummingcrow/little-paintings-a-bumble-bee-rests-in-the-sun" target="_blank"> Seán's website. </a> | Email us about your summer ~ hello@volvoxvault.com | <a href="https://www.paypal.com/paypalme/ti4na" target="_blank">
+            <a
+              href="https://write.as/hummingcrow/little-paintings-a-bumble-bee-rests-in-the-sun"
+              target="_blank"
+            >
+              Seán's website.
+            </a>
+            | Email us about your summer ~ hello@volvoxvault.com |
+            <a href="https://www.paypal.com/paypalme/ti4na" target="_blank">
               Tip Jar ☕
             </a>
           </div>
