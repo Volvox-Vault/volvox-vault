@@ -71,8 +71,8 @@
               other-than-human stewardship and how the landscape might change
               over the next millennium and beyond.
               <br /><br />
-              My partner and I did a couple of small paintings for Pollinator
-              Week, which you can find
+              My partner and I did a couple of small paintings for <a href="https://www.pollinator.org/pollinator-week" target="_blank">Pollinator
+              Week</a>, which you can find
               <a
                 href="https://write.as/hummingcrow/pollinator-portraits-skip-and-sweat"
                 target="_blank"
@@ -86,6 +86,7 @@
                 >nesting logs</a
               >
               and grounds for our local bees as well. <br /><br />
+
               My first bee painting (from last summer):
             </p>
             <br />
