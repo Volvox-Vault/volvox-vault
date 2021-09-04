@@ -7,7 +7,7 @@
       </div>
 
       <!-- VOL -->
-      <div class="block-Submit">
+      <div class="block-Submit" style="height: 100%;">
         <p class="block-Submit-header">volunteer with us</p>
 
         <p style="padding: 15px; padding-bottom: 0px">
