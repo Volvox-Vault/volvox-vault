@@ -60,7 +60,7 @@
               last year, I've been learning about the bees that are visiting the
               flowers around my home this year and am pausing a lot more than
               usual to notice which plants attract which kinds of bees (and
-              other insects). This summer, I'll be illustrating/painting some of
+              other insects). This summer, I'm illustrating/painting some of
               the species that I observe, and might create a mini zine or two
               about bees at some point to send to family &amp; friends.
               <br /><br />
