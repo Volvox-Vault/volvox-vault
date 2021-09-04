@@ -11,7 +11,9 @@
         <p class="block-Submit-header">volunteer with us</p>
 
         <p style="padding: 15px; padding-bottom: 0px">
-          We're looking to expand our team...
+          We're looking to expand our community.<br>
+          Positions are unpaid, with free access to our digital publications.<br>
+          Ideally, you might have at least 10 hours per month to spend with Volvox.
         </p>
 
         <ul class="block-Submit-ul">
