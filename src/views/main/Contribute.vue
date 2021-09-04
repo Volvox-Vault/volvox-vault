@@ -176,7 +176,6 @@ export default {
   border: 1px solid yellowgreen;
   border-collapse: collapse;
   overflow: auto;
-  max-height: 100vh;
   width: 100%;
   margin-left: auto;
   margin-right: auto;
