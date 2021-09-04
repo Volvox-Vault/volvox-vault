@@ -13,12 +13,12 @@
       <meta property="og:title" content="Volvox Pond" />
       <meta property="og:description" content="welcome to the pond" />
       <meta property="og:image" content="@assets/logo.png" />
-      <meta property="og:url" content="http://volvoxvault.com/" />
+      <meta property="og:url" content="http://volvoxvault.com/pond" />
 
       <meta property="twitter:title" content="Volvox Pond" />
       <meta property="twitter:description" content="welcome to the pond" />
       <meta property="twitter:image" content="@assets/logo.png" />
-      <meta property="twitter:url" content="http://volvoxvault.com/" />
+      <meta property="twitter:url" content="http://volvoxvault.com/pond" />
 
       <!-- Global site tag (gtag.js) - Google Analytics -->
       <script

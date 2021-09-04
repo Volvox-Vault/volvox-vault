@@ -13,10 +13,7 @@
       <meta property="og:title" content="Volvox Vault" />
       <meta property="og:description" content="a creative community" />
       <meta property="og:image" content="@assets/logo.png" />
-      <meta
-        property="og:url"
-        content="http://volvoxvault.com/"
-      />
+      <meta property="og:url" content="http://volvoxvault.com/" />
 
       <meta property="twitter:title" content="Volvox Vault" />
       <meta property="twitter:description" content="a creative community" />
@@ -91,9 +88,8 @@
             >
           </div>
           <div class="recent-Router">
-            <a href="https://developingathomewithwill.glitch.me/"
-              >Developing At Home With Will</a
-            >
+            <router-link to="/archive/ssummer"
+              >"How are you appreciating nature this summer?"</router-link>
           </div>
           <div class="recent-Router">
             <router-link to="/archive/TVS">Tiny Video Showcase</router-link>
@@ -169,9 +165,7 @@
           >
         </p>
         <p class="block-Home-link">
-          <a href="https://lunali.bandcamp.com/" target="_blank"
-            >Luna Li</a
-          >
+          <a href="https://lunali.bandcamp.com/" target="_blank">Luna Li</a>
         </p>
         <p class="block-Home-link">
           <a href="https://astraking.bandcamp.com/" target="_blank"
