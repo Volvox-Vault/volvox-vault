@@ -10,28 +10,53 @@
       <div class="block-Submit">
         <p class="block-Submit-header">volunteer with us</p>
 
-        <p style="padding: 15px">We're looking to expand our team...</p>
+        <p style="padding: 15px; padding-bottom: 0px">
+          We're looking to expand our team...
+        </p>
 
         <ul class="block-Submit-ul">
           <li>
-            <b>Managing Editor</b> — We are looking for a managing editor with a passion for community and creativity to help us source new articles and projects through reaching out to people who are doing creative things that we ought to cover and give a spotlight to. 
-Additionally, the managing editor is someone who ponders the next steps for Volvox Vault as a whole—considering ideas for creative, financial, and community growth.
-
+            <b>Managing Editor</b><br />
+            We are looking for a managing editor with a passion for community
+            and creativity to help us source new articles and projects through
+            reaching out to people who are doing creative things that we ought
+            to cover and give a spotlight to. Additionally, the managing editor
+            is someone who ponders the next steps for Volvox Vault as a
+            whole—considering ideas for creative, financial, and community
+            growth.
           </li>
           <li>
-            <b>Editor</b> — We are looking for editors with a passion for community and creativity to help us source new articles and projects through reaching out to people who are doing creative things that we ought to cover and give a spotlight to. 
+            <b>Editor</b><br />
+            We are looking for editors with a passion for
+            community and creativity to help us source new articles and projects
+            through reaching out to people who are doing creative things that we
+            ought to cover and give a spotlight to.
           </li>
           <li>
-            <b>Writer</b> — We are looking for writers that we can go to with ideas for articles, projects, and such who are up for the challenge of making ideas into realities.
+            <b>Writer</b><br />
+            We are looking for writers that we can go to with
+            ideas for articles, projects, and such who are up for the challenge
+            of making ideas into realities.
           </li>
           <li>
-            <b>Community Creative</b> — We are looking for community creatives with unique skills like design, programming, photography, videography, illustration, and more, who want to practice their skills within our community for assets which would be featured on our website, articles, projects, publications, and merch.
+            <b>Community Creative</b><br />
+            We are looking for community creatives
+            with unique skills like design, programming, photography,
+            videography, illustration, and more, who want to practice their
+            skills within our community for assets which would be featured on
+            our website, articles, projects, publications, and merch.
           </li>
           <li>
-            <b>Community Coordinator</b> — We are looking for community coordinators who love working with new people, to help us with producing projects, and managing roles and deadlines.
+            <b>Community Coordinator</b><br />
+            We are looking for community
+            coordinators who love working with new people, to help us with
+            producing projects, and managing roles and deadlines.
           </li>
           <li>
-            <b>Grant Writer</b> — We are looking for someone who can help us grow into a community that can pay its contributors, and has the means to sell our publications and such at more affordable prices!
+            <b>Grant Writer</b><br />
+            We are looking for someone who can help us
+            grow into a community that can pay its contributors, and has the
+            means to sell our publications and such at more affordable prices!
           </li>
         </ul>
       </div>
@@ -66,9 +91,9 @@ Additionally, the managing editor is someone who ponders the next steps for Volv
         <p class="block-Submit-header">magazine</p>
 
         <ul class="block-Submit-ul">
-          <li><b>
-            Heart: An issue reflecting on empathy, friendship, and
-            love.</b></li>
+          <li>
+            <b> Heart: An issue reflecting on empathy, friendship, and love.</b>
+          </li>
           <li>Deadline November 10th.</li>
           <li>
             You can create new art, or submit something you made in the past
@@ -88,7 +113,14 @@ Additionally, the managing editor is someone who ponders the next steps for Volv
               >Subscribe to the newsletter for updates.</router-link
             >
           </li>
-          <li>Email submissions / pitches to hello@volvoxvault.com, or through <a href="https://form.123formbuilder.com/5763218/form" target="_blank">this form</a>.</li>
+          <li>
+            Email submissions / pitches to hello@volvoxvault.com, or through
+            <a
+              href="https://form.123formbuilder.com/5763218/form"
+              target="_blank"
+              >this form</a
+            >.
+          </li>
         </ul>
       </div>
 
@@ -96,8 +128,12 @@ Additionally, the managing editor is someone who ponders the next steps for Volv
       <div class="block-Submit">
         <p class="block-Submit-header">newspaper</p>
         <p class="block-Submit-link">
-          A quarterly look inside of the global independent creative-scape.<br>
-          To contribute, fill out <a href="https://form.123formbuilder.com/5763208/form" target="_blank">this form</a> or email hello@volvoxvault.com<br />
+          A quarterly look inside of the global independent creative-scape.<br />
+          To contribute, fill out
+          <a href="https://form.123formbuilder.com/5763208/form" target="_blank"
+            >this form</a
+          >
+          or email hello@volvoxvault.com<br />
           <a
             href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX"
             target="_blank"
