@@ -14,7 +14,7 @@
           We're looking to expand our community.<br>
           Positions are unpaid, with free access to our digital publications.<br>
           Ideally, you might have at least 10 hours per month to spend with Volvox.<br>
-          <a class="block-Submit-link" href="https://forms.gle/NDP9SvEs32HaamMa6" target="_blank">Apply here</a>, or email tiana@volvoxvault.com
+          <a href="https://forms.gle/NDP9SvEs32HaamMa6" target="_blank">Apply here</a>, or email tiana@volvoxvault.com
         </p>
 
         <ul class="block-Submit-ul">
@@ -209,14 +209,14 @@ export default {
 }
 
 .block-Submit-link a,
-li a {
+li a, p a {
   color: #9879a6;
   text-decoration: none;
 }
 
 .block-Submit-link a:hover,
 .block-shop a:hover,
-li a:hover {
+li a:hover, p a:hover {
   text-decoration: underline;
   cursor: pointer;
 }
