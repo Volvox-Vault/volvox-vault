@@ -77,8 +77,7 @@
                 href="https://write.as/hummingcrow/pollinator-portraits-skip-and-sweat"
                 target="_blank"
                 >here</a
-              >.<br />
-              We also have a couple of tiny bee/pollinator zines sketched out
+              >. We also have a couple of tiny bee/pollinator zines sketched out
               which we're hoping to bring to life this fall, while we sow and
               grow lots of new pollinator-friendly plantings! We're creating
               <a
