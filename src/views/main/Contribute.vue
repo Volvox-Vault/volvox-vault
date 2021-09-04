@@ -13,7 +13,8 @@
         <p style="padding: 15px; padding-bottom: 0px">
           We're looking to expand our community.<br>
           Positions are unpaid, with free access to our digital publications.<br>
-          Ideally, you might have at least 10 hours per month to spend with Volvox.
+          Ideally, you might have at least 10 hours per month to spend with Volvox.<br>
+          <a href="https://forms.gle/NDP9SvEs32HaamMa6" target="_blank">Apply here</a>, or email tiana@volvoxvault.com
         </p>
 
         <ul class="block-Submit-ul">
