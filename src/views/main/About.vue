@@ -29,8 +29,9 @@
           Website Team — Tiana Dueck &#38;
           <a href="https://ari.computer/" target="_blank">Ari Lotter</a><br />
           Horoscopes —
-          <a href="https://volvoxvault.com/horoscopes">Julie MoontidePoet</a
-          ><br /><br />
+          <a href="https://volvoxvault.com/horoscopes">Julie MoontidePoet</a>
+          <br />
+          <router-link to="/contribute">Join our team.</router-link><br /><br />
 
           hello@volvoxvault.com
         </p>
