@@ -48,6 +48,13 @@ export default {
             title: "Bulletin",
             colony: [
             {
+                header: 'Call for Submissions: Video Art showcase',
+                des: '407.studio is looking for on-going time-based media, video art, skate videos, music videos, etc. to display in our space during events and bookings. Open to all submissions. E-mail info@407.studio with a downloadable video file and any necessary information about your piece.',
+                contact: 'info@407.studio',
+                website: 'https://www.instagram.com/407.studio/',
+                date: 'ongoing',
+            },
+            {
                 header: 'Glutenhead, fanclubwallet, Alex Nunes',
                 des: 'Young Toronto art-rockers Glutenhead celebrate the release of their newest single with extra-special guest from Ottawa - fanclubwallet! Plus: Alex Nunes of Spirit Josh introducing his new solo project.',
                 contact: 'The Monarch Tavern - Toronto, ON',
