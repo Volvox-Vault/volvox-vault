@@ -2,9 +2,10 @@
   <div id="app">
  
       <router-link to="/"
-        ><div id="header">
+        ><!--<div id="header">
           <p>volvox vault</p>
-        </div></router-link
+        </div>-->
+        <img class="logo" src="@/src/assets/volvox.png"/></router-link
       >
  
 
@@ -105,6 +106,15 @@ a {
 #header p:hover {
   color: #9879a6;
   text-decoration: none;
+}
+
+/* LOGO */
+
+.logo {
+  width: 30%;
+  max-width: 300px;
+  min-width: 200px;
+  margin: 20px;
 }
 
 /* NAVIGATION */
