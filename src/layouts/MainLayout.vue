@@ -2,10 +2,9 @@
   <div id="app">
  
       <router-link to="/"
-        ><!--<div id="header">
+        ><div id="header">
           <p>volvox vault</p>
-        </div>-->
-        <img class="logo" src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fvolvox.png?v=1630968014285"/></router-link
+        </div></router-link
       >
  
 
