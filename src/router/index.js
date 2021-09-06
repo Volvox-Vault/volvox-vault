@@ -38,6 +38,7 @@ import Identity from '../views/archive/issues/Identity/Identity.vue'
 import Proximity from '../views/archive/issues/Proximity/Proximity.vue'
 import Aggregate from '../views/archive/issues/Aggregate/Aggregate.vue'
 import Metamorphosis from '../views/archive/issues/Metamorphosis/Metamorphosis.vue'
+import Heart from '../views/archive/issues/Heart/Heart.vue'
 
 
 Vue.use(VueRouter)
@@ -228,6 +229,11 @@ const routes = [
     name: 'Metamorphosis',
     component: Metamorphosis
   },
+  {
+    path: '/issues/heart',
+    name: 'Heart',
+    component: Heart
+  }
 
 ]
 
