@@ -5,16 +5,63 @@
         <div class="meta">
           <h1>Heart</h1>
 
-          <hr />
+          <p>we are calling for submissions that come from your heart.<br><br>
 
-          <iframe width="100%" height="360" src="https://www.youtube.com/embed/z4W8Esxp1S0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+explore your friendships, relationships, obsessions, and heartbreaks.<br><br>
 
-<br><br>
-          <p>
-            An issue.
-          </p>
+do something lovely and send it our way.<br><br>
 
-          <p>Thank you for your generous support.</p>
+look inside and outside of yourself.<br><br>
+
+pour your heart out.<br><br>
+
+i think we can make something really sweet together.<br><br>
+
+tentative deadline - dec 1, 2021<br><br>
+
+-tiana</p>
+
+<hr>
+
+<!-- MAG SUB -->
+      <div class="block-Submit">
+        <p class="block-Submit-header">magazine</p>
+
+        <ul class="block-Submit-ul">
+          <li>
+            <b> Heart: An issue reflecting on empathy, friendship, and love.</b>
+          </li>
+          <li>Deadline November 10th.</li>
+          <li>
+            You can create new art, or submit something you made in the past
+            which fits the theme.
+          </li>
+          <li>
+            Volvox Vault prioritizes showcasing works with gentle, mindful, and
+            organic vibrations.
+          </li>
+          <li>
+            For visual submissions, include at least 200 word artist's
+            statement.
+          </li>
+          <li>Written pieces for the magazine may be 1-6 pages long.</li>
+          <li>
+            <router-link to="/support"
+              >Subscribe to the newsletter for updates.</router-link
+            >
+          </li>
+          <li>
+            Email submissions / pitches to hello@volvoxvault.com, or through
+            <a
+              href="https://form.123formbuilder.com/5763218/form"
+              target="_blank"
+              >this form</a
+            >.
+          </li>
+        </ul>
+      </div>
+
+
         </div>
       </main>
     </body>
