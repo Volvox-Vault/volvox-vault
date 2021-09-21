@@ -24,7 +24,7 @@
             <b>December 1st</b>.<br /><br />
 
             Discuss your ideas
-            <a href="https://volvoxvault.com/pond" style="color: grey"
+            <a href="https://volvoxvault.com/pond"
               >at the pond</a
             >—and
             <a
@@ -39,7 +39,7 @@
           <hr />
 
           <img
-            style="width: 100%; margin-top: 0px"
+            style="width: 100%; margin-top: 0px; padding: 10px; border: 1.6px dashed PaleVioletRed;"
             src="http://cdn.mcauto-images-production.sendgrid.net/98dc96f70d943c3b/9d08116c-92fb-4b47-b6b4-3af6ca146a72/1307x812.JPG"
           />
 
@@ -48,7 +48,8 @@
             there for me. The warmest person I know.<br />
             Who do you think warmly of? Do you think warmly of yourself? Did you
             used to think warmly of someone but no longer do?<br />
-            Let’s explore these things and more in Heart.
+            Let’s explore these things and more in Heart.<br />
+            —Tiana
           </p>
 
           <hr />
