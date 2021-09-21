@@ -32,7 +32,7 @@
               >let's schedule a community video call</a
             >. We'll meet at
             <a href="https://meet.jit.si/volvoxhearttoheart"
-              >https://meet.jit.si/volvoxhearttoheart</a
+              >here</a
             >.
           </p>
 
