@@ -81,7 +81,7 @@ export default {
 
 <style scoped>
 body {
-  background: radial-gradient(closest-side,#723D46, #472D30);
+  background: radial-gradient(closest-side, white, PaleVioletRed);
   height: 100%;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -96,8 +96,8 @@ body {
   min-width: 250px;
   max-width: 700px;
   border-radius: 30px;
-  background: rgba(215, 225, 168, 0.5);
-  color: #472D30;
+  background: rgba((255,182,193, 0.5);
+  color: PaleVioletRed;
   padding: 35px;
   box-shadow: 0 3px 10px rgb(215, 225, 168 / 0.5);
   line-height: 2;
@@ -116,22 +116,22 @@ p {
   font-size: 13pt;
 }
 a {
-  color: #472D30;
+  color: PaleVioletRed;
   text-decoration: underline;
 }
 a:hover {
   text-decoration: line-through;
 }
 hr {
-  color: #472D30;
+  color: lightpink;
   border: none;
-  border-bottom: 1.6px dashed #76448a;
+  border-bottom: 1.6px dashed PaleVioletRed;
   margin-top: 20px;
   margin-bottom: 20px;
 }
 .buy {
   text-align: center;
-  background-color: #d7bde2;
+  background-color: lightpink;
   width: 100%;
   border-collapse: collapse;
   border-radius: 30px;
