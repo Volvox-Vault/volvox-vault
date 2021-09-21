@@ -128,7 +128,7 @@ body {
   background: rgba(219, 112, 147, 0.5);
   color: white;
   padding: 35px;
-  box-shadow: 0 3px 10px rgb(215, 225, 168 / 0.5);
+  box-shadow: 0 3px 10px rgb(255, 255, 255 / 0.5);
   line-height: 2;
 }
 h1 {
@@ -164,7 +164,7 @@ hr {
   width: 100%;
   border-collapse: collapse;
   border-radius: 30px;
-  box-shadow: 0 3px 10px rgb(215 189 226 / 0.5);
+  box-shadow: 0 3px 10px rgb(255 255 255 / 0.5);
 }
 td {
   padding: 20px;
