@@ -217,7 +217,7 @@
       <div class="block-Home magazine-block">
         <div class="block-Home-header">Magazine Issues</div>
         <p class="block-Home-link">
-          <router-link to="/issues/metamorphosis">5: Heart</router-link>
+          <router-link to="/issues/heart">5: Heart</router-link>
         </p>
         <p class="block-Home-link">
           <router-link to="/issues/metamorphosis">4: Metamorphosis</router-link>
