@@ -154,7 +154,8 @@ p {
   font-size: 13pt;
 }
 a {
-  color: lightpink;
+  color: white;
+  font-weight: bold;
   text-decoration: underline;
 }
 a:hover {
