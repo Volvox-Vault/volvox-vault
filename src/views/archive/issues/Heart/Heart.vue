@@ -96,7 +96,7 @@ body {
   min-width: 250px;
   max-width: 700px;
   border-radius: 30px;
-  background: rgba((255,182,193, 0.5);
+  background: rgba(255,182,193, 0.5);
   color: PaleVioletRed;
   padding: 35px;
   box-shadow: 0 3px 10px rgb(215, 225, 168 / 0.5);
