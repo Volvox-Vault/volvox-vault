@@ -343,7 +343,7 @@ h2 {
 
 .block-Home-image img {
   /* make sure the image is scaled keeping its aspect ratio */
-  max-width: 90%;
+  max-width: 70%;
   height: auto;
 }
 
