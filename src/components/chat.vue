@@ -44,7 +44,7 @@
         <input
           type="text"
           class="write"
-          placeholder="what's up?"
+          placeholder="what are you up to?"
           v-model="message"
           required
         /> <input type="submit" class="send" value="Send" />
