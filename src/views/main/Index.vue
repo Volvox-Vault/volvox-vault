@@ -99,9 +99,9 @@
 
       <!-- IMG -->
       <div class="block-Home block-Home-image">
-        <img
+        <router-link to="/issues/heart"><img
           src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2FAsset%201.svg?v=1632188859476"
-        />
+        /></router-link>
       </div>
 
       <!-- SHOP -->
