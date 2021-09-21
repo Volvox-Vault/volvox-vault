@@ -19,6 +19,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */
+import ssummer from '../views/archive/2021/9/kalil.vue'
 import ssummer from '../views/archive/2021/8/ssummer.vue'
 import alchemy from '../views/archive/2021/7/alchemy.vue'
 import LHO from '../views/archive/2021/6/LHO.vue'
@@ -141,6 +142,11 @@ const routes = [
 
   /* ARCHIVE */
 
+  {
+    path: '/archive/kalil',
+    name: 'kalil',
+    component: kalil
+  },
   {
     path: '/archive/ssummer',
     name: 'ssummer',
