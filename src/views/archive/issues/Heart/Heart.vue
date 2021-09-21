@@ -39,7 +39,7 @@
           <hr />
 
           <img
-            style="width: 100%; margin-top: 0px; padding: 10px; border: 1.6px dashed PaleVioletRed;"
+            style="width: 100%; margin-top: 0px;"
             src="http://cdn.mcauto-images-production.sendgrid.net/98dc96f70d943c3b/9d08116c-92fb-4b47-b6b4-3af6ca146a72/1307x812.JPG"
           />
 
