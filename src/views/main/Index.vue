@@ -217,16 +217,19 @@
       <div class="block-Home magazine-block">
         <div class="block-Home-header">Magazine Issues</div>
         <p class="block-Home-link">
-          <router-link to="/issues/metamorphosis">Metamorphosis</router-link>
+          <router-link to="/issues/metamorphosis">5: Heart</router-link>
         </p>
         <p class="block-Home-link">
-          <router-link to="/issues/aggregate">Aggregate</router-link>
+          <router-link to="/issues/metamorphosis">4: Metamorphosis</router-link>
         </p>
         <p class="block-Home-link">
-          <router-link to="/issues/proximity">Proximity</router-link>
+          <router-link to="/issues/aggregate">3: Aggregate</router-link>
         </p>
         <p class="block-Home-link">
-          <router-link to="/issues/identity">Identity</router-link>
+          <router-link to="/issues/proximity">2: Proximity</router-link>
+        </p>
+        <p class="block-Home-link">
+          <router-link to="/issues/identity">1: Identity</router-link>
         </p>
       </div>
 
