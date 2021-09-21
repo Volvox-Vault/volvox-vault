@@ -86,7 +86,6 @@ export default {
 * {
   scrollbar-color: grey midnightblue;
   scrollbar-width: thin !important;
-  background-color: midnightblue;
 }
 
 body {
