@@ -46,7 +46,10 @@
       <div class="space">
         <router-link to="/"><p class="header">volvox pond</p></router-link>
         <hr />
-        <iframe width="560" height="315" src="https://www.youtube.com/embed/6qh0ivd1EGM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <p>
+          welcome! the pond is a place for us to hang out.<br>
+          every 48 hours, the pond refreshes.<br>
+          sometimes we have <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.</p>
         <br><br>
         <p style="color: grey">
           welcome to our picnic with
@@ -63,9 +66,9 @@
         </div>
       </div>
 
-      <!--<footer style="position: fixed; bottom: 20px; right: 20px; width: 100%; background-color: none;">
+      <footer style="position: fixed; bottom: 20px; right: 20px; width: 100%; background-color: none;">
         <img src="@/assets/pond.png" class="pondpic" />
-      </footer>-->
+      </footer>
     </div>
 
     <script
