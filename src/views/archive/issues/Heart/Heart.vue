@@ -30,7 +30,7 @@
             <a
               href="https://www.when2meet.com/?12956396-qjYsH"
               >let's schedule a community video call</a
-            >. We'll meet at
+            >. We'll meet 
             <a href="https://meet.jit.si/volvoxhearttoheart"
               >here</a
             >.
