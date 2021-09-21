@@ -1,42 +1,42 @@
 <template>
   <MainLayout>
     <head>
-      <title>Volvox Vault - How are you appreciating nature this summer?</title>
+      <title>Volvox Vault - 2 Kalil Haddad Films</title>
 
       <link
         rel="shortcut icon"
         type="image/png"
-        href="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588"
+        href="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil3.jpeg?v=1632262004036"
       />
 
       <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-      <meta name="description" content="Seán responded..." />
-      <meta name="author" content="Seán" />
+      <meta name="description" content="2 Films by Kalil Haddad" />
+      <meta name="author" content="Kalil" />
 
-      <meta property="og:title" content="Volvox Vault - Seán responded..." />
-      <meta property="og:description" content="Seán responded..." />
+      <meta property="og:title" content="Volvox Vault - 2 Films by Kalil Haddad" />
+      <meta property="og:description" content="2 Films by Kalil Haddad" />
       <meta
         property="og:image"
-        content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588"
+        content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil3.jpeg?v=1632262004036"
       />
       <meta
         property="og:url"
-        content="https://volvoxvault.com/archive/ssummer"
+        content="https://volvoxvault.com/archive/kalil"
       />
 
       <meta
         property="twitter:title"
-        content="Volvox Vault - How are you appreciating nature this summer?"
+        content="Volvox Vault - 2 Films by Kalil Haddad"
       />
-      <meta property="twitter:description" content="Seán responded..." />
+      <meta property="twitter:description" content="2 Films by Kalil Haddad" />
       <meta
         property="twitter:image"
-        content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588"
+        content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil3.jpeg?v=1632262004036"
       />
       <meta
         property="twitter:url"
-        content="https://volvoxvault.com/archive/ssummer"
+        content="https://volvoxvault.com/archive/kalil"
       />
     </head>
 
@@ -44,60 +44,26 @@
       <main>
         <div>
           <div>
-            <h1 class="head">"How are you appreciating nature this summer?"</h1>
+            <h1 class="head">Boys of Summer</h1>
 
-            <p class="headDes">Seán responded...</p>
+            <p class="headDes">2 films by Kalil Haddad</p>
 
             <br />
             <hr />
             <br />
 
             <p>
-              After taking a
-              <a href="https://pollinatorpartnership.ca/" target="_blank"
-                >pollinator stewardship course</a
-              >
-              last year, I've been learning about the bees that are visiting the
-              flowers around my home this year and am pausing a lot more than
-              usual to notice which plants attract which kinds of bees (and
-              other insects). This summer, I'm illustrating/painting some of
-              the species that I observe, and might create a mini zine or two
-              about bees at some point to send to family &amp; friends.
-              <br /><br />
-              More broadly, I'm also learning to become better at listening to
-              the land, and recognizing when I should stay out of the way to let
-              other organisms &amp; processes have the space &amp; time to work
-              things out on their own. Reflecting on how I can better support
-              other-than-human stewardship and how the landscape might change
-              over the next millennium and beyond.
-              <br /><br />
-              My partner and I did a couple of small paintings for <a href="https://www.pollinator.org/pollinator-week" target="_blank">Pollinator
-              Week</a>, which you can find
-              <a
-                href="https://write.as/hummingcrow/pollinator-portraits-skip-and-sweat"
-                target="_blank"
-                >here</a
-              >. We also have a couple of tiny bee/pollinator zines sketched out
-              which we're hoping to bring to life this fall, while we sow and
-              grow lots of new pollinator-friendly plantings! We're creating
-              <a
-                href="https://blog.cobrahead.com/2013/07/28/making-native-bee-nesting-logs/"
-                target="_blank"
-                >nesting logs</a
-              >
-              and grounds for our local bees as well. <br /><br />
-
-              My first bee painting (from last summer):
+              Kalil Words...
             </p>
             <br />
             <img
-              src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588"
-              alt="Seán holding his painting of a bumble bee hanging out on a leaf between his index and thumb."
+              src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil3.jpeg?v=1632262004036"
+              alt="3 young men standing with shirts off in a forest near a small pond. To the left, a cement wall with crude graffitti."
             />
             <br />
             <img
-              src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2F7Xaw0gu.jpeg?v=1630533851359"
-              alt="Seán holding his painting of a bumble bee hanging out on a leaf between his index and thumb."
+              src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil4.JPG?v=1632262003953"
+              alt="A young man and woman sitting on a suburban roof. A couple other roofs, trees, and a power line in the background. Clear sky."
             />
 
             <br />
@@ -105,12 +71,12 @@
             <br />
 
             <a
-              href="https://write.as/hummingcrow/little-paintings-a-bumble-bee-rests-in-the-sun"
+              href="https://kalilhaddad.com/"
               target="_blank"
             >
-              Seán's website.
-            </a>
-            | Email us about your summer ~ hello@volvoxvault.com |
+              Kalil's website.
+            </a> 
+            |
             <a href="https://www.paypal.com/paypalme/ti4na" target="_blank">
               Tip Jar ☕
             </a>
