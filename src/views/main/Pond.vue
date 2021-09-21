@@ -46,19 +46,10 @@
       <div class="space">
         <router-link to="/"><p class="header">volvox pond</p></router-link>
         <hr />
-        <p>
+        <p style="color: grey">
           welcome! the pond is a place for us to hang out.<br>
           every 48 hours, the pond refreshes.<br>
-          sometimes we have <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.</p>
-        <br><br>
-        <p style="color: grey">
-          welcome to our picnic with
-          <a
-            style="color: grey; text-decoration: underline"
-            href="http://mattdowdy.online/"
-            target="_blank"
-            >dj candle</a
-          >.
+          sometimes we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.
         </p>
         <hr />
         <div class="chatness">
