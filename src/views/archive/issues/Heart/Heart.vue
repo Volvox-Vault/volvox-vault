@@ -55,7 +55,6 @@
           <hr />
 
           <!-- MAG SUB -->
-          <div class="block-Submit">
             <h2>Guidelines</h2>
 
             <ul class="block-Submit-ul">
@@ -90,8 +89,9 @@
               </li>
             </ul>
 
+            <hr />
+
             <p>Thank you for your support.</p>
-          </div>
         </div>
       </main>
     </body>
