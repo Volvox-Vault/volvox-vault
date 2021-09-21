@@ -1,5 +1,5 @@
 <template>
-  <div>
+  <div style="background-color: midnightblue;">
     <head>
       <title>Volvox Vault</title>
 
@@ -105,6 +105,7 @@ body {
 
 .space {
   padding: 20px;
+  background-color: midnightblue;
 }
 
 .chatness {
