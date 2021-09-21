@@ -56,7 +56,7 @@
 
           <!-- MAG SUB -->
           <div class="block-Submit">
-            <p class="block-Submit-header">Guidelines</p>
+            <h2>Guidelines</h2>
 
             <ul class="block-Submit-ul">
               <li>
@@ -79,10 +79,6 @@
                 which fits the theme.
               </li>
               <li>
-                Volvox Vault prioritizes showcasing works with gentle, mindful,
-                and organic vibrations.
-              </li>
-              <li>
                 For visual submissions, include at least 200 word artist's
                 statement.
               </li>
@@ -91,14 +87,6 @@
                 <router-link to="/support"
                   >Subscribe to the newsletter for updates.</router-link
                 >
-              </li>
-              <li>
-                Email submissions / pitches to hello@volvoxvault.com, or through
-                <a
-                  href="https://form.123formbuilder.com/5763218/form"
-                  target="_blank"
-                  >this form</a
-                >.
               </li>
             </ul>
           </div>
@@ -148,7 +136,7 @@ h1 {
 h2 {
   font-size: 20pt;
   font-family: Arial, Helvetica, sans-serif;
-  line-height: 3;
+  line-height: 2;
 }
 p {
   font-size: 13pt;
