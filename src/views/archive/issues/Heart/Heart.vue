@@ -89,6 +89,8 @@
                 >
               </li>
             </ul>
+
+            <p>Thank you for your support.</p>
           </div>
         </div>
       </main>
