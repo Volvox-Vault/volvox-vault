@@ -172,7 +172,7 @@ hr {
 }
 .buy {
   text-align: center;
-  background-color: lightpink;
+  background-color: PaleVioletRed;
   width: 100%;
   border-collapse: collapse;
   border-radius: 30px;
