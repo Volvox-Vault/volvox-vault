@@ -5,63 +5,105 @@
         <div class="meta">
           <h1>Heart</h1>
 
-          <p>we are calling for submissions that come from your heart.<br><br>
-
-explore your friendships, relationships, obsessions, and heartbreaks.<br><br>
-
-do something lovely and send it our way.<br><br>
-
-look inside and outside of yourself.<br><br>
-
-pour your heart out.<br><br>
-
-i think we can make something really sweet together.<br><br>
-
-tentative deadline - dec 1, 2021<br><br>
-
--tiana</p>
-
-<hr>
-
-<!-- MAG SUB -->
-      <div class="block-Submit">
-        <p class="block-Submit-header">magazine</p>
-
-        <ul class="block-Submit-ul">
-          <li>
-            <b> Heart: An issue reflecting on empathy, friendship, and love.</b>
-          </li>
-          <li>Deadline November 10th.</li>
-          <li>
-            You can create new art, or submit something you made in the past
-            which fits the theme.
-          </li>
-          <li>
-            Volvox Vault prioritizes showcasing works with gentle, mindful, and
-            organic vibrations.
-          </li>
-          <li>
-            For visual submissions, include at least 200 word artist's
-            statement.
-          </li>
-          <li>Written pieces for the magazine may be 1-6 pages long.</li>
-          <li>
-            <router-link to="/support"
-              >Subscribe to the newsletter for updates.</router-link
-            >
-          </li>
-          <li>
-            Email submissions / pitches to hello@volvoxvault.com, or through
+          <p>
+            <i>An issue reflecting on empathy, friendship, and love.</i
+            ><br /><br />
+            Write or create a project about something that comes from your
+            heart. About a memory, idea, person, or something like that which
+            you hold dear to you.<br />
+            Create something personal, or community driven with friends and
+            strangers.<br />
+            Explore your friendships and relationships deeper with a creative
+            exercise you could share in this issue.<br /><br />
+            Send a pitch through
             <a
               href="https://form.123formbuilder.com/5763218/form"
-              target="_blank"
+              style="color: grey"
               >this form</a
+            >
+            by <b>November 1st</b>. Final submissions are due around
+            <b>December 1st</b>.<br /><br />
+
+            Discuss your ideas
+            <a href="https://volvoxvault.com/pond" style="color: grey"
+              >at the pond</a
+            >—and
+            <a
+              href="https://www.when2meet.com/?12956396-qjYsH"
+              style="color: grey"
+              >let's schedule a community video call</a
+            >. We'll meet at
+            <a href="https://meet.jit.si/volvoxhearttoheart" style="color: grey"
+              >https://meet.jit.si/volvoxhearttoheart</a
             >.
-          </li>
-        </ul>
-      </div>
+          </p>
 
+          <hr />
 
+          <img
+            style="width: 100%; margin-top: 0px"
+            src="http://cdn.mcauto-images-production.sendgrid.net/98dc96f70d943c3b/9d08116c-92fb-4b47-b6b4-3af6ca146a72/1307x812.JPG"
+          />
+
+          <p>
+            One person I often think fondly of is my Nana, who has always been
+            there for me. The warmest person I know.<br />
+            Who do you think warmly of? Do you think warmly of yourself? Did you
+            used to think warmly of someone but no longer do?<br />
+            Let’s explore these things and more in Heart.
+          </p>
+
+          <hr />
+
+          <!-- MAG SUB -->
+          <div class="block-Submit">
+            <p class="block-Submit-header">magazine</p>
+
+            <ul class="block-Submit-ul">
+              <li>
+                <b>
+                  Heart: An issue reflecting on empathy, friendship, and
+                  love.</b
+                >
+              </li>
+              <li>
+                Send a pitch through
+                <a
+                  href="https://form.123formbuilder.com/5763218/form"
+                  style="color: grey"
+                  >this form</a
+                >
+                by <b>November 1st</b>. Final submissions are due around
+                <b>December 1st</b>.
+              </li>
+              <li>
+                You can create new art, or submit something you made in the past
+                which fits the theme.
+              </li>
+              <li>
+                Volvox Vault prioritizes showcasing works with gentle, mindful,
+                and organic vibrations.
+              </li>
+              <li>
+                For visual submissions, include at least 200 word artist's
+                statement.
+              </li>
+              <li>Written pieces for the magazine may be 1-6 pages long.</li>
+              <li>
+                <router-link to="/support"
+                  >Subscribe to the newsletter for updates.</router-link
+                >
+              </li>
+              <li>
+                Email submissions / pitches to hello@volvoxvault.com, or through
+                <a
+                  href="https://form.123formbuilder.com/5763218/form"
+                  target="_blank"
+                  >this form</a
+                >.
+              </li>
+            </ul>
+          </div>
         </div>
       </main>
     </body>
@@ -88,7 +130,6 @@ body {
   font-family: Arial, Helvetica, sans-serif;
 }
 
-
 .meta {
   margin-left: auto;
   margin-right: auto;
@@ -96,7 +137,7 @@ body {
   min-width: 250px;
   max-width: 700px;
   border-radius: 30px;
-  background: rgba(255,182,193, 0.5);
+  background: rgba(255, 182, 193, 0.5);
   color: white;
   padding: 35px;
   box-shadow: 0 3px 10px rgb(215, 225, 168 / 0.5);
@@ -140,7 +181,8 @@ hr {
 td {
   padding: 20px;
 }
-video, iframe {
+video,
+iframe {
   border-radius: 30px;
   box-shadow: 0 5px 10px rgb(215 189 226 / 0.5);
 }
