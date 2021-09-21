@@ -3,7 +3,7 @@
     <body>
       <main>
         <div class="meta">
-          <h1>Heart</h1>
+          <h1>heart.</h1>
 
           <p>
             <i>An issue reflecting on empathy, friendship, and love.</i
@@ -18,7 +18,6 @@
             Send a pitch through
             <a
               href="https://form.123formbuilder.com/5763218/form"
-              style="color: grey"
               >this form</a
             >
             by <b>November 1st</b>. Final submissions are due around
@@ -30,10 +29,9 @@
             >—and
             <a
               href="https://www.when2meet.com/?12956396-qjYsH"
-              style="color: grey"
               >let's schedule a community video call</a
             >. We'll meet at
-            <a href="https://meet.jit.si/volvoxhearttoheart" style="color: grey"
+            <a href="https://meet.jit.si/volvoxhearttoheart"
               >https://meet.jit.si/volvoxhearttoheart</a
             >.
           </p>
@@ -57,7 +55,7 @@
 
           <!-- MAG SUB -->
           <div class="block-Submit">
-            <p class="block-Submit-header">magazine</p>
+            <p class="block-Submit-header">Guidelines</p>
 
             <ul class="block-Submit-ul">
               <li>
@@ -70,7 +68,6 @@
                 Send a pitch through
                 <a
                   href="https://form.123formbuilder.com/5763218/form"
-                  style="color: grey"
                   >this form</a
                 >
                 by <b>November 1st</b>. Final submissions are due around
@@ -144,8 +141,7 @@ body {
   line-height: 2;
 }
 h1 {
-  font-size: 20pt;
-  text-align: center;
+  font-size: 25pt;
   font-family: Arial, Helvetica, sans-serif;
 }
 h2 {
@@ -157,7 +153,7 @@ p {
   font-size: 13pt;
 }
 a {
-  color: PaleVioletRed;
+  color: lightpink;
   text-decoration: underline;
 }
 a:hover {
