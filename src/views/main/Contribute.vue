@@ -72,10 +72,6 @@
             the website.
           </li>
           <li>
-            Volvox Vault prioritizes showcasing works with gentle, mindful, and
-            organic vibrations.
-          </li>
-          <li>
             Articles, stories, paintings, photographs, films, generative art,
             etc.
           </li>
@@ -93,16 +89,20 @@
 
         <ul class="block-Submit-ul">
           <li>
-            <b> Heart: An issue reflecting on empathy, friendship, and love.</b>
+            <router-link to="/issues/heart"><b>Heart: An issue reflecting on empathy, friendship, and love.</b></router-link>
           </li>
-          <li>Deadline November 10th.</li>
+                        <li>
+                Send a pitch through
+                <a
+                  href="https://form.123formbuilder.com/5763218/form"
+                  >this form</a
+                >
+                by <b>November 1st</b>. Final submissions are due around
+                <b>December 1st</b>.
+              </li>
           <li>
             You can create new art, or submit something you made in the past
             which fits the theme.
-          </li>
-          <li>
-            Volvox Vault prioritizes showcasing works with gentle, mindful, and
-            organic vibrations.
           </li>
           <li>
             For visual submissions, include at least 200 word artist's
