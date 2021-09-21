@@ -75,7 +75,7 @@
               </li>
               <li>
                 You can create new art, or submit something you made in the past
-                which fits the theme.
+                which fits the theme. Media must be original.
               </li>
               <li>
                 For visual submissions, include at least 200 word artist's

@@ -69,7 +69,7 @@
         <ul class="block-Submit-ul">
           <li>
             Any kind of creative article / project can be submitted / pitched to
-            the website.
+            the website. Media must be original.
           </li>
           <li>
             Articles, stories, paintings, photographs, films, generative art,
@@ -102,7 +102,7 @@
               </li>
           <li>
             You can create new art, or submit something you made in the past
-            which fits the theme.
+            which fits the theme. Media must be original.
           </li>
           <li>
             For visual submissions, include at least 200 word artist's
