@@ -134,11 +134,15 @@ export default {
 </script>
 
 <style scoped>
+
+* {
+  background-color: navy;
+}
+
 body {
   line-height: 2;
-  color: grey;
+  color: white;
   font-family: arial, sans-serif;
-  background-color: navy;
 }
 
 .head {
@@ -171,7 +175,7 @@ main {
   width: 50%;
   max-width: 600px;
   min-width: 340px;
-  background-color: rgb(255, 255, 255, 0.6);
+  background-color: rgb(111, 111, 111, 0.6);
   margin-right: auto;
   margin-left: auto;
   margin-top: 50px;
