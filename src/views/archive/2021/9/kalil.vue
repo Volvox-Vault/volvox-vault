@@ -180,8 +180,6 @@ a:hover {
   background-color: rgb(111, 111, 111, 0.6);
   margin-right: auto;
   margin-left: auto;
-  margin-top: 50px;
-  margin-bottom: 90px;
   padding: 40px;
   border-radius: 45px;
 }
