@@ -308,6 +308,15 @@ h2 {
   width: 100%;
 }
 
+.block-Home-enterpond a {
+  color: #e5e5e5;
+}
+
+.block-Home-enterpond a:hover {
+  color: grey;
+  text-decoration: underline;
+}
+
 .block-Home-link {
   font-size: 12pt;
   color: grey;
