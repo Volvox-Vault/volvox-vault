@@ -254,7 +254,7 @@
 
 <script>
 import MainLayout from "../../layouts/MainLayout";
-import Chat from "../../components/chat";
+/*import Chat from "../../components/chat";*/
 
 export default {
   name: "Home",
