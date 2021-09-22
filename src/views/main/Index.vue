@@ -233,14 +233,14 @@
       </div>
 
       <!-- CHAT -->
-      <div class="block-Home chat-block-Home">
+      <div class="block-Home chat-block-Home block-Home-image-pond">
         <div>
           <p class="block-Home-enterpond">
             <router-link to="/pond">enter the pond</router-link>
           </p>
-          <div class="block-Home-image-pond">
-        <img src="@/assets/pond.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
-      </div>
+       
+        <img src="@/assets/pond.png" />
+
         </div>
         <!--
         <div class="block-Home-header">
