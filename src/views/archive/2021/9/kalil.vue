@@ -47,7 +47,7 @@
             <div>
               <h1 class="head">THE BOYS OF SUMMER</h1>
 
-              <p class="headDes">Two films by Kalil Haddad</p>
+              <p class="headDes">A double feature of films by Kalil Haddad</p>
 
               <br />
               <hr />
