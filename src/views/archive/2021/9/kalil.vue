@@ -43,116 +43,134 @@
     <body>
       <main>
         <div class="main">
-        <div>
           <div>
-            <h1 class="head">THE BOYS OF SUMMER</h1>
+            <div>
+              <h1 class="head">THE BOYS OF SUMMER</h1>
 
-            <p class="headDes">Two films by Kalil Haddad</p>
+              <p class="headDes">Two films by Kalil Haddad</p>
 
-            <br />
-            <hr />
-            <br />
+              <br />
+              <hr />
+              <br />
 
-            <p>FOR MATURE AUDIENCES—PLAY LOUD<br />
-Shot and abandoned in 2017, The Boys of Summer and Honeypot represent the resurrection of
-a work that, for years, has been trapped between existences. Too complete not to exist, too
-incomplete to exist. Both originating from the lost project files of Glue—an incomplete epic of
-interconnected character vignettes—this double feature serves as a remix of what was—
-recontextualizing, adapting, and teleporting the film’s previous dramatic structure into the
-hybrid, narrative abstractions of underground video art.
-<br /><br />
-Complimenting each other in both form and tone—and edited in tandem—these works serve
-as the first two volumes in an on-going series reexamining the material for Glue; exploring
-characters and themes in a way previously unavailable within the film’s original intended
-structure. These edits represent their characters expressively, impressionistically, and
-emotionally—purely. They are films with narrative, but above all, they are works that regard
-mood—sharing a set of characters and continuity—but linked together in emotional abstraction.
-<br /><br />
-Honeypot—appearing here in remastered form—was previously released as a demo in the
-<router-link to="/issues/aggregate">Aggregate Issue</router-link>, before evolving live online into the final version presented here. The Boys of
-Summer, debuting for the very first time—as the summer itself draws to an end—may
-similarly update and change with the passage of time, existing as a living film. Time itself of
-essence to the thematic scope and overall development of Glue. Remixing footage the way a
-DJ works with sound, the material has been radically reshaped and restructured to express a
-new kind of reality—the unreality of the past.
-<br /><br />
-These works now exist as they only could today. In the wake of time, they have been reshaped
-as reflection, reminiscence—documents of a time that cannot be accessed. Their present
-selves unable to exist separate from that of their past—the lived in nature of each work
-spanning all the way to the form itself. After four years of development, these films have come
-to represent the life of time—their continued aesthetic evolution contingent upon evolving
-artistic perspective and individual growth. So as the summer draws to a close, let us reflect on
-not only our present, but where we have been—and the futures we have yet to meet.
-This is: The Boys of Summer and Honeypot: Remastered.
-</p>
+              <p>
+                FOR MATURE AUDIENCES—PLAY LOUD—<a href="#theboysofsummer"
+                  >WATCH</a
+                ><br />
+                Shot and abandoned in 2017, <i>The Boys of Summer</i> and <i>Honeypot: Remastered</i>
+                represent the resurrection of a work that, for years, has been
+                trapped between existences. Too complete not to exist, too
+                incomplete to exist. Both originating from the lost project
+                files of <i>Glue</i>—an incomplete epic of interconnected character
+                vignettes—this double feature serves as a remix of what was—
+                recontextualizing, adapting, and teleporting the film’s previous
+                dramatic structure into the hybrid, narrative abstractions of
+                underground video art.
+                <br /><br />
+                Complimenting each other in both form and tone—and edited in
+                tandem—these works serve as the first two volumes in an on-going
+                series reexamining the material for <i>Glue</i>; exploring characters
+                and themes in a way previously unavailable within the film’s
+                original intended structure. These edits represent their
+                characters expressively, impressionistically, and
+                emotionally—purely. They are films with narrative, but above
+                all, they are works that regard mood—sharing a set of characters
+                and continuity—but linked together in emotional abstraction.
+                <br /><br />
+                <i>Honeypot</i>—appearing here in remastered form—was previously
+                released as a demo in the
+                <router-link to="/issues/aggregate">Aggregate Issue</router-link
+                >, before evolving live online into the final version presented
+                here. <i>The Boys of Summer</i>, debuting for the very first time—as
+                the summer itself draws to an end—may similarly update and
+                change with the passage of time, existing as a living film. Time
+                <i>itself</i> is of essence to the thematic scope and overall
+                development of <i>Glue</i>. Remixing footage the way a DJ works with
+                sound, the material has been radically reshaped and restructured
+                to express a new kind of reality—the unreality of the past.
+                <br /><br />
+                These works now exist as they only could today. In the wake of
+                time, they have been reshaped as reflection,
+                reminiscence—documents of a time that cannot be accessed. Their
+                present selves unable to exist separate from that of their
+                past—the lived in nature of each work spanning all the way to
+                the form itself. After four years of development, these films
+                have come to represent the life of time—their continued
+                aesthetic evolution contingent upon evolving artistic
+                perspective and individual growth. So as the summer draws to a
+                close, let us reflect on not only our present, but where we have
+                been—and the futures we have yet to meet.
+                <br /><br />
+                This is: <i>The Boys of Summer</i> and <i>Honeypot: Remastered</i>.
+              </p>
 
-            <h2>THE BOYS OF SUMMER</h2>
+              <h2 id="theboysofsummer">THE BOYS OF SUMMER</h2>
 
-            <div style="padding: 82.47% 0 0 0; position: relative">
-              <iframe
-                src="https://player.vimeo.com/video/605980572?h=7cf3f3d755&title=0&byline=0&portrait=0"
-                style="
-                  position: absolute;
-                  top: 0;
-                  left: 0;
-                  width: 100%;
-                  height: 100%;
-                "
-                frameborder="0"
-                allow="autoplay; fullscreen; picture-in-picture"
-                allowfullscreen
-              ></iframe>
+              <div style="padding: 82.47% 0 0 0; position: relative">
+                <iframe
+                  src="https://player.vimeo.com/video/605980572?h=7cf3f3d755&title=0&byline=0&portrait=0"
+                  style="
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                  "
+                  frameborder="0"
+                  allow="autoplay; fullscreen; picture-in-picture"
+                  allowfullscreen
+                ></iframe>
+              </div>
+              <script src="https://player.vimeo.com/api/player.js"></script>
+
+              <br />
+
+              <h2>HONEY POT: REMASTERED</h2>
+
+              <div style="padding: 75% 0 0 0; position: relative">
+                <iframe
+                  src="https://player.vimeo.com/video/499434644?h=41e2c8bc79&title=0&byline=0&portrait=0"
+                  style="
+                    position: absolute;
+                    top: 0;
+                    left: 0;
+                    width: 100%;
+                    height: 100%;
+                  "
+                  frameborder="0"
+                  allow="autoplay; fullscreen; picture-in-picture"
+                  allowfullscreen
+                ></iframe>
+              </div>
+              <script src="https://player.vimeo.com/api/player.js"></script>
+
+              <br />
+              <hr />
+
+              <h2>STILLS</h2>
+              <img
+                src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil3.jpeg?v=1632262004036"
+                alt="3 young men standing with shirts off in a forest near a small pond. To the left, a cement wall with crude graffitti."
+              />
+              <br />
+              <img
+                src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil4.JPG?v=1632262003953"
+                alt="A young man and woman sitting on a suburban roof. A couple other roofs, trees, and a power line in the background. Clear sky."
+              />
+
+              <br />
+              <hr />
+              <br />
+
+              <a href="https://kalilhaddad.com/" target="_blank">
+                Kalil's website.
+              </a>
+              |
+              <a href="https://www.paypal.com/paypalme/ti4na" target="_blank">
+                Tip Jar ☕
+              </a>
             </div>
-            <script src="https://player.vimeo.com/api/player.js"></script>
-
-            <br />
-
-            <h2>HONEY POT: REMASTERED</h2>
-
-            <div style="padding: 75% 0 0 0; position: relative">
-              <iframe
-                src="https://player.vimeo.com/video/499434644?h=41e2c8bc79&title=0&byline=0&portrait=0"
-                style="
-                  position: absolute;
-                  top: 0;
-                  left: 0;
-                  width: 100%;
-                  height: 100%;
-                "
-                frameborder="0"
-                allow="autoplay; fullscreen; picture-in-picture"
-                allowfullscreen
-              ></iframe>
-            </div>
-            <script src="https://player.vimeo.com/api/player.js"></script>
-
-            <br />
-            <hr />
-
-            <h2>STILLS</h2>
-            <img
-              src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil3.jpeg?v=1632262004036"
-              alt="3 young men standing with shirts off in a forest near a small pond. To the left, a cement wall with crude graffitti."
-            />
-            <br />
-            <img
-              src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil4.JPG?v=1632262003953"
-              alt="A young man and woman sitting on a suburban roof. A couple other roofs, trees, and a power line in the background. Clear sky."
-            />
-
-            <br />
-            <hr />
-            <br />
-
-            <a href="https://kalilhaddad.com/" target="_blank">
-              Kalil's website.
-            </a>
-            |
-            <a href="https://www.paypal.com/paypalme/ti4na" target="_blank">
-              Tip Jar ☕
-            </a>
           </div>
-        </div>
         </div>
       </main>
     </body>
@@ -172,13 +190,12 @@ export default {
 </script>
 
 <style scoped>
-
 body {
   line-height: 2;
   color: white;
   font-family: arial, sans-serif;
   background-color: navy;
-    height: 100%;
+  height: 100%;
   padding-top: 60px;
   padding-bottom: 60px;
 }
