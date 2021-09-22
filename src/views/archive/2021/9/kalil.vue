@@ -103,7 +103,7 @@
                 <br /><br />
                 This is: <i>The Boys of Summer</i> and <i>Honeypot: Remastered</i>.
                 <br><br>
-                <i>Kalil Haddad</i>
+                <a href="https://kalilhaddad.com/" target="_blank"><i>Kalil Haddad</i></a>
               </p>
 
               <br />
