@@ -238,7 +238,8 @@
           <p class="block-Home-enterpond">
             <router-link to="/pond">enter the pond</router-link>
           </p>
-          <div class="block-Home-image">
+          <div class="block-Home-image" style="align-items: flex-end;
+    display: flex;">
         <img src="@/assets/pond.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
       </div>
         </div>
