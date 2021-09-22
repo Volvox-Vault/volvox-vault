@@ -94,6 +94,9 @@
             <script src="https://player.vimeo.com/api/player.js"></script>
 
             <br />
+            <hr />
+            <br />
+            <h2>STILLS</h2>
             <img
               src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil3.jpeg?v=1632262004036"
               alt="3 young men standing with shirts off in a forest near a small pond. To the left, a cement wall with crude graffitti."
