@@ -57,21 +57,21 @@
                 FOR MATURE AUDIENCES—PLAY LOUD—<a href="#theboysofsummer"
                   >WATCH</a
                 ><br />
-                Shot and abandoned in 2017, <i>The Boys of Summer</i> and <i>Honeypot: Remastered</i>
-                represent the resurrection of a work that, for years, has been
-                trapped between existences. Too complete not to exist, too
-                incomplete to exist. Both originating from the lost project
-                files of <i>Glue</i>—an incomplete epic of interconnected character
-                vignettes—this double feature serves as a remix of what was—
-                recontextualizing, adapting, and teleporting the film’s previous
-                dramatic structure into the hybrid, narrative abstractions of
-                underground video art.
+                Shot and abandoned in 2017, <i>The Boys of Summer</i> and
+                <i>Honeypot: Remastered</i> represent the resurrection of a work
+                that, for years, has been trapped between existences. Too
+                complete not to exist, too incomplete to exist. Both originating
+                from the lost project files of <i>Glue</i>—an incomplete epic of
+                interconnected character vignettes—this double feature serves as
+                a remix of what was— recontextualizing, adapting, and
+                teleporting the film’s previous dramatic structure into the
+                hybrid, narrative abstractions of underground video art.
                 <br /><br />
                 Complimenting each other in both form and tone—and edited in
                 tandem—these works serve as the first two volumes in an on-going
-                series reexamining the material for <i>Glue</i>; exploring characters
-                and themes in a way previously unavailable within the film’s
-                original intended structure. These edits represent their
+                series reexamining the material for <i>Glue</i>; exploring
+                characters and themes in a way previously unavailable within the
+                film’s original intended structure. These edits represent their
                 characters expressively, impressionistically, and
                 emotionally—purely. They are films with narrative, but above
                 all, they are works that regard mood—sharing a set of characters
@@ -81,14 +81,14 @@
                 released as a demo in the
                 <router-link to="/issues/aggregate">Aggregate Issue</router-link
                 >, before evolving live online into the final version presented
-                here. <i>The Boys of Summer</i>, debuting for the very first time—as
-                the summer itself draws to an end—may similarly update and
-                change with the passage of time, existing as a living film. Time
-                <i>itself</i> is of essence to the thematic scope and overall
-                development of <i>Glue</i>. Remixing footage the way a DJ works with
-                sound, the material has been radically reshaped and restructured
-                to express a new kind of reality—the unreality of the past.
-                <br /><br />
+                here. <i>The Boys of Summer</i>, debuting for the very first
+                time—as the summer itself draws to an end—may similarly update
+                and change with the passage of time, existing as a living film.
+                Time <i>itself</i> is of essence to the thematic scope and
+                overall development of <i>Glue</i>. Remixing footage the way a
+                DJ works with sound, the material has been radically reshaped
+                and restructured to express a new kind of reality—the unreality
+                of the past. <br /><br />
                 These works now exist as they only could today. In the wake of
                 time, they have been reshaped as reflection,
                 reminiscence—documents of a time that cannot be accessed. Their
@@ -101,9 +101,11 @@
                 close, let us reflect on not only our present, but where we have
                 been—and the futures we have yet to meet.
                 <br /><br />
-                This is: <i>The Boys of Summer</i> and <i>Honeypot: Remastered</i>.
-                <br><br>
-                <a href="https://kalilhaddad.com/" target="_blank"><i>Kalil Haddad</i></a>
+                This is: <i>The Boys of Summer</i> and
+                <i>Honeypot: Remastered</i>. <br /><br />
+                <a href="https://kalilhaddad.com/" target="_blank"
+                  ><i>Kalil Haddad</i></a
+                >
               </p>
 
               <br />
@@ -242,6 +244,8 @@ a:hover {
 }
 
 .main {
+  margin-left: auto;
+  margin-right: auto;
   width: 50%;
   max-width: 600px;
   min-width: 250px;
