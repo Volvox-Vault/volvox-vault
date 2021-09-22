@@ -63,7 +63,7 @@
                 complete not to exist, too incomplete to exist. Both originating
                 from the lost project files of <i>Glue</i>—an incomplete epic of
                 interconnected character vignettes—this double feature serves as
-                a remix of what was— recontextualizing, adapting, and
+                a remix of what was—recontextualizing, adapting, and
                 teleporting the film’s previous dramatic structure into the
                 hybrid, narrative abstractions of underground video art.
                 <br /><br />
