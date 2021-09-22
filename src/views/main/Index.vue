@@ -238,9 +238,9 @@
           <p class="block-Home-enterpond">
             <router-link to="/pond">enter the pond</router-link>
           </p>
-          <footer style="position: fixed; bottom: 20px; width: 100%; background-color: none;">
-        <img src="@/assets/pond.png" class="pondpic" />
-      </footer>
+          <div style="width: 100%">
+        <img src="@/assets/pond.png" class="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
+      </div>
         </div>
         <!--
         <div class="block-Home-header">
@@ -285,14 +285,6 @@ h2 {
   padding: 0;
   grid-gap: 1px;
   box-sizing: border-box;
-}
-
-.pondpic {
-  display: block;
-  margin: 20px;
-  width: 40%;
-  min-width: 300px;
-  max-width: 600px;
 }
 
 .block-Home {
