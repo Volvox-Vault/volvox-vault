@@ -250,8 +250,6 @@ a:hover {
   max-width: 600px;
   min-width: 250px;
   background-color: rgb(111, 111, 111, 0.4);
-  margin-right: auto;
-  margin-left: auto;
   padding: 40px;
   border-radius: 45px;
 }
