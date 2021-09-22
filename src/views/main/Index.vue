@@ -312,7 +312,7 @@ h2 {
 }
 
 .block-Home-enterpond a {
-  color: #e5e5e5;
+  color: grey;
 }
 
 .block-Home-enterpond a:hover {
