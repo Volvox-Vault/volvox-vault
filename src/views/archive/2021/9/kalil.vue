@@ -42,6 +42,7 @@
 
     <body>
       <main>
+        <div class="main">
         <div>
           <div>
             <h1 class="head">THE BOYS OF SUMMER</h1>
@@ -116,6 +117,7 @@
             </a>
           </div>
         </div>
+        </div>
       </main>
     </body>
   </MainLayout>
@@ -135,14 +137,14 @@ export default {
 
 <style scoped>
 
-* {
-  background-color: navy;
-}
-
 body {
   line-height: 2;
   color: white;
   font-family: arial, sans-serif;
+  background-color: navy;
+    height: 100%;
+  padding-top: 60px;
+  padding-bottom: 60px;
 }
 
 .head {
@@ -171,7 +173,7 @@ a:hover {
   color: grey;
 }
 
-main {
+.main {
   width: 50%;
   max-width: 600px;
   min-width: 340px;
