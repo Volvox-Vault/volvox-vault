@@ -233,8 +233,8 @@
       </div>
 
       <!-- CHAT -->
-      <div class="block-Home chat-block-Home block-Home-image-pond">
-        <router-link to="/pond"><img src="@/assets/pond.png" /></router-link>
+     <router-link to="/pond"> <div class="block-Home chat-block-Home block-Home-image-pond">
+        <img src="@/assets/pond.png" />
         <!--
         <div class="block-Home-header">
           <router-link to="/pond">Pond</router-link>
@@ -242,8 +242,8 @@
         <div style="padding: 10px; padding-left: 14px">
           <Chat />
         </div>-->
-      </div>
-      
+      </div></router-link>
+
     </div>
   </MainLayout>
 </template>
