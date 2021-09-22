@@ -304,6 +304,10 @@ mark.molly {
   color: black;
 }
 
+h2 {
+  line-height: 1.5;
+}
+
 @media (max-width: 800px) {
   .main {
     margin-top: 25px;
