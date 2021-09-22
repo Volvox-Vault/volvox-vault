@@ -102,7 +102,12 @@
                 been—and the futures we have yet to meet.
                 <br /><br />
                 This is: <i>The Boys of Summer</i> and <i>Honeypot: Remastered</i>.
+                <br><br>
+                <i>Kalil Haddad</i>
               </p>
+
+              <br />
+              <hr />
 
               <h2 id="theboysofsummer">THE BOYS OF SUMMER</h2>
 
@@ -156,6 +161,16 @@
               <img
                 src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil4.JPG?v=1632262003953"
                 alt="A young man and woman sitting on a suburban roof. A couple other roofs, trees, and a power line in the background. Clear sky."
+              />
+              <br />
+              <img
+                src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil5.JPG?v=1632262003915"
+                alt="Young man looking up at the camera, sitting on a chair on a deck in the suburbs."
+              />
+              <br />
+              <img
+                src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil2.JPG?v=1632262003720"
+                alt="A young woman looking to camera, trees in the background, clear summer day."
               />
 
               <br />
