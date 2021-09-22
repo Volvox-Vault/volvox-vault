@@ -260,7 +260,7 @@ export default {
   name: "Home",
   components: {
     MainLayout,
-    Chat,
+    /*Chat,*/
   },
 };
 </script>
