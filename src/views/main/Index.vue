@@ -88,8 +88,8 @@
             >
           </div>
           <div class="recent-Router">
-            <router-link to="/archive/ssummer"
-              >"How are you appreciating nature this summer?"</router-link>
+            <router-link to="/archive/kalil"
+              >The Boys of Summer</router-link>
           </div>
           <div class="recent-Router">
             <router-link to="/archive/TVS">Tiny Video Showcase</router-link>
