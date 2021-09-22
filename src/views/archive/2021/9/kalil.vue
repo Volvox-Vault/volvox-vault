@@ -244,7 +244,7 @@ a:hover {
 .main {
   width: 50%;
   max-width: 600px;
-  min-width: 340px;
+  min-width: 250px;
   background-color: rgb(111, 111, 111, 0.4);
   margin-right: auto;
   margin-left: auto;
