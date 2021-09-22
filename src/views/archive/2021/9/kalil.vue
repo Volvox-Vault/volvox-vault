@@ -48,7 +48,7 @@
               <h1 class="head">THE BOYS OF SUMMER</h1>
 
               <p class="headDes">A double feature by Kalil Haddad</p>
-
+<!--
               <p>
               <audio
                 class="firstAudio"
@@ -60,7 +60,7 @@
                 Your browser does not support the audio element.
               </audio>
             </p>
-
+-->
               <br />
               <hr />
               <br />
