@@ -248,7 +248,7 @@ a:hover {
   margin-right: auto;
   width: 50%;
   max-width: 600px;
-  min-width: 250px;
+  min-width: 340px;
   background-color: rgb(111, 111, 111, 0.4);
   padding: 40px;
   border-radius: 45px;
@@ -305,7 +305,7 @@ mark.molly {
 }
 
 @media (max-width: 800px) {
-  main {
+  .main {
     margin-top: 25px;
     min-width: 300px;
     max-width: 300px;
@@ -313,7 +313,7 @@ mark.molly {
 }
 
 @media only screen and (max-device-width: 800px) {
-  main {
+  .main {
     margin-top: 25px;
     min-width: 300px;
     max-width: 300px;
