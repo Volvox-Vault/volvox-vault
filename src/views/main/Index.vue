@@ -238,8 +238,7 @@
           <p class="block-Home-enterpond">
             <router-link to="/pond">enter the pond</router-link>
           </p>
-          <div class="block-Home-image" style="align-items: flex-end;
-    display: flex;">
+          <div class="block-Home-image-pond">
         <img src="@/assets/pond.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;" />
       </div>
         </div>
@@ -368,6 +367,20 @@ h2 {
 }
 
 .block-Home-image img {
+  /* make sure the image is scaled keeping its aspect ratio */
+  max-width: 70%;
+  height: auto;
+}
+
+.block-Home-image-pond {
+  display: flex;
+  align-items: flex-end;
+  text-decoration: none;
+  justify-content: center;
+  overflow: hidden;
+}
+
+.block-Home-image-pond img {
   /* make sure the image is scaled keeping its aspect ratio */
   max-width: 70%;
   height: auto;
