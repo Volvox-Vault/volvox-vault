@@ -88,8 +88,7 @@
             >
           </div>
           <div class="recent-Router">
-            <router-link to="/archive/kalil"
-              >The Boys of Summer</router-link>
+            <router-link to="/archive/kalil">The Boys of Summer</router-link>
           </div>
           <div class="recent-Router">
             <router-link to="/archive/TVS">Tiny Video Showcase</router-link>
@@ -235,12 +234,18 @@
 
       <!-- CHAT -->
       <div class="block-Home chat-block-Home">
+        <div>
+          <p class="block-Home-enterpond">
+            <router-link to="/pond">enter the pond</router-link>
+          </p>
+        </div>
+        <!--
         <div class="block-Home-header">
           <router-link to="/pond">Pond</router-link>
         </div>
         <div style="padding: 10px; padding-left: 14px">
           <Chat />
-        </div>
+        </div>-->
       </div>
     </div>
   </MainLayout>
@@ -293,6 +298,14 @@ h2 {
   padding: 10px;
   border-bottom: 1px solid #c8c8c8;
   align-items: center;
+}
+
+.block-Home-enterpond {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100px;
+  width: 100%;
 }
 
 .block-Home-link {
@@ -376,6 +389,10 @@ h2 {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.chat-block-Home {
+  background-color: midnightblue;
 }
 
 @media (min-width: 800px) {
