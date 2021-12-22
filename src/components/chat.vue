@@ -204,6 +204,9 @@ const colors = (hash) =>
   chunk(hash, 6)
     .filter((c) => c.length === 6)
     .slice(0, 4);
+
+
+
 </script>
 
 

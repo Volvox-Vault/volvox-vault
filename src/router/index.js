@@ -19,6 +19,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */
+import natan from '../views/archive/2021/10/natan.vue'
 import kalil from '../views/archive/2021/9/kalil.vue'
 import ssummer from '../views/archive/2021/8/ssummer.vue'
 import alchemy from '../views/archive/2021/7/alchemy.vue'
@@ -142,6 +143,11 @@ const routes = [
 
   /* ARCHIVE */
 
+  {
+    path: '/archive/natan',
+    name: 'natan',
+    component: natan
+  },
   {
     path: '/archive/kalil',
     name: 'kalil',

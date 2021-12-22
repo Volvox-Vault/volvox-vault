@@ -48,7 +48,7 @@
               <h1 class="head">THE BOYS OF SUMMER</h1>
 
               <p class="headDes">A double feature by Kalil Haddad</p>
-<!--
+
               <p>
               <audio
                 class="firstAudio"
@@ -60,8 +60,7 @@
                 Your browser does not support the audio element.
               </audio>
             </p>
--->
-              <br />
+
               <hr />
               <br />
 
@@ -144,7 +143,7 @@
 
               <br />
 
-              <h2>HONEY POT: REMASTERED</h2>
+              <h2>HONEYPOT: REMASTERED</h2>
 
               <div style="padding: 75% 0 0 0; position: relative">
                 <iframe
