@@ -1,13 +1,60 @@
 <template>
   <body>
+    <div style="background: linear-gradient(#fffaf0, #FFD580)">
+      <h1>autumn 2021 horoscopes ☽</h1>
+
+      <hr style="border: none; border-bottom: 1px dashed" />
+
+      <p>
+        Hello Moontides,<br />
+        I hope these horoscopes find you at the right time. I
+        invite you to listen with an open heart, allowing the messages that are
+        meant for YOU specifically to bring nourishment and reflection.<br />
+        For each of the twelve zodiac signs, I have pulled a card that offers goddess
+        guidance for the season of fall we find ourselves in in the western
+        hemisphere. Since I recorded these horoscopes on the New Moon in Libra,
+        I have also pulled a tarot card that gives insight on what may be
+        surfacing for your sign during this upcoming lunar cycle.<br />
+        I encourage you to listen to your sun, moon, and rising sign. <a href="https://www.astrology.com.tr/birth-chart.asp" target="_blank"
+          >Find your signs.</a
+        ><br />
+        For more of my poetic meditations &amp; musings, connect with me on instagram @moontidepoet. 
+        <br />
+        Much love,<br />
+        <a
+          href="https://www.instagram.com/moontidepoet/"
+          targer="_blank"
+          >MoontidePoet</a
+        >
+        <br /><br />
+      </p>
+
+      <p>
+        Aries 4:55 | Taurus 11:15 | Gemini 18:30 | Cancer 24:35 | Leo 30:20 | Virgo 35:10 | Libra 40:10 | Scorpio 47:15 | Sagittarius 51:30 | Capricorn 56:25 | Aquarius 1:00:45 | Pisces 1:06:40 | Outro 1:11:00 
+        <br /><br />
+        <iframe width="100%" height="500" src="https://www.youtube.com/embed/CXSg_0RM2CE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       
+      </p>
+
+      <hr style="border: none; border-bottom: 1px dashed" />
+
+      <p>
+        <router-link to="/">back to volvoxvault.com</router-link>
+      </p>
+
+    </div>
+
+    <br /><br />
+
+    <!-- SUMMER -->
+
     <div style="background: linear-gradient(#ebf5fb, #aed6f1)">
       <h1>summer 2021 horoscopes ☽</h1>
 
       <hr style="border: none; border-bottom: 1px dashed" />
 
       <p>
-        <i>We have a new horoscopes writer! 
-        <br>Meet Julie...</i> <br />
+        <i>We have a new horoscopes writer! <br />Meet Julie...</i> <br />
         <br />
         Hello Moontides,<br />
         <br />

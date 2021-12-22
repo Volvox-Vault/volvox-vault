@@ -1,7 +1,7 @@
 <template>
   <div style="background-color: midnightblue;">
     <head>
-      <title>Volvox Vault</title>
+      <title>volvox pond</title>
 
       <link rel="shortcut icon" type="image/png" href="@assets/logo.png" />
 
@@ -46,9 +46,15 @@
       <div class="space">
         <router-link to="/"><p class="header">volvox pond</p></router-link>
         <hr />
-        <p style="color: grey; line-height: 2;">
+        <p style="color: grey; line-height: 2; margin-bottom: 20px;">
           the pond is a place for us to hang out. every 48 hours, the pond refreshes. sometimes we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.
         </p>
+
+       <!-- <iframe src="https://www.youtube.com/embed/TnekaU7vPA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       
+
+        <p style="color: grey; line-height: 2; margin-top: 20px;"><a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV"  target="_blank" style ="color: grey;">picnic</a> with <a href="https://packstheband.com/" target="_blank" style ="color: grey;">PACKS</a>.</p>
+         -->
         <hr />
         <div class="chatness">
           <Chat />
@@ -56,7 +62,7 @@
       </div>
 
       <footer style="position: fixed; bottom: 20px; right: 20px; width: 100%; background-color: none;">
-        <img src="@/assets/pond.png" class="pondpic" />
+        <img src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504%2Fpond.png?v=1636858501765" class="pondpic" />
       </footer>
     </div>
 
@@ -89,6 +95,16 @@ export default {
 
 body {
   background-color: midnightblue;
+}
+
+a {
+  color: grey;
+  text-decoration: underline;
+}
+
+a:hover {
+  text-decoration: none;
+  cursor: help;
 }
 
 .pond {
@@ -125,8 +141,8 @@ hr {
   margin: 20px;
   margin-right: 25px;
   width: 40%;
-  min-width: 300px;
-  max-width: 600px;
+  min-width: 200px;
+  max-width: 300px;
 }
 
 ::-webkit-scrollbar {
@@ -138,10 +154,17 @@ hr {
   background-color: grey;
 }
 
+iframe {
+  width: 560px;
+  height: 315px;
+  margin-bottom: 0px;
+  padding-bottom: 0px;
+}
+
 @media (max-width: 1990px) {
   .pondpic {
-    max-width: 400px;
-    min-width: 300px;
+    max-width: 200px;
+    min-width: 100px;
   }
 }
 
@@ -154,6 +177,11 @@ hr {
   .pondpic {
     margin: 15px;
     margin-right: 15px;
+  }
+
+  iframe {
+  width: 360px;
+  height: 115px;
   }
 }
 </style>

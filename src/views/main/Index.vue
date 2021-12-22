@@ -91,16 +91,20 @@
             <router-link to="/archive/kalil">The Boys of Summer</router-link>
           </div>
           <div class="recent-Router">
-            <router-link to="/archive/TVS">Tiny Video Showcase</router-link>
+            <router-link to="/archive/natan">Natan Lawson's Little Moments</router-link>
           </div>
         </div>
       </div>
 
       <!-- IMG -->
-      <div class="block-Home block-Home-image">
+      <div class="block-Home">
+        <router-link to="/issues/heart">  <div class="block-Home-image" style="width: 100%; height: 100%;">
         <img
+        style="padding: 10px;"
           src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fheart.png?v=1632189014516"
         />
+        </div>
+        </router-link>
       </div>
 
       <!-- SHOP -->
@@ -233,8 +237,11 @@
       </div>
 
       <!-- CHAT -->
-     <router-link to="/pond"> <div class="block-Home chat-block-Home block-Home-image-pond">
-        <img src="@/assets/pond.png" />
+     <div class="block-Home chat-block-Home">
+       <router-link to="/pond">  <div class="block-Home-image-pond" style="width: 100%; height: 100%;">
+        <img class="block-Home-image-pond-img" src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504%2Fpond.png?v=1636858501765" />
+        <!--<button onclick="location.href='https://volvoxvault.com/pond'" type="button">
+         enter the pond</button>-->
         <!--
         <div class="block-Home-header">
           <router-link to="/pond">Pond</router-link>
@@ -242,7 +249,8 @@
         <div style="padding: 10px; padding-left: 14px">
           <Chat />
         </div>-->
-      </div></router-link>
+        </div></router-link>
+      </div>
 
     </div>
   </MainLayout>
@@ -374,10 +382,12 @@ h2 {
   overflow: hidden;
 }
 
-.block-Home-image-pond img {
+.block-Home-image-pond-img {
   /* make sure the image is scaled keeping its aspect ratio */
   max-width: 70%;
   height: auto;
+  margin-top: 5%;
+  margin-bottom: 5%;
 }
 
 .recent {
@@ -445,7 +455,7 @@ h2 {
   }
   .chat-block-Home {
     grid-row: 1;
-    height: 300px;
+    height: 100%;
     overflow-y: auto;
   }
   .magazine-block {
@@ -475,7 +485,7 @@ h2 {
   }
   .chat-block-Home {
     grid-row: 1;
-    height: 400px;
+    height: 100%;
     overflow-y: auto;
   }
   .magazine-block {

@@ -10,11 +10,11 @@
             ><br /><br />
             Write or create a project about something that comes from your
             heart. About a memory, idea, person, or something like that which
-            you hold dear to you.<br />
+            you or another hold dear.<br />
             Create something personal, or community driven with friends and
             strangers.<br />
-            Explore your friendships and relationships deeper with a creative
-            exercise you could share in this issue.<br /><br />
+            Explore your interests, desires, and relationships/friendships deeper with a creative
+            exercise or interview that you could share in this issue.<br /><br />
             Send a pitch through
             <a
               href="https://form.123formbuilder.com/5763218/form"
@@ -26,16 +26,7 @@
             Discuss your ideas
             <a href="https://volvoxvault.com/pond"
               >at the pond</a
-            >—and
-            <a
-              href="https://www.when2meet.com/?12956396-qjYsH"
-              >let's schedule a community video call</a
-            >.<br> 
-            We'll meet 
-            <a href="https://meet.jit.si/volvoxhearttoheart"
-              >here</a
-            >.
-          </p>
+            >.</p>
 
           <hr />
 
@@ -47,8 +38,8 @@
           <p>
             One person I often think fondly of is my Nana, who has always been
             there for me. The warmest person I know.<br />
-            Who do you think warmly of? Do you think warmly of yourself? Did you
-            used to think warmly of someone but no longer do?<br />
+            Who or what do you think warmly of? Do you think warmly of yourself? Did you
+            used to think warmly of someone or something but no longer do?<br />
             Let’s explore these things and more in Heart.<br />
             —Tiana
           </p>
@@ -82,7 +73,7 @@
                 For visual submissions, include at least 200 word artist's
                 statement.
               </li>
-              <li>Written pieces for the magazine may be 1-6 pages long.</li>
+              <li>Written pieces may be 1-6 pages long.</li>
               <li>
                 <router-link to="/support"
                   >Subscribe to the newsletter for updates.</router-link

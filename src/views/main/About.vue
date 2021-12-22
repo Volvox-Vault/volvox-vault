@@ -5,9 +5,10 @@
       <div class="block-About">
         <p class="block-About-header">about</p>
         <p class="block-About-link">
-          <img src="../../assets/logo.png" /> We are a creative community
-          inspired by
-          <router-link to="/colony">each other</router-link>.<br /><br />
+          <img style="width: 25%" src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504%2FAsset%201.png?v=1637158464886" />
+          Volvox is a thoughtful creative space.
+
+          <br /><br />
           A
           <a href="https://en.wikipedia.org/wiki/Volvox" target="_blank"
             >volvox</a
@@ -20,9 +21,26 @@
           communities.
           <br />Volvox Vault is a special place to mindfully come together, and
           archive our creations and connections. <br /><br />
-          We are <a href="/Support">supported</a> by community members like
-          you.<br /><br />
 
+          Similar to how organisms like algae evolve over time, we too are
+          always changing.<br />
+          After our Heart issue, we are shifting our focus from
+          semi-annual magazines, to annual publications of our online content.<br />
+          This way our content becomes more accessible, while still maintaining
+          our love for print.<br />
+          Our seasonal newspaper Volvox Times, a newspaper
+          for creative community updates, will continue as usual. 
+          <br /><br />
+          Pitch to hello@volvoxvault.com <br />
+          We are looking for thought provoking:<br />
+          &#10023; Solo or collaborative creative projects<br />
+          &#10023; Articles<br />
+          &#10023; Interviews<br />
+          &#10023; Art (visual, written, digital, analog, films, photos, so on)<br />
+          <router-link to="contribute">Guidelines</router-link>
+          <br /><br />
+          If you would like, you can support us on <a href="https://www.patreon.com/volvoxvault">patreon</a> or <router-link to="support">some other way</router-link>.
+          <br /><br />
           Community Manager —
           <a href="https://tiana.computer/" target="_blank">Tiana Dueck</a
           ><br />
