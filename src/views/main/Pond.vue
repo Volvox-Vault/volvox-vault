@@ -47,14 +47,14 @@
         <router-link to="/"><p class="header">volvox pond</p></router-link>
         <hr />
         <p style="color: grey; line-height: 2; margin-bottom: 20px;">
-          the pond is a place for us to hang out. every 48 hours, the pond refreshes. sometimes we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.
+          the pond is a place for us to hang out. every 48 hours, the pond refreshes. <!--we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.-->
         </p>
 
-       <!-- <iframe src="https://www.youtube.com/embed/TnekaU7vPA4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+       <iframe src="https://www.youtube.com/embed/sgIvjJtJo3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
        
 
-        <p style="color: grey; line-height: 2; margin-top: 20px;"><a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV"  target="_blank" style ="color: grey;">picnic</a> with <a href="https://packstheband.com/" target="_blank" style ="color: grey;">PACKS</a>.</p>
-         -->
+        <p style="color: grey; line-height: 2; margin-top: 20px;">holiday <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV"  target="_blank" style ="color: grey;">picnic</a> with <a href="https://linktr.ee/alexbnunes" target="_blank" style ="color: grey;">alex nunes</a>.</p>
+         
         <hr />
         <div class="chatness">
           <Chat />
