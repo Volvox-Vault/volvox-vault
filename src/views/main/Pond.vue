@@ -120,13 +120,11 @@
 
 <script>
 import Chat from "../../components/chat";
-import Video from "../../components/Video.vue";
 
 export default {
   name: "Pond",
   components: {
     Chat,
-    Video,
   },
 };
 </script>
