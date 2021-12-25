@@ -50,7 +50,11 @@
           the pond is a place for us to hang out. every 48 hours, the pond refreshes. <!--we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.-->
         </p>
 
-       <iframe src="https://www.youtube.com/embed/sgIvjJtJo3k" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+        <video controls>
+        <source src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alexnunesbedholidaypicnic_2.mp4?v=1640402928018" type="video/mp4">
+        Your browser does not support the video tag.
+        </video> 
+
 
         <p style="color: grey; line-height: 2; margin-top: 20px;">holiday <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV"  target="_blank" style ="color: grey;">picnic</a> with <a href="https://linktr.ee/alexbnunes" target="_blank" style ="color: grey;">alex nunes</a>.</p>
          
@@ -158,6 +162,13 @@ iframe {
   height: 200px;
   margin-bottom: 0px;
   padding-bottom: 0px;
+}
+
+video {
+  width: 30%;
+  max-width: 400px;
+  min-width: 200px;
+  height: auto;
 }
 
 @media (max-width: 1990px) {
