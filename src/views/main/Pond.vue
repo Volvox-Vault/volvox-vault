@@ -51,7 +51,7 @@
         </p>
 
         <video controls>
-        <source src="@/src/assets/pond/alexnunesbedholidaypicnic_2.mp4" type="video/mp4">
+        <source src="../../assets/pond/alexnunesbedholidaypicnic_2.mp4" type="video/mp4">
         Your browser does not support the video tag.
         </video> 
 
