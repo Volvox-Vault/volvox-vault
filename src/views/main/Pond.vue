@@ -55,6 +55,10 @@
         Your browser does not support the video tag.
         </video> 
 
+        <video class="video" ref="video">
+          <source src="@/assets/pond/alexnunesbedholidaypicnic_2.mp4" type="video/mp4">
+        </video>
+
 
         <p style="color: grey; line-height: 2; margin-top: 20px;">holiday <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV"  target="_blank" style ="color: grey;">picnic</a> with <a href="https://linktr.ee/alexbnunes" target="_blank" style ="color: grey;">alex nunes</a>.</p>
          
@@ -88,6 +92,15 @@ export default {
     Chat,
   },
 };
+
+export default {
+  name: "VideoPlayer",
+   computed: {
+    videoElement () {
+      return this.$refs.video;
+    }, 
+  }
+}
 </script>
 
 <style scoped>
