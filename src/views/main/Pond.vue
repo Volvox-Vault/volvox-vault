@@ -55,7 +55,7 @@
         Your browser does not support the video tag.
         </video> 
 
-        <Video :mp4="require(`../../assets/pond/alexnunesbedholidaypicnic_2.mp4`)" />
+        <Video :mp4="require(`https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alexnunesbedholidaypicnic_3.mp4?v=1640405314778`)" />
 
 
         <p style="color: grey; line-height: 2; margin-top: 20px;">holiday <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV"  target="_blank" style ="color: grey;">picnic</a> with <a href="https://linktr.ee/alexbnunes" target="_blank" style ="color: grey;">alex nunes</a>.</p>
