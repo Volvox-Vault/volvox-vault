@@ -9,7 +9,7 @@
 export default {
   name: "Video",
   props: {
-    mp4: String
-  }
-}
+    mp4: String,
+  },
+};
 </script>

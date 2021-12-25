@@ -90,6 +90,7 @@ export default {
   name: "Pond",
   components: {
     Chat,
+    Video,
   },
 };
 </script>
