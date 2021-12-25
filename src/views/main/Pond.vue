@@ -1,5 +1,5 @@
 <template>
-  <div style="background-color: midnightblue;">
+  <div style="background-color: midnightblue">
     <head>
       <title>volvox pond</title>
 
@@ -34,7 +34,6 @@
 
         gtag("config", "UA-85410486-3");
       </script>
-
     </head>
 
     <div class="pond">
@@ -46,45 +45,82 @@
       <div class="space">
         <router-link to="/"><p class="header">volvox pond</p></router-link>
         <hr />
-        <p style="color: grey; line-height: 2; margin-bottom: 20px;">
-          the pond is a place for us to hang out. every 48 hours, the pond refreshes. <!--we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.-->
+        <p style="color: grey; line-height: 2; margin-bottom: 20px">
+          the pond is a place for us to hang out. every 48 hours, the pond
+          refreshes.
+          <!--we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.-->
         </p>
 
-        <video poster="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alex%20pond.jpg?v=1640405702449" controls>
-        <source src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alexnunesbedholidaypicnic_3.mp4?v=1640405314778" type="video/mp4">
-        Your browser does not support the video tag.
-        </video> 
+        <div style="padding: 75% 0 0 0; position: relative">
+          <iframe
+            src="https://player.vimeo.com/video/660039538?h=7d9bee5f01&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            frameborder="0"
+            allow="autoplay; fullscreen; picture-in-picture"
+            allowfullscreen
+            style="
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+            "
+            title="alexnunesbedholidaypicnic_3.mp4"
+          >
+          </iframe>
+        </div>
+        <script src="https://player.vimeo.com/api/player.js"></script>
 
-        <Video :mp4="require(`https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alexnunesbedholidaypicnic_3.mp4?v=1640405314778`)" />
+        <p style="color: grey; line-height: 2; margin-top: 20px">
+          holiday
+          <a
+            href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV"
+            target="_blank"
+            style="color: grey"
+            >picnic</a
+          >
+          with
+          <a
+            href="https://linktr.ee/alexbnunes"
+            target="_blank"
+            style="color: grey"
+            >alex nunes</a
+          >.
+        </p>
 
-
-        <p style="color: grey; line-height: 2; margin-top: 20px;">holiday <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV"  target="_blank" style ="color: grey;">picnic</a> with <a href="https://linktr.ee/alexbnunes" target="_blank" style ="color: grey;">alex nunes</a>.</p>
-         
         <hr />
         <div class="chatness">
           <Chat />
         </div>
       </div>
 
-      <footer style="position: fixed; bottom: 20px; right: 20px; width: 100%; background-color: none;">
-        <img src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504%2Fpond.png?v=1636858501765" class="pondpic" />
+      <footer
+        style="
+          position: fixed;
+          bottom: 20px;
+          right: 20px;
+          width: 100%;
+          background-color: none;
+        "
+      >
+        <img
+          src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504%2Fpond.png?v=1636858501765"
+          class="pondpic"
+        />
       </footer>
     </div>
 
     <script
-        data-goatcounter="https://volvoxvault.goatcounter.com/count"
-        async
-        src="//gc.zgo.at/count.js"
-      ></script>
-
+      data-goatcounter="https://volvoxvault.goatcounter.com/count"
+      async
+      src="//gc.zgo.at/count.js"
+    ></script>
   </div>
 </template>
 
 
 <script>
 import Chat from "../../components/chat";
-import Video from '../../components/Video.vue';
-
+import Video from "../../components/Video.vue";
 
 export default {
   name: "Pond",
@@ -195,8 +231,8 @@ video {
   }
 
   iframe {
-  width: 360px;
-  height: 115px;
+    width: 350px;
+    height: 200px;
   }
 }
 </style>
