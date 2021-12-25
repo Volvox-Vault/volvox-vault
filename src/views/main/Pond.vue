@@ -51,7 +51,7 @@
         </p>
 
         <video autoplay controls>
-        <source src="alexnunesbedholidaypicnic_2.mp4" type="video/mp4">
+        <source src="./alexnunesbedholidaypicnic_2.mp4" type="video/mp4">
         Your browser does not support the video tag.
         </video> 
 
