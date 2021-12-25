@@ -92,9 +92,7 @@ export default {
   components: {
     Chat,
   },
-};
 
-export default {
   name: "VideoPlayer",
    computed: {
     videoElement () {
