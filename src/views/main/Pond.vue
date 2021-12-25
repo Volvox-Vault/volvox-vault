@@ -51,23 +51,8 @@
           <!--we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.-->
         </p>
 
-        <div style="padding: 75% 0 0 0; position: relative">
-          <iframe
-            src="https://player.vimeo.com/video/660039538?h=7d9bee5f01&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
-            frameborder="0"
-            allow="autoplay; fullscreen; picture-in-picture"
-            allowfullscreen
-            style="
-              position: absolute;
-              top: 0;
-              left: 0;
-              width: 100%;
-              height: 100%;
-            "
-            title="alexnunesbedholidaypicnic_3.mp4"
-          >
-          </iframe>
-        </div>
+        <iframe src="https://player.vimeo.com/video/660039538?h=7d9bee5f01&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="350" height="197" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="alexnunesbedholidaypicnic_3.mp4"></iframe>
+        
         <script src="https://player.vimeo.com/api/player.js"></script>
 
         <p style="color: grey; line-height: 2; margin-top: 20px">
