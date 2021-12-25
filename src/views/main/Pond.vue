@@ -50,7 +50,7 @@
           the pond is a place for us to hang out. every 48 hours, the pond refreshes. <!--we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.-->
         </p>
 
-        <video playsinline loop autoplay controls>
+        <video controls>
         <source src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alexnunesbedholidaypicnic_3.mp4?v=1640405314778" type="video/mp4">
         Your browser does not support the video tag.
         </video> 
