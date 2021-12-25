@@ -100,8 +100,8 @@ export default {
     videoElement () {
       return this.$refs.video;
     }, 
-  }
-}
+  },
+};
 </script>
 
 <style scoped>
