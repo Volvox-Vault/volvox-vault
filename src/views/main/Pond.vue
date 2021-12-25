@@ -155,7 +155,7 @@ hr {
 
 iframe {
   width: 350px;
-  height: 250px;
+  height: 200px;
   margin-bottom: 0px;
   padding-bottom: 0px;
 }
