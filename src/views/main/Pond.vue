@@ -51,7 +51,7 @@
         </p>
 
         <video poster="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alex%20pond.jpg?v=1640405702449" controls>
-        <source src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alexnunesbedholidaypicnic_3.mp4?v=1640405314778" type="video/mp4">
+        <source src="https://kapwi.ng/c/NNSiaJKUqF" type="video/mp4">
         Your browser does not support the video tag.
         </video> 
 
