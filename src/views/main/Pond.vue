@@ -50,15 +50,10 @@
           the pond is a place for us to hang out. every 48 hours, the pond refreshes. <!--we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.-->
         </p>
 
-<!--
         <video poster="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alex%20pond.jpg?v=1640405702449" controls>
         <source src="https://kapwi.ng/c/NNSiaJKUqF" type="video/mp4">
         Your browser does not support the video tag.
-        </video> -->
-
-        <video class="video" ref="video" poster="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alex%20pond.jpg?v=1640405702449" controls>
-          <source src="@/assets/pond/alexnunesbedholidaypicnic_2.mp4" type="video/mp4">
-        </video>
+        </video> 
 
 
         <p style="color: grey; line-height: 2; margin-top: 20px;">holiday <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV"  target="_blank" style ="color: grey;">picnic</a> with <a href="https://linktr.ee/alexbnunes" target="_blank" style ="color: grey;">alex nunes</a>.</p>
@@ -91,13 +86,6 @@ export default {
   name: "Pond",
   components: {
     Chat,
-  },
-
-  name: "VideoPlayer",
-   computed: {
-    videoElement () {
-      return this.$refs.video;
-    }, 
   },
 };
 </script>
