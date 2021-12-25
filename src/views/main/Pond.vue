@@ -154,12 +154,27 @@ hr {
   background-color: grey;
 }
 
+.videoWrapper {
+  position: relative;
+  padding-bottom: 56.25%; /* 16:9 */
+  height: 0;
+}
+
+.videoWrapper iframe {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+}
+
+/*
 iframe {
   width: 560px;
   height: 315px;
   margin-bottom: 0px;
   padding-bottom: 0px;
-}
+}*/
 
 @media (max-width: 1990px) {
   .pondpic {
