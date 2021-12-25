@@ -159,6 +159,7 @@ hr {
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
   height: 0;
+  width: 40%;
 }
 
 .videoWrapper iframe {
