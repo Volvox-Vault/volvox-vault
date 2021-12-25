@@ -51,7 +51,7 @@
         </p>
 
         <video playsinline loop autoplay controls>
-        <source src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alexnunesbedholidaypicnic_2.mp4?v=1640402928018" type="video/mp4">
+        <source src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/alexnunesbedholidaypicnic_3.mp4?v=1640405314778" type="video/mp4">
         Your browser does not support the video tag.
         </video> 
 
