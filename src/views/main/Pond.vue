@@ -167,7 +167,7 @@ iframe {
 video {
   width: 30%;
   max-width: 400px;
-  min-width: 200px;
+  min-width: 300px;
   height: auto;
 }
 
