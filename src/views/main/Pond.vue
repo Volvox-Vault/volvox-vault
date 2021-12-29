@@ -113,7 +113,7 @@ a {
 
 a:hover {
   text-decoration: none;
-  cursor: help;
+  cursor: pointer;
 }
 
 .pond {
@@ -123,7 +123,6 @@ a:hover {
 
 .header {
   text-align: right;
-  color: yellowgreen;
   text-decoration: none;
   font-size: 14pt;
 }
