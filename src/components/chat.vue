@@ -220,7 +220,7 @@ const colors = (hash) =>
  text-decoration: underline;
 }
 
-li a:hover {
+.linkified:hover {
   text-decoration: none;
 }
 
