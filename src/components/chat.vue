@@ -233,7 +233,7 @@ const colors = (hash) =>
 
 <style>
 .linkified {
-  color: grey;
+  color: yellowgreen;
   text-decoration: underline;
 }
 
@@ -242,7 +242,7 @@ const colors = (hash) =>
 }
 
 .linkified:visited {
-  color: yellowgreen;
+  color: grey;
 }
 </style>
 
