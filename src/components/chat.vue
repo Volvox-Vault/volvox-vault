@@ -163,6 +163,8 @@ export default {
 
     }
 
+    const play = throttle(playRaindrop, 1000)
+
     this.connection.onmessage = (event) => {
       const message = JSON.parse(event.data);
       if (message.error) {
@@ -176,7 +178,7 @@ export default {
         message.time
       ) {
         message.colors = colors(message.hash);
-        throttle(playRaindrop, 1000)
+        play()
 
         if (
           message.name === this.name &&
