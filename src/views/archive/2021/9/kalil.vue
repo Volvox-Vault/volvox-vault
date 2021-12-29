@@ -139,7 +139,7 @@
                   allowfullscreen
                 ></iframe>
               </div>
-              <script src="https://player.vimeo.com/api/player.js"></script>
+              
 
               <br />
 
@@ -160,7 +160,6 @@
                   allowfullscreen
                 ></iframe>
               </div>
-              <script src="https://player.vimeo.com/api/player.js"></script>
 
               <br />
               <hr />

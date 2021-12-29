@@ -20,28 +20,10 @@
       <meta property="twitter:image" content="@assets/logo.png" />
       <meta property="twitter:url" content="http://volvoxvault.com/pond" />
 
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script
-        async
-        src="https://www.googletagmanager.com/gtag/js?id=UA-85410486-3"
-      ></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-          dataLayer.push(arguments);
-        }
-        gtag("js", new Date());
-
-        gtag("config", "UA-85410486-3");
-      </script>
     </head>
 
     <div class="pond">
-      <script
-        data-goatcounter="https://volvoxvault.goatcounter.com/count"
-        async
-        src="//gc.zgo.at/count.js"
-      ></script>
+      
       <div class="space">
         <router-link to="/"><p class="header">volvox pond</p></router-link>
         <hr />
@@ -53,7 +35,6 @@
 
         <iframe src="https://player.vimeo.com/video/660039538?h=7d9bee5f01&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="350" height="197" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="alexnunesbedholidaypicnic_3.mp4"></iframe>
         
-        <script src="https://player.vimeo.com/api/player.js"></script>
 
         <p style="color: grey; line-height: 2; margin-top: 20px">
           holiday
@@ -94,11 +75,7 @@
       </footer>
     </div>
 
-    <script
-      data-goatcounter="https://volvoxvault.goatcounter.com/count"
-      async
-      src="//gc.zgo.at/count.js"
-    ></script>
+   
   </div>
 </template>
 

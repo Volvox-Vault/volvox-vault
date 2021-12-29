@@ -20,26 +20,7 @@
       <meta property="twitter:image" content="@assets/logo.png" />
       <meta property="twitter:url" content="http://volvoxvault.com/" />
 
-      <!-- Global site tag (gtag.js) - Google Analytics -->
-      <script
-        async
-        src="https://www.googletagmanager.com/gtag/js?id=UA-85410486-3"
-      ></script>
-      <script>
-        window.dataLayer = window.dataLayer || [];
-        function gtag() {
-          dataLayer.push(arguments);
-        }
-        gtag("js", new Date());
-
-        gtag("config", "UA-85410486-3");
-      </script>
-
-      <script
-        data-goatcounter="https://volvoxvault.goatcounter.com/count"
-        async
-        src="//gc.zgo.at/count.js"
-      ></script>
+    
     </head>
 
     <div id="blocks-Home">
