@@ -4,6 +4,10 @@ import router from './router/index.js'
 
 import VueMeta from 'vue-meta'
 
+import linkify from 'vue-linkify'
+ 
+Vue.directive('linkified', linkify)
+
 Vue.use(VueMeta)
 
 Vue.config.productionTip = false

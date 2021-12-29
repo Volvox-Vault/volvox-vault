@@ -56,6 +56,7 @@
         <li
           v-for="message in messages.slice().reverse()"
           :key="message.time + message.name + message.colors + message.message"
+          v-linkified
         >
           {{
             /* Show date if it's been more than 24 hrs since message,
