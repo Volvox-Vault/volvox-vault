@@ -213,7 +213,7 @@ const colors = (hash) =>
 
 
 
-<style scoped>
+<style>
 
 .linkified {
  color: grey;
@@ -227,6 +227,9 @@ const colors = (hash) =>
 .linkified:visited{
   color: yellowgreen;
 }
+</style>
+
+<style scoped>
 
 #chat {
   color: grey;
