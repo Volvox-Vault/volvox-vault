@@ -88,6 +88,10 @@ export default {
   components: {
     Chat,
   },
+  metaInfo: {
+      // title will be injected into parent titleTemplate
+      title: 'Pond'
+    },
 };
 </script>
 
