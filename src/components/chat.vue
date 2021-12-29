@@ -157,6 +157,7 @@ export default {
         message.time
       ) {
         message.colors = colors(message.hash);
+        new Audio("/waterdrop.wav").play()
 
         if (
           message.name === this.name &&
