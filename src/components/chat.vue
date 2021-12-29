@@ -214,6 +214,20 @@ const colors = (hash) =>
 
 
 <style scoped>
+
+.linkified {
+ color: grey;
+ text-decoration: underline;
+}
+
+.linkified:hover {
+  text-decoration: none;
+}
+
+.linkified:visited{
+  color: yellowgreen;
+}
+
 #chat {
   color: grey;
   line-height: 2;
