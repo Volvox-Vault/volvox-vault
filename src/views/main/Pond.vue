@@ -28,8 +28,7 @@
         <router-link to="/"><p class="header">volvox pond</p></router-link>
         <hr />
         <p style="color: grey; line-height: 2; margin-bottom: 20px">
-          the pond is a place for us to hang out. every 48 hours, the pond
-          refreshes.
+          volvox pond is an ecosystem. it is cleaned every 48 hours.
           <!--we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.-->
         </p>
 
@@ -90,7 +89,7 @@ export default {
   },
   metaInfo: {
       // title will be injected into parent titleTemplate
-      title: 'Pond'
+      title: 'Volvox Pond'
     },
 };
 </script>
@@ -122,8 +121,14 @@ a:hover {
 
 .header {
   text-align: right;
-  color: grey;
+  color: yellowgreen;
+  text-decoration: none;
   font-size: 14pt;
+}
+
+.header a {
+  color: yellowgreen;
+  text-decoration: none;
 }
 
 .space {
