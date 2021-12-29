@@ -32,7 +32,7 @@
             >█</span
           >
           <input
-            type="text"
+            type="password"
             placeholder="your secret colour code."
             v-model="code"
             required
@@ -220,7 +220,7 @@ const colors = (hash) =>
  text-decoration: underline;
 }
 
-.linkified:hover {
+li a:hover {
   text-decoration: none;
 }
 
