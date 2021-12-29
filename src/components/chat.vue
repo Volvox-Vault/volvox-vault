@@ -144,6 +144,25 @@ export default {
         this.connection.send("heartbeat");
       }, 10_000);
     };
+
+    const throttle = (func, limit) => {
+      let lastFunc;
+      let lastRan = Date.now() - (limit + 1); //enforces a negative value on first run
+      return function (...args) {
+        const context = this;
+        clearTimeout(lastFunc);
+        lastFunc = setTimeout(() => {
+          func.apply(context, args);
+          lastRan = Date.now();
+        }, limit - (Date.now() - lastRan)); //negative values execute immediately
+      };
+    };
+
+    function playRaindrop() {
+      new Audio("/waterdrop.wav").play();
+
+    }
+
     this.connection.onmessage = (event) => {
       const message = JSON.parse(event.data);
       if (message.error) {
@@ -157,7 +176,7 @@ export default {
         message.time
       ) {
         message.colors = colors(message.hash);
-        new Audio("/waterdrop.wav").play()
+        throttle(playRaindrop, 1000)
 
         if (
           message.name === this.name &&
@@ -206,31 +225,26 @@ const colors = (hash) =>
   chunk(hash, 6)
     .filter((c) => c.length === 6)
     .slice(0, 4);
-
-
-
 </script>
 
 
 
 <style>
-
 .linkified {
- color: grey;
- text-decoration: underline;
+  color: grey;
+  text-decoration: underline;
 }
 
 .linkified:hover {
   text-decoration: none;
 }
 
-.linkified:visited{
+.linkified:visited {
   color: yellowgreen;
 }
 </style>
 
 <style scoped>
-
 #chat {
   color: grey;
   line-height: 2;
