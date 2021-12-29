@@ -25,7 +25,9 @@
     <div class="pond">
       
       <div class="space">
+        <span class="top">
         <router-link to="/"><p class="header">volvox pond</p></router-link>
+        </span>
         <hr />
         <p style="color: grey; line-height: 2; margin-bottom: 20px">
           volvox pond is an ecosystem. it is cleaned every 48 hours.
@@ -126,8 +128,12 @@ a:hover {
   font-size: 14pt;
 }
 
-.header a {
+.top a {
   color: yellowgreen;
+  text-decoration: none;
+}
+.top a:hover {
+  color: grey;
   text-decoration: none;
 }
 
