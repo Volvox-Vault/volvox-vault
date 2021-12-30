@@ -19,6 +19,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */
+import pondholidayexchange from '../views/archive/2021/10/pondholidayexchange.vue'
 import natan from '../views/archive/2021/10/natan.vue'
 import kalil from '../views/archive/2021/9/kalil.vue'
 import ssummer from '../views/archive/2021/8/ssummer.vue'
@@ -143,6 +144,11 @@ const routes = [
 
   /* ARCHIVE */
 
+  {
+    path: '/archive/pondholidayexchange',
+    name: 'pondholidayexchange',
+    component: pondholidayexchange
+  },
   {
     path: '/archive/natan',
     name: 'natan',
