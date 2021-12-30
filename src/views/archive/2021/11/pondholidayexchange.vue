@@ -7,7 +7,7 @@
       <link
         rel="shortcut icon"
         type="image/png"
-        href="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkalil3.jpeg?v=1632262004036"
+        href="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fvvicon.png?v=1630726961919"
       />
 
     </head>
