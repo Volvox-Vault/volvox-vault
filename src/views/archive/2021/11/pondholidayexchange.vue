@@ -163,7 +163,7 @@
       <li>to: nikhil (missing)</li>
     </ul>
 
-    <p><router-link to="/"></router-link></p>
+    <p><router-link to="/">home</router-link> — <router-link to="/pond">to pond</router-link></p>
       
     </div>
     
