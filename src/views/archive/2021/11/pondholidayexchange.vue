@@ -176,12 +176,10 @@
 
 
 <script>
-import MainLayout from "../../../../layouts/MainLayout";
 
 export default {
   name: "pondholidayexchange",
   components: {
-    MainLayout,
   },
 };
 </script>
