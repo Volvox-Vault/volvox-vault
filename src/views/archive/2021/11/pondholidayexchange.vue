@@ -1,5 +1,7 @@
 <template>
-  <MainLayout>
+
+<div>
+
     <head>
 
       <link
@@ -12,7 +14,6 @@
 
     <body>
 
-      <!DOCTYPE html>
 <html lang="en">
   <head>
     <!--
@@ -169,7 +170,8 @@
 </html>
    
     </body>
-  </MainLayout>
+
+    </div>
 </template>
 
 
