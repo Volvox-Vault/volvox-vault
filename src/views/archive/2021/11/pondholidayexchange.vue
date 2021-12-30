@@ -183,6 +183,10 @@ export default {
   name: "pondholidayexchange",
   components: {
   },
+  metaInfo: {
+      // title will be injected into parent titleTemplate
+      title: 'Pond Holiday Exchange'
+    },
 };
 </script>
 
