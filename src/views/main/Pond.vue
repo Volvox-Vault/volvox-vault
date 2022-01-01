@@ -59,7 +59,7 @@
           <Chat />
         </div>
 
-        <hr />
+        <br>
         <p style="color: grey; line-height: 2; margin-bottom: 20px">
           explore web world: <a href="https://gossips.cafe/">gossip’s café</a> / <a href="http://www.citypark.world/">city park</a>
           <!--we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.-->
