@@ -154,7 +154,7 @@
       <li><a href="https://a-puddle-some-steps-over.glitch.me/">to: phoemela</a> — <a href="http://leslie-liu.glitch.me/">from: leslie</a></li>
       <li><a href="https://clem-hepburn-daniel-um.herokuapp.com/">to: clem</a> — <a href="https://timjungmann.com/">from: daniel</a></li>
       <li><a href="https://relaxing-by-the-sea.glitch.me/">to: daniel</a> — from: nikhil</li>
-      <li><a href="https://aaroncabral.com/ll/">to: leslie (missing) — <a href="https://aaroncabral.com/">from: aaron</a></li>
+      <li><a href="https://aaroncabral.com/ll/">to: leslie</a> — <a href="https://aaroncabral.com/">from: aaron</a></li>
       <li>to: tim (missing)</li>
       <li>to: helen (missing)</li>
       <li>to: nikhil (missing)</li>
