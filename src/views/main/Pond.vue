@@ -30,29 +30,9 @@
         </span>
         <hr />
         <p style="color: grey; line-height: 2; margin-bottom: 20px">
-          volvox pond is an ecosystem. it is cleaned every 48 hours.
-          <!--we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.-->
-        </p>
-
-        <iframe src="https://player.vimeo.com/video/660039538?h=7d9bee5f01&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="350" height="197" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="alexnunesbedholidaypicnic_3.mp4"></iframe>
-        
-
-        <p style="color: grey; line-height: 2; margin-top: 20px">
-          holiday
-          <a
-            href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV"
-            target="_blank"
-            style="color: grey"
-            >picnic</a
-          >
-          with
-          <a
-            href="https://linktr.ee/alexbnunes"
-            target="_blank"
-            style="color: grey"
-            >alex nunes</a
-          >.
-          <br>
+          volvox pond is an ecosystem. it is cleaned every 48 hours.<br>
+          sometimes we have <a style="color: grey; text-decoration: underline" href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnics</a>.-->
+        <br>
           explore web world: <a href="https://gossips.cafe/">gossip's café</a> / <a href="http://www.citypark.world/">city park</a>
         <br>
         </p>
