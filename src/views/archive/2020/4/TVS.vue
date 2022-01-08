@@ -46,15 +46,13 @@
         </p>
         <br /><br />
 
-        <video 
+        <video
           width="65%"
           style="display: block; margin: 0 auto; min-width: 340px"
           poster="./bea.jpg"
-          ref="videoPlayer">
-          <source
-            src="/beatrice_final_tinyvideo.mp4"
-            type="video/mp4"
-          />
+          ref="videoPlayer"
+        >
+          <source src="/beatrice_final_tinyvideo.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <div>
@@ -134,10 +132,22 @@
         </a>
         <br /><br />
 
-        <video width="100%" poster="./hannah.jpg" controls>
-          <source src="/hannah_final_resized_tinyvideo.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
+        <div style="padding: 75% 0 0 0; position: relative">
+          <iframe
+            src="https://player.vimeo.com/video/663800914?h=1424f67a13&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            frameborder="0"
+            allow="autoplay; fullscreen; picture-in-picture"
+            allowfullscreen
+            style="
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+            "
+            title="hannah_final_resized_tinyvideo.mp4"
+          ></iframe>
+        </div>
         <br />
         <p>
           <strong>nap time by Hannah Polinski</strong><br />
@@ -165,41 +175,6 @@ export default {
   name: "TVS",
   components: {
     MainLayout,
-  },
-  methods: {
-    play() {
-      this.$refs.videoPlayer.play();
-    },
-    pause() {
-      this.$refs.videoPlayer.pause();
-    },
-    stop() {
-      const { videoPlayer } = this.$refs;
-      videoPlayer.pause();
-      videoPlayer.currentTime = 0;
-    },
-    setSpeed(speed) {
-      this.$refs.videoPlayer.playbackRate = speed;
-    },
-  },
-};
-</script>
-
-<script>
-export default {
-  name: "App",
-  methods: {
-    play() {
-      this.$refs.videoPlayer.play();
-    },
-    pause() {
-      this.$refs.videoPlayer.pause();
-    },
-    stop() {
-      const { videoPlayer } = this.$refs;
-      videoPlayer.pause();
-      videoPlayer.currentTime = 0;
-    },
   },
 };
 </script>
