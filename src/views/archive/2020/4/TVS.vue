@@ -117,11 +117,22 @@
         </a>
         <br /><br />
 
-        <video width="100%" poster="./chloe.jpg" controls>
-          <source src="/chloe_final_resized_tinyvideo.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
-        <br />
+        <div style="padding: 30% 0 0 0; position: relative">
+          <iframe
+            src="https://player.vimeo.com/video/663800901?h=78309edd66&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            frameborder="0"
+            allow="autoplay; fullscreen; picture-in-picture"
+            allowfullscreen
+            style="
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+            "
+            title="chloe_final_resized_tinyvideo.mp4"
+          ></iframe>
+        </div>
         <p>
           <strong>The Sunday Rhythm by Chloe Vlahos</strong><br />
           It's that time of the week again: we rise and fall to the sunday
@@ -132,7 +143,7 @@
         </a>
         <br /><br />
 
-        <div style="padding: 75% 0 0 0; position: relative">
+        <div style="padding: 30% 0 0 0; position: relative">
           <iframe
             src="https://player.vimeo.com/video/663800914?h=1424f67a13&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
             frameborder="0"
@@ -148,7 +159,6 @@
             title="hannah_final_resized_tinyvideo.mp4"
           ></iframe>
         </div>
-        <br />
         <p>
           <strong>nap time by Hannah Polinski</strong><br />
           nap time is a daydream borrowing “bashy” by the free electric band.
