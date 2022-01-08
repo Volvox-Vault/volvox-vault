@@ -103,10 +103,22 @@
         </a>
         <br /><br />
 
-        <video width="100%" poster="./andrei.jpg" controls>
-          <source src="/andrei_final_tinyvideos.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
+        <div style="padding: 56.34% 0 0 0; position: relative">
+          <iframe
+            src="https://player.vimeo.com/video/663800895?h=34690a3c3d&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            frameborder="0"
+            allow="autoplay; fullscreen; picture-in-picture"
+            allowfullscreen
+            style="
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+            "
+            title="andrei_final_tinyvideos.mp4"
+          ></iframe>
+        </div>
         <br />
         <p>
           <strong>Chapter House 1-3, 2020 by Andrei Pora</strong><br />
@@ -117,7 +129,7 @@
         </a>
         <br /><br />
 
-        <div style="padding: 30% 0 0 0; position: relative">
+        <div style="padding: 80% 0 0 0; position: relative">
           <iframe
             src="https://player.vimeo.com/video/663800901?h=78309edd66&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
             frameborder="0"
@@ -143,7 +155,7 @@
         </a>
         <br /><br />
 
-        <div style="padding: 30% 0 0 0; position: relative">
+        <div style="padding: 80% 0 0 0; position: relative">
           <iframe
             src="https://player.vimeo.com/video/663800914?h=1424f67a13&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
             frameborder="0"
