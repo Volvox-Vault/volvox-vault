@@ -52,7 +52,7 @@
           poster="./bea.jpg"
           controls
         >
-          <source src="beatrice_final_tinyvideo.mp4" type="video/mp4" />
+          <source src="/beatrice_final_tinyvideo.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <br />
@@ -70,7 +70,7 @@
         <br /><br />
 
         <video width="100%" poster="./tiana.jpg" controls>
-          <source src="./tiana_final_resized_tinyvideo.mp4" type="video/mp4" />
+          <source src="/tiana_final_resized_tinyvideo.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <br />
@@ -84,7 +84,7 @@
         <br /><br />
 
         <video width="100%" poster="./kalil.jpg" controls>
-          <source src="./kalil_final_resized_tinyvideo.mp4" type="video/mp4" />
+          <source src="/kalil_final_resized_tinyvideo.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <br />
@@ -98,7 +98,7 @@
         <br /><br />
 
         <video width="100%" poster="./andrei.jpg" controls>
-          <source src="./andrei_final_tinyvideos.mp4" type="video/mp4" />
+          <source src="/andrei_final_tinyvideos.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <br />
@@ -112,7 +112,7 @@
         <br /><br />
 
         <video width="100%" poster="./chloe.jpg" controls>
-          <source src="./chloe_final_resized_tinyvideo.mp4" type="video/mp4" />
+          <source src="/chloe_final_resized_tinyvideo.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <br />
@@ -127,7 +127,7 @@
         <br /><br />
 
         <video width="100%" poster="./hannah.jpg" controls>
-          <source src="./hannah_final_resized_tinyvideo.mp4" type="video/mp4" />
+          <source src="/hannah_final_resized_tinyvideo.mp4" type="video/mp4" />
           Your browser does not support the video tag.
         </video>
         <br />
