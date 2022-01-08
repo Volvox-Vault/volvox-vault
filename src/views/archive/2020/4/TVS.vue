@@ -75,11 +75,22 @@
         </a>
         <br /><br />
 
-        <video width="100%" poster="./tiana.jpg" controls>
-          <source src="/tiana_final_resized_tinyvideo.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
-        <br />
+        <div style="padding: 56.34% 0 0 0; position: relative">
+          <iframe
+            src="https://player.vimeo.com/video/663800893?h=fdafc451ba&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            frameborder="0"
+            allow="autoplay; fullscreen; picture-in-picture"
+            allowfullscreen
+            style="
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+            "
+            title="tiana_final_resized_tinyvideo.mp4"
+          ></iframe>
+        </div>
         <p>
           <strong>A Collection is an Aggregate by Tiana Dueck</strong><br />
           Voice memos and fruit memos come together to think.
@@ -89,11 +100,22 @@
         </a>
         <br /><br />
 
-        <video width="100%" poster="./kalil.jpg" controls>
-          <source src="/kalil_final_resized_tinyvideo.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
-        <br />
+        <div style="padding: 75% 0 0 0; position: relative">
+          <iframe
+            src="https://player.vimeo.com/video/663800879?h=b8e256ac7a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            frameborder="0"
+            allow="autoplay; fullscreen; picture-in-picture"
+            allowfullscreen
+            style="
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+            "
+            title="kalil_final_resized_tinyvideo.mp4"
+          ></iframe>
+        </div>
         <p>
           <strong>BLUE MOVIE by Kalil Haddad</strong><br />
           Boy meets girl... on a molecular level.
@@ -119,7 +141,7 @@
             title="andrei_final_tinyvideos.mp4"
           ></iframe>
         </div>
-        <br />
+
         <p>
           <strong>Chapter House 1-3, 2020 by Andrei Pora</strong><br />
           Short compositions coupled to found footage from YouTube.
@@ -129,7 +151,7 @@
         </a>
         <br /><br />
 
-        <div style="padding: 80% 0 0 0; position: relative">
+        <div style="padding: 56.34% 0 0 0; position: relative">
           <iframe
             src="https://player.vimeo.com/video/663800901?h=78309edd66&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
             frameborder="0"
@@ -155,7 +177,7 @@
         </a>
         <br /><br />
 
-        <div style="padding: 80% 0 0 0; position: relative">
+        <div style="padding: 56.34% 0 0 0; position: relative">
           <iframe
             src="https://player.vimeo.com/video/663800914?h=1424f67a13&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
             frameborder="0"
