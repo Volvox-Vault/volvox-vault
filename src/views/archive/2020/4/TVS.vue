@@ -46,15 +46,23 @@
         </p>
         <br /><br />
 
-        <video
+        <video 
           width="65%"
           style="display: block; margin: 0 auto; min-width: 340px"
           poster="./bea.jpg"
-          controls
-        >
-          <source src="/beatrice_final_tinyvideo.mp4" type="video/mp4" />
+          ref="videoPlayer">
+          <source
+            src="/beatrice_final_tinyvideo.mp4"
+            type="video/mp4"
+          />
           Your browser does not support the video tag.
         </video>
+        <div>
+          <button @click="play">play</button>
+          <button @click="pause">pause</button>
+          <button @click="stop">stop</button>
+        </div>
+
         <br />
         <p>
           <strong>No Recollection by Beatrice Douaihy</strong><br />
@@ -157,6 +165,41 @@ export default {
   name: "TVS",
   components: {
     MainLayout,
+  },
+  methods: {
+    play() {
+      this.$refs.videoPlayer.play();
+    },
+    pause() {
+      this.$refs.videoPlayer.pause();
+    },
+    stop() {
+      const { videoPlayer } = this.$refs;
+      videoPlayer.pause();
+      videoPlayer.currentTime = 0;
+    },
+    setSpeed(speed) {
+      this.$refs.videoPlayer.playbackRate = speed;
+    },
+  },
+};
+</script>
+
+<script>
+export default {
+  name: "App",
+  methods: {
+    play() {
+      this.$refs.videoPlayer.play();
+    },
+    pause() {
+      this.$refs.videoPlayer.pause();
+    },
+    stop() {
+      const { videoPlayer } = this.$refs;
+      videoPlayer.pause();
+      videoPlayer.currentTime = 0;
+    },
   },
 };
 </script>
