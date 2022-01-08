@@ -46,21 +46,23 @@
         </p>
         <br /><br />
 
-        <video
-          width="65%"
-          style="display: block; margin: 0 auto; min-width: 340px"
-          poster="./bea.jpg"
-          ref="videoPlayer"
-        >
-          <source src="/beatrice_final_tinyvideo.mp4" type="video/mp4" />
-          Your browser does not support the video tag.
-        </video>
-        <div>
-          <button @click="play">play</button>
-          <button @click="pause">pause</button>
-          <button @click="stop">stop</button>
+        <div style="padding: 75% 0 0 0; position: relative">
+          <iframe
+            src="https://player.vimeo.com/video/663803144?h=5fd70f1d3a&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479"
+            frameborder="0"
+            allow="autoplay; fullscreen; picture-in-picture"
+            allowfullscreen
+            style="
+              position: absolute;
+              top: 0;
+              left: 0;
+              width: 100%;
+              height: 100%;
+            "
+            title="beatrice_final_tinyvideo.mp4"
+          ></iframe>
         </div>
-
+        
         <br />
         <p>
           <strong>No Recollection by Beatrice Douaihy</strong><br />
@@ -91,6 +93,7 @@
             title="tiana_final_resized_tinyvideo.mp4"
           ></iframe>
         </div>
+        <br />
         <p>
           <strong>A Collection is an Aggregate by Tiana Dueck</strong><br />
           Voice memos and fruit memos come together to think.
@@ -116,9 +119,10 @@
             title="kalil_final_resized_tinyvideo.mp4"
           ></iframe>
         </div>
+        <br />
         <p>
           <strong>BLUE MOVIE by Kalil Haddad</strong><br />
-          Boy meets girl... on a molecular level.
+          Boy meets girl... on a molecular level. (mature)
         </p>
         <a href="https://www.paypal.com/paypalme/kalilhaddad" target="_blank">
           <em>Kalil's Tip Jar</em>
@@ -141,7 +145,7 @@
             title="andrei_final_tinyvideos.mp4"
           ></iframe>
         </div>
-
+<br />
         <p>
           <strong>Chapter House 1-3, 2020 by Andrei Pora</strong><br />
           Short compositions coupled to found footage from YouTube.
@@ -167,6 +171,7 @@
             title="chloe_final_resized_tinyvideo.mp4"
           ></iframe>
         </div>
+        <br />
         <p>
           <strong>The Sunday Rhythm by Chloe Vlahos</strong><br />
           It's that time of the week again: we rise and fall to the sunday
@@ -193,6 +198,7 @@
             title="hannah_final_resized_tinyvideo.mp4"
           ></iframe>
         </div>
+        <br />
         <p>
           <strong>nap time by Hannah Polinski</strong><br />
           nap time is a daydream borrowing “bashy” by the free electric band.
