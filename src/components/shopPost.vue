@@ -63,10 +63,10 @@ export default {
                 nav: '',
             },
             {
-                header: 'Metamorphosis Tote Bag',
-                des: '$30 CAD - A hand painted and embroidered tote bag to accompany our Metamorphosis issue.',
+                header: 'Gift Card',
+                des: '$? CAD - Give the gift of Volvox.',
                 pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fbagv.jpg?v=1625879774306',
-                website: 'https://checkout.square.site/merchant/VP8DEG0CP9DTF/checkout/2HF4PPIUNNV5J5BKUWHYJ5CI',
+                website: 'https://squareup.com/gift/VP8DEG0CP9DTF/order',
                 nav: '',
             },
             {
