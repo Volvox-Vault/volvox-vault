@@ -65,7 +65,7 @@ export default {
             {
                 header: 'Gift Card',
                 des: '$? CAD - Give the gift of Volvox.',
-                pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fbagv.jpg?v=1625879774306',
+                pic:'https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504%2Fhangout.svg?v=1635465636145',
                 website: 'https://squareup.com/gift/VP8DEG0CP9DTF/order',
                 nav: '',
             },
