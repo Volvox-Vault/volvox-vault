@@ -36,7 +36,7 @@ export default {
             colony: [
             {
                 header: 'Volvox Times Newspaper',
-                des: '$40 CAD - 1 year subscription to a quarterly look inside of the global independent creative-scape.',
+                des: '$20 CAD - 1 year subscription to a quarterly look inside of the global independent creative-scape.',
                 pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fnewspaper_sm.png?v=1621611178720',
                 website: 'https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX',
                 nav: '',
