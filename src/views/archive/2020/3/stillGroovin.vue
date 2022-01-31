@@ -43,7 +43,7 @@
           Your browser does not support the audio element.
         </audio>
 
-        <div class="imgBox"><img src="./jerome.png" /></div>
+        <div class="imgBox"><img src="./jerome.jpg" /></div>
 
         <table style="width: 100%; padding-bottom: 15px">
           <tr>
