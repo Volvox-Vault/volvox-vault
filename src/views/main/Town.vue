@@ -6,7 +6,7 @@
 
     <div id="garden">
       <a id="cafe" class="flower" href="https://gossips.cafe/"
-        ><code>☕</code><br />the cafe</a
+        ><code>☕</code><br />the café</a
       >
 
       <a id="pond" class="flower" href="https://volvoxvault.com/pond"
