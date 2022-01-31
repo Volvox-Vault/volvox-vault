@@ -45,14 +45,9 @@ export default {
 
 <style scoped>
 
-template {
-    background-color: green;
-}
-
 #townness {
   margin: 0;
   font-family: Courier New, monospace;
-  margin: 20px;
 }
 
 #town-header {
