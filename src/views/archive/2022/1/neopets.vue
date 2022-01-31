@@ -10,7 +10,7 @@
               <a href="https://www.are.na/rue-yi" target="_blank">Rue Yi</a>
             </p>
 
-            <div class="imgBox"><img src="rue/logo.png" /></div>
+            <div class="imgBox"><img src="rue_logo.png" /></div>
 
             <p style="text-indent: 15px">
               This year, NFTs seem to have exploded into unprecedented levels of
@@ -23,7 +23,7 @@
               screenshotted or saved? It was a question that had me scratching
               my head until I read this message in the Neopets Discord: </p>
 
-            <div class="imgBox"><img src="rue/discord.png" /></div>
+            <div class="imgBox"><img src="rue_discord.png" /></div>
 
               <p style="text-indent: 15px">
               Much like NFTs, and perhaps a little like cryptocurrency itself,
@@ -282,7 +282,7 @@
               an aging petsite has never looked more compelling.
               </p>
 
-            <div class="imgBox"><img src="rue/reddit.png" /></div>
+            <div class="imgBox"><img src="rue_reddit.png" /></div>
 
             <a href="" target="_blank">
               Rue Yi's Tip Jar ☕ - coming soon
