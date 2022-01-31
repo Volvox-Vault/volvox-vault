@@ -4,13 +4,10 @@
       <main>
         <div>
           <div>
-            <h1 class="head">The Proto-NFT: Unconverted Neopets</h1>
+            <h1 class="head">Field Gossip</h1>
 
             <p class="headDes">
-              <a href="https://www.are.na/rue-yi" target="_blank">Rue Yi</a> —
-              <router-link to="/issues/metamorphosis"
-                >Metamorphosis (SS 2021)</router-link
-              >
+              Drama from over yonder by <a href="https://fee.cool/" target="_blank">Jake Fee</a>.
             </p>
 
             <div class="imgBox">
