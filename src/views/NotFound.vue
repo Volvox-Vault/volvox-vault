@@ -1,35 +1,34 @@
 <template>
   <MainLayout>
-<main>
-    <h2>Error 404</h2>
-
-    <p>This page doesn't exist. :(</p>
-</main>
+    <main>
+      <h2>Error 404</h2>
+      <br />
+      <p>This page doesn't exist. :(</p>
+    </main>
   </MainLayout>
 </template>
 
 
 <script>
-import MainLayout from '../layouts/MainLayout'
+import MainLayout from "../layouts/MainLayout";
 
 export default {
-  name: 'NotFound',
+  name: "NotFound",
   components: {
-    MainLayout
-  }
-  
+    MainLayout,
+  },
 };
 </script>
 
 <style scoped>
 main {
-    margin: 50px;
-    text-align: center;
+  margin: 50px;
+  text-align: center;
 }
 h2 {
-    color:yellowgreen;
+  color: yellowgreen;
 }
 p {
-    color: grey;
+  color: grey;
 }
 </style>
