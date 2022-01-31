@@ -7,7 +7,7 @@
             <h1 class="head">Field Gossip</h1>
 
             <p class="headDes">
-              Drama from over yonder by <a href="https://fee.cool/" target="_blank">Jake Fee</a>.
+              Drama from over yonder by <a href="http://fee.cool/" target="_blank">Jake Fee</a>.
             </p>
 
             <div class="imgBox">
