@@ -29,12 +29,12 @@
 </template>
 
 <script>
-import MainLayout from '../../layouts/MainLayout'
+
 
 export default {
   name: 'Town',
   components: {
-    MainLayout
+    
   }
 };
 </script>
