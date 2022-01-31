@@ -126,7 +126,7 @@ code:hover {
     #flwr2 {
     position: absolute;
     top: 60vh;
-    right: 13vw;
+    right: 18vw;
     }
     
     #flwr3 {
@@ -157,8 +157,8 @@ code:hover {
     
     #flwr7 {
         position: absolute;
-        top: 80vh;
-        right: 9vw;
+        top: 75vh;
+        right: 11vw;
     }
     
 }
