@@ -43,6 +43,24 @@ export default {
       title: "Archive",
       colony: [
         {
+          date: "Metamorphosis Excerpt",
+          author: "Rue Yi",
+          title: "The Proto-NFT: Unconverted Neopets",
+          link: "/archive/neopets",
+          type: "essay",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/faerie.png?v=1643656493391",
+        },
+        {
+          date: "Jan 2022",
+          author: "Jake Fee",
+          title: "Field Gossip",
+          link: "/archive/fieldgossip",
+          type: "creative writing",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/jake_7.jpg?v=1643655179937",
+        },
+        {
           date: "Dec 2021",
           author: "Volvox Colony",
           title: "Pond Holiday Website Exchange",
