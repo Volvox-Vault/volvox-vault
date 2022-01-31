@@ -1,6 +1,6 @@
 <template>
 
-<div>
+<div id="townness">
 
   <div id="town-header">
 
@@ -34,13 +34,17 @@ export default {
   name: 'Town',
   components: {
     
-  }
+  },
+  metaInfo: {
+      // title will be injected into parent titleTemplate
+      title: 'The Town'
+    },
 };
 </script>
 
 <style scoped>
 
-body {
+#townness {
   margin: 0;
   background-color: rgb(206, 236, 198);
   font-family: monospace;
@@ -81,13 +85,13 @@ code:hover {
 #theatre {
     position: absolute;
     top: 60vh;
-    right: 27vw;
+    right: 17vw;
 }
 
 #park {
     position: absolute;
     top: 45vh;
-    right: 60vw;
+    right: 70vw;
 }
 
 #pond {
