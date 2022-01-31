@@ -13,11 +13,11 @@
 
     <a id="flwr1" class="flower" href="https://gossips.cafe/"><code>☕</code><br>the cafe</a>
     
-    <a id="flwr2" class="flower" href="https://volvoxvault.com/pond"><code>🚣🏻</code><br>the pond</a>
+    <a id="flwr5" class="flower" href="https://volvoxvault.com/pond"><code>🚣🏻</code><br>the pond</a>
     
     <a id="flwr3" class="flower" href="http://www.citypark.world/"><code>🌳</code><br>the park</a>
         
-    <a id="flwr5" class="flower" href="http://fee.cool/theater/"><code>🎪</code><br>the theatre</a>
+    <a id="flwr2" class="flower" href="http://fee.cool/theater/"><code>🎪</code><br>the theatre</a>
     
     <a id="flwr6" class="flower" href="https://gossipsweb.net"><code>🛫</code><br>the airport</a>
     
@@ -86,8 +86,8 @@ code:hover {
 
 #flwr3 {
     position: absolute;
-    top: 50vh;
-    right: 50vw;
+    top: 45vh;
+    right: 60vw;
 }
 
 #flwr4 {
@@ -105,7 +105,7 @@ code:hover {
 #flwr6 {
     position: absolute;
     top: 13vh;
-    right: 43vw;
+    right: 63vw;
 }
 
 #flwr7 {
