@@ -63,7 +63,7 @@ export default {
           date: "ongoing",
         },
         {
-          header: "Call for Submissions: Video Art showcase",
+          header: "Call for Submissions: Video Art Showcase",
           des: "407.studio is looking for on-going time-based media, video art, skate videos, music videos, etc. to display in our space during events and bookings. Open to all submissions. E-mail info@407.studio with a downloadable video file and any necessary information about your piece.",
           contact: "info@407.studio",
           website: "https://www.instagram.com/407.studio/",
