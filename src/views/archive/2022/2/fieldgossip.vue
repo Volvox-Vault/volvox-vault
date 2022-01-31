@@ -73,23 +73,6 @@
 
             <div class="imgBox">
               <img
-                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/jake_6.jpg?v=1643655179861"
-              />
-            </div>
-
-            <p>
-              Strange news from the edge of the road which passes by the
-              raspberry bushes, just before the deer skull in the ditch. Some
-              who travel that way have said that a cluster of worms is often to
-              be found delighting in the moisture which collects in the various
-              potholes on the road, but hungry birds are never to be found
-              hunting there. The beehive on the other end of the road says that
-              the worms may have unionized and demanded protection, but nobody
-              else seems sure.
-            </p>
-
-            <div class="imgBox">
-              <img
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/jake_8.jpg?v=1643655179308"
               />
             </div>
