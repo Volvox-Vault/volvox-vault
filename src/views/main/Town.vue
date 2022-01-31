@@ -45,10 +45,6 @@ export default {
 
 <style scoped>
 
-* {
-  background-color: rgb(206, 236, 198);
-}
-
 #townness {
   margin: 0;
   font-family: monospace;
@@ -95,13 +91,13 @@ code:hover {
 #park {
     position: absolute;
     top: 45vh;
-    right: 70vw;
+    right: 60vw;
 }
 
 #pond {
     position: absolute;
-    top: 72vh;
-    right: 85vw;
+    top: 68vh;
+    right: 83vw;
 }
 
 #web {
