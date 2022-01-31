@@ -126,6 +126,8 @@
               bruised his skull.
             </p>
 
+            <br>
+
             <a href="" target="_blank"> Jake Fee's Tip Jar ☕ - coming soon </a>
           </div>
         </div>
