@@ -47,7 +47,7 @@ body {
   margin: 20px;
 }
 
-.town-header {
+#town-header {
    margin: 40px; 
 }
 
