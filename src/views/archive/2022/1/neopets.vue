@@ -10,7 +10,7 @@
               <a href="https://www.are.na/rue-yi" target="_blank">Rue Yi</a>
             </p>
 
-            <div class="imgBox"><img src="rue_logo.png" /></div>
+            <div class="imgBox"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_logo.png?v=1643653496825" /></div>
 
             <p style="text-indent: 15px">
               This year, NFTs seem to have exploded into unprecedented levels of
@@ -23,7 +23,7 @@
               screenshotted or saved? It was a question that had me scratching
               my head until I read this message in the Neopets Discord: </p>
 
-            <div class="imgBox"><img src="rue_discord.png" /></div>
+            <div class="imgBox"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_discord.png?v=1643653496770" /></div>
 
               <p style="text-indent: 15px">
               Much like NFTs, and perhaps a little like cryptocurrency itself,
@@ -282,7 +282,7 @@
               an aging petsite has never looked more compelling.
               </p>
 
-            <div class="imgBox"><img src="rue_reddit.png" /></div>
+            <div class="imgBox"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_reddit.png?v=1643653496888" /></div>
 
             <a href="" target="_blank">
               Rue Yi's Tip Jar ☕ - coming soon
@@ -303,6 +303,10 @@ export default {
   components: {
     MainLayout,
   },
+  metaInfo: {
+      // title will be injected into parent titleTemplate
+      title: 'The Proto-NFT'
+    },
 };
 </script>
 
