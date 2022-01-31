@@ -43,7 +43,7 @@ export default {
       title: "Archive",
       colony: [
         {
-          date: "Metamorphosis Excerpt",
+          date: "Metamorphosis",
           author: "Rue Yi",
           title: "The Proto-NFT: Unconverted Neopets",
           link: "/archive/neopets",
