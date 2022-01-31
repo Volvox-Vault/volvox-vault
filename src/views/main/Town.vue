@@ -1,50 +1,49 @@
 <template>
+  <div id="townness">
+    <div id="town-header">
+      <p>welcome to the town.</p>
+    </div>
 
-<div id="townness">
+    <div id="garden">
+      <a id="cafe" class="flower" href="https://gossips.cafe/"
+        ><code>☕</code><br />the cafe</a
+      >
 
-  <div id="town-header">
+      <a id="pond" class="flower" href="https://volvoxvault.com/pond"
+        ><code>🚣🏻</code><br />the pond</a
+      >
 
-    <p>welcome to the town.</p>
+      <a id="park" class="flower" href="http://www.citypark.world/"
+        ><code>🌳</code><br />the park</a
+      >
 
+      <a id="theatre" class="flower" href="http://fee.cool/theater/"
+        ><code>🎪</code><br />the theatre</a
+      >
+
+      <a id="web" class="flower" href="https://gossipsweb.net"
+        ><code>🛫</code><br />the airport</a
+      >
+
+      <a id="volvox" class="flower" href="https://volvoxvault.com"
+        ><code>🏡</code><br />the community centre</a
+      >
+    </div>
   </div>
-
-
-  <div id="garden">
-
-    <a id="cafe" class="flower" href="https://gossips.cafe/"><code>☕</code><br>the cafe</a>
-    
-    <a id="pond" class="flower" href="https://volvoxvault.com/pond"><code>🚣🏻</code><br>the pond</a>
-    
-    <a id="park" class="flower" href="http://www.citypark.world/"><code>🌳</code><br>the park</a>
-        
-    <a id="theatre" class="flower" href="http://fee.cool/theater/"><code>🎪</code><br>the theatre</a>
-    
-    <a id="web" class="flower" href="https://gossipsweb.net"><code>🛫</code><br>the airport</a>
-    
-    <a id="volvox" class="flower" href="https://volvoxvault.com"><code>🏡</code><br>the community centre</a>
-  </div>
-
-</div>
-    
 </template>
 
 <script>
-
-
 export default {
-  name: 'Town',
-  components: {
-    
-  },
+  name: "Town",
+  components: {},
   metaInfo: {
-      // title will be injected into parent titleTemplate
-      title: 'The Town'
-    },
+    // title will be injected into parent titleTemplate
+    title: "The Town",
+  },
 };
 </script>
 
 <style scoped>
-
 #townness {
   margin: 0;
   font-family: Courier New, monospace;
@@ -52,16 +51,16 @@ export default {
 }
 
 #town-header {
-   margin: 40px; 
+  margin: 40px;
 }
 
 code {
-    text-align: center;
-    font-size: 35pt;
+  text-align: center;
+  font-size: 35pt;
 }
 
 code:hover {
-    color: indianred;
+  color: indianred;
 }
 
 .flower {
@@ -72,55 +71,90 @@ code:hover {
   line-height: 1;
 }
 
-.flower:hover{
-    cursor: pointer;
+.flower:hover {
+  cursor: pointer;
 }
 
 #cafe {
-    position: absolute;
-    top: 30vh;
-    right: 33vw;
+  position: absolute;
+  top: 30vh;
+  right: 33vw;
 }
 
 #theatre {
-    position: absolute;
-    top: 65vh;
-    right: 18vw;
+  position: absolute;
+  top: 65vh;
+  right: 18vw;
 }
 
 #park {
-    position: absolute;
-    top: 45vh;
-    right: 60vw;
+  position: absolute;
+  top: 45vh;
+  right: 60vw;
 }
 
 #pond {
-    position: absolute;
-    top: 68vh;
-    right: 80vw;
+  position: absolute;
+  top: 68vh;
+  right: 80vw;
 }
 
 #web {
-    position: absolute;
-    top: 13vh;
-    right: 70vw;
+  position: absolute;
+  top: 13vh;
+  right: 70vw;
 }
 
 #volvox {
-    position: absolute;
-    top: 80vh;
-    right: 43vw;
+  position: absolute;
+  top: 80vh;
+  right: 43vw;
 }
 
 @media only screen and (max-device-width: 566px) {
-    code {
-        font-size: 50pt;
-    }
-    
-    .flower, p {
-        font-size: 15pt;
-    }
-    
-}
+  code {
+    font-size: 50pt;
+  }
 
+  .flower,
+  p {
+    font-size: 15pt;
+  }
+
+  #cafe {
+    position: absolute;
+    top: 40vh;
+    right: 50vw;
+  }
+
+  #theatre {
+    position: absolute;
+    top: 65vh;
+    right: 50vw;
+  }
+
+  #park {
+    position: absolute;
+    top: 15vh;
+    right: 50vw;
+  }
+
+  #pond {
+    position: absolute;
+    top: 90vh;
+    right: 50vw;
+  }
+
+  #web {
+    position: absolute;
+    top: 105vh;
+    right: 50vw;
+  }
+
+  #volvox {
+    position: absolute;
+    top: 120vh;
+    right: 50vw;
+  }
+}
 </style>
