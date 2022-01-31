@@ -104,41 +104,11 @@ code:hover {
 
 #flwr6 {
     position: absolute;
-    top: 15vh;
-    right: 91vw;
-}
-
-#flwr7 {
-    position: absolute;
-    top: 20vh;
-    right: 6vw;
-}
-
-#flwr8 {
-    position: absolute;
-    top: 25vh;
-    right: 67vw;
-}
-
-#flwr9 {
-    position: absolute;
-    top: 80vh;
-    right: 88vw;
-}
-
-#flwr10 {
-    position: absolute;
-    top: 78vh;
-    right: 35vw;
-}
-
-#flwr11 {
-    position: absolute;
     top: 13vh;
     right: 43vw;
 }
 
-#flwr12 {
+#flwr7 {
     position: absolute;
     top: 83vh;
     right: 9vw;
@@ -177,31 +147,15 @@ code:hover {
         right: 80vw;
     }
     
+    
+    
     #flwr6 {
-    position: absolute;
-    top: 15vh;
-    right: 86vw;
-    }
-    
-    #flwr8 {
-    position: absolute;
-    top: 29vh;
-    right: 67vw;
-    }
-    
-    #flwr11 {
-    position: absolute;
-    top: 11vh;
-    right: 43vw;
-    }
-    
-    #flwr10 {
     position: absolute;
     top: 75vh;
     right: 35vw;
     }
     
-    #flwr12 {
+    #flwr7 {
         position: absolute;
         top: 80vh;
         right: 9vw;
