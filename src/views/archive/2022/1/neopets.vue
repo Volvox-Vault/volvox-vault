@@ -282,7 +282,7 @@
               an aging petsite has never looked more compelling.
               </p>
 
-            <div class="imgBox"><img src="./hp_1.jpg" /></div>
+            <div class="imgBox"><img src="./reddit.png" /></div>
 
             <a href="" target="_blank">
               Rue Yi's Tip Jar ☕ - coming soon
