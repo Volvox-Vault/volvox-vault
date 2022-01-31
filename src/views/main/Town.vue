@@ -44,6 +44,11 @@ export default {
 </script>
 
 <style scoped>
+
+template {
+    background-color: green;
+}
+
 #townness {
   margin: 0;
   font-family: Courier New, monospace;
