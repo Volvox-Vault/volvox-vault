@@ -11,6 +11,7 @@ import Shop from '../views/main/Shop.vue'
 import Horoscopes from '../views/main/Horoscopes.vue'
 import Pond from '../views/main/Pond.vue'
 import Town from '../views/main/Town.vue'
+import NotFound from '../views/NotFound.vue';
 
 import CafeDoor from '../views/cafe/CafeDoor.vue'
 import CafeToronto from '../views/cafe/Toronto.vue'
@@ -258,7 +259,15 @@ const routes = [
     path: '/issues/heart',
     name: 'Heart',
     component: Heart
-  }
+  },
+
+  /* ERROR 404 */
+
+  {
+    path: '*',
+    name: 'Not Found',
+    component: NotFound
+  },
 
 ]
 
