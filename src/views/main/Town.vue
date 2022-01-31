@@ -124,37 +124,37 @@ code:hover {
   #cafe {
     position: absolute;
     top: 40vh;
-    right: 50vw;
+    right: 40vw;
   }
 
   #theatre {
     position: absolute;
     top: 65vh;
-    right: 50vw;
+    right: 40vw;
   }
 
   #park {
     position: absolute;
     top: 15vh;
-    right: 50vw;
+    right: 40vw;
   }
 
   #pond {
     position: absolute;
     top: 90vh;
-    right: 50vw;
+    right: 40vw;
   }
 
   #web {
     position: absolute;
-    top: 105vh;
-    right: 50vw;
+    top: 115vh;
+    right: 40vw;
   }
 
   #volvox {
     position: absolute;
-    top: 120vh;
-    right: 50vw;
+    top: 140vh;
+    right: 40vw;
   }
 }
 </style>
