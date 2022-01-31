@@ -121,38 +121,6 @@ code:hover {
         font-size: 15pt;
     }
     
-    #theatre {
-    position: absolute;
-    top: 60vh;
-    right: 18vw;
-    }
-    
-    #park {
-    position: absolute;
-    top: 69vh;
-    right: 67vw;
-    }
-    
-    #pond {
-        position: absolute;
-        top: 47vh;
-        right: 80vw;
-    }
-    
-    
-    
-    #web {
-    position: absolute;
-    top: 75vh;
-    right: 35vw;
-    }
-    
-    #volvox {
-        position: absolute;
-        top: 75vh;
-        right: 30vw;
-    }
-    
 }
 
 </style>
