@@ -84,8 +84,8 @@ code:hover {
 
 #theatre {
     position: absolute;
-    top: 60vh;
-    right: 17vw;
+    top: 65vh;
+    right: 18vw;
 }
 
 #park {
