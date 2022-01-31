@@ -127,7 +127,7 @@ code:hover {
     right: 60vw;
   }
 
-  #theatre {
+  #pond {
     position: absolute;
     top: 65vh;
     right: 35vw;
@@ -139,10 +139,10 @@ code:hover {
     right: 20vw;
   }
 
-  #pond {
+  #theatre {
     position: absolute;
     top: 90vh;
-    right: 40vw;
+    right: 25vw;
   }
 
   #web {
@@ -154,7 +154,7 @@ code:hover {
   #volvox {
     position: absolute;
     top: 140vh;
-    right: 20vw;
+    right: 15vw;
     margin-bottom: 40px;
   }
 }
