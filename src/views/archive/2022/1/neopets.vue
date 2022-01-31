@@ -376,12 +376,10 @@ img {
 }
 
 .imgBox {
-  border: 1px solid;
+  border: 1px solid yellowgreen;
   border-image-slice: 1;
   border-width: 1px;
   border-radius: 30px;
-
-  border-image-source: yellowgreen;
 
   padding: 15px;
   margin-top: 20px;
