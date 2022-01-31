@@ -174,7 +174,7 @@ export default {
           title: "The World May Have Went Haywire, But We’re Still Groovin",
           link: "/archive/stillGroovin",
           type: "article",
-          image: "https://volvoxvault.com/img/jerome.b947056a.png",
+          image: "jerome2.jpg",
         },
         {
           date: "Aug 2020",
