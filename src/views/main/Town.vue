@@ -29,7 +29,7 @@
 </template>
 
 <script>
-import MainLayout from '../../layouts/town'
+import MainLayout from '../../layouts/MainLayout'
 
 export default {
   name: 'Town',
