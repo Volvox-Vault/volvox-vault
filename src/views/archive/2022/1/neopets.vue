@@ -185,7 +185,7 @@
               will trade better than ‘Daisy12036’ the UC royalgirl lupe, even
               though they both have the same artwork. </p>
 
-              <div class="imgBox"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_lupe.png?v=1643653496632" /></div>
+              <div class="imgBox"><img style="max-width: 250px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_lupe.png?v=1643653496632" /></div>
               
               <p style="text-indent: 15px">
               In the PC, these values
