@@ -7,10 +7,10 @@
             <h1 class="head">The Proto-NFT: Unconverted Neopets</h1>
 
             <p class="headDes">
-              By Rue Yi
+              <a href="https://www.are.na/rue-yi" target="_blank">Rue Yi</a>
             </p>
 
-            <div class="imgBox"><img src="./hp_0.jpg" /></div>
+            <div class="imgBox"><img src="./logo.png" /></div>
 
             <p style="text-indent: 15px">
               This year, NFTs seem to have exploded into unprecedented levels of
@@ -23,7 +23,7 @@
               screenshotted or saved? It was a question that had me scratching
               my head until I read this message in the Neopets Discord: </p>
 
-            <div class="imgBox"><img src="./hp_0.jpg" /></div>
+            <div class="imgBox"><img src="./discord.png" /></div>
 
               <p style="text-indent: 15px">
               Much like NFTs, and perhaps a little like cryptocurrency itself,
