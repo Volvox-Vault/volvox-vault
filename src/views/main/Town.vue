@@ -74,14 +74,14 @@ code:hover {
 
 #flwr1 {
     position: absolute;
-    top: 35vh;
-    right: 27vw;
+    top: 30vh;
+    right: 33vw;
 }
 
 #flwr2 {
     position: absolute;
     top: 60vh;
-    right: 20vw;
+    right: 27vw;
 }
 
 #flwr3 {
