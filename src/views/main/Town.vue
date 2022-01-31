@@ -2,10 +2,9 @@
 
 <div>
 
-  <div id="header">
+  <div id="town-header">
 
-    <p>welcome to my garden.
-    take a look around &amp; make yourself at home.</p>
+    <p>welcome to the town.</p>
 
   </div>
 
@@ -47,6 +46,8 @@ body {
   font-family: monospace;
   margin: 20px;
 }
+
+
 
 code {
     text-align: center;
