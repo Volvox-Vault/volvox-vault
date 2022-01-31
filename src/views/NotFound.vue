@@ -8,7 +8,7 @@
 
 
 <script>
-import MainLayout from '../../layouts/MainLayout'
+import MainLayout from '../layouts/MainLayout'
 
 export default {
   name: 'NotFound',
