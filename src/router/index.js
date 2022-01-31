@@ -10,6 +10,7 @@ import Archive from '../views/main/Archive.vue'
 import Shop from '../views/main/Shop.vue'
 import Horoscopes from '../views/main/Horoscopes.vue'
 import Pond from '../views/main/Pond.vue'
+import Town from '../views/main/Town.vue'
 
 import CafeDoor from '../views/cafe/CafeDoor.vue'
 import CafeToronto from '../views/cafe/Toronto.vue'
@@ -140,6 +141,12 @@ const routes = [
     path: '/horoscopes',
     name: 'Horoscopes',
     component: Horoscopes
+  },
+
+  {
+    path: '/town',
+    name: 'Town',
+    component: Town
   },
 
   /* ARCHIVE */
