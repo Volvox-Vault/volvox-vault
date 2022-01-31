@@ -47,7 +47,7 @@ export default {
 
 #townness {
   margin: 0;
-  font-family: monospace;
+  font-family: Courier New, monospace;
   margin: 20px;
 }
 
