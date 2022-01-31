@@ -7,7 +7,7 @@
             <h1 class="head">The Proto-NFT: Unconverted Neopets</h1>
 
             <p class="headDes">
-              <a href="https://www.are.na/rue-yi" target="_blank">Rue Yi</a>
+              <a href="https://www.are.na/rue-yi" target="_blank">Rue Yi</a> — <router-link to="/issues/metamorphosis">Metamorphosis (SS 2021)</router-link>
             </p>
 
             <div class="imgBox"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_logo.png?v=1643653496825" /></div>
@@ -300,6 +300,7 @@
             <a href="" target="_blank">
               Rue Yi's Tip Jar ☕ - coming soon
             </a>
+            
           </div>
         </div>
       </main>
