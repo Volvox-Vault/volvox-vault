@@ -23,6 +23,7 @@
     
     <a id="volvox" class="flower" href="https://volvoxvault.com"><code>🏡</code><br>the community centre</a>
   </div>
+
 </div>
     
 </template>
@@ -44,9 +45,12 @@ export default {
 
 <style scoped>
 
+* {
+  background-color: rgb(206, 236, 198);
+}
+
 #townness {
   margin: 0;
-  background-color: rgb(206, 236, 198);
   font-family: monospace;
   margin: 20px;
 }
