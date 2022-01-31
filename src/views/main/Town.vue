@@ -101,7 +101,7 @@ code:hover {
 
 #web {
   position: absolute;
-  top: 13vh;
+  top: 20vh;
   right: 70vw;
 }
 
