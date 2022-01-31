@@ -21,6 +21,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */
+import fieldgossip from '../views/archive/2022/1/fieldgossip.vue'
 import neopets from '../views/archive/2022/1/neopets.vue'
 import pondholidayexchange from '../views/archive/2021/11/pondholidayexchange.vue'
 import natan from '../views/archive/2021/10/natan.vue'
@@ -153,6 +154,11 @@ const routes = [
 
   /* ARCHIVE */
 
+  {
+    path: '/archive/fieldgossip',
+    name: 'fieldgossip',
+    component: fieldgossip
+  },
   {
     path: '/archive/neopets',
     name: 'neopets',
