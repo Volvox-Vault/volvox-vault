@@ -156,13 +156,13 @@
 import MainLayout from "../../../../layouts/MainLayout";
 
 export default {
-  name: "neopets",
+  name: "fieldgossip",
   components: {
     MainLayout,
   },
   metaInfo: {
     // title will be injected into parent titleTemplate
-    title: "The Proto-NFT",
+    title: "Field Gossip",
   },
 };
 </script>
