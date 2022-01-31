@@ -49,6 +49,20 @@ export default {
       title: "Bulletin",
       colony: [
         {
+          header: "citypark.world",
+          des: "Enjoy the park.",
+          contact: "Clem",
+          website: "http://www.citypark.world/",
+          date: "ongoing",
+        },
+        {
+          header: "Secret Theater",
+          des: "Please, grab some popcorn and take a seat!",
+          contact: "Jake Fee",
+          website: "http://fee.cool/theater/",
+          date: "ongoing",
+        },
+        {
           header: "Call for Submissions: Video Art showcase",
           des: "407.studio is looking for on-going time-based media, video art, skate videos, music videos, etc. to display in our space during events and bookings. Open to all submissions. E-mail info@407.studio with a downloadable video file and any necessary information about your piece.",
           contact: "info@407.studio",

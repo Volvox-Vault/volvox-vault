@@ -16,6 +16,10 @@ export default {
   components: {
     MainLayout,
     ArchivePost
-  }
+  },
+  metaInfo: {
+    // title will be injected into parent titleTemplate
+    title: "Archive",
+  },
 };
 </script>
