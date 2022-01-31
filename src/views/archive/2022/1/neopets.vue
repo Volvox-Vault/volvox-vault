@@ -77,10 +77,14 @@
               abandoned, and the recipient would just have to refresh like crazy
               when that time came and hope they were faster than whoever else
               could snap them up. </p>
+
+              <div class="imgBox"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_nst.png?v=1643653496632" /></div>
               
+              <p style=" font-size: 11pt; text-align: center; font-style: italic;">NST is Neopian Standard Time, which is what
+              site dailies use to reset.</p>
+              <br>
               <p style="text-indent: 15px">
-              NST is Neopian Standard Time, which is what
-              site dailies use to reset. The introduction of the transfer
+              The introduction of the transfer
               feature meant users could now engage in regular, guaranteed pet
               trading. A lively community of pet trading enthusiasts quickly
               started to form on the Neopian Pound board, colloquially known as
@@ -123,6 +127,8 @@
               also means custom tweaking for how different types of pets wear
               items is much less of a hassle, as body shapes are consistent.</p>
 
+              <div class="imgBox"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_neo.png?v=1643653498413" /></div>
+
               <p style="text-indent: 15px">
               Obviously, TNT made a smart financial decision. The most coveted
               wearables can only be purchased through the NeoCash mall, which is
@@ -141,7 +147,9 @@
               Neopians, particularly Pound Chatters. UC pets find their values
               squeezing higher and higher due to their dwindling numbers;
               accounts are frozen, deleted, or just abandoned. </p>
-              
+
+              <div class="imgBox"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_pets.png?v=1643653500892" /></div>
+
               <p style="text-indent: 15px">
               People on the PC with an UC pet are treated with more respect. They are flaunted as
               a status symbol due to their grandfathered status - you cannot
@@ -162,6 +170,9 @@
               1 pets are relatively common and unloved, while Tier 10 pets are
               the most difficult to trade for, due to scarcity and popularity.</p>
 
+              <div class="imgBox"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_tier1.png?v=1643653498331" /></div>
+              <div class="imgBox"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_tier10.png?v=1643653498521" /></div>
+
               <p style="text-indent: 15px">
               It’s not just a pet’s species and colour that matters, though. A
               pet’s name can have a huge influence on how it trades. Every pet
@@ -173,6 +184,8 @@
               difficult to trade. For example, ‘Afadu’ the UC royalgirl lupe
               will trade better than ‘Daisy12036’ the UC royalgirl lupe, even
               though they both have the same artwork. </p>
+
+              <div class="imgBox"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rue_lupe.png?v=1643653496632" /></div>
               
               <p style="text-indent: 15px">
               In the PC, these values
@@ -366,8 +379,9 @@ img {
   border: 1px solid;
   border-image-slice: 1;
   border-width: 1px;
+  border-radius: 30px;
 
-  border-image-source: linear-gradient(to bottom, yellowgreen, grey);
+  border-image-source: yellowgreen;
 
   padding: 15px;
   margin-top: 20px;
