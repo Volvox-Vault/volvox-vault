@@ -33,7 +33,7 @@
           volvox pond is an ecosystem. it is cleaned every 48 hours.<br>
           sometimes we have <a style="color: grey; text-decoration: underline" href="https://www.youtube.com/watch?v=sgIvjJtJo3k&list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV&index=1" target="_blank">picnics</a>.
         <br>
-          explore web world: <a href="https://gossips.cafe/">gossip's café</a> / <a href="http://www.citypark.world/">city park</a>
+          <router-link to="/town">explore the town</router-link>
         <br>
         </p>
 
