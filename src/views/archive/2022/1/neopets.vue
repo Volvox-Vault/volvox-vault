@@ -37,7 +37,7 @@
               dressing them up. But what gives the website its staying power is
               also true of what gives social media, and supposedly, NFTs, its
               hype: community. </p>
-            
+            <br>
               <p style="text-indent: 15px">
               Neopets, the community gathers on the
               NeoBoards. They are discussion boards where like-minded users can
@@ -47,7 +47,7 @@
               the algorithm plays a heavy hand in bringing people together
               through content, so it’s easy to forget that people are capable of
               finding one another just fine on their own. </p>
-              
+              <br>
               <p style="text-indent: 15px">
               Like all platforms which have faced pressure to adapt to changing times, Neopets is
               no stranger to metamorphosis. In 2007, The Neopets Team (TNT for
@@ -55,7 +55,7 @@
               their digital pets. These changes continue to affect a lucrative
               black market economy, a rich language of trading, and a
               speculative crash. </p>
-              
+              <br>
               <p style="text-indent: 15px">
               To engage in the Neopets community, you need a
               pet. You can either create a pet - which comes in four basic
@@ -64,7 +64,7 @@
               which are painted from rare in-game paintbrush items. The pets in
               the pound are abandoned by people who don’t want them anymore, and
               anyone is free to adopt pets in the pound. </p>
-              
+              <br>
               <p style="text-indent: 15px">
               One of the major site
               features introduced in this time was the ‘transfer’ option in the
@@ -91,7 +91,7 @@
               the Pound Chat, or PC. Instead of grinding out games for NeoPoints
               to buy an expensive paintbrush, why not just trade one of your
               pets for someone else who wants your pet?</p>
-              
+              <br>
               <p style="text-indent: 15px">
               The community-run system
               of how this informal marketplace operates has developed an
@@ -118,7 +118,7 @@
               but they gave 227 combinations of pet colours the option to retain
               their old artwork. These pets with old artwork are called
               unconverted pets. </p>
-              
+              <br>
               <p style="text-indent: 15px">
               It was a decision that made sense. Standardizing
               poses meant new wearable items could be coded into zones in Adobe
@@ -139,7 +139,7 @@
               purchased, only earned by participating in site features. Think of
               NeoCash as currency used to purchase cosmetic modifiers, like
               skins in a game.</p>
-              
+              <br>
               <p style="text-indent: 15px">
               What NeoCash and NeoPoints can’t buy is the
               pre-conversion artwork. These unconverted pets cannot wear
@@ -161,7 +161,7 @@
               the rare UC up for adoption, with applicants spending dozens of
               hours creating custom HTML/CSS applications in a bid for an UC
               dreamie.</p>
-              
+              <br>
               <p style="text-indent: 15px">
               To navigate the tricky waters of the UC trading on the PC
               board, community-assigned pet values based on desirability and
@@ -198,7 +198,7 @@
               and regularly trade for even the highest tier UCs. Common RWs and
               RNs are rare because only one pet can have one name at a time,
               much like how only one person can own a unique NFT at a time.</p> 
-              
+              <br>
               <p style="text-indent: 15px">
               UCs may as well be unobtanium for many. Like NFTs, there were only
               ever a limited number of UCs in existence. Their value gets pushed
@@ -210,7 +210,7 @@
               items, and neopoints in exchange for real-life currency. UCs will
               sell anywhere from $20 to $500 on the black market depending on
               the rarity of the pet, and the pronounceability of the name.</p>
-
+<br>
               <p style="text-indent: 15px">
               People will shell out hundreds of dollars for pet artwork anybody
               could easily right-click save. Neopets fansites such as JellyNeo
@@ -223,7 +223,7 @@
               itself. Tier 10 UC ownership is the Hermès Birkin of Neopets.
               After all, anyone can save Nyan Cat, but someone paid the
               equivalent of $587,000 for the clout of owning it.</p> 
-              
+              <br>
               <p style="text-indent: 15px">
               In the 14 years
               since conversion, an option to create UCs remains one of the most
@@ -235,7 +235,7 @@
               years. These are fully-grown adults with disposable income,
               practically begging to throw money at Neopets for an unconversion
               feature.</p> 
-              
+              <br>
               <p style="text-indent: 15px">
               Introducing an unconversion option immediately squashes
               the UC black market, which continues to create gigantic headaches
@@ -251,7 +251,7 @@
               something away from everyone and then sell back access to it”.
               There are also technical concerns, such as the layers-based
               customisation feature outlined in Neopian Times Editorial 731.</p> 
-              
+              <br>
               <p style="text-indent: 15px">
               In the past few months, this claim has been proven patently false.
               Leaked mails from a user who lost a pet due to a glitched trade
@@ -259,7 +259,7 @@
               will. When this leak broke, the Neopian equivalent of hell
               breaking loose ran through the PC. It culminated in TNT making an
               official statement: they are bringing back UCs in 2021! </p>
-              
+              <br>
               <p style="text-indent: 15px">
               The PC is
               a market highly sensitive to policy changes and feature
@@ -269,7 +269,7 @@
               volatility of these markets means policy is scrambling to keep up
               in the wake of the massive environmental cost of minting an NFT
               onto the blockchain.</p>
-              
+              <br>
               <p style="text-indent: 15px">
               Nobody except TNT knows how UCs will be
               brought back, and if there will be any specific requirements which
@@ -280,7 +280,7 @@
               UC value crash, and holding out for the possibility that UCs can
               be made from well-named pets. There’s intense speculation
               surrounding what the conditions for creating new UCs will be. </p>
-              
+              <br>
               <p style="text-indent: 15px">
               So why, after 22 years, are people still on Neopets.com? As many
               users on the /r/neopets subreddit or neopets discord channel will
