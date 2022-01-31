@@ -1,8 +1,10 @@
 <template>
   <MainLayout>
+<main>
+    <h2>Error 404</h2>
 
-    <p>error 404</p>
-
+    <p>This page doesn't exist. :(</p>
+</main>
   </MainLayout>
 </template>
 
@@ -18,3 +20,16 @@ export default {
   
 };
 </script>
+
+<style scoped>
+main {
+    margin: 50px;
+    text-align: center;
+}
+h2 {
+    color:yellowgreen;
+}
+p {
+    color: grey;
+}
+</style>
