@@ -97,13 +97,13 @@ code:hover {
 #pond {
     position: absolute;
     top: 68vh;
-    right: 83vw;
+    right: 80vw;
 }
 
 #web {
     position: absolute;
     top: 13vh;
-    right: 63vw;
+    right: 70vw;
 }
 
 #volvox {
