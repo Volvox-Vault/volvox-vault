@@ -93,7 +93,7 @@ code:hover {
 #pond {
     position: absolute;
     top: 72vh;
-    right: 65vw;
+    right: 85vw;
 }
 
 #web {
@@ -104,8 +104,8 @@ code:hover {
 
 #volvox {
     position: absolute;
-    top: 83vh;
-    right: 9vw;
+    top: 80vh;
+    right: 25vw;
 }
 
 @media only screen and (max-device-width: 566px) {
