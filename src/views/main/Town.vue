@@ -130,13 +130,13 @@ code:hover {
   #theatre {
     position: absolute;
     top: 65vh;
-    right: 40vw;
+    right: 50vw;
   }
 
   #park {
     position: absolute;
     top: 15vh;
-    right: 40vw;
+    right: 30vw;
   }
 
   #pond {
@@ -148,13 +148,14 @@ code:hover {
   #web {
     position: absolute;
     top: 115vh;
-    right: 40vw;
+    right: 50vw;
   }
 
   #volvox {
     position: absolute;
     top: 140vh;
-    right: 40vw;
+    right: 30vw;
+    margin-bottom: 40px;
   }
 }
 </style>
