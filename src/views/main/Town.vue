@@ -11,17 +11,17 @@
 
   <div id="garden">
 
-    <a id="flwr1" class="flower" href="https://gossips.cafe/"><code>☕</code><br>the cafe</a>
+    <a id="cafe" class="flower" href="https://gossips.cafe/"><code>☕</code><br>the cafe</a>
     
-    <a id="flwr5" class="flower" href="https://volvoxvault.com/pond"><code>🚣🏻</code><br>the pond</a>
+    <a id="pond" class="flower" href="https://volvoxvault.com/pond"><code>🚣🏻</code><br>the pond</a>
     
-    <a id="flwr3" class="flower" href="http://www.citypark.world/"><code>🌳</code><br>the park</a>
+    <a id="park" class="flower" href="http://www.citypark.world/"><code>🌳</code><br>the park</a>
         
-    <a id="flwr2" class="flower" href="http://fee.cool/theater/"><code>🎪</code><br>the theatre</a>
+    <a id="theatre" class="flower" href="http://fee.cool/theater/"><code>🎪</code><br>the theatre</a>
     
-    <a id="flwr6" class="flower" href="https://gossipsweb.net"><code>🛫</code><br>the airport</a>
+    <a id="web" class="flower" href="https://gossipsweb.net"><code>🛫</code><br>the airport</a>
     
-    <a id="flwr7" class="flower" href="https://volvoxvault.com"><code>🏡</code><br>the community centre</a>
+    <a id="volvox" class="flower" href="https://volvoxvault.com"><code>🏡</code><br>the community centre</a>
   </div>
 </div>
     
@@ -72,43 +72,37 @@ code:hover {
     cursor: pointer;
 }
 
-#flwr1 {
+#cafe {
     position: absolute;
     top: 30vh;
     right: 33vw;
 }
 
-#flwr2 {
+#theatre {
     position: absolute;
     top: 60vh;
     right: 27vw;
 }
 
-#flwr3 {
+#park {
     position: absolute;
     top: 45vh;
     right: 60vw;
 }
 
-#flwr4 {
+#pond {
     position: absolute;
     top: 72vh;
     right: 65vw;
 }
 
-#flwr5 {
-    position: absolute;
-    top: 50vh;
-    right: 82vw;
-}
-
-#flwr6 {
+#web {
     position: absolute;
     top: 13vh;
     right: 63vw;
 }
 
-#flwr7 {
+#volvox {
     position: absolute;
     top: 83vh;
     right: 9vw;
@@ -123,25 +117,19 @@ code:hover {
         font-size: 15pt;
     }
     
-    #flwr2 {
+    #theatre {
     position: absolute;
     top: 60vh;
     right: 18vw;
     }
     
-    #flwr3 {
-        position: absolute;
-        top: 50vh;
-        right: 45vw;
-    }
-    
-    #flwr4 {
+    #park {
     position: absolute;
     top: 69vh;
     right: 67vw;
     }
     
-    #flwr5 {
+    #pond {
         position: absolute;
         top: 47vh;
         right: 80vw;
@@ -149,13 +137,13 @@ code:hover {
     
     
     
-    #flwr6 {
+    #web {
     position: absolute;
     top: 75vh;
     right: 35vw;
     }
     
-    #flwr7 {
+    #volvox {
         position: absolute;
         top: 75vh;
         right: 30vw;
