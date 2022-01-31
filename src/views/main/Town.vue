@@ -158,7 +158,7 @@ code:hover {
     #flwr7 {
         position: absolute;
         top: 75vh;
-        right: 11vw;
+        right: 30vw;
     }
     
 }
