@@ -26,7 +26,7 @@
       >
 
       <a id="volvox" class="flower" href="https://volvoxvault.com"
-        ><code>🏡</code><br />the community centre</a
+        ><code>🏡</code><br />the community centre<br /></a
       >
     </div>
   </div>
@@ -90,7 +90,7 @@ code:hover {
 #park {
   position: absolute;
   top: 45vh;
-  right: 60vw;
+  right: 55vw;
 }
 
 #pond {
@@ -155,7 +155,6 @@ code:hover {
     position: absolute;
     top: 140vh;
     right: 15vw;
-    margin-bottom: 40px;
   }
 }
 </style>
