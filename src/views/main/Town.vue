@@ -142,7 +142,7 @@ code:hover {
   #theatre {
     position: absolute;
     top: 90vh;
-    right: 25vw;
+    right: 20vw;
   }
 
   #web {
