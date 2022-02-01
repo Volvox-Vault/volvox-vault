@@ -69,10 +69,10 @@
             >
           </div>
           <div class="recent-Router">
-            <router-link to="/archive/kalil">The Boys of Summer</router-link>
+            <router-link to="/archive/neopets">The Proto-NFT: Unconverted Neopets</router-link>
           </div>
           <div class="recent-Router">
-            <router-link to="/archive/natan">Natan Lawson's Little Moments</router-link>
+            <router-link to="/archive/fieldgossip">Field Gossip</router-link>
           </div>
         </div>
       </div>
