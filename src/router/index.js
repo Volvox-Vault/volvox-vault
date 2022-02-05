@@ -21,7 +21,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */
-import hoteldog from '../views/archive/2022/2/hoteldog.vue'
+import hoteldog from '../views/archive/2022/3/hoteldog.vue'
 import fieldgossip from '../views/archive/2022/2/fieldgossip.vue'
 import neopets from '../views/archive/2022/1/neopets.vue'
 import pondholidayexchange from '../views/archive/2021/11/pondholidayexchange.vue'
