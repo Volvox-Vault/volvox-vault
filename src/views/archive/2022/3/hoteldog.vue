@@ -19,7 +19,7 @@
 
             <div style="padding-top: 15px; padding-bottom: 15px">
               <iframe
-                style="border: 0; width: 400px; height: 373px"
+                style="border: 0; width: 100%; height: 373px"
                 src="https://bandcamp.com/EmbeddedPlayer/album=2497332666/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/"
                 seamless
                 ><a href="https://charliebaby.bandcamp.com/album/isolation-inn"
