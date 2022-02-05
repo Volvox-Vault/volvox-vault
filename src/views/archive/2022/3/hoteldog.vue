@@ -8,7 +8,7 @@
 
             <p class="headDes">
               With
-              <a href="http://fee.cool/" target="_blank">Hotel Dog</a>.
+              <a href="https://charliebaby.bandcamp.com/album/isolation-inn" target="_blank">Hotel Dog</a>.
             </p>
 
             <div>
