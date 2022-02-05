@@ -4,11 +4,11 @@
       <main>
         <div>
           <div>
-            <h1 class="head">Field Gossip</h1>
+            <h1 class="head">isolation inn</h1>
 
             <p class="headDes">
-              Drama from over yonder by
-              <a href="http://fee.cool/" target="_blank">Jake Fee</a>.
+              With
+              <a href="http://fee.cool/" target="_blank">Hotel Dog</a>.
             </p>
 
             <div class="imgBox">
@@ -16,10 +16,7 @@
                 style="border: 0; width: 100%; height: 120px"
                 src="https://bandcamp.com/EmbeddedPlayer/album=2497332666/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"
                 seamless
-                ><a href="https://charliebaby.bandcamp.com/album/isolation-inn"
-                  >isolation inn by hotel dog</a
-                ></iframe
-              >
+                ></iframe>
             </div>
 
             <p>
