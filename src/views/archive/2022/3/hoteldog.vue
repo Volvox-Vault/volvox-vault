@@ -4,7 +4,7 @@
       <main>
         <div>
           <div>
-            <h1 class="head">isolation inn</h1>
+            <h1 class="head">Isolation Inn</h1>
 
             <p class="headDes">
               With
@@ -29,6 +29,11 @@
             </div>
 
             <p>
+              Hotel Dog is a two-piece indie pop duo consisting of Charlie
+(they/them) and Sara (she/her), existing currently in the cultivated space between Winnipeg
+and Montreal. They released their first album, Isolation Inn, on December 11th, 2021. It was recorded over the
+winter of 2020/21.
+<br><br>
               <span class="HotelQ">What was it like working together?</span>
               <br /><br />
               <strong>Sara:</strong> I find it so fun to work with Charlie. It’s

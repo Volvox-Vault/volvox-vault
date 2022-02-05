@@ -46,7 +46,7 @@ export default {
         {
           date: "Feb 2022",
           author: "Hotel Dog",
-          title: "isolation inn",
+          title: "Isolation Inn",
           link: "/archive/hoteldog",
           type: "essay",
           image:
