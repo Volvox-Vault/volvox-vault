@@ -42,6 +42,16 @@ export default {
     return {
       title: "Archive",
       colony: [
+        
+        {
+          date: "Feb 2022",
+          author: "Hotel Dog",
+          title: "isolation inn",
+          link: "/archive/hoteldog",
+          type: "essay",
+          image:
+            "https://f4.bcbits.com/img/a2690421830_16.jpg",
+        },
         {
           date: "Metamorphosis",
           author: "Rue Yi",
