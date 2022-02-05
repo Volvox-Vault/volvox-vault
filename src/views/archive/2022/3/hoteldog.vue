@@ -8,17 +8,22 @@
 
             <p class="headDes">
               With
-              <a href="https://charliebaby.bandcamp.com/album/isolation-inn" target="_blank">Hotel Dog</a>.
+              <a
+                href="https://charliebaby.bandcamp.com/album/isolation-inn"
+                target="_blank"
+                >Hotel Dog</a
+              >.
             </p>
 
-            <div style="passing-top: 10px; padding-bottom: 10px;">
+            <div style="passing-top: 10px; padding-bottom: 10px">
               <iframe
-                style="border: 0; width: 100%; height: 120px"
-                src="https://bandcamp.com/EmbeddedPlayer/album=2497332666/size=large/bgcol=ffffff/linkcol=333333/tracklist=false/artwork=small/transparent=true/"
+                style="border: 0; width: 400px; height: 373px"
+                src="https://bandcamp.com/EmbeddedPlayer/album=2497332666/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/"
                 seamless
                 ><a href="https://charliebaby.bandcamp.com/album/isolation-inn"
                   >isolation inn by hotel dog</a
-                ></iframe>
+                ></iframe
+              >
             </div>
 
             <p>
