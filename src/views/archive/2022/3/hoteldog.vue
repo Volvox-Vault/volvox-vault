@@ -15,7 +15,9 @@
               >.
             </p>
 
-            <div style="passing-top: 10px; padding-bottom: 10px">
+
+
+            <div style="padding-top: 15px; padding-bottom: 15px">
               <iframe
                 style="border: 0; width: 400px; height: 373px"
                 src="https://bandcamp.com/EmbeddedPlayer/album=2497332666/size=large/bgcol=ffffff/linkcol=0687f5/artwork=small/transparent=true/"
