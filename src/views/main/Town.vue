@@ -82,13 +82,13 @@ code:hover {
 #cafe {
   position: absolute;
   top: 25vh;
-  right: 30vw;
+  right: 25vw;
 }
 
 #theatre {
   position: absolute;
   top: 65vh;
-  right: 14vw;
+  right: 10vw;
 }
 
 #park {
@@ -105,14 +105,14 @@ code:hover {
 
 #web {
   position: absolute;
-  top: 15vh;
+  top: 20vh;
   right: 70vw;
 }
 
 #volvox {
   position: absolute;
   top: 75vh;
-  right: 38vw;
+  right: 34vw;
 }
 
 @media only screen and (max-device-width: 566px) {
