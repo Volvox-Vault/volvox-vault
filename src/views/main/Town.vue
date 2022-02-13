@@ -6,27 +6,27 @@
 
     <div id="garden">
       <a id="cafe" class="flower" href="https://gossips.cafe/"
-        ><img class="townicon" style="width: 80px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/cafee%402x.png?v=1644790506454"><br />the café</a
+        ><img class="townicon" style="width: 3%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/cafee%402x.png?v=1644790506454"><br />the café</a
       >
 
       <a id="pond" class="flower" href="https://volvoxvault.com/pond"
-        ><img class="townicon" style="width: 130px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pond.png?v=1644789607771"><br />the pond</a
+        ><img class="townicon" style="width: 3%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pond.png?v=1644789607771"><br />the pond</a
       >
 
       <a id="park" class="flower" href="http://www.citypark.world/"
-        ><img class="townicon" style="width: 140px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/park.png?v=1644789702053"><br />the park</a
+        ><img class="townicon" style="width: 3%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/park.png?v=1644789702053"><br />the park</a
       >
 
       <a id="theatre" class="flower" href="http://fee.cool/theater/"
-        ><img class="townicon" style="width: 80px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/theatre.png?v=1644789607705"><br />the theatre</a
+        ><img class="townicon" style="width: 3%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/theatre.png?v=1644789607705"><br />the theatre</a
       >
 
       <a id="web" class="flower" href="https://gossipsweb.net"
-        ><img class="townicon" style="width: 100px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/airport.png?v=1644789607985"><br />the airport</a
+        ><img class="townicon" style="width: 3%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/airport.png?v=1644789607985"><br />the airport</a
       >
 
       <a id="volvox" class="flower" href="https://volvoxvault.com"
-        ><img class="townicon" style="width: 120px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/community.png?v=1644789607932"><br />the community centre</a
+        ><img class="townicon" style="width: 3%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/community.png?v=1644789607932"><br />the community centre</a
       >
     </div>
   </div>
@@ -48,7 +48,6 @@ export default {
 #townness {
   margin: 0;
   font-family: Courier New, monospace;
-  line-height: 2;
 }
 
 .townicon {
