@@ -48,6 +48,7 @@ export default {
 #townness {
   margin: 0;
   font-family: Courier New, monospace;
+  line-height: 2;
 }
 
 .townicon {
