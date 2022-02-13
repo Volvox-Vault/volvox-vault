@@ -81,7 +81,7 @@ code:hover {
 
 #cafe {
   position: absolute;
-  top: 30vh;
+  top: 25vh;
   right: 30vw;
 }
 
@@ -93,7 +93,7 @@ code:hover {
 
 #park {
   position: absolute;
-  top: 45vh;
+  top: 37vh;
   right: 49vw;
 }
 
@@ -105,13 +105,13 @@ code:hover {
 
 #web {
   position: absolute;
-  top: 20vh;
+  top: 15vh;
   right: 70vw;
 }
 
 #volvox {
   position: absolute;
-  top: 80vh;
+  top: 75vh;
   right: 38vw;
 }
 
