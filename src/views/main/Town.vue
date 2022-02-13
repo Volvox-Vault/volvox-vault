@@ -112,7 +112,7 @@ code:hover {
 #volvox {
   position: absolute;
   top: 75vh;
-  right: 34vw;
+  right: 37vw;
 }
 
 @media only screen and (max-device-width: 566px) {
