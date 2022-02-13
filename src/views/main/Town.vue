@@ -6,27 +6,27 @@
 
     <div id="garden">
       <a id="cafe" class="flower" href="https://gossips.cafe/"
-        ><img class="townicon" src="town/cafe.svg"><br />the café</a
+        ><img class="townicon" src="town/cafe.png"><br />the café</a
       >
 
       <a id="pond" class="flower" href="https://volvoxvault.com/pond"
-        ><img class="townicon" src="town/pond.svg"><br />the pond</a
+        ><img class="townicon" src="town/pond.png"><br />the pond</a
       >
 
       <a id="park" class="flower" href="http://www.citypark.world/"
-        ><img class="townicon" src="town/park.svg"><br />the park</a
+        ><img class="townicon" src="town/park.png"><br />the park</a
       >
 
       <a id="theatre" class="flower" href="http://fee.cool/theater/"
-        ><img class="townicon" src="town/theatre.svg"><br />the theatre</a
+        ><img class="townicon" src="town/theatre.png"><br />the theatre</a
       >
 
       <a id="web" class="flower" href="https://gossipsweb.net"
-        ><img class="townicon" src="town/airport.svg"><br />the airport</a
+        ><img class="townicon" src="town/airport.png"><br />the airport</a
       >
 
       <a id="volvox" class="flower" href="https://volvoxvault.com"
-        ><img class="townicon" src="town/community.svg"><br />the community centre</a
+        ><img class="townicon" src="town/community.png"><br />the community centre</a
       >
     </div>
   </div>
