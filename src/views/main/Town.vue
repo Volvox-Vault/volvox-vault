@@ -6,7 +6,7 @@
 
     <div id="garden">
       <a id="cafe" class="flower" href="https://gossips.cafe/"
-        ><img class="townicon" style="width: 80px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/cafe.png?v=1644789607878"><br />the café</a
+        ><img class="townicon" style="width: 90px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/cafe.png?v=1644789607878"><br />the café</a
       >
 
       <a id="pond" class="flower" href="https://volvoxvault.com/pond"
@@ -18,7 +18,7 @@
       >
 
       <a id="theatre" class="flower" href="http://fee.cool/theater/"
-        ><img class="townicon" style="width: 100px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/theatre.png?v=1644789607705"><br />the theatre</a
+        ><img class="townicon" style="width: 90px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/theatre.png?v=1644789607705"><br />the theatre</a
       >
 
       <a id="web" class="flower" href="https://gossipsweb.net"
