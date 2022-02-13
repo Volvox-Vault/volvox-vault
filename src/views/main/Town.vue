@@ -10,11 +10,11 @@
       >
 
       <a id="pond" class="flower" href="https://volvoxvault.com/pond"
-        ><img class="townicon" style="width: 120px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pond.png?v=1644789607771"><br />the pond</a
+        ><img class="townicon" style="width: 130px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pond.png?v=1644789607771"><br />the pond</a
       >
 
       <a id="park" class="flower" href="http://www.citypark.world/"
-        ><img class="townicon" style="width: 130px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/park.png?v=1644789702053"><br />the park</a
+        ><img class="townicon" style="width: 140px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/park.png?v=1644789702053"><br />the park</a
       >
 
       <a id="theatre" class="flower" href="http://fee.cool/theater/"
@@ -26,7 +26,7 @@
       >
 
       <a id="volvox" class="flower" href="https://volvoxvault.com"
-        ><img class="townicon" style="width: 110px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/community.png?v=1644789607932"><br />the community centre</a
+        ><img class="townicon" style="width: 120px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/community.png?v=1644789607932"><br />the community centre</a
       >
     </div>
   </div>
