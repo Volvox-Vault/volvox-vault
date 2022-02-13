@@ -6,7 +6,7 @@
 
     <div id="garden">
       <a id="cafe" class="flower" href="https://gossips.cafe/"
-        ><img class="townicon" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/cafe.png?v=1644789607878"><br />the café</a
+        ><img class="townicon" style="width: 90px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/cafe.png?v=1644789607878"><br />the café</a
       >
 
       <a id="pond" class="flower" href="https://volvoxvault.com/pond"
@@ -51,7 +51,7 @@ export default {
 }
 
 .townicon {
-  width: 30px;
+  width: 100px;
 }
 
 #town-header {
