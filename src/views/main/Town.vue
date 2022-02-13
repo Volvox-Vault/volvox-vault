@@ -100,7 +100,7 @@ code:hover {
 #pond {
   position: absolute;
   top: 68vh;
-  right: 85vw;
+  right: 75vw;
 }
 
 #web {
