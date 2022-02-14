@@ -55,7 +55,7 @@
       <ul>
         <li
           v-for="message in messages.slice().reverse()"
-          :key="message.time + message.name + message.colors + message.message"
+          :key="message.time + message.name + message.colors + message.message + isAdmin"
           v-linkified
         >
         <button v-if="isAdmin" @click="deleteMessage(message.hash, message.time)">[x]</button>
