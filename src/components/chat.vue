@@ -56,9 +56,9 @@
         <li
           v-for="message in messages.slice().reverse()"
           :key="message.time + message.name + message.colors + message.message + isAdmin"
-          v-linkified
         >
-        <button v-if="isAdmin" v-on:click="deleteMessage(message.hash, message.time)">[x]</button>
+        <button v-if="isAdmin" @click="deleteMessage(message.hash, message.time)">[x]</button>
+        <span v-linkified>
           {{
             /* Show date if it's been more than 24 hrs since message,
              * and always show time. */
@@ -75,7 +75,7 @@
             class="colorblock"
             :style="color"
             >█</span
-          > {{ message.name }} — {{ message.message }}
+          > {{ message.name }} — {{ message.message }}</span>
         </li>
       </ul>
     
@@ -149,7 +149,7 @@ export default {
   created: function () {
     this.connection = new WebSocket(
       (window.location.protocol === "https:" ? "wss://" : "ws://") +
-        window.location.host +
+        "localhost:4455" +
         "/chat"
     );
     let heartbeat;
