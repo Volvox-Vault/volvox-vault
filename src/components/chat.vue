@@ -149,7 +149,7 @@ export default {
   created: function () {
     this.connection = new WebSocket(
       (window.location.protocol === "https:" ? "wss://" : "ws://") +
-        "localhost:4455" +
+        window.location.host +
         "/chat"
     );
     let heartbeat;
