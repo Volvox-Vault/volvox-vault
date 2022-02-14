@@ -58,6 +58,7 @@
           :key="message.time + message.name + message.colors + message.message"
           v-linkified
         >
+        <button v-if="isAdmin" @click="deleteMessage(message.hash, message.time)">[x]</button>
           {{
             /* Show date if it's been more than 24 hrs since message,
              * and always show time. */
@@ -103,6 +104,7 @@ export default {
       message: "",
       error: "",
       errorTimer: -1,
+      admins: [],
     };
   },
   methods: {
@@ -112,6 +114,17 @@ export default {
           name: this.name,
           code: sha256(salt + this.code), // hash once, so nobody ever knows our plaintext password
           message: this.message,
+        })
+      );
+    },
+    deleteMessage: function (hash, time) {
+      this.connection.send(
+        JSON.stringify({
+          delete: {
+            hash,
+            time,
+            code: sha256(salt + this.code), // hash once, so nobody ever knows our plaintext password
+          },
         })
       );
     },
@@ -128,6 +141,9 @@ export default {
     },
     isDevMode() {
       return process.env.NODE_ENV === "development";
+    },
+    isAdmin() {
+      return this.admins.includes(this.doubleHashedCode);
     },
   },
   created: function () {
@@ -160,10 +176,9 @@ export default {
 
     function playRaindrop() {
       new Audio("/waterdrop.wav").play();
-
     }
 
-    const play = throttle(playRaindrop, 1000)
+    const play = throttle(playRaindrop, 1000);
 
     this.connection.onmessage = (event) => {
       const message = JSON.parse(event.data);
@@ -171,6 +186,10 @@ export default {
         this.error = message.error;
         clearTimeout(this.errorTimer);
         this.errorTimer = setTimeout(() => (this.error = ""), 8000);
+      } else if (message.admins) {
+        this.admins = message.admins;
+      } else if (message.reload) {
+        this.messages = [];
       } else if (
         message.name &&
         message.hash &&
@@ -178,7 +197,7 @@ export default {
         message.time
       ) {
         message.colors = colors(message.hash);
-        play()
+        play();
 
         if (
           message.name === this.name &&
@@ -190,7 +209,6 @@ export default {
           localStorage.setItem("chat_message", "");
         }
 
-        delete message.hash;
         this.messages.push(message);
       }
     };
