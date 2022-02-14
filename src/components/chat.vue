@@ -58,7 +58,7 @@
           :key="message.time + message.name + message.colors + message.message + isAdmin"
           v-linkified
         >
-        <button v-if="isAdmin" @click="deleteMessage(message.hash, message.time)">[x]</button>
+        <button v-if="isAdmin" v-on:click="deleteMessage(message.hash, message.time)">[x]</button>
           {{
             /* Show date if it's been more than 24 hrs since message,
              * and always show time. */
