@@ -35,19 +35,20 @@ export default {
             title: "Shop",
             colony: [
             {
+                header: 'Heart Launch',
+                des: '$10 CAD - welcome the heart issue with volvox and spirit josh on march 6th.',
+                pic:'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/heart%20launch-01.jpg?v=1645111610488',
+                website: 'https://checkout.square.site/buy/SPH7VDOX5SCZEN6L52UBIMDI',
+                nav: '',
+            },
+            {
                 header: 'Volvox Times Newspaper',
                 des: '$20 CAD - 1 year subscription to a quarterly look inside of the global independent creative-scape.',
                 pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fnewspaper_sm.png?v=1621611178720',
                 website: 'https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX',
                 nav: '',
             },
-            {
-                header: 'Red Bubble',
-                des: 'Explore our merch.',
-                pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2FredBubble.png?v=1621611646072',
-                website: 'https://www.redbubble.com/people/volvox-vault/shop',
-                nav: '',
-            },
+          
             {
                 header: 'Metamorphosis (SS 21)',
                 des: '$30 CAD - An issue about transformation, growth, and change.',
@@ -63,10 +64,10 @@ export default {
                 nav: '',
             },
             {
-                header: 'Gift Card',
-                des: '$? CAD - Give the gift of Volvox.',
-                pic:'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vvsticker-03.png?v=1642729706706',
-                website: 'https://squareup.com/gift/VP8DEG0CP9DTF/order',
+                header: 'Red Bubble',
+                des: 'Explore our merch.',
+                pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2FredBubble.png?v=1621611646072',
+                website: 'https://www.redbubble.com/people/volvox-vault/shop',
                 nav: '',
             },
             {
