@@ -48,6 +48,14 @@ export default {
     return {
       title: "Bulletin",
       colony: [
+        
+        {
+          header: "Craft Makerspace Cookbook",
+          des: "A cookbook of DIY crafts.",
+          contact: "christinasadovnikov@gmail.com",
+          website: "https://craftmaker.space/",
+          date: "coming soon",
+        },
         {
           header: "citypark.world",
           des: "Enjoy the park.",
