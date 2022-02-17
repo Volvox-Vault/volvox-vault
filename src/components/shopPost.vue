@@ -44,7 +44,7 @@ export default {
             {
                 header: 'Volvox Times Newspaper',
                 des: '$20 CAD - 1 year subscription to a quarterly look inside of the global independent creative-scape.',
-                pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fnewspaper_sm.png?v=1621611178720',
+                pic:'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/274029030_308655554575743_5440939941705159568_n.jpg?v=1645113783642',
                 website: 'https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX',
                 nav: '',
             },
