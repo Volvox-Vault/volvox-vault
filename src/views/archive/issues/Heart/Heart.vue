@@ -1,93 +1,21 @@
 <template>
-  <MainLayout>
+  <div id="app">
     <body>
-      <main>
-        <div class="meta">
-          <h1>heart.</h1>
+      <h1>HEART</h1>
 
-          <p>
-            <i>An issue reflecting on empathy, friendship, and love.</i
-            ><br /><br />
-            Write or create a project about something that comes from your
-            heart. About a memory, idea, person, or something like that which
-            you or another hold dear.<br />
-            Create something personal, or community driven with friends and
-            strangers.<br />
-            Explore your interests, desires, and relationships/friendships deeper with a creative
-            exercise or interview that you could share in this issue.<br /><br />
-            Send a pitch through
-            <a
-              href="https://form.123formbuilder.com/5763218/form"
-              >this form</a
-            >
-            by <b>November 1st</b>. Final submissions are due around
-            <b>December 1st</b>.<br /><br />
+      <h2>contributors</h2>
+      <p><a href="http://tiana.land">Tiana Dueck</a>, <a href="">Rue Yi</a>, <a href="">Jonah Grindler</a>, <a href="">Rebecca Clarke</a>, <a href="">Em Biggs</a>, 
+        <a href="">Jeremy Franczyk</a>, <a href="">Romina Malta</a>, <a href="">Luisa Cruz</a>, <a href="">Mivan Makia</a>, <a href="">Joel Rodriguez</a>, <a href="">Leslie Liu</a>, <a href="">Kristoffer Tjalve</a>, <a href="">Sean Krow</a>, <a href="">Leah Maldonado</a></p>
 
-            Discuss your ideas
-            <a href="https://volvoxvault.com/pond"
-              >at the pond</a
-            >.</p>
+      <h2>Shop</h2>
+      <h3>Buy the Digital Verion — Print at home?</h3>
+      <h3>Buy the Hand-bound Print Version + Digital (Only 50 copies)</h3>
 
-          <hr />
+      <h2>Put your Heart together</h2>
 
-          <img
-            style="width: 100%; margin-top: 0px;"
-            src="http://cdn.mcauto-images-production.sendgrid.net/98dc96f70d943c3b/9d08116c-92fb-4b47-b6b4-3af6ca146a72/1307x812.JPG"
-          />
 
-          <p>
-            One person I often think fondly of is my Nana, who has always been
-            there for me. The warmest person I know.<br />
-            Who or what do you think warmly of? Do you think warmly of yourself? Did you
-            used to think warmly of someone or something but no longer do?<br />
-            Let’s explore these things and more in Heart.<br />
-            —Tiana
-          </p>
-
-          <hr />
-
-          <!-- MAG SUB -->
-            <h2>Guidelines</h2>
-
-            <ul class="block-Submit-ul">
-              <li>
-                <b>
-                  Heart: An issue reflecting on empathy, friendship, and
-                  love.</b
-                >
-              </li>
-              <li>
-                Send a pitch through
-                <a
-                  href="https://form.123formbuilder.com/5763218/form"
-                  >this form</a
-                >
-                by <b>November 1st</b>. Final submissions are due around
-                <b>December 1st</b>.
-              </li>
-              <li>
-                You can create new art, or submit something you made in the past
-                which fits the theme. Media must be original.
-              </li>
-              <li>
-                For visual submissions, include at least 200 word artist's
-                statement.
-              </li>
-              <li>Written pieces may be 1-6 pages long.</li>
-              <li>
-                <router-link to="/support"
-                  >Subscribe to the newsletter for updates.</router-link
-                >
-              </li>
-            </ul>
-
-            <hr />
-
-            <p>Thank you for your support.</p>
-        </div>
-      </main>
     </body>
-  </MainLayout>
+  </div>
 </template>
 
 <script>
@@ -102,8 +30,14 @@ export default {
 </script>
 
 <style scoped>
+
+@font-face {
+  font-family: Jugend;
+  src: url(Jugend-2021.otf);
+}
+
 body {
-  background: radial-gradient(closest-side, white, PaleVioletRed);
+  background: radial-gradient(closest-side, white, ivory);
   height: 100%;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -125,11 +59,11 @@ body {
 }
 h1 {
   font-size: 25pt;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Jugend, Arial, Helvetica, sans-serif;
 }
 h2 {
   font-size: 20pt;
-  font-family: Arial, Helvetica, sans-serif;
+  font-family: Jugend, Arial, Helvetica, sans-serif;
   line-height: 2;
 }
 p {
