@@ -33,7 +33,7 @@ export default {
 
 @font-face {
   font-family: Jugend;
-  src: url(Jugend-2021.otf);
+  src: url(/Jugend-2021.otf);
 }
 
 body {
