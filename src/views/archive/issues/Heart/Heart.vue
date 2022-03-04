@@ -57,7 +57,7 @@ body {
   line-height: 2;
 }
 h1 {
-  font-size: 35pt;
+  font-size: 45pt;
   font-family: Jugend, Arial, Helvetica, sans-serif;
   color: grey;
 }
@@ -78,7 +78,7 @@ p {
   font-size: 13pt;
 }
 a {
-  color: white;
+  color: PaleVioletRed;
   font-weight: bold;
   text-decoration: underline;
 }
