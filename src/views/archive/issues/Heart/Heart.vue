@@ -69,7 +69,7 @@ body {
   line-height: 2;
 }
 h1 {
-  font-size: 45pt;
+  font-size: 55pt;
   font-family: Jugend, Arial, Helvetica, sans-serif;
   color: grey;
   font-weight: normal;
