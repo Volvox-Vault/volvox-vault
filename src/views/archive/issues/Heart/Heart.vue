@@ -59,8 +59,8 @@
         >, <a href="">Ana Santl</a>
         <a href="https://write.as/hummingcrow/">Sean Krow</a>,
         <a href="https://leahmaldonado.com/">Leah Maldonado</a> — Special Thanks
-        <a href="https://www.cuffgod.com/home">Sam</a>,
-        <a href="https://www.instagram.com/gardenvarietea/">Carling</a>, +
+        <a href="https://www.cuffgod.com/home">Samuel Letnik</a>,
+        <a href="https://www.instagram.com/gardenvarietea/">Carling Bulger</a>, +
         <a href="https://youtu.be/klXDUvGtMMI">Spirit Josh</a>.
       </p>
 
