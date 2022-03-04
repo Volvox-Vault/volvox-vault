@@ -210,7 +210,7 @@ iframe {
  @media only screen and (max-width: 500px) {
  
  h1 {
-   font-size: 90%;
+   font-size: 70pt;
  }
 
  .container {
@@ -224,7 +224,7 @@ iframe {
     top: 0;
     left: 0;
     width: 100%;
-    height: 100%;
+    height: 640px;
 }
  
  }
