@@ -12,7 +12,7 @@
       </h3>
       <h3>
         <a href="https://square.link/u/iUH9bsim" target="_blank"
-          >Buy the Digital Verion</a> — <a href="#heartathome">Print at home?</a>
+          >Buy the Digital Verion</a> — <a href="#heartathome">Print + bind at home?</a>
       </h3>
 
 <hr>
@@ -29,8 +29,8 @@
         <a href="https://www.door.link/">Romina Malta</a>,
         <a href="https://www.instagram.com/lupsc/">Luísa Cruz</a>,
         <a href="https://www.instagram.com/mivsmak/">Mivan Makia</a>, Joel
-        Rodriguez, <a href="">Leslie Liu</a>, <a href="">Kristoffer Tjalve</a>,
-        <a href="">Sean Krow</a>, <a href="">Leah Maldonado</a>
+        Rodriguez, <a href="https://yardonthirdstreet.neocities.org/">Leslie Liu</a>, <a href="https://kristoffer.substack.com/subscribe?utm_source=substack&utm_medium=email&utm_content=postcta">Kristoffer Tjalve</a>,
+        <a href="https://write.as/hummingcrow/">Sean Krow</a>, <a href="https://leahmaldonado.com/">Leah Maldonado</a>
       </p>
 
 <hr>
