@@ -32,12 +32,13 @@
         <a href="https://www.instagram.com/lupsc/">Luísa Cruz</a>,
         <a href="https://www.instagram.com/mivsmak/">Mivan Makia</a>, Joel
         Rodriguez, <a href="https://yardonthirdstreet.neocities.org/">Leslie Liu</a>, <a href="https://kristoffer.substack.com/subscribe?utm_source=substack&utm_medium=email&utm_content=postcta">Kristoffer Tjalve</a>,
-        <a href="https://write.as/hummingcrow/">Sean Krow</a>, <a href="https://leahmaldonado.com/">Leah Maldonado</a>
+        <a href="https://write.as/hummingcrow/">Sean Krow</a>, <a href="https://leahmaldonado.com/">Leah Maldonado</a> — Special Thanks to <a href="https://www.cuffgod.com/home">Sam</a>, <a href="https://www.instagram.com/gardenvarietea/">Carling</a>, and <a href="https://youtu.be/klXDUvGtMMI">Spirit Josh</a>.
       </p>
 
 <hr>
 
       <h2 id="heartathome">heart @ home</h2>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/N02aUFm4evM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </body>
   </div>
 </template>
