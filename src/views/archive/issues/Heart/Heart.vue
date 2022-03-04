@@ -162,6 +162,9 @@ h3 {
 p {
   font-size: 13pt;
 }
+img {
+  border-bottom: 1px dotted PaleVioletRed;
+}
 a {
   color: PaleVioletRed;
   text-decoration: underline;
@@ -190,5 +193,6 @@ video,
 iframe {
   border-radius: 40px;
   box-shadow: 0 5px 10px rgb(215 189 226 / 0.5);
+  border-bottom: 1px dotted PaleVioletRed;
 }
 </style>
