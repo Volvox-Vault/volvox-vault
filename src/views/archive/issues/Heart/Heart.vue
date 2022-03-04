@@ -51,7 +51,6 @@ export default {
 
 body {
   background: radial-gradient(closest-side, white, ivory);
-  height: 100vh;
   padding: 60px;
   font-family: Arial, Helvetica, sans-serif;
 }
