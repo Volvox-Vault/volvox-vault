@@ -31,7 +31,7 @@
         >
       </h3>
 
-      <h2>Put your Heart together at home.</h2>
+      <h2>heart @ home</h2>
     </body>
   </div>
 </template>
