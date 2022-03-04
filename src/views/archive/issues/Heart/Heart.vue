@@ -73,10 +73,11 @@ body {
   line-height: 2;
 }
 h1 {
-  font-size: 55pt;
+  font-size: 65pt;
   font-family: Jugend, Arial, Helvetica, sans-serif;
   color: grey;
   font-weight: normal;
+  text-align: center;
 }
 h2 {
   font-size: 30pt;
@@ -98,7 +99,6 @@ p {
 }
 a {
   color: PaleVioletRed;
-  font-weight: bold;
   text-decoration: underline;
 }
 a:hover {
