@@ -58,19 +58,7 @@ body {
   padding: 60px;
   font-family: Arial, Helvetica, sans-serif;
   line-height: 2;
-}
-
-.meta {
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-  min-width: 250px;
-  max-width: 700px;
-  border-radius: 30px;
-  background: rgba(219, 112, 147, 0.5);
   color: grey;
-  padding: 35px;
-  box-shadow: 0 3px 10px rgba(255, 255, 255, 0.6);
 }
 h1 {
   font-size: 85pt;
