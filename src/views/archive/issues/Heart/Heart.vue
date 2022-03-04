@@ -4,16 +4,18 @@
       <h1>heart</h1>
 
 <hr>
-      <h2>Shop</h2>
+     <div> <img src="https://checkout.square.site/uploads/1/3/2/9/132988872/s759346569985731411_p17_i2_w828.jpeg" style="float:right; width: 30%;">
+        <h2>Shop</h2>
       <h3>
         <a href="https://square.link/u/PjrmPfus" target="_blank"
-          >Buy the Hand-bound Print Version + Digital (Only 50 copies)</a
+          >Buy the Hand-bound Print Version (Only 50 copies) + Digital</a
         >
       </h3>
       <h3>
         <a href="https://square.link/u/iUH9bsim" target="_blank"
           >Buy the Digital Verion</a> — <a href="#heartathome">Print + bind at home?</a>
       </h3>
+</div>
 
 <hr>
 
