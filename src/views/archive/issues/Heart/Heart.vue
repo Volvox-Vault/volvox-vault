@@ -2,7 +2,7 @@
   <div id="app">
     <body>
       <h1>heart</h1>
-
+<hr>
       <h2>contributors</h2>
       <p>
         <a href="http://tiana.land">Tiana Dueck</a>,
@@ -18,7 +18,7 @@
         Rodriguez, <a href="">Leslie Liu</a>, <a href="">Kristoffer Tjalve</a>,
         <a href="">Sean Krow</a>, <a href="">Leah Maldonado</a>
       </p>
-
+<hr>
       <h2>Shop</h2>
       <h3>
         <a href="https://square.link/u/PjrmPfus" target="_blank"
