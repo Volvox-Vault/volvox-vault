@@ -220,6 +220,7 @@ iframe {
     padding-bottom: 56.25%;
 }
 .video {
+    margin-top: 20px;
     position: absolute;
     top: 0;
     left: 0;
