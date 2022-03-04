@@ -4,6 +4,11 @@
       <h1 style="padding-bottom: 20px;">heart</h1>
 
 <hr>
+
+<p>Volvox Vault's 5th issue, 60 hand-bound pages inspired by love, friendship, and empathy.<br>
+<u>FROM THE BOTTOM OF OUR HEARTS</u></p>
+
+<hr>
      <div> <img src="https://checkout.square.site/uploads/1/3/2/9/132988872/s759346569985731411_p17_i2_w828.jpeg" style="float:right; width: 20%; margin: 20px; margin-left: 40px; margin-right: 0px; border-radius: 50px;">
         <h2>Shop</h2>
       <h3>
@@ -44,12 +49,12 @@
    
    <h2>excerpts</h2>
 
-   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS0.jpg?v=1646365151380" style="width: 100%"/>
-   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS1.jpg?v=1646365150773" style="width: 100%"/>
-   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS2.jpg?v=1646365151032" style="width: 100%"/>
-   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS3.jpg?v=1646365151558" style="width: 100%"/>
+   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS0.jpg?v=1646365151380" style="width: 100%, border-radius: 50px;"/>
+   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS1.jpg?v=1646365150773" style="width: 100%, border-radius: 50px;"/>
+   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS2.jpg?v=1646365151032" style="width: 100%, border-radius: 50px;"/>
+   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS3.jpg?v=1646365151558" style="width: 100%, border-radius: 50px;"/>
 
-
+<p>and so much more...</p>
 
     </body>
   </div>
