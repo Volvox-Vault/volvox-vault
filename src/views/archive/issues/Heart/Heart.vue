@@ -110,7 +110,7 @@
         <i>figma dinner party</i>
       </p>
       <br />
-      <p>and so much more...</p>
+      <p style="text-align: center">and so much more...</p>
     </body>
   </div>
 </template>
