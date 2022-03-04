@@ -27,7 +27,7 @@
         <h2>Shop</h2>
         <h3>
           <a href="https://square.link/u/PjrmPfus" target="_blank"
-            >Buy the Hand-bound Print Version (Only 50 copies) + Digital &#8674;</a
+            >Buy the Hand-bound Print Version (only 50 copies) + Digital &#8674;</a
           >
         </h3>
         <h3>
