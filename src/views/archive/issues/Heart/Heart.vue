@@ -38,9 +38,8 @@ export default {
 
 body {
   background: radial-gradient(closest-side, white, ivory);
-  height: 100%;
-  padding-top: 60px;
-  padding-bottom: 60px;
+  height: 100vh;
+  margin: 60px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -58,12 +57,18 @@ body {
   line-height: 2;
 }
 h1 {
-  font-size: 25pt;
+  font-size: 35pt;
   font-family: Jugend, Arial, Helvetica, sans-serif;
 }
 h2 {
-  font-size: 20pt;
+  font-size: 30pt;
   font-family: Jugend, Arial, Helvetica, sans-serif;
+  line-height: 2;
+}
+h3 {
+  font-size: 25pt;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: normal;
   line-height: 2;
 }
 p {
