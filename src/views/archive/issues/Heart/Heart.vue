@@ -77,6 +77,7 @@
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
       ></iframe>
+      <p><a href="https://i.pinimg.com/originals/5f/86/7d/5f867d8704ba32bc55b818217db93417.jpg">heart origami</a></p>
 
       <hr />
 
@@ -163,7 +164,7 @@ p {
   font-size: 13pt;
 }
 img {
-  border-bottom: 1px dotted PaleVioletRed;
+  border: 1px dotted PaleVioletRed;
 }
 a {
   color: PaleVioletRed;
@@ -193,6 +194,6 @@ video,
 iframe {
   border-radius: 40px;
   box-shadow: 0 5px 10px rgb(215 189 226 / 0.5);
-  border-bottom: 1px dotted PaleVioletRed;
+  border: 1px dotted PaleVioletRed;
 }
 </style>
