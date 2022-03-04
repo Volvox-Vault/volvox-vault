@@ -4,7 +4,7 @@
       <h1>heart</h1>
 
 <hr>
-     <div> <img src="https://checkout.square.site/uploads/1/3/2/9/132988872/s759346569985731411_p17_i2_w828.jpeg" style="float:right; width: 20%; padding: 20px;">
+     <div> <img src="https://checkout.square.site/uploads/1/3/2/9/132988872/s759346569985731411_p17_i2_w828.jpeg" style="float:right; width: 20%; padding: 20px; border-radius: 30px;">
         <h2>Shop</h2>
       <h3>
         <a href="https://square.link/u/PjrmPfus" target="_blank"
