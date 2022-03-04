@@ -144,7 +144,7 @@ body {
   color: grey;
 }
 h1 {
-  font-size: 85pt;
+  font-size: 100pt;
   font-family: Jugend, Arial, Helvetica, sans-serif;
   color: grey;
   font-weight: normal;
