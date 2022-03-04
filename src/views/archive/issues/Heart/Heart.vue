@@ -216,7 +216,7 @@ iframe {
  .container {
     position: relative;
     width: 100%;
-    height: 540px;
+    height: 500px;
     padding-bottom: 56.25%;
 }
 .video {
