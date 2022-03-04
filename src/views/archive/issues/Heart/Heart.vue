@@ -6,7 +6,7 @@
       <hr />
 
       <p style="text-align: center;">
-        <a href="/">Volvox Vault's</a> 5th issue, 60 hand-bound pages inspired by love,
+        <router-link to="/">Volvox Vault's</router-link> 5th issue, 60 hand-bound pages inspired by love,
         friendship, and empathy.<br />
         <u>FROM THE BOTTOM OF OUR HEARTS</u>
       </p>
