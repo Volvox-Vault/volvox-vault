@@ -5,7 +5,7 @@
 
       <hr />
 
-      <p>
+      <p style="text-align: center;">
         Volvox Vault's 5th issue, 60 hand-bound pages inspired by love,
         friendship, and empathy.<br />
         <u>FROM THE BOTTOM OF OUR HEARTS</u>
@@ -33,8 +33,7 @@
         <h3>
           <a href="https://square.link/u/iUH9bsim" target="_blank"
             >Buy the Digital Verion &#8674;</a
-          >
-          — <a href="#heartathome">Print + bind at home?</a>
+          > — <a href="#heartathome">Print + bind at home?</a>
         </h3>
       </div>
 
