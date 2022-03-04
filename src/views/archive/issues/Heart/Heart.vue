@@ -32,7 +32,7 @@
         </h3>
         <h3>
           <a href="https://square.link/u/iUH9bsim" target="_blank"
-            >Buy the Digital Verion &#8674;</a
+            >Buy the Digital Version &#8674;</a
           > — <a href="#heartathome">Print + bind at home?</a>
         </h3>
       </div>
