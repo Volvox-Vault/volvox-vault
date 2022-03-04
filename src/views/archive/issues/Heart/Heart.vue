@@ -88,6 +88,7 @@
         style="width: 100%; border-radius: 50px;"
       />
       <p style="text-align: center">table of contents</p>
+      <br>
       <img
         src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS1.jpg?v=1646365150773"
         style="width: 100%; border-radius: 50px;"
@@ -95,6 +96,7 @@
       <p style="text-align: center">
         jonah grinder to tiana dueck in <i>heartfelt letters</i>
       </p>
+      <br>
       <img
         src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS2.jpg?v=1646365151032"
         style="width: 100%; border-radius: 50px;"
@@ -102,6 +104,7 @@
       <p style="text-align: center">
         kristoffer tjalve and ana santl in <i>uno</i>
       </p>
+      <br>
       <img
         src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS3.jpg?v=1646365151558"
         style="width: 100%; border-radius: 50px;"
@@ -110,6 +113,7 @@
         leah maldonado (red) and tiana dueck (green) in
         <i>figma dinner party</i>
       </p>
+      <br>
       <br />
       <p style="text-align: center">and so much more...</p>
     </body>
@@ -149,7 +153,7 @@ h1 {
   line-height: 1;
 }
 h2 {
-  font-size: 30pt;
+  font-size: 35pt;
   font-family: Jugend, Arial, Helvetica, sans-serif;
   font-weight: normal;
   color: grey;
