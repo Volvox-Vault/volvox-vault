@@ -27,12 +27,12 @@
         <h2>Shop</h2>
         <h3>
           <a href="https://square.link/u/PjrmPfus" target="_blank"
-            >Buy the Hand-bound Print Version (Only 50 copies) + Digital</a
+            >Buy the Hand-bound Print Version (Only 50 copies) + Digital &#8674;</a
           >
         </h3>
         <h3>
           <a href="https://square.link/u/iUH9bsim" target="_blank"
-            >Buy the Digital Verion</a
+            >Buy the Digital Verion &#8674;</a
           >
           — <a href="#heartathome">Print + bind at home?</a>
         </h3>
