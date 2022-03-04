@@ -67,15 +67,17 @@
       <hr />
 
       <h2 id="heartathome">heart @ home</h2>
+      
+      <div class="container">
       <iframe
-        width="360"
-        height="640"
+        class="video"
         src="https://www.youtube.com/embed/kR-7Lset4_A"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
         allowfullscreen
       ></iframe>
+      </div>
       <p><a href="https://i.pinimg.com/originals/5f/86/7d/5f867d8704ba32bc55b818217db93417.jpg">heart origami</a></p>
 
       <hr />
@@ -193,10 +195,37 @@ hr {
 td {
   padding: 20px;
 }
-video,
+
 iframe {
   border-radius: 40px;
   box-shadow: 0 5px 10px rgb(215 189 226 / 0.5);
   border: 1px dotted PaleVioletRed;
 }
+
+.video {
+    width: 360px;
+    height: 640px;
+}
+
+ @media only screen and (max-width: 500px) {
+ 
+ h1 {
+   font-size: 90%;
+ }
+
+ .container {
+    position: relative;
+    width: 100%;
+    height: 0;
+    padding-bottom: 56.25%;
+}
+.video {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
+ 
+ }
 </style>
