@@ -87,7 +87,7 @@ h2 {
   color: grey;
 }
 h3 {
-  font-size: 25pt;
+  font-size: 20pt;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: normal;
   line-height: 2;
