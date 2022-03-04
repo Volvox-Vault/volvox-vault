@@ -84,26 +84,26 @@
 
       <img
         src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS0.jpg?v=1646365151380"
-        style="width: 100%, border-radius: 50px;"
+        style="width: 100%; border-radius: 50px;"
       />
       <p style="text-align: center">table of contents</p>
       <img
         src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS1.jpg?v=1646365150773"
-        style="width: 100%, border-radius: 50px;"
+        style="width: 100%; border-radius: 50px;"
       />
       <p style="text-align: center">
         jonah grinder to tiana dueck in <i>heartfelt letters</i>
       </p>
       <img
         src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS2.jpg?v=1646365151032"
-        style="width: 100%, border-radius: 50px;"
+        style="width: 100%; border-radius: 50px;"
       />
       <p style="text-align: center">
         kristoffer tjalve and ana santl in <i>uno</i>
       </p>
       <img
         src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS3.jpg?v=1646365151558"
-        style="width: 100%, border-radius: 50px;"
+        style="width: 100%; border-radius: 50px;"
       />
       <p style="text-align: center">
         leah maldonado (red) and tiana dueck (green) in
