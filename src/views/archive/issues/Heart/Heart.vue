@@ -4,7 +4,7 @@
       <h1>heart</h1>
 
 <hr>
-     <div> <img src="https://checkout.square.site/uploads/1/3/2/9/132988872/s759346569985731411_p17_i2_w828.jpeg" style="float:right; width: 20%; margin: 20px; margin-left: 40px; border-radius: 50px;">
+     <div> <img src="https://checkout.square.site/uploads/1/3/2/9/132988872/s759346569985731411_p17_i2_w828.jpeg" style="float:right; width: 20%; margin: 20px; margin-left: 40px; margin-right: 0px; border-radius: 50px;">
         <h2>Shop</h2>
       <h3>
         <a href="https://square.link/u/PjrmPfus" target="_blank"
@@ -38,7 +38,7 @@
 <hr>
 
       <h2 id="heartathome">heart @ home</h2>
-      <iframe width="360" height="640" src="https://www.youtube.com/embed/N02aUFm4evM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+      <iframe style="float: right;" width="360" height="640" src="https://www.youtube.com/embed/N02aUFm4evM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
     </body>
   </div>
 </template>
@@ -116,7 +116,7 @@ td {
 }
 video,
 iframe {
-  border-radius: 30px;
+  border-radius: 40px;
   box-shadow: 0 5px 10px rgb(215 189 226 / 0.5);
 }
 </style>
