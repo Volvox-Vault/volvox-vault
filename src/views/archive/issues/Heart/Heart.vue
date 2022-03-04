@@ -73,11 +73,12 @@ body {
   box-shadow: 0 3px 10px rgba(255, 255, 255, 0.6);
 }
 h1 {
-  font-size: 65pt;
+  font-size: 85pt;
   font-family: Jugend, Arial, Helvetica, sans-serif;
   color: grey;
   font-weight: normal;
   text-align: center;
+  line-height: 1;
 }
 h2 {
   font-size: 30pt;
