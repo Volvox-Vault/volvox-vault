@@ -40,6 +40,10 @@
 export default {
   name: "Heart",
   components: {},
+  metaInfo: {
+    // title will be injected into parent titleTemplate
+    title: "HEART",
+  },
 };
 </script>
 
