@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <body>
-      <h1>heart</h1>
+      <h1 style="padding-bottom: 20px;">heart</h1>
 
 <hr>
      <div> <img src="https://checkout.square.site/uploads/1/3/2/9/132988872/s759346569985731411_p17_i2_w828.jpeg" style="float:right; width: 20%; margin: 20px; margin-left: 40px; margin-right: 0px; border-radius: 50px;">
@@ -39,6 +39,18 @@
 
       <h2 id="heartathome">heart @ home</h2>
       <iframe width="360" height="640" src="https://www.youtube.com/embed/N02aUFm4evM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+   
+   <hr>
+   
+   <h2>excerpts</h2>
+
+   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS0.jpg?v=1646365151380" style="width: 100%"/>
+   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS1.jpg?v=1646365150773" style="width: 100%"/>
+   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS2.jpg?v=1646365151032" style="width: 100%"/>
+   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS3.jpg?v=1646365151558" style="width: 100%"/>
+
+
+
     </body>
   </div>
 </template>
