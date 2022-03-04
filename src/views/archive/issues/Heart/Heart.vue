@@ -2,7 +2,21 @@
   <div id="app">
     <body>
       <h1>heart</h1>
+
 <hr>
+      <h2>Shop</h2>
+      <h3>
+        <a href="https://square.link/u/PjrmPfus" target="_blank"
+          >Buy the Hand-bound Print Version + Digital (Only 50 copies)</a
+        >
+      </h3>
+      <h3>
+        <a href="https://square.link/u/iUH9bsim" target="_blank"
+          >Buy the Digital Verion</a> — <a href="#heartathome">Print at home?</a>
+      </h3>
+
+<hr>
+
       <h2>contributors</h2>
       <p>
         <a href="http://tiana.land">Tiana Dueck</a>,
@@ -18,20 +32,10 @@
         Rodriguez, <a href="">Leslie Liu</a>, <a href="">Kristoffer Tjalve</a>,
         <a href="">Sean Krow</a>, <a href="">Leah Maldonado</a>
       </p>
-<hr>
-      <h2>Shop</h2>
-      <h3>
-        <a href="https://square.link/u/PjrmPfus" target="_blank"
-          >Buy the Hand-bound Print Version + Digital (Only 50 copies)</a
-        >
-      </h3>
-      <h3>
-        <a href="https://square.link/u/iUH9bsim" target="_blank"
-          >Buy the Digital Verion — Print at home?</a
-        >
-      </h3>
 
-      <h2>heart @ home</h2>
+<hr>
+
+      <h2 id="heartathome">heart @ home</h2>
     </body>
   </div>
 </template>
