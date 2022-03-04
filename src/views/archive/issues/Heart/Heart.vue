@@ -1,17 +1,18 @@
 <template>
   <div id="app">
     <body>
-      <h1>HEART</h1>
+      <h1>heart</h1>
 
       <h2>contributors</h2>
-      <p><a href="http://tiana.land">Tiana Dueck</a>, <a href="">Rue Yi</a>, <a href="">Jonah Grindler</a>, <a href="">Rebecca Clarke</a>, <a href="">Em Biggs</a>, 
-        <a href="">Jeremy Franczyk</a>, <a href="">Romina Malta</a>, <a href="">Luisa Cruz</a>, <a href="">Mivan Makia</a>, <a href="">Joel Rodriguez</a>, <a href="">Leslie Liu</a>, <a href="">Kristoffer Tjalve</a>, <a href="">Sean Krow</a>, <a href="">Leah Maldonado</a></p>
+      <p><a href="http://tiana.land">Tiana Dueck</a>, <a href="https://www.are.na/rue-yi">Rue Yi</a>, <a href="https://grindler.design/">Jonah Grindler</a>, <a href="https://www.instagram.com/_becca_clarke/">Rebecca Clarke</a>, <a href="https://www.instagram.com/themoon.thestars.andem/">Em Biggs</a>, 
+        <a href="https://www.instagram.com/jeremyfranczyk/">Jeremy Franczyk</a>, <a href="https://www.door.link/">Romina Malta</a>, <a href="https://www.instagram.com/lupsc/">Luísa Cruz</a>, 
+        <a href="https://www.instagram.com/mivsmak/">Mivan Makia</a>, Joel Rodriguez, <a href="">Leslie Liu</a>, <a href="">Kristoffer Tjalve</a>, <a href="">Sean Krow</a>, <a href="">Leah Maldonado</a></p>
 
       <h2>Shop</h2>
-      <h3>Buy the Digital Verion — Print at home?</h3>
-      <h3>Buy the Hand-bound Print Version + Digital (Only 50 copies)</h3>
+      <h3><a href="https://square.link/u/PjrmPfus" target="_blank">Buy the Hand-bound Print Version + Digital (Only 50 copies)</a></h3>
+      <h3><a href="https://square.link/u/iUH9bsim" target="_blank">Buy the Digital Verion — Print at home?</a></h3>
 
-      <h2>Put your Heart together</h2>
+      <h2>Put your Heart together at home.</h2>
 
 
     </body>
