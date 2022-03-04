@@ -1,28 +1,44 @@
 <template>
   <div id="app">
     <body>
-      <h1 style="padding-bottom: 20px;">heart</h1>
+      <h1 style="padding-bottom: 20px">heart</h1>
 
-<hr>
+      <hr />
 
-<p>Volvox Vault's 5th issue, 60 hand-bound pages inspired by love, friendship, and empathy.<br>
-<u>FROM THE BOTTOM OF OUR HEARTS</u></p>
+      <p>
+        Volvox Vault's 5th issue, 60 hand-bound pages inspired by love,
+        friendship, and empathy.<br />
+        <u>FROM THE BOTTOM OF OUR HEARTS</u>
+      </p>
 
-<hr>
-     <div> <img src="https://checkout.square.site/uploads/1/3/2/9/132988872/s759346569985731411_p17_i2_w828.jpeg" style="float:right; width: 20%; margin: 20px; margin-left: 40px; margin-right: 0px; border-radius: 50px;">
+      <hr />
+      <div>
+        <img
+          src="https://checkout.square.site/uploads/1/3/2/9/132988872/s759346569985731411_p17_i2_w828.jpeg"
+          style="
+            float: right;
+            width: 20%;
+            margin: 20px;
+            margin-left: 40px;
+            margin-right: 0px;
+            border-radius: 50px;
+          "
+        />
         <h2>Shop</h2>
-      <h3>
-        <a href="https://square.link/u/PjrmPfus" target="_blank"
-          >Buy the Hand-bound Print Version (Only 50 copies) + Digital</a
-        >
-      </h3>
-      <h3>
-        <a href="https://square.link/u/iUH9bsim" target="_blank"
-          >Buy the Digital Verion</a> — <a href="#heartathome">Print + bind at home?</a>
-      </h3>
-</div>
+        <h3>
+          <a href="https://square.link/u/PjrmPfus" target="_blank"
+            >Buy the Hand-bound Print Version (Only 50 copies) + Digital</a
+          >
+        </h3>
+        <h3>
+          <a href="https://square.link/u/iUH9bsim" target="_blank"
+            >Buy the Digital Verion</a
+          >
+          — <a href="#heartathome">Print + bind at home?</a>
+        </h3>
+      </div>
 
-<hr>
+      <hr />
 
       <h2>contributors</h2>
       <p>
@@ -36,26 +52,65 @@
         <a href="https://www.door.link/">Romina Malta</a>,
         <a href="https://www.instagram.com/lupsc/">Luísa Cruz</a>,
         <a href="https://www.instagram.com/mivsmak/">Mivan Makia</a>, Joel
-        Rodriguez, <a href="https://yardonthirdstreet.neocities.org/">Leslie Liu</a>, <a href="https://kristoffer.substack.com/subscribe?utm_source=substack&utm_medium=email&utm_content=postcta">Kristoffer Tjalve</a>,
-        <a href="https://write.as/hummingcrow/">Sean Krow</a>, <a href="https://leahmaldonado.com/">Leah Maldonado</a> — Special Thanks <a href="https://www.cuffgod.com/home">Sam</a>, <a href="https://www.instagram.com/gardenvarietea/">Carling</a>, + <a href="https://youtu.be/klXDUvGtMMI">Spirit Josh</a>.
+        Rodriguez,
+        <a href="https://yardonthirdstreet.neocities.org/">Leslie Liu</a>,
+        <a
+          href="https://kristoffer.substack.com/subscribe?utm_source=substack&utm_medium=email&utm_content=postcta"
+          >Kristoffer Tjalve</a
+        >, <a href="">Ana Santl</a>
+        <a href="https://write.as/hummingcrow/">Sean Krow</a>,
+        <a href="https://leahmaldonado.com/">Leah Maldonado</a> — Special Thanks
+        <a href="https://www.cuffgod.com/home">Sam</a>,
+        <a href="https://www.instagram.com/gardenvarietea/">Carling</a>, +
+        <a href="https://youtu.be/klXDUvGtMMI">Spirit Josh</a>.
       </p>
 
-<hr>
+      <hr />
 
       <h2 id="heartathome">heart @ home</h2>
-      <iframe width="360" height="640" src="https://www.youtube.com/embed/N02aUFm4evM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-   
-   <hr>
-   
-   <h2>excerpts</h2>
+      <iframe
+        width="360"
+        height="640"
+        src="https://www.youtube.com/embed/N02aUFm4evM"
+        title="YouTube video player"
+        frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+        allowfullscreen
+      ></iframe>
 
-   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS0.jpg?v=1646365151380" style="width: 100%, border-radius: 50px;"/>
-   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS1.jpg?v=1646365150773" style="width: 100%, border-radius: 50px;"/>
-   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS2.jpg?v=1646365151032" style="width: 100%, border-radius: 50px;"/>
-   <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS3.jpg?v=1646365151558" style="width: 100%, border-radius: 50px;"/>
+      <hr />
 
-<p>and so much more...</p>
+      <h2>excerpts</h2>
 
+      <img
+        src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS0.jpg?v=1646365151380"
+        style="width: 100%, border-radius: 50px;"
+      />
+      <p style="text-align: center">table of contents</p>
+      <img
+        src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS1.jpg?v=1646365150773"
+        style="width: 100%, border-radius: 50px;"
+      />
+      <p style="text-align: center">
+        jonah grinder to tiana dueck in <i>heartfelt letters</i>
+      </p>
+      <img
+        src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS2.jpg?v=1646365151032"
+        style="width: 100%, border-radius: 50px;"
+      />
+      <p style="text-align: center">
+        kristoffer tjalve and ana santl in <i>uno</i>
+      </p>
+      <img
+        src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS3.jpg?v=1646365151558"
+        style="width: 100%, border-radius: 50px;"
+      />
+      <p style="text-align: center">
+        leah maldonado (red) and tiana dueck (green) in
+        <i>figma dinner party</i>
+      </p>
+      <br />
+      <p>and so much more...</p>
     </body>
   </div>
 </template>
