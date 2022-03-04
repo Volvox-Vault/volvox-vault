@@ -57,6 +57,7 @@ body {
   background: radial-gradient(closest-side, white, ivory);
   padding: 60px;
   font-family: Arial, Helvetica, sans-serif;
+  line-height: 2;
 }
 
 .meta {
@@ -70,7 +71,6 @@ body {
   color: grey;
   padding: 35px;
   box-shadow: 0 3px 10px rgba(255, 255, 255, 0.6);
-  line-height: 2;
 }
 h1 {
   font-size: 65pt;
@@ -82,16 +82,13 @@ h1 {
 h2 {
   font-size: 30pt;
   font-family: Jugend, Arial, Helvetica, sans-serif;
-  line-height: 2;
   font-weight: normal;
-
   color: grey;
 }
 h3 {
   font-size: 20pt;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: normal;
-  line-height: 2;
   color: grey;
 }
 p {
@@ -105,9 +102,8 @@ a:hover {
   text-decoration: line-through;
 }
 hr {
-  color: lightpink;
   border: none;
-  border-bottom: 1.6px dashed PaleVioletRed;
+  border-bottom: 1px dotted PaleVioletRed;
   margin-top: 20px;
   margin-bottom: 20px;
 }
