@@ -39,7 +39,7 @@ export default {
 body {
   background: radial-gradient(closest-side, white, ivory);
   height: 100vh;
-  margin: 60px;
+  padding: 60px;
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -51,7 +51,7 @@ body {
   max-width: 700px;
   border-radius: 30px;
   background: rgba(219, 112, 147, 0.5);
-  color: white;
+  color: grey;
   padding: 35px;
   box-shadow: 0 3px 10px rgba(255, 255, 255, 0.6);
   line-height: 2;
@@ -59,17 +59,20 @@ body {
 h1 {
   font-size: 35pt;
   font-family: Jugend, Arial, Helvetica, sans-serif;
+  color: grey;
 }
 h2 {
   font-size: 30pt;
   font-family: Jugend, Arial, Helvetica, sans-serif;
   line-height: 2;
+  color: grey;
 }
 h3 {
   font-size: 25pt;
   font-family: Arial, Helvetica, sans-serif;
   font-weight: normal;
   line-height: 2;
+  color: grey;
 }
 p {
   font-size: 13pt;
