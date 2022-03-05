@@ -120,9 +120,7 @@
 
       
 <footer style="position: fixed; bottom: 0; width: 100%; font-size: 30pt;">
-  <p width: 100%;>
     <a style="width: 100%; padding: 20px; background: ivory; border: 1px dotted PaleVioletRed; color: PaleVioletRed;" href="https://square.link/u/PjrmPfus">BUY HEART</a> 
-  </p>
 </footer>
 
     </body>
