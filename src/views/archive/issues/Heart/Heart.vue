@@ -1,5 +1,9 @@
 <template>
+
   <div id="app">
+    
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
     <body>
       <h1 style="padding-bottom: 20px">heart</h1>
 
