@@ -5,9 +5,9 @@
 
       <hr />
 
-      <p style="text-align: center;">
-        <router-link to="/">Volvox Vault's</router-link> 5th issue, 60 hand-bound pages inspired by love,
-        friendship, and empathy.<br />
+      <p style="text-align: center">
+        <router-link to="/">Volvox Vault's</router-link> 5th issue, 60
+        hand-bound pages inspired by love, friendship, and empathy.<br />
         <u>FROM THE BOTTOM OF OUR HEARTS</u>
       </p>
 
@@ -27,13 +27,15 @@
         <h2>Shop</h2>
         <h3>
           <a href="https://square.link/u/PjrmPfus" target="_blank"
-            >Buy the Hand-bound Print Version (only 50 copies) + Digital &#8674;</a
+            >Buy the Hand-bound Print Version (only 50 copies) + Digital
+            &#8674;</a
           >
         </h3>
         <h3>
           <a href="https://square.link/u/iUH9bsim" target="_blank"
             >Buy the Digital Version &#8674;</a
-          > — <a href="#heartathome">Print + bind at home?</a>
+          >
+          — <a href="#heartathome">Print + bind at home?</a>
         </h3>
       </div>
 
@@ -60,25 +62,30 @@
         <a href="https://write.as/hummingcrow/">Sean Krow</a>,
         <a href="https://leahmaldonado.com/">Leah Maldonado</a> — Special Thanks
         <a href="https://www.cuffgod.com/home">Samuel Letnik</a>,
-        <a href="https://www.instagram.com/gardenvarietea/">Carling Bulger</a>, +
-        <a href="https://youtu.be/klXDUvGtMMI">Spirit Josh</a>.
+        <a href="https://www.instagram.com/gardenvarietea/">Carling Bulger</a>,
+        + <a href="https://youtu.be/klXDUvGtMMI">Spirit Josh</a>.
       </p>
 
       <hr />
 
       <h2 id="heartathome">heart @ home</h2>
-      
+
       <div class="container">
-      <iframe
-        class="video"
-        src="https://www.youtube.com/embed/kR-7Lset4_A"
-        title="YouTube video player"
-        frameborder="0"
-        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-        allowfullscreen
-      ></iframe>
+        <iframe
+          class="video"
+          src="https://www.youtube.com/embed/kR-7Lset4_A"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
       </div>
-      <p><a href="https://i.pinimg.com/originals/5f/86/7d/5f867d8704ba32bc55b818217db93417.jpg">heart origami</a></p>
+      <p>
+        <a
+          href="https://i.pinimg.com/originals/5f/86/7d/5f867d8704ba32bc55b818217db93417.jpg"
+          >heart origami</a
+        >
+      </p>
 
       <hr />
 
@@ -86,43 +93,61 @@
 
       <img
         src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS0.jpg?v=1646365151380"
-        style="width: 100%; border-radius: 50px;"
+        style="width: 100%; border-radius: 50px"
       />
       <p style="text-align: center">table of contents</p>
-      <br>
+      <br />
       <img
         src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS1.jpg?v=1646365150773"
-        style="width: 100%; border-radius: 50px;"
+        style="width: 100%; border-radius: 50px"
       />
       <p style="text-align: center">
         jonah grinder to tiana dueck in <i>heartfelt letters</i>
       </p>
-      <br>
+      <br />
       <img
         src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS2.jpg?v=1646365151032"
-        style="width: 100%; border-radius: 50px;"
+        style="width: 100%; border-radius: 50px"
       />
       <p style="text-align: center">
         kristoffer tjalve and ana santl in <i>uno</i>
       </p>
-      <br>
+      <br />
       <img
         src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HEART%20EXCERPTS3.jpg?v=1646365151558"
-        style="width: 100%; border-radius: 50px;"
+        style="width: 100%; border-radius: 50px"
       />
       <p style="text-align: center">
         leah maldonado (red) and tiana dueck (green) in
         <i>figma dinner party</i>
       </p>
-      <br>
+      <br />
 
       <p style="text-align: center">and so much more...</p>
 
-      
-<footer style="position: fixed; bottom: 0; right: 0; width: 100%; font-size: 30pt;">
-    <a style="width: 100%; border-top-left-radius: 50px; border-top-right-radius: 50px; padding: 20px; background: ivory; border: 1px dotted PaleVioletRed; color: PaleVioletRed;" href="https://square.link/u/PjrmPfus">BUY HEART</a> 
-</footer>
-
+      <footer
+        style="
+          bottom: 0;
+          position: fixed;
+          text-align: center;
+          width: 100%;
+          font-size: 30pt;
+        "
+      >
+        <a
+          style="
+            width: 100%;
+            border-top-left-radius: 50px;
+            border-top-right-radius: 50px;
+            padding: 20px;
+            background: ivory;
+            border: 1px dotted PaleVioletRed;
+            color: PaleVioletRed;
+          "
+          href="https://square.link/u/PjrmPfus"
+          >BUY HEART</a
+        >
+      </footer>
     </body>
   </div>
 </template>
@@ -209,30 +234,28 @@ iframe {
 }
 
 .video {
-    width: 360px;
-    height: 640px;
+  width: 360px;
+  height: 640px;
 }
 
- @media only screen and (max-width: 500px) {
- 
- h1 {
-   font-size: 70pt;
- }
+@media only screen and (max-width: 500px) {
+  h1 {
+    font-size: 70pt;
+  }
 
- .container {
+  .container {
     position: relative;
     width: 100%;
     height: 500px;
     padding-bottom: 56.25%;
-}
-.video {
+  }
+  .video {
     margin-top: 20px;
     position: absolute;
     top: 0;
     left: 0;
     width: 100%;
     height: 640px;
+  }
 }
- 
- }
 </style>
