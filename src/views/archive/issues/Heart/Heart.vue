@@ -120,7 +120,7 @@
 
       
 <footer style="position: fixed; bottom: 0; width: 100%;
-padding-bottom: 0.5em; font-size: 20pt;;">
+padding-bottom: 0.5em; font-size: 20pt;">
   <p>
     <a style="padding: 10px; background: PaleVioletRed; border: 1px dotted ivory;" href="https://square.link/u/PjrmPfus"BUY HEART</a> 
   </p>
