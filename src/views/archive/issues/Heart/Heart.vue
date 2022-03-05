@@ -119,8 +119,8 @@
       <p style="text-align: center">and so much more...</p>
 
       
-<footer style="position: fixed; bottom: 0; width: 100%; font-size: 30pt;">
-    <a style="width: 100%; padding: 20px; background: ivory; border: 1px dotted PaleVioletRed; color: PaleVioletRed;" href="https://square.link/u/PjrmPfus">BUY HEART</a> 
+<footer style="position: fixed; bottom: 0; right: 0; width: 100%; font-size: 30pt;">
+    <a style="width: 100%; border-top-left-radius: 50px; border-top-right-radius: 50px; padding: 20px; background: ivory; border: 1px dotted PaleVioletRed; color: PaleVioletRed;" href="https://square.link/u/PjrmPfus">BUY HEART</a> 
 </footer>
 
     </body>
