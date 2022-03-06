@@ -1,8 +1,6 @@
 <template>
-
   <div id="app">
-    
-<meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
 
     <body>
       <h1 style="padding-bottom: 20px">heart</h1>
@@ -62,7 +60,8 @@
         <a
           href="https://kristoffer.substack.com/subscribe?utm_source=substack&utm_medium=email&utm_content=postcta"
           >Kristoffer Tjalve</a
-        >, <a href="https://iamnotana.com" >Ana Santl</a>, <a href="https://write.as/hummingcrow/">Sean Krow</a>,
+        >, <a href="https://www.iamnotana.com/">Ana Santl</a>,
+        <a href="https://write.as/hummingcrow/">Sean Krow</a>,
         <a href="https://leahmaldonado.com/">Leah Maldonado</a> — Special Thanks
         <a href="https://www.cuffgod.com/home">Samuel Letnik</a>,
         <a href="https://www.instagram.com/gardenvarietea/">Carling Bulger</a>,
