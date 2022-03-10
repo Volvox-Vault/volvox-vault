@@ -41,7 +41,7 @@
             allowfullscreen
           ></iframe>
           <br />
-          <router-link to="/town">explore the town</router-link>
+          <a href="https://square.link/u/PjrmPfus" target="_blank">buy heart</a> | <router-link to="/town">explore the town</router-link>
           <br />
         </p>
 
