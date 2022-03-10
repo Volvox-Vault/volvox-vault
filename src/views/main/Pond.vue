@@ -19,32 +19,36 @@
       <meta property="twitter:description" content="welcome to the pond" />
       <meta property="twitter:image" content="@assets/logo.png" />
       <meta property="twitter:url" content="http://volvoxvault.com/pond" />
-
     </head>
 
     <div class="pond">
-      
       <div class="space">
         <span class="top">
-        <router-link to="/"><p class="header">volvox pond</p></router-link>
+          <router-link to="/"><p class="header">volvox pond</p></router-link>
         </span>
         <hr />
         <p style="color: grey; line-height: 2; margin-bottom: 20px">
           volvox pond is an ecosystem. it is cleaned every 48 hours.
-          <br><br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        <br>
+          <br />
+          <iframe
+            style="color: grey; line-height: 2; margin-bottom: 20px"
+            width="560"
+            height="315"
+            src="https://www.youtube.com/embed/videoseries?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV"
+            title="YouTube video player"
+            frameborder="0"
+            allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+            allowfullscreen
+          ></iframe>
+          <br />
           <router-link to="/town">explore the town</router-link>
-        <br>
+          <br />
         </p>
 
         <hr />
         <div class="chatness">
           <Chat />
         </div>
-
-
-
       </div>
 
       <footer
@@ -62,8 +66,6 @@
         />
       </footer>
     </div>
-
-   
   </div>
 </template>
 
@@ -77,9 +79,9 @@ export default {
     Chat,
   },
   metaInfo: {
-      // title will be injected into parent titleTemplate
-      title: 'Volvox Pond'
-    },
+    // title will be injected into parent titleTemplate
+    title: "Volvox Pond",
+  },
 };
 </script>
 
