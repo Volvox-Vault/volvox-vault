@@ -31,7 +31,7 @@
         <hr />
         <p style="color: grey; line-height: 2; margin-bottom: 20px">
           volvox pond is an ecosystem. it is cleaned every 48 hours.<br>
-          sometimes we have <a style="color: grey; text-decoration: underline" href="https://www.youtube.com/watch?v=sgIvjJtJo3k&list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV&index=1" target="_blank">picnics</a>.
+<iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         <br>
           <router-link to="/town">explore the town</router-link>
         <br>
