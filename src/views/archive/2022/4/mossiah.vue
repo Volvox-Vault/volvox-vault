@@ -20,8 +20,8 @@
             </div>
 <br>
             <p>
-              We went on a winter adventure to build something with what we
-              found on a hike in Ontario, Canada. We bonded with nature, each
+              We went on a winter adventure to build a sculpture with what we
+              found on a hike. We bonded with nature, each
               other, and maybe you too.
             </p>
 
