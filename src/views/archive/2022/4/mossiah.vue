@@ -10,33 +10,18 @@
               With Tiana Dueck, Sam Letnik, and Carling Bulger.
             </p>
 
-            <div class="container imgBox">
+            <div class="container">
               <iframe
                 src="https://www.youtube.com/embed/us2Xd27d_08"
                 frameborder="0"
                 allowfullscreen
-                class="video"
+                class="video imgBox"
               ></iframe>
             </div>
 
             <p>
-              Brownish-horse-with-spots would like it known that
-              grayish-horse-with-front-left-foot-white-sock always spills his
-              food on the ground and eats it covered in dirt.
-              Brownish-horse-with-spots would like it known that this is
-              insufferably childish and decidedly unsanitary.
-            </p>
-
-            <div class="imgBox">
-              <img
-                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/jake_7.jpg?v=1643655179937"
-              />
-            </div>
-
-            <p>
               We went on a winter adventure to build something with what we
-              found on a hike in Ontario, Canada.<br />
-              We bonded with nature and each other.
+              found on a hike in Ontario, Canada. We bonded with nature, each other, and maybe you too.
             </p>
 
             <div class="imgBox">
