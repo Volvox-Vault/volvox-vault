@@ -9,7 +9,6 @@
             <p class="headDes">
               With Tiana Dueck, Sam Letnik, and Carling Bulger.
             </p>
-            <hr />
             <div class="imgBox">
               <div class="container">
                 <iframe
