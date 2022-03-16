@@ -21,6 +21,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */
+import mossiah from '../views/archive/2022/4/mossiah.vue'
 import hoteldog from '../views/archive/2022/3/hoteldog.vue'
 import fieldgossip from '../views/archive/2022/2/fieldgossip.vue'
 import neopets from '../views/archive/2022/1/neopets.vue'
@@ -155,6 +156,11 @@ const routes = [
 
   /* ARCHIVE */
 
+  {
+    path: '/archive/mossiah',
+    name: 'mossiah',
+    component: mossiah
+  },
   {
     path: '/archive/hoteldog',
     name: 'hoteldog',
