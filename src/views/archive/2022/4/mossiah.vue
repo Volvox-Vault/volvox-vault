@@ -7,7 +7,7 @@
             <h1 class="head">Foraging a Sculpture: Mossiah</h1>
 
             <p class="headDes">
-              With Tiana Dueck, Sam Letnik, and Carling Bulger.
+              With <a href="http://tiana.land">Tiana Dueck</a>, <a href="http://cuffgod.com">Sam Letnik</a>, and <a href="https://www.instagram.com/portcarling/">Carling Bulger</a>.
             </p>
             <div class="imgBox">
               <div class="container">
