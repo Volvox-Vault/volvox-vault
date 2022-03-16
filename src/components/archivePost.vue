@@ -44,6 +44,15 @@ export default {
       colony: [
         
         {
+          date: "March 2022",
+          author: "Tiana, Sam, & Carling",
+          title: "Foraging a Sculpture: Mossiah",
+          link: "/archive/mossiah",
+          type: "project",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/IMG_7082.jpg?v=1647393468794",
+        },
+        {
           date: "Feb 2022",
           author: "Hotel Dog",
           title: "Isolation Inn",
