@@ -4,7 +4,7 @@
       <main>
         <div>
           <div>
-            <h1 class="head">Foraging a Scultpure: Mossiah</h1>
+            <h1 class="head">Foraging a Sculpture: Mossiah</h1>
 
             <p class="headDes">
               With Tiana Dueck, Sam Letnik, and Carling Bulger.
