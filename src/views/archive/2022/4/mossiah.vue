@@ -21,7 +21,8 @@
 
             <p>
               We went on a winter adventure to build something with what we
-              found on a hike in Ontario, Canada. We bonded with nature, each other, and maybe you too.
+              found on a hike in Ontario, Canada. We bonded with nature, each
+              other, and maybe you too.
             </p>
 
             <div class="imgBox">
@@ -158,9 +159,8 @@ img {
 
 .container {
   position: relative;
-  width: 100%;
-  height: 0;
-  padding-bottom: 56.25%;
+  padding-bottom: 56.25%; /* 16:9 */
+  padding-top: 25px;
 }
 .video {
   position: absolute;
