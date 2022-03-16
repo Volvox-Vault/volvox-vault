@@ -15,7 +15,7 @@
                 src="https://www.youtube.com/embed/us2Xd27d_08"
                 frameborder="0"
                 allowfullscreen
-                class="video imgBox"
+                class="video "
               ></iframe>
             </div>
 
