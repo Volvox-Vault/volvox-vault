@@ -10,6 +10,7 @@
               With Tiana Dueck, Sam Letnik, and Carling Bulger.
             </p>
 <br>
+<div class="imgBox">
             <div class="container">
               <iframe
                 src="https://www.youtube.com/embed/us2Xd27d_08"
@@ -17,6 +18,7 @@
                 allowfullscreen
                 class="video "
               ></iframe>
+            </div>
             </div>
 <br>
             <p>
@@ -127,6 +129,8 @@ img {
   display: block;
   margin: 0 auto;
   width: 100%;
+  border-radius: 30px;
+
 }
 
 .imgBox {
@@ -158,8 +162,6 @@ img {
 }
 
 .container {
-  border: 1px solid yellowgreen;
-  padding: 15px;
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
   padding-top: 25px;
@@ -170,6 +172,8 @@ img {
   left: 0;
   width: 100%;
   height: 100%;
+  border-radius: 30px;
+
 }
 
 mark.mollyA {
