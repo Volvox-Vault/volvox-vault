@@ -9,22 +9,21 @@
             <p class="headDes">
               With Tiana Dueck, Sam Letnik, and Carling Bulger.
             </p>
-<br>
-<div class="imgBox">
-            <div class="container">
-              <iframe
-                src="https://www.youtube.com/embed/us2Xd27d_08"
-                frameborder="0"
-                allowfullscreen
-                class="video "
-              ></iframe>
+            <hr />
+            <div class="imgBox">
+              <div class="container">
+                <iframe
+                  src="https://www.youtube.com/embed/us2Xd27d_08"
+                  frameborder="0"
+                  allowfullscreen
+                  class="video"
+                ></iframe>
+              </div>
             </div>
-            </div>
-<br>
             <p>
               We went on a winter adventure to build a sculpture with what we
-              found on a hike. We bonded with nature, each
-              other, and maybe you too.
+              found on a hike. We bonded with nature, each other, and maybe you
+              too.
             </p>
 
             <div class="imgBox">
@@ -130,7 +129,6 @@ img {
   margin: 0 auto;
   width: 100%;
   border-radius: 30px;
-
 }
 
 .imgBox {
@@ -142,6 +140,13 @@ img {
   padding: 15px;
   margin-top: 20px;
   margin-bottom: 20px;
+}
+
+hr {
+  border: none;
+  padding-top: 20px;
+  padding-bottom: 20px;
+  border-bottom: 1px solid yellowgreen;
 }
 
 .firstAudio {
@@ -173,7 +178,6 @@ img {
   width: 100%;
   height: 100%;
   border-radius: 30px;
-
 }
 
 mark.mollyA {
