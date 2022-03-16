@@ -9,7 +9,7 @@
             <p class="headDes">
               With Tiana Dueck, Sam Letnik, and Carling Bulger.
             </p>
-
+<br>
             <div class="container">
               <iframe
                 src="https://www.youtube.com/embed/us2Xd27d_08"
@@ -18,7 +18,7 @@
                 class="video "
               ></iframe>
             </div>
-
+<br>
             <p>
               We went on a winter adventure to build something with what we
               found on a hike in Ontario, Canada. We bonded with nature, each
@@ -158,6 +158,8 @@ img {
 }
 
 .container {
+  border: 1px solid yellowgreen;
+  padding: 15px;
   position: relative;
   padding-bottom: 56.25%; /* 16:9 */
   padding-top: 25px;
