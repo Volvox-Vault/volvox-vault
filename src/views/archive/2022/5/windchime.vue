@@ -101,9 +101,9 @@
               April — artists work on and finish their wind chimes<br />
               May — artists bring or make and install their own wind chime at
               the festival in Toronto!<br /><br />
-              Tickets will be sold ($12) to fund wind chime supplies &
+              <span style="background: yellowgreen; color: grey">Tickets will be sold ($12) to fund wind chime supplies &
               drinks/snacks.<br />
-              Are you an acoustic musician or poet? Email hello@volvoxvault.com.
+              Are you an acoustic musician or poet? Email hello@volvoxvault.com.</span>
             </p>
             <hr />
             <p class="windchime">
