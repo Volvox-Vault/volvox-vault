@@ -79,7 +79,10 @@
               festival. So we are inviting you to create your own!
               <br /><br />
               ~Laurel and Ellie
-              <br /><br />
+              <br />
+              </p>
+              <hr />
+              <p class="windchime">
               Join us on May 28th, 2022 @ 2pm in Toronto (location tbd) to
               install or make your own original wind chime. Limited supplies
               will be available, so we recommend you craft one in advance. (Rain
@@ -101,7 +104,7 @@
               April — artists work on and finish their wind chimes<br />
               May — artists bring or make and install their own wind chime at
               the festival in Toronto!<br /><br />
-              <span style="background: yellowgreen; color: grey">Tickets will be sold ($12) to fund wind chime supplies &
+              <span style="color: yellowgreen">Tickets will be sold ($12) to fund wind chime supplies &
               drinks/snacks.<br />
               Are you an acoustic musician or poet? Email hello@volvoxvault.com.</span>
             </p>
