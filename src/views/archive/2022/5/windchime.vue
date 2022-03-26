@@ -15,12 +15,15 @@
 Spring 2022 … early-mid May in Toronto (exact time & location TBD) … OPEN CALL<br>
 co-organized by Laurel, Ellie (NYC); and Tiana/Volvox Vault (Toronto)<br>
 feel free to share this doc: 🎐 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">link</a> 🎐<br>
+</p>
 <hr>
-<a href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">I will be making a wind chime for the festival on May 21 (fill out form)</a>
+<p>
+<a style="background: white;" href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">I will be making a wind chime for the festival on May 21 (fill out form)</a>
+</p>
 <hr>
-
-“We have a tendency to think of Earth as a closed system. It is not. We do not live in a sealed spacecraft, isolated from the environment in a convenient bubble of air. We travel rapidly through space and time with our windows open, constantly exposed to the complex ecology of the galaxy and all it contains. We are windblown. And, while one of the consequences of this openness may be bouts of influenza, another could be the very existence of life itself.”
-— Lyall Watson  … from Heaven's Breath: A Natural History of the Wind (1984)<br>
+<p>
+<em>“We have a tendency to think of Earth as a closed system. It is not. We do not live in a sealed spacecraft, isolated from the environment in a convenient bubble of air. We travel rapidly through space and time with our windows open, constantly exposed to the complex ecology of the galaxy and all it contains. We are windblown. And, while one of the consequences of this openness may be bouts of influenza, another could be the very existence of life itself.”
+— Lyall Watson  … from Heaven's Breath: A Natural History of the Wind (1984)<br></em>
 <br>
 Greetings,<br>
 <br>
@@ -46,8 +49,9 @@ April — artists work on and finish their wind chimes<br>
 May — artists bring or make and install their own wind chime at the festival in Toronto!<br><br>
 Tickets will be sold ($12) to fund wind chime supplies & drinks/snacks.<br>
 Are you an acoustic musician or poet? Email hello@volvoxvault.com.
+</p>
 <hr>
-
+<p>
 Just so you know (and have the full picture of what we’re planning!) — we are also organizing a separate virtual exhibition of remote wind chimes that will be viewable as a website. This will launch in April, before the May festival that you might be part of.
 <br><br>
 So, what do you think?? To participate, fill out this simple form??!
