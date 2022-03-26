@@ -14,16 +14,17 @@
             “artist-made wind chime festival”  <br>
 Spring 2022 … early-mid May in Toronto (exact time & location TBD) … OPEN CALL<br>
 co-organized by Laurel, Ellie (NYC); and Tiana/Volvox Vault (Toronto)<br>
-feel free to share this doc: 🎐 <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">link</a> 🎐<br>
+🎐 feel free to share this webpage 🎐<br>
 </p>
 <hr>
 <p>
-<a style="background: white;" href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">I will be making a wind chime for the festival on May 21 (fill out form)</a>
+<a style="background: white; margin:0px; padding: 0px; text-align: center;" href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">I will be making a wind chime for the festival on May 21 (fill out form)</a>
 </p>
 <hr>
 <p class="windchime">
-<em>“We have a tendency to think of Earth as a closed system. It is not. We do not live in a sealed spacecraft, isolated from the environment in a convenient bubble of air. We travel rapidly through space and time with our windows open, constantly exposed to the complex ecology of the galaxy and all it contains. We are windblown. And, while one of the consequences of this openness may be bouts of influenza, another could be the very existence of life itself.”
-— Lyall Watson  … from Heaven's Breath: A Natural History of the Wind (1984)<br></em>
+“We have a tendency to think of Earth as a closed system. It is not. We do not live in a sealed spacecraft, isolated from the environment in a convenient bubble of air. We travel rapidly through space and time with our windows open, constantly exposed to the complex ecology of the galaxy and all it contains. We are windblown. And, while one of the consequences of this openness may be bouts of influenza, another could be the very existence of life itself.”
+<br>
+— Lyall Watson  … from Heaven's Breath: A Natural History of the Wind (1984)<br>
 <br>
 Greetings,<br>
 <br>
