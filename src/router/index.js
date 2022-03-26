@@ -21,6 +21,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */
+import windchime from '../views/archive/2022/5/windchime.vue'
 import mossiah from '../views/archive/2022/4/mossiah.vue'
 import hoteldog from '../views/archive/2022/3/hoteldog.vue'
 import fieldgossip from '../views/archive/2022/2/fieldgossip.vue'
@@ -156,6 +157,11 @@ const routes = [
 
   /* ARCHIVE */
 
+  {
+    path: '/windchime',
+    name: 'windchime',
+    component: windchime
+  },
   {
     path: '/archive/mossiah',
     name: 'mossiah',
