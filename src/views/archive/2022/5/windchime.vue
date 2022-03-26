@@ -199,7 +199,7 @@ p {
 a {
   color: yellowgreen;
   transition: 1s;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
