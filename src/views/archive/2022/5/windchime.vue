@@ -17,8 +17,8 @@ co-organized by Laurel, Ellie (NYC); and Tiana/Volvox Vault (Toronto)<br>
 🎐 feel free to share this webpage 🎐<br>
 </p>
 <hr>
-<p>
-<a style="background: white; margin:0px; padding: 0px; text-align: center;" href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">I will be making a wind chime for the festival on May 21 (fill out form)</a>
+<p style="background: white; margin:0px; padding: 0px; text-align: center;">
+<a href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">I will be making a wind chime for the festival on May 21 (fill out form)</a>
 </p>
 <hr>
 <p class="windchime">
@@ -169,8 +169,8 @@ img {
 
 hr {
   border: none;
-  padding-top: 20px;
-  padding-bottom: 20px;
+  margin-top: 20px;
+  margin-bottom: 20px;
   border-bottom: 1px solid yellowgreen;
 }
 
