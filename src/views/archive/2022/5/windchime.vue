@@ -98,8 +98,9 @@
                 padding: 0px;
               "
             >
-              This is our timeline: February and March — artists learn about
-              festival, confirm they want to do it, fill out form!<br />
+              This is our timeline: <br>
+              February and March — artists learn about
+              festival, confirm they want to do it through <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">this form</a><br />
               April — artists work on and finish their wind chimes<br />
               May — artists bring or make and install their own wind chime at
               the festival in Toronto!<br /><br />
