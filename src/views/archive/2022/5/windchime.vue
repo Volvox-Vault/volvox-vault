@@ -82,9 +82,9 @@
               <hr />
               <p class="windchime">
               Join us on May 28th, 2022 @ 2pm in Toronto (location tbd) to
-              install or make your own original wind chime. Limited supplies
-              will be available, so we recommend you craft one in advance. (Rain
-              check: May 29th)<br />
+              install or make your own original wind chime. (Rain
+              check: May 29th)<br>
+              Limited supplies will be available, so we recommend you craft one in advance. <br />
               <a href="https://windchime.world/">Based in NYC?</a>
               <br /><br />
               ~ Tiana
