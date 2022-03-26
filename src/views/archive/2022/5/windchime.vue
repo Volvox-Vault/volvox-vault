@@ -102,7 +102,7 @@
               festival and RSVP through <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">this form</a>.<br />
               April — artists work on and finish their wind chimes<br />
               May — artists bring or make and install their own wind chime at
-              the festival in Toronto!<br /><br />
+              the festival in Toronto on the 28th @ 2pm!<br /><br />
               <span style="color: yellowgreen">Tickets will be sold ($12) to fund wind chime supplies &
               drinks/snacks.<br />
               Are you an acoustic musician or poet? Email hello@volvoxvault.com.</span>
