@@ -28,7 +28,6 @@ co-organized by Laurel, Ellie (NYC); and Tiana/Volvox Vault (Toronto)<br>
 <br>
 Greetings,<br>
 <br>
-
 Over the past year, we (Ellie Hunter and Laurel Schwulst) have been chatting about how the wind and wind chimes could be a good medium for this global moment we find ourselves in: moving through the third year of a pandemic, with a promise for spring and new life …
 <br><br>
 Wind chimes have roots in ancient cultures all over the world. Among many functionalities and histories: in China they are used to maximize the flow of chi, or life’s energy; in Japan they are hung up in the summer and understood as a cooling mechanism; in ancient Rome they were used to ward off evil spirits …
@@ -40,10 +39,12 @@ We’ve been talking about this idea for a while now and realized this spring wo
 ~Laurel and Ellie
 <br><br>
 Join us on May 28th, 2022 @ 2pm in Toronto (location tbd) to install or make your own original wind chime. Limited supplies will be available, so we recommend you craft one in advance. (Rain check: May 29th)<br>
-<a href="https://windchime.world/">Based in NYC?<a>
+<a href="https://windchime.world/">Based in NYC?</a>
 <br><br>
 ~ Tiana
-<br><br>
+</p>
+<hr>
+<p class="windchime" style="background: white; margin:0px; padding: 0px; text-align: center;">
 This is our timeline:
 February and March — artists learn about festival, confirm they want to do it, fill out form!<br>
 April — artists work on and finish their wind chimes<br>
