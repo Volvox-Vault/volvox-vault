@@ -14,8 +14,7 @@
             <br />
             <p class="windchime">
               “artist-made wind chime festival” <br />
-              Spring 2022 … <strong>May 28th @ 2pm in Toronto (location TBD)</strong>
-              … OPEN CALL<br />
+              Spring 2022 … <span style="color: yellowgreen;">May 28th @ 2pm in Toronto (location TBD)</span> … OPEN CALL<br />
               co-organized by Laurel, Ellie (NYC); and Tiana/Volvox Vault
               (Toronto)<br />
               🎐 feel free to share this webpage 🎐<br />
