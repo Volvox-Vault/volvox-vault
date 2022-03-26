@@ -30,8 +30,7 @@
             >
               <a
                 href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform"
-                >I will be making a wind chime for the festival on May 28th. (fill
-                out form)</a
+                >I will be making a wind chime for the festival on May 28th. (RSVP)</a
               >
             </p>
             <hr />
