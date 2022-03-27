@@ -10,7 +10,8 @@
       <div class="block-Submit">
         <p class="block-Submit-header">newspaper</p>
         <p class="block-Submit-link">
-          A quarterly look inside of the global independent creative-scape.<br />
+          A quarterly newspaper for the everyday creative.<br />
+          Seeking personal gossip, community updates, artwork, and interviews<br>
           To contribute, fill out
           <a href="https://form.123formbuilder.com/5763208/form" target="_blank"
             >this form</a
