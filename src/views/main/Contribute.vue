@@ -6,6 +6,24 @@
         <p style="padding: 15px">We hope to see you in our inbox sometime.</p>
       </div>
 
+      <!-- NEWS SUB -->
+      <div class="block-Submit">
+        <p class="block-Submit-header">newspaper</p>
+        <p class="block-Submit-link">
+          A quarterly look inside of the global independent creative-scape.<br />
+          To contribute, fill out
+          <a href="https://form.123formbuilder.com/5763208/form" target="_blank"
+            >this form</a
+          >
+          or email hello@volvoxvault.com<br />
+          <a
+            href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX"
+            target="_blank"
+            >Subscribe to Volvox Times</a
+          >
+        </p>
+      </div>
+
       <!-- VOL -->
       <div class="block-Submit" style="height: 100%;">
         <p class="block-Submit-header">volunteer with us</p>
@@ -89,17 +107,8 @@
 
         <ul class="block-Submit-ul">
           <li>
-            <router-link to="/issues/heart"><b>Heart: An issue reflecting on empathy, friendship, and love.</b></router-link>
+            TBA
           </li>
-                        <li>
-                Send a pitch through
-                <a
-                  href="https://form.123formbuilder.com/5763218/form"
-                  >this form</a
-                >
-                by <b>November 1st</b>. Final submissions are due around
-                <b>December 1st</b>.
-              </li>
           <li>
             You can create new art, or submit something you made in the past
             which fits the theme. Media must be original.
@@ -114,34 +123,11 @@
               >Subscribe to the newsletter for updates.</router-link
             >
           </li>
-          <li>
-            Email submissions / pitches to hello@volvoxvault.com, or through
-            <a
-              href="https://form.123formbuilder.com/5763218/form"
-              target="_blank"
-              >this form</a
-            >.
-          </li>
+         
         </ul>
       </div>
 
-      <!-- NEWS SUB -->
-      <div class="block-Submit">
-        <p class="block-Submit-header">newspaper</p>
-        <p class="block-Submit-link">
-          A quarterly look inside of the global independent creative-scape.<br />
-          To contribute, fill out
-          <a href="https://form.123formbuilder.com/5763208/form" target="_blank"
-            >this form</a
-          >
-          or email hello@volvoxvault.com<br />
-          <a
-            href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX"
-            target="_blank"
-            >Subscribe to Volvox Times</a
-          >
-        </p>
-      </div>
+      
     </div>
 
     <br /><br /><br />
