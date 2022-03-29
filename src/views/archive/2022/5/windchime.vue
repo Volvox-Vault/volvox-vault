@@ -12,7 +12,7 @@
             <br />
             <p class="windchime">
               Spring 2022 … <span style="color: yellowgreen;">May 28th @ 2pm in Toronto (location TBD)</span> … OPEN CALL<br />
-              Wind Chime Festival was created by Laurel Schwulst and Ellie Hunter in NYC.
+              Wind Chime Festival was created by Laurel Schwulst and Ellie Hunter in NYC.<br>
               This Toronto event will be hosted by Tiana Dueck with Volvox Vault.
               <br />
               🎐 feel free to share this webpage 🎐<br />
