@@ -7,11 +7,10 @@
             <h1 class="head windchime">Wind Chime Festival ~ Toronto</h1>
 
             <p class="headDes">
-              When: May 28th, 2022 @ 2pm
+             “artist-made wind chime festival” 
             </p>
             <br />
             <p class="windchime">
-              “artist-made wind chime festival” <br />
               Spring 2022 … <span style="color: yellowgreen;">May 28th @ 2pm in Toronto (location TBD)</span> … OPEN CALL<br />
               Wind Chime Festival was created by Laurel Schwulst and Ellie Hunter in NYC.
               This Toronto event will be hosted by Tiana Dueck with Volvox Vault.
