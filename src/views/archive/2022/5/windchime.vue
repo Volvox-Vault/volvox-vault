@@ -101,12 +101,12 @@
               festival and RSVP through <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">this form</a>.<br />
               April — artists work on and finish their wind chimes<br />
               May — artists bring or make and install their own wind chime at
-              the festival in Toronto on the 28th @ 2pm!<br /><br />
+              the festival in Toronto on the 28th @ 2pm!
             </p>
             <hr />
-            <p class="windchime">
+            <h2 class="windchime">
               <a href="https://windchime.world/">Learn more about Wind Chime Festival.</a>
-            </p>
+            </h2>
           </div>
         </div>
       </main>
