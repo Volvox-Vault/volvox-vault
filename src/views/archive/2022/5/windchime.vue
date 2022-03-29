@@ -7,16 +7,15 @@
             <h1 class="head windchime">Wind Chime Festival ~ Toronto</h1>
 
             <p class="headDes">
-              With <a href="http://tiana.land">Tiana Dueck</a>,
-              <a href="http://laurelschwulst.com">Laurel Schwulst</a>, and
-              <a href="http://elliehunter.com">Ellie Hunter</a>.
+              When: May 28th, 2022 @ 2pm
             </p>
             <br />
             <p class="windchime">
               “artist-made wind chime festival” <br />
               Spring 2022 … <span style="color: yellowgreen;">May 28th @ 2pm in Toronto (location TBD)</span> … OPEN CALL<br />
-              co-organized by Laurel, Ellie (NYC); and Tiana/Volvox Vault
-              (Toronto)<br />
+              Wind Chime Festival was created by Laurel Schwulst and Ellie Hunter in NYC.
+              This Toronto event will be hosted by Tiana Dueck with Volvox Vault.
+              <br />
               🎐 feel free to share this webpage 🎐<br />
             </p>
             <hr />
@@ -34,6 +33,7 @@
               >
             </p>
             <hr />
+            <h2>Letter from Laurel and Ellie</h2>
             <p class="windchime">
               “We have a tendency to think of Earth as a closed system. It is
               not. We do not live in a sealed spacecraft, isolated from the
@@ -80,6 +80,7 @@
               <br />
               </p>
               <hr />
+              <h2>Invitation from Volvox Vault</h2>
               <p class="windchime">
               Join us on May 28th, 2022 @ 2pm in Toronto (location tbd) to
               install or make your own original wind chime. (Rain
@@ -103,42 +104,10 @@
               April — artists work on and finish their wind chimes<br />
               May — artists bring or make and install their own wind chime at
               the festival in Toronto on the 28th @ 2pm!<br /><br />
-              <span style="color: yellowgreen">Tickets will be sold ($12) to fund wind chime supplies &
-              drinks/snacks.<br />
-              Are you an acoustic musician or poet? Email hello@volvoxvault.com.</span>
             </p>
             <hr />
             <p class="windchime">
-              Just so you know (and have the full picture of what we’re
-              planning!) — we are also organizing a separate virtual exhibition
-              of remote wind chimes that will be viewable as a website. This
-              will launch in April, before the May festival that you might be
-              part of.
-              <br /><br />
-              So, what do you think?? To participate, fill out this simple
-              form??! That way, we can use your contact details to keep you up
-              to date on the exact time and location of the festival. After you
-              fill it out, you can start working on your wind chime right away …
-              then, we’ll see you at the festival where you can set it up :)
-              <br /><br />
-              Also, sometime in March, we are planning to send around some
-              information to all participants with more about our interest in
-              wind chimes: their various histories and functionalities … and
-              show chimes we find inspiring … as a jumping off point. So please
-              stay tuned for that.
-              <br /><br />
-              We would love for you to be involved!
-              <br /><br />
-              feeling the breeze,<br />
-              Tiana, Ellie & Laurel<br />
-              <a class="windchime" href="http://tiana.land">http://tiana.land</a
-              ><br />
-              <a class="windchime" href="http://elliehunter.com"
-                >http://elliehunter.com</a
-              ><br />
-              <a class="windchime" href="http://laurelschwulst.com"
-                >http://laurelschwulst.com</a
-              ><br />
+              <a href="https://windchime.world/">Learn more about Wind Chime Festival.</a>
             </p>
           </div>
         </div>
