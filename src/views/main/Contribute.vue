@@ -13,7 +13,7 @@
           A quarterly newspaper for the everyday creative.<br />
           Seeking personal gossip, community updates, artwork, and interviews<br>
           To contribute, fill out
-          <a href="https://form.123formbuilder.com/5763208/form" target="_blank"
+          <a href="https://forms.gle/zdw3uUj1ZN43wynt6" target="_blank"
             >this form</a
           >
           or email hello@volvoxvault.com<br />
