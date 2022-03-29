@@ -87,8 +87,6 @@
               check: May 29th)<br>
               Limited supplies will be available, so we recommend you craft one in advance. <br />
               <a href="https://windchime.world/">Based in NYC?</a>
-              <br /><br />
-              ~ Tiana
             </p>
             <hr />
             <p
