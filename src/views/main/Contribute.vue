@@ -144,6 +144,10 @@ export default {
   components: {
     MainLayout,
   },
+    metaInfo: {
+    // title will be injected into parent titleTemplate
+    title: "Contribute",
+  },
 };
 </script>
 
