@@ -25,6 +25,24 @@
 
     <div id="blocks-Home">
       <div class="block-Home community-block">
+        <div class="block-Home-header">Magazine Issues</div>
+        <p class="block-Home-link">
+          <router-link to="/issues/heart">5: Heart</router-link>
+        </p>
+        <p class="block-Home-link">
+          <router-link to="/issues/metamorphosis">4: Metamorphosis</router-link>
+        </p>
+        <p class="block-Home-link">
+          <router-link to="/issues/aggregate">3: Aggregate</router-link>
+        </p>
+        <p class="block-Home-link">
+          <router-link to="/issues/proximity">2: Proximity</router-link>
+        </p>
+        <p class="block-Home-link">
+          <router-link to="/issues/identity">1: Identity</router-link>
+        </p>
+
+
         <div class="block-Home-header">Community</div>
         <p class="block-Home-link">
           <router-link to="/archive">Archive</router-link>
@@ -36,7 +54,7 @@
           <router-link to="/contribute">Contribute</router-link>
         </p>
         <p class="block-Home-link">
-          <router-link to="/horoscopes"><i>NEW</i> ~ Horoscopes ☽</router-link>
+          <router-link to="/horoscopes">Horoscopes</router-link>
         </p>
         <p class="block-Home-link">
           <router-link to="/colony">Colony</router-link>
@@ -197,24 +215,15 @@
         </p>
       </div>
 
-      <!-- MAGAZINES -->
+      <!-- MAGAZINES / ADS-->
       <div class="block-Home magazine-block">
-        <div class="block-Home-header">Magazine Issues</div>
-        <p class="block-Home-link">
-          <router-link to="/issues/heart">5: Heart</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/issues/metamorphosis">4: Metamorphosis</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/issues/aggregate">3: Aggregate</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/issues/proximity">2: Proximity</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/issues/identity">1: Identity</router-link>
-        </p>
+        <div class="block-Home-header">Thank You</div>
+        <div class="block-Home-image" style="width: 100%; height: 100%;">
+        <img
+        style="padding: 10px;"
+          src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/advert.png?v=1648764604160"
+        />
+        </div>
       </div>
 
       <!-- CHAT -->
