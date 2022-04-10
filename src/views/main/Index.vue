@@ -203,7 +203,6 @@
 
       <!-- MAGAZINES / ADS-->
 
-      <div id="blocks-Home">
       <div class="block-Home magazine-block">
         <div class="block-Home-header">Magazine Issues</div>
         <p class="block-Home-link">
@@ -221,7 +220,6 @@
         <p class="block-Home-link">
           <router-link to="/issues/identity">1: Identity</router-link>
         </p>
-        </div>
         </div>
 
       <!-- CHAT -->
