@@ -97,7 +97,8 @@
 
       <!-- IMG -->
       <div class="block-Home">
-        <router-link to="/issues/heart">  <div class="block-Home-image" style="width: 100%; height: 100%;">
+        <router-link to="/issues/heart">  
+        <div class="block-Home-image" style="width: 100%; height: 100%;">
         <img
         style="padding: 10px;"
           src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fheart.png?v=1632189014516"
@@ -216,14 +217,18 @@
       </div>
 
       <!-- MAGAZINES / ADS-->
-      <div class="block-Home magazine-block">
-        <div class="block-Home-header">Thank You</div>
+
+      <div class="block-Home">
+                <div class="block-Home-header">Thank You</div>
+
+        <a href="mailto:hello@volvoxvault.com">  
         <div class="block-Home-image" style="width: 100%; height: 100%;">
         <img
         style="padding: 10px;"
           src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/advert.png?v=16487646041"
         />
         </div>
+        </a>
       </div>
 
       <!-- CHAT -->
