@@ -7,7 +7,7 @@
         <a :href="item.link">
           <div class="block-Archive">
 
-            <img
+            <!--<img
               :src="item.image"
               style="
                 opacity: 0.2;
@@ -19,7 +19,7 @@
                 object-fit: fill;
                 z-index: 0;
               "
-            />
+            />-->
 
             <p class="block-Archive-header">
               {{ item.date }} | {{ item.author }}
