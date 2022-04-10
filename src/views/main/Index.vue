@@ -219,7 +219,6 @@
       <!-- MAGAZINES / ADS-->
 
       <div class="block-Home">
-                <div class="block-Home-header">Thank You</div>
 
         <a href="mailto:hello@volvoxvault.com">  
         <div class="block-Home-image" style="width: 100%; height: 100%;">
