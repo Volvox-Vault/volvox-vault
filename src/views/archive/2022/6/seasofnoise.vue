@@ -12,9 +12,18 @@
                 href="https://www.instagram.com/yourfriendbrennan/"
                 target="_blank"
                 >Your Friend Brennan</a
-              >. 
-              <br>
-              <em>Originally in <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX">Volvox Times</a>. <a href="https://www.patreon.com/volvoxvault">Video on Patreon</a>.</em>
+              >.
+              <br />
+              <em
+                >Originally in
+                <a
+                  href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX"
+                  >Volvox Times</a
+                >.
+                <a href="https://www.patreon.com/volvoxvault"
+                  >Video on Patreon</a
+                >.</em
+              >
             </p>
 
             <div style="padding-top: 25px; padding-bottom: 25px">
@@ -28,18 +37,33 @@
               >
             </div>
 
-            <p style="border: 1px solid yellowgreen; border-radius: 30px; padding: 20px;">
-              <em>In early October 2021, I met with multi-instrumentalist <a href="https://www.instagram.com/yourfriendbrennan/">Brennan
-              Doyle</a> of Your Friend Brennan over video call (<a href="https://www.patreon.com/volvoxvault">watch</a>). He was cocooned in a
-              blanket at Risque Disque studio over in BC, finishing his album.
-              Brennan has been in a number of bands, like Cartoon Lizard, and
-              often performs with Haley Blais, and Diamond Cafe. His first solo
-              album is coming soon. He has dropped a few atmospheric singles
-              before the big release.</em>
-
+            <p
+              style="
+                border: 1px solid yellowgreen;
+                border-radius: 30px;
+                padding: 20px;
+              "
+            >
+              <em
+                >In early October 2021, I met with multi-instrumentalist
+                <a href="https://www.instagram.com/yourfriendbrennan/"
+                  >Brennan Doyle</a
+                >
+                of Your Friend Brennan over video call (<a
+                  href="https://www.patreon.com/volvoxvault"
+                  >watch</a
+                >). He was cocooned in a blanket at Risque Disque studio over in
+                BC, finishing his album. Brennan has been in a number of bands,
+                like Cartoon Lizard, and often performs with Haley Blais, and
+                Diamond Cafe. His first solo album is coming soon. He has
+                dropped a few atmospheric singles before the big release.</em
+              >
             </p>
+            <br>
             <p>
-              <span class="HotelQ">Tiana: When did you start making music?</span>
+              <span class="HotelQ"
+                >Tiana: When did you start making music?</span
+              >
               <br /><br />
               <strong>Brennan:</strong> Since grade 6, kinda.—I was like ‘Yeah I
               wanna be a rockstar’ or something. I was going through a White
@@ -53,10 +77,13 @@
               Away soundtrack, which is very piano based.—I was like, ‘I just
               want nice background music to make breakfast to in the morning and
               sit around to in the living room... I should just make some of
-              that.’ <strong>I made these songs with the intention of being able to put
-              them on in the background.</strong> Not that you can’t appreciate them
-              while focusing on them, but leaving room for your own thoughts.
-              <br /><br />
+              that.’
+              <strong
+                >I made these songs with the intention of being able to put them
+                on in the background.</strong
+              >
+              Not that you can’t appreciate them while focusing on them, but
+              leaving room for your own thoughts. <br /><br />
 
               <span class="HotelQ">Why did you keep the album lyricless?</span>
               <br /><br />
@@ -155,8 +182,16 @@
             </p>
 
             <div class="imgBox">
-              <img style="border-radius: 30px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/bdithergreen.jpg?v=1649699269370" />
-            <p style="line-height:0; margin-top: 20px; text-align: center;"><em>Photo: <a href="https://www.blairhansen.ca/">Blair Hansen</a></em></p>
+              <img
+                style="border-radius: 30px"
+                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/bdithergreen.jpg?v=1649699269370"
+              />
+              <p style="line-height: 0; margin-top: 20px; text-align: center">
+                <em
+                  >Photo:
+                  <a href="https://www.blairhansen.ca/">Blair Hansen</a></em
+                >
+              </p>
             </div>
 
             <p>
@@ -185,8 +220,8 @@
               Yeah, I try to think of things like that. Because I think maybe a
               future form of music would be more all encompassing, in terms of
               senses. Like, I’d love to build a machine where it’s programmed
-              like, you get cold during some parts of the song or <em>some shit</em>.
-              <br /><br />
+              like, you get cold during some parts of the song or
+              <em>some shit</em>. <br /><br />
 
               <span class="HotelQ"
                 >Woah, that’s good. Why just one sense? There’s so many
@@ -241,7 +276,14 @@
               <br /><br />
             </p>
 
-<p style="border: 1px solid yellowgreen; border-radius: 30px; padding: 20px; text-align: center;">
+            <p
+              style="
+                border: 1px solid yellowgreen;
+                border-radius: 30px;
+                padding: 20px;
+                text-align: center;
+              "
+            >
               <em
                 ><a href="https://yourfriendbrennan.fanlink.to/seasofnoise"
                   >Your Friend Brennan's ablum Seas Of Noise is out now!</a
@@ -251,9 +293,7 @@
 
             <br />
 
-            <a href="https://paypal.me/ti4na" target="_blank">
-              Tip Jar ☕
-            </a>
+            <a href="https://paypal.me/ti4na" target="_blank"> Tip Jar ☕ </a>
           </div>
         </div>
       </main>
