@@ -288,7 +288,7 @@
             >
               <em
                 ><a href="https://yourfriendbrennan.fanlink.to/seasofnoise"
-                  >Your Friend Brennan's ablum Seas Of Noise is out now!</a
+                  >Your Friend Brennan's album Seas Of Noise is out now!</a
                 ></em
               >
             </p>
