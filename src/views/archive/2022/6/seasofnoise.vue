@@ -9,7 +9,7 @@
             <p class="headDes">
               With
               <a
-                href="https://yourgoodfriendbrennan.bandcamp.com/"
+                href="https://www.instagram.com/yourfriendbrennan/"
                 target="_blank"
                 >Your Friend Brennan</a
               >. 
