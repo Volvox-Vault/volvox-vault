@@ -75,7 +75,7 @@
             <router-link to="/archive/neopets">The Proto-NFT: Unconverted Neopets</router-link>
           </div>
           <div class="recent-Router">
-            <router-link to="/archive/fieldgossip">Field Gossip</router-link>
+            <router-link to="/archive/seasofnoise">Seas of Noise</router-link>
           </div>
         </div>
       </div>
