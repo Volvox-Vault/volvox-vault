@@ -110,10 +110,10 @@
               kind of, I guess you could say random, in terms of where spaces
               are and things, but that was so intentional. I would go through
               and edit the length of the spaces, like when I initially recorded
-              the song, because it’s not to a BPM or anything. I had to do it
-              all by feel. And I would intentionally leave long spaces. I had
+              the song, because it’s not to a BPM or anything. <strong>I had to do it
+              all by feel, and I would intentionally leave long spaces. I had
               the option to leave the perfect pause… the pauses are so thought
-              out.
+              out.</strong>
               <br /><br />
 
               <span class="HotelQ">Does this album have a narrative?</span>
@@ -122,8 +122,8 @@
               Not like ‘this the emotion of love or something, or this is the
               emotion of this.’ I just went by like, ‘this just feels emotive,
               whatever it is.’ I never really thought about it or contrived it
-              too much. And with Seas of Noise, initially one of the lyrics was
-              like, ‘Why should I spill my voice into an endless sea of noise?’
+              too much. <strong>With Seas of Noise, initially one of the lyrics was
+              like, ‘Why should I spill my voice into an endless sea of noise?’</strong>
               So it’s kind of fitting that I took the lyrics out.—I just really
               liked the title. I thought it had cool juxtaposition with the
               album, being quite calm, not noisy, and soft.
@@ -148,9 +148,9 @@
               <span class="HotelQ">Had you ever played the harp before?</span>
               <br /><br />
               No, I hadn’t. But it’s funny because people seem pretty impressed
-              by the harp stuff. I was just like ripping that harp. I tuned it
+              by the harp stuff. I was just like ripping that harp. <strong>I tuned it
               so I literally couldn’t hit a bad note. Just going like *boo boo
-              boo* with my fingers. I have no ability to form chords. I’m just
+              boo* with my fingers.</strong> I have no ability to form chords. I’m just
               strumming it.
               <br /><br />
 
@@ -161,9 +161,9 @@
               I would actually listen to this all the time, which is a new thing
               to me when it comes to my personal songwriting. The songs that
               I’ve put up with bands and things are collaborative efforts, and
-              I’ve loved them too. But, stuff that’s just solely dependent on my
+              I’ve loved them too. <strong>But, stuff that’s just solely dependent on my
               efforts, this is the first time I’ve come to a place where I feel
-              really confident with it.
+              really confident with it.</strong>
               <br /><br />
 
               <span class="HotelQ"
@@ -172,9 +172,9 @@
               >
               <br /><br />
               I want people to feel relaxed and introspective. That’s a word
-              that comes up a lot. To me, I think the ideal way to listen to any
+              that comes up a lot. <strong>To me, I think the ideal way to listen to any
               song on the album is in a comfy chair, pitch black room at night,
-              with some nice speakers, maybe a candle, maybe. But I really like
+              with some nice speakers, maybe a candle... maybe.</strong> But I really like
               the pitch black thing, it really makes you listen to all the
               intricacies…
               <br />
