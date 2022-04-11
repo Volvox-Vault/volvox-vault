@@ -54,6 +54,15 @@ export default {
         },
         {
           date: "March 2022",
+          author: "Tiana, Laurel, & Ellie",
+          title: "Wind Chime Festival ~ Toronto",
+          link: "/windchime",
+          type: "project",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/windchime-2.jpg?v=1649704122938",
+        },
+        {
+          date: "March 2022",
           author: "Tiana, Sam, & Carling",
           title: "Foraging a Sculpture: Mossiah",
           link: "/archive/mossiah",
