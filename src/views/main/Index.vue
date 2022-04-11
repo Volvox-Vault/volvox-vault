@@ -67,8 +67,8 @@
             <router-link to="/archive/LHO">Let's Hang Out</router-link>
           </div>
           <div class="recent-Router">
-            <router-link to="/archive/alchemy"
-              >Better Living Through Alchemy</router-link
+            <router-link to="/windchime"
+              >Wind Chime Festival</router-link
             >
           </div>
           <div class="recent-Router">
