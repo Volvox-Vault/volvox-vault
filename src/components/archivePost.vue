@@ -44,6 +44,15 @@ export default {
       colony: [
         
         {
+          date: "April 2022",
+          author: "Your Friend Brennan",
+          title: "Seas of Noise",
+          link: "/archive/seasofnoise",
+          type: "interview",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/bdithergreen.jpg?v=1649699269370",
+        },
+        {
           date: "March 2022",
           author: "Tiana, Sam, & Carling",
           title: "Foraging a Sculpture: Mossiah",
@@ -57,7 +66,7 @@ export default {
           author: "Hotel Dog",
           title: "Isolation Inn",
           link: "/archive/hoteldog",
-          type: "essay",
+          type: "interview",
           image:
             "https://f4.bcbits.com/img/a2690421830_16.jpg",
         },
