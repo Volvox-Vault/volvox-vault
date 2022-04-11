@@ -159,7 +159,7 @@ const routes = [
   /* ARCHIVE */
 
   {
-    path: '/seasofnoise',
+    path: '/archive/seasofnoise',
     name: 'seasofnoise',
     component: seasofnoise
   },

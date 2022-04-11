@@ -12,33 +12,34 @@
                 href="https://yourgoodfriendbrennan.bandcamp.com/"
                 target="_blank"
                 >Your Friend Brennan</a
-              >. <em>Originally in Volvox Times.</em>
+              >. 
+              <br>
+              <em>Originally in <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX">Volvox Times</a>. <a href="https://www.patreon.com/volvoxvault">Video on Patreon</a>.</em>
             </p>
 
             <div style="padding-top: 25px; padding-bottom: 25px">
-            <iframe
-              style="border: 0; width: 100%; height: 373px"
-              src="https://bandcamp.com/EmbeddedPlayer/album=4273364914/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"
-              seamless
-              ><a
-                href="https://yourfriendbrennan.fanlink.to/seasofnoise"
-                >Seas Of Noise by Your Friend Brennan</a
-              ></iframe
-            >
+              <iframe
+                style="border: 0; width: 100%; height: 373px"
+                src="https://bandcamp.com/EmbeddedPlayer/album=4273364914/size=large/bgcol=ffffff/linkcol=333333/artwork=small/transparent=true/"
+                seamless
+                ><a href="https://yourfriendbrennan.fanlink.to/seasofnoise"
+                  >Seas Of Noise by Your Friend Brennan</a
+                ></iframe
+              >
             </div>
 
             <p>
-              In early October 2021, I met with multi-instrumentalist Brennan
-              Doyle of Your Friend Brennan over video call. He was cocooned in a
+              <em>In early October 2021, I met with multi-instrumentalist <a href="https://www.instagram.com/yourfriendbrennan/">Brennan
+              Doyle</a> of Your Friend Brennan over video call (<a href="https://www.patreon.com/volvoxvault">watch</a>). He was cocooned in a
               blanket at Risque Disque studio over in BC, finishing his album.
               Brennan has been in a number of bands, like Cartoon Lizard, and
               often performs with Haley Blais, and Diamond Cafe. His first solo
               album is coming soon. He has dropped a few atmospheric singles
-              before the big release.
+              before the big release.</em>
               <br /><br />
               <span class="HotelQ">When did you start making music?</span>
               <br /><br />
-              <strong>Brennan:</strong>Since grade 6, kinda.—I was like ‘Yeah I
+              <strong>Brennan:</strong> Since grade 6, kinda.—I was like ‘Yeah I
               wanna be a rockstar’ or something. I was going through a White
               Stripes phase or a Led Zeppelin phase... so my songs were
               terrible, awful rip-offs of those bands. <br /><br />
@@ -50,8 +51,8 @@
               Away soundtrack, which is very piano based.—I was like, ‘I just
               want nice background music to make breakfast to in the morning and
               sit around to in the living room... I should just make some of
-              that.’ I made these songs with the intention of being able to put
-              them on in the background. Not that you can’t appreciate them
+              that.’ <strong>I made these songs with the intention of being able to put
+              them on in the background.</strong> Not that you can’t appreciate them
               while focusing on them, but leaving room for your own thoughts.
               <br /><br />
 
@@ -149,7 +150,14 @@
               the pitch black thing, it really makes you listen to all the
               intricacies…
               <br /><br />
+            </p>
 
+            <div class="imgBox">
+              <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/bdithergreen.jpg?v=1649699269370" />
+            <p><em>Photo: Blair Hansen</em></p>
+            </div>
+
+            <p>
               <span class="HotelQ"
                 >Have you ever been in a float tank? That might be cool to
                 listen in...</span
@@ -175,7 +183,7 @@
               Yeah, I try to think of things like that. Because I think maybe a
               future form of music would be more all encompassing, in terms of
               senses. Like, I’d love to build a machine where it’s programmed
-              like, you get cold during some parts of the song or some shit.
+              like, you get cold during some parts of the song or <em>some shit</em>.
               <br /><br />
 
               <span class="HotelQ"
@@ -295,11 +303,12 @@ p {
 a {
   color: yellowgreen;
   transition: 1s;
-  text-decoration: none;
+  text-decoration: underline;
 }
 
 a:hover {
   color: grey;
+  text-decoration: none;
 }
 
 main {
