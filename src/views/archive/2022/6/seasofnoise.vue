@@ -37,7 +37,7 @@
               album is coming soon. He has dropped a few atmospheric singles
               before the big release.</em>
               <br /><br />
-              <span class="HotelQ">When did you start making music?</span>
+              <span class="HotelQ">Tiana: When did you start making music?</span>
               <br /><br />
               <strong>Brennan:</strong> Since grade 6, kinda.—I was like ‘Yeah I
               wanna be a rockstar’ or something. I was going through a White
