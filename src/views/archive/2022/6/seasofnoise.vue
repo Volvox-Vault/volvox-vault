@@ -28,7 +28,7 @@
               >
             </div>
 
-            <p>
+            <p style="border: 1px solid yellowgreen; border-radius: 30px; padding: 20px;">
               <em>In early October 2021, I met with multi-instrumentalist <a href="https://www.instagram.com/yourfriendbrennan/">Brennan
               Doyle</a> of Your Friend Brennan over video call (<a href="https://www.patreon.com/volvoxvault">watch</a>). He was cocooned in a
               blanket at Risque Disque studio over in BC, finishing his album.
@@ -36,6 +36,9 @@
               often performs with Haley Blais, and Diamond Cafe. His first solo
               album is coming soon. He has dropped a few atmospheric singles
               before the big release.</em>
+
+            </p>
+            <p>
               <br /><br />
               <span class="HotelQ">Tiana: When did you start making music?</span>
               <br /><br />
@@ -153,8 +156,8 @@
             </p>
 
             <div class="imgBox">
-              <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/bdithergreen.jpg?v=1649699269370" />
-            <p style="line-height:0; margin-top: 10px; text-align: center;"><em>Photo: Blair Hansen</em></p>
+              <img style="border-radius: 30px;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/bdithergreen.jpg?v=1649699269370" />
+            <p style="line-height:0; margin-top: 20px; text-align: center;"><em>Photo: Blair Hansen</em></p>
             </div>
 
             <p>
