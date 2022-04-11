@@ -178,7 +178,7 @@
               with some nice speakers, maybe a candle, maybe. But I really like
               the pitch black thing, it really makes you listen to all the
               intricacies…
-              <br /><br />
+              <br />
             </p>
 
             <div class="imgBox">
@@ -195,6 +195,7 @@
             </div>
 
             <p>
+              <br />
               <span class="HotelQ"
                 >Have you ever been in a float tank? That might be cool to
                 listen in...</span
