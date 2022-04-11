@@ -154,7 +154,7 @@
 
             <div class="imgBox">
               <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/bdithergreen.jpg?v=1649699269370" />
-            <p><em>Photo: Blair Hansen</em></p>
+            <p style="line-height:0; padding-top: 10px; text-align: center;"><em>Photo: Blair Hansen</em></p>
             </div>
 
             <p>
@@ -237,6 +237,7 @@
               and hasn’t really solidified in my head yet. But I want to kind of
               get it out as soon as possible.
               <br /><br />
+
               <em
                 ><a href="https://yourfriendbrennan.fanlink.to/seasofnoise"
                   >Your Friend Brennan's ablum Seas Of Noise is out now!</a
@@ -246,8 +247,8 @@
 
             <br />
 
-            <a href="" target="_blank">
-              Hotel Dog's Tip Jar ☕ - coming soon
+            <a href="https://paypal.me/ti4na" target="_blank">
+              Tip Jar ☕
             </a>
           </div>
         </div>
