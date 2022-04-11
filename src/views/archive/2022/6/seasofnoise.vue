@@ -39,7 +39,6 @@
 
             </p>
             <p>
-              <br /><br />
               <span class="HotelQ">Tiana: When did you start making music?</span>
               <br /><br />
               <strong>Brennan:</strong> Since grade 6, kinda.—I was like ‘Yeah I
@@ -240,7 +239,9 @@
               and hasn’t really solidified in my head yet. But I want to kind of
               get it out as soon as possible.
               <br /><br />
+            </p>
 
+<p style="border: 1px solid yellowgreen; border-radius: 30px; padding: 20px; text-align: center;">
               <em
                 ><a href="https://yourfriendbrennan.fanlink.to/seasofnoise"
                   >Your Friend Brennan's ablum Seas Of Noise is out now!</a
