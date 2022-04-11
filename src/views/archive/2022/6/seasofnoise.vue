@@ -154,7 +154,7 @@
 
             <div class="imgBox">
               <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/bdithergreen.jpg?v=1649699269370" />
-            <p style="line-height:0; padding-top: 10px; text-align: center;"><em>Photo: Blair Hansen</em></p>
+            <p style="line-height:0; margin-top: 10px; text-align: center;"><em>Photo: Blair Hansen</em></p>
             </div>
 
             <p>
