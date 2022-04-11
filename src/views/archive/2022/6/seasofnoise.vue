@@ -55,7 +55,7 @@
                 >). He was cocooned in a blanket at Risque Disque studio over in
                 BC, finishing his album. Brennan has been in a number of bands,
                 like Cartoon Lizard, and often performs with Haley Blais, and
-                Diamond Cafe. His first solo album has just been released.</em
+                Diamond Cafe. His first solo album — Seas Of Noise — has just been released.</em
               >
             </p>
             <br>
