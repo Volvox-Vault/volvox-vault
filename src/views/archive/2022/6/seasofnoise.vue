@@ -55,7 +55,10 @@
                 >). He was cocooned in a blanket at Risque Disque studio over in
                 BC, finishing his album. Brennan has been in a number of bands,
                 like Cartoon Lizard, and often performs with Haley Blais, and
-                Diamond Cafe. His first solo album — Seas Of Noise — has just been released.</em
+                Diamond Cafe. 
+                <br>
+                Now, we're sharing this interview online to celebrate his first 
+                solo album, Seas Of Noise, which was just released on April 10th.</em
               >
             </p>
             <br>
@@ -216,9 +219,9 @@
                 concert. It’d be kinda gross.
               </span>
               <br /><br />
-              Yeah, I try to think of things like that. Because I think maybe a
+              Yeah, I try to think of things like that. <strong>Because I think maybe a
               future form of music would be more all encompassing, in terms of
-              senses. Like, I’d love to build a machine where it’s programmed
+              senses.</strong> Like, I’d love to build a machine where it’s programmed
               like, you get cold during some parts of the song or
               <em>some shit</em>. <br /><br />
 
@@ -247,10 +250,10 @@
               I’ve been here a lot. It just sounds so much like there’s somebody
               above me walking, which is cool. And I think back to that exact
               time. For me, it’s kind of like a personal thing. I have a direct
-              visual association with that. I really like it. I mean, if the
+              visual association with that. I really like it. <strong>I mean, if the
               whole song you could hear nonstop people talking and being noisy
               in the background it would be kind of annoying, but it’s just like
-              this nice little detail that crept in there.
+              this nice little detail that crept in there.</strong>
               <br /><br />
 
               <span class="HotelQ"
@@ -260,8 +263,8 @@
                 different stuff other than the song going on?
               </span>
               <br /><br />
-              Yeah, one of the things I really want to do with this music is
-              make it as intimate as possible, and like, play things as quietly
+              <strong>Yeah, one of the things I really want to do with this music is
+              make it as intimate as possible,</strong> and like, play things as quietly
               as I could. And then what happens, you can hear creeks, you can
               hear people walking, and it creates more of a sense, it just feels
               more real. Like you’re in a room listening to somebody.
