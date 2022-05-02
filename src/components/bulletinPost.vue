@@ -78,14 +78,6 @@ export default {
           date: "ongoing",
         },
         {
-          header: "Glutenhead, fanclubwallet, Alex Nunes",
-          des: "Young Toronto art-rockers Glutenhead celebrate the release of their newest single with extra-special guest from Ottawa - fanclubwallet! Plus: Alex Nunes of Spirit Josh introducing his new solo project.",
-          contact: "The Monarch Tavern - Toronto, ON",
-          website:
-            "https://embed.showclix.com/event/glutenhead-fanclubwallet-alex-nunes",
-          date: "September 18th, 2021",
-        },
-        {
           header: "Teal Process & Company",
           des: "Teal Process & Company is always an open question.",
           contact: "heyo@tealprocess.net",
