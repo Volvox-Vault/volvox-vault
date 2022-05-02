@@ -52,23 +52,7 @@
             </p>
             <br />
 
-            <div class="imgBox">
-              <img
-                style="border-radius: 30px"
-                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Oscillations%20%234%20Trevor%20James%20Lang.00_19_16_05.Still001.jpg?v=1651514948737"
-              />
-              <p style="line-height: 0; margin-top: 20px; text-align: center">
-                <em
-                  >Photo:
-                  <a href="https://open.spotify.com/show/2fo1GJaSCXUBF5iMCZgBQJ?si=3e215bc45a5f4f96">Oscillations</a></em
-                >
-              </p>
-
-              <br>
-
-              <iframe style="border-radius:12px; margin: 0px; padding: 0px;" src="https://open.spotify.com/embed/episode/23qI9nnlXjiOuFrFTNjbn6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
-
-            </div>
+            
             
             <p>
               <span class="trevor">“I finished these four songs that have different feelings and vibes.
@@ -81,7 +65,26 @@
               favorites, but... it’s kind of my favorite of the bunch,”</span> 
               he
               proclaimed. Star meowed in agreement.
-              <br><br>
+              </p>
+
+              <div class="imgBox">
+              <img
+                style="border-radius: 30px"
+                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Oscillations%20%234%20Trevor%20James%20Lang.00_19_16_05.Still001.jpg?v=1651514948737"
+              />
+              <p style="line-height: 0; margin-top: 20px; text-align: center">
+                <em
+                  >Photo:
+                  <a href="https://open.spotify.com/show/2fo1GJaSCXUBF5iMCZgBQJ?si=3e215bc45a5f4f96">Oscillations</a></em
+                >
+              </p>
+
+              <p>
+
+              <iframe style="border-radius:12px; margin: 0px; padding: 0px;" src="https://open.spotify.com/embed/episode/23qI9nnlXjiOuFrFTNjbn6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+            </div>
+
               <span class="trevor">“When I started writing
               Spotlight, I thought it was going to be a sort of Fiona Apple-y
               kind of freak/alt folk song, with a lo-fi vibe. But then it got a
