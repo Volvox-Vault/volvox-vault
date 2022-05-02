@@ -61,8 +61,7 @@
               culmination of all of my ideas in one cohesive single. So I’m
               really excited to get it out there. I mean, parents can’t pick
               favorites, but... it’s kind of my favorite of the bunch,”</span> 
-              he
-              proclaimed. Star meowed in agreement.
+              Trevor proclaimed. Star meowed in agreement.
               </p>
 
               <div class="imgBox">
