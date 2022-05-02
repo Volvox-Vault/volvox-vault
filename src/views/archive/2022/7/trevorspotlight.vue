@@ -52,8 +52,6 @@
             </p>
             <br />
 
-            
-            
             <p>
               <span class="trevor">“I finished these four songs that have different feelings and vibes.
               And <em>Spotlight</em> is the last of that
@@ -79,11 +77,11 @@
                 >
               </p>
 
-              <p>
-
               <iframe style="border-radius:12px; margin: 0px; padding: 0px;" src="https://open.spotify.com/embed/episode/23qI9nnlXjiOuFrFTNjbn6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
             </div>
+
+            <p>
 
               <span class="trevor">“When I started writing
               Spotlight, I thought it was going to be a sort of Fiona Apple-y
