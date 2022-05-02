@@ -257,6 +257,7 @@ body {
   margin-bottom: 20px;
   padding: 15px;
   line-height: 1.6;
+  text-align: right;
 }
 
 .head {
