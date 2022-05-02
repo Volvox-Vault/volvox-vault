@@ -21,6 +21,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */
+import trevorspotlight from '../views/archive/2022/7/trevorspotlight.vue'
 import seasofnoise from '../views/archive/2022/6/seasofnoise.vue'
 import windchime from '../views/archive/2022/5/windchime.vue'
 import mossiah from '../views/archive/2022/4/mossiah.vue'
@@ -158,6 +159,11 @@ const routes = [
 
   /* ARCHIVE */
 
+  {
+    path: '/archive/trevorspotlight',
+    name: 'trevorspotlight',
+    component: trevorspotlight
+  },
   {
     path: '/archive/seasofnoise',
     name: 'seasofnoise',
