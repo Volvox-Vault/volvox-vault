@@ -72,8 +72,8 @@ export default {
             },
             {
                 name: 'Trevor Lang',
-                feat: 'Music, visuals, 35mm.',
-                bio: 'I enjoy putting energy towards Teal Process & Company.',
+                feat: 'in volvox times and on the website',
+                bio: 'Music, visuals, 35mm.',
                 email: '@trevorjameslang',
                 website: 'https://volvoxvault.com/archive/trevorspotlight',
                 websiteShow: 'archive/trevorspotlight',
