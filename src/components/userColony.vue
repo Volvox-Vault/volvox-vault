@@ -73,7 +73,7 @@ export default {
             {
                 name: 'Romina Malta',
                 feat: 'in heart and volvox times',
-                bio: 'an art director and music lover.',
+                bio: 'An art director and music lover.',
                 email: 'hi@hi-malta.com',
                 website: 'https://www.door.link/',
                 websiteShow: 'door.link',
@@ -83,7 +83,7 @@ export default {
             {
                 name: 'Luísa Cruz',
                 feat: 'in heart',
-                bio: 'artist and friend',
+                bio: 'Artist and friend',
                 email: '',
                 website: 'https://www.instagram.com/lupsc/',
                 websiteShow: '@lupsc',
@@ -93,7 +93,7 @@ export default {
             {
                 name: 'Mivan Makia',
                 feat: 'in heart',
-                bio: 'artist and friend',
+                bio: 'Artist and friend',
                 email: '',
                 website: 'https://www.instagram.com/mivsmak/',
                 websiteShow: '@mivsmak',
@@ -173,7 +173,7 @@ export default {
             {
                 name: 'Spirit Josh',
                 feat: 'in heart',
-                bio: 'a toronto based band.',
+                bio: 'A toronto based band.',
                 email: '@spirit.josh',
                 website: 'https://linktr.ee/spiritjosh',
                 websiteShow: 'spirit josh website',
