@@ -93,11 +93,11 @@
               My main inspirations these days are Bob Dylan and Stevie Wonder. I
               like the sort of bulkier sound of Dylan’s stuff , and then the
               hyper-groovy, funky, spacey Stevie Wonder stuff from like the
-              seventies, you know? With that contrast, it’s a diffi cult place
-              to fi nd a balance, because they’re both obviously such
+              seventies, you know? With that contrast, it’s a difficult place
+              to find a balance, because they’re both obviously such
               legends—and I’m not saying that I’ve gotten there at all—but I
               mean, you can even see like up around the top here, I have like
-              all of my most inspirational stuff ,”</span> he points to vinyl records
+              all of my most inspirational stuff,”</span> he points to vinyl records
               on a shelf around the upper perimeter of his space, 
               <span class="trevor">“There’s
               Joanna Newsom, Stevie Wonder, Bob Dylan... Brian Wilson is up
