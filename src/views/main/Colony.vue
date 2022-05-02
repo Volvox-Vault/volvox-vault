@@ -16,7 +16,11 @@ export default {
   components: {
     MainLayout,
     VolvoxColony
-  }
+  },
+  metaInfo: {
+    // title will be injected into parent titleTemplate
+    title: "Colony",
+  },
 };
 </script>
 
