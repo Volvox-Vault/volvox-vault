@@ -55,7 +55,7 @@ export default {
                 website: 'https://ari.computer/',
                 websiteShow: 'ari.computer',
                 feat: 'on the website',
-                email: '-',
+                email: 'me@arilotter.com',
                 pronoun: '',
                 pic: 'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Farilotter.png?v=1621627984943',
             },
