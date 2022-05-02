@@ -69,11 +69,11 @@
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Oscillations%20%234%20Trevor%20James%20Lang.00_19_16_05.Still001.jpg?v=1651514948737"
               />
 
-              <br>
+              </div>
 
               <iframe style="border-radius:12px; margin: 0px; padding: 0px;" src="https://open.spotify.com/embed/episode/23qI9nnlXjiOuFrFTNjbn6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
-            </div>
+            
 
             <p>
 
