@@ -60,7 +60,7 @@
               sort of parts of my musical aspirations, Spotlight feels like a
               culmination of all of my ideas in one cohesive single. So I’m
               really excited to get it out there. I mean, parents can’t pick
-              favorites, but... <strong>it’s kind of my favorite of the bunch</strong>,”</span> 
+              favourites, but... <strong>it’s kind of my favourite of the bunch</strong>,”</span> 
               Trevor proclaimed. Star meowed in agreement.
               </p>
 
