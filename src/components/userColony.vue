@@ -77,7 +77,7 @@ export default {
                 email: '@trevorjameslang',
                 website: 'https://volvoxvault.com/archive/trevorspotlight',
                 websiteShow: 'archive/trevorspotlight',
-                pronoun: '',
+                pronoun: 'he/him',
                 pic: 'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/usr.png?v=1651526023814',
             },
             {
@@ -259,7 +259,7 @@ export default {
                 email: '@daavvviiid',
                 website: 'https://linktr.ee/himalayanpink',
                 websiteShow: 'himalayanpink',
-                pronoun: '',
+                pronoun: 'he/him',
                 pic: 'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/usr.png?v=1651526023814',
             },
             {
