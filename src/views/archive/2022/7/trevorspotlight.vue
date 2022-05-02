@@ -133,7 +133,7 @@
               is.’”</span></p>
               
               <p class="quote">
-              I’m a bit of a control freak at times — That control is sort of attached
+              That control is sort of attached
               to your ego and you have to step back.
               </p>
 
@@ -238,7 +238,7 @@ body {
 }
 
 .quote {
-  font-size: 18pt;
+  font-size: 20pt;
   text-transform: uppercase;
   font-weight: bold;
   color: grey;
@@ -247,6 +247,7 @@ body {
   margin-top: 20px;
   margin-bottom: 20px;
   padding: 15px;
+  line-height: 1.6;
 }
 
 .head {
