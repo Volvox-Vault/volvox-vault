@@ -112,11 +112,20 @@
               process. We all have opinions and we all try to work together, but
               it can get so weedy because people’s feelings get involved. But in
               the end, your collaborators are coming up with things that you
-              wouldn’t have come up with and it can be so magical. There’s this
+              wouldn’t have come up with and it can be so magical. </span>
+              
+              <p class="quote">
+              That control is sort of attached
+              to your ego and you have to step back.
+              </p>
+
+              <p>
+              <span class="trevor">
+              There’s this
               feeling that we’ve sort of talked about, where you have a song
               that you present and then someone goes off with it for a while,
               and then maybe someone else adds to it, and then you get it back
-              without hearing anything. And all of a sudden, it’s your initial
+              without hearing anything. All of a sudden, it’s your initial
               songs, the thing you really liked, but now it’s new again. So
               again, it’s like a custom made song for you, but that you had
               nothing to do with other than the initial idea. It’s such a great,
@@ -133,8 +142,8 @@
               is.’”</span></p>
               
               <p class="quote">
-              That control is sort of attached
-              to your ego and you have to step back.
+              You uncover new parts of yourself when working with someone
+              who has new ideas for you to react to.
               </p>
 
               <p>
@@ -241,7 +250,7 @@ body {
   font-size: 20pt;
   text-transform: uppercase;
   font-weight: bold;
-  color: grey;
+  color: yellowgreen;
   border-top: 1px solid yellowgreen;
   border-bottom: 1px solid yellowgreen;
   margin-top: 20px;
