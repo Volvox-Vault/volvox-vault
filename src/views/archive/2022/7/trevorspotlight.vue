@@ -45,7 +45,7 @@
               artist based in Vancouver, British Columbia. Recently, he released
               a new solo single, Spotlight. Taking a moment away from
               collaborative music projects with his usual bands (Cartoon Lizard
-              and Haley Blaise), he’s focusing on solo music again for the fi
+              and Haley Blais), he’s focusing on solo music again for the fi
               rst time in years. I met with Trevor (and his cat Star) over a
               video call to chat about his blossoming solo endeavours this past Winter. </em
               >
@@ -63,6 +63,8 @@
                   <a href="https://open.spotify.com/show/2fo1GJaSCXUBF5iMCZgBQJ?si=3e215bc45a5f4f96">Oscillations</a></em
                 >
               </p>
+
+              <br>
 
               <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/23qI9nnlXjiOuFrFTNjbn6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
