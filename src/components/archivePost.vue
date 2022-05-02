@@ -44,6 +44,15 @@ export default {
       colony: [
         
         {
+          date: "May 2022",
+          author: "Trevor Lang",
+          title: "Spotlight",
+          link: "/archive/trevorspotlight",
+          type: "interview",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/273472919_534043064411892_4441666417675951232_n.jpg?v=1651515044164",
+        },
+        {
           date: "April 2022",
           author: "Your Friend Brennan",
           title: "Seas of Noise",
