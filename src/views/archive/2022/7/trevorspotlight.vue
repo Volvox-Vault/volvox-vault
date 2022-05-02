@@ -103,8 +103,8 @@
               yourself. It can be a hard realization to make at times, but then
               at the same time, some of those songs that you make by yourself
               are the most satisfying, because they’re custom made for you, you
-              know? I gotta say, I’m a bit of a control freak at times. And so
-              it can be really difficult working in a collaborative setting
+              know? I gotta say, I’m a bit of a control freak at times. So
+              it can be really difficult working in a collaborative setting,
               because it’s essential to relieve some of that control to the
               people you’re collaborating with. <strong>That control is sort of attached
               to your ego and you have to step back.</strong> I mean, with Cartoon Lizard
@@ -133,11 +133,10 @@
               is.’”</span></p>
               
               <p class="quote">
-              I gotta say, I’m a bit of a control freak at times. And so
-              it can be really difficult working in a collaborative setting
+              I gotta say, I’m a bit of a control freak at times. So
+              it can be really difficult working in a collaborative setting,
               because it’s essential to relieve some of that control to the
-              people you’re collaborating with. That control is sort of attached
-              to your ego and you have to step back.
+              people you’re collaborating with.
               </p>
 
               <p>
@@ -242,7 +241,8 @@ body {
 
 .quote {
   font-size: 18pt;
-  font-family: 'Times New Roman', Times, serif;
+  text-transform: uppercase;
+  font-weight: bold;
   color: grey;
   border-top: 1px solid yellowgreen;
   border-bottom: 1px solid yellowgreen;
