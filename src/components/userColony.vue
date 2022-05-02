@@ -181,7 +181,7 @@ export default {
                 pic: 'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/usr.png?v=1651526023814',
             },
             {
-                name: 'Norman O&#39;Haga',
+                name: 'Norman',
                 feat: 'in volvox times',
                 bio: 'Art and community at Teal Process.',
                 email: 'heyo@wadeful.net',
