@@ -9,7 +9,7 @@
             <p class="headDes">
               With
               <a
-                href="https://www.instagram.com/yourfriendbrennan/"
+                href="https://www.instagram.com/trevorjameslang/"
                 target="_blank"
                 >Trevor Lang</a
               >.
