@@ -186,14 +186,13 @@
               Too true, Trevor. So reader, what will you find yourself in next?
             </p>
 
-            <br>
-
             <p
               style="
                 border: 1px solid yellowgreen;
                 border-radius: 30px;
                 padding: 20px;
                 text-align: center;
+                margin-top: 20px;
               "
             >
               <em
