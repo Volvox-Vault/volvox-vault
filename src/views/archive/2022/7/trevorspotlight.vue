@@ -60,7 +60,7 @@
               sort of parts of my musical aspirations, Spotlight feels like a
               culmination of all of my ideas in one cohesive single. So I’m
               really excited to get it out there. I mean, parents can’t pick
-              favorites, but... it’s kind of my favorite of the bunch,”</span> 
+              favorites, but... <strong>it’s kind of my favorite of the bunch</strong>,”</span> 
               Trevor proclaimed. Star meowed in agreement.
               </p>
 
@@ -111,10 +111,10 @@
               at the same time, some of those songs that you make by yourself
               are the most satisfying, because they’re custom made for you, you
               know? I gotta say, I’m a bit of a control freak at times. And so
-              it can be really diffi cult working in a collaborative setting
+              it can be really difficult working in a collaborative setting
               because it’s essential to relieve some of that control to the
-              people you’re collaborating with. That control is sort of attached
-              to your ego and you have to step back. I mean, with Cartoon Lizard
+              people you’re collaborating with. <strong>That control is sort of attached
+              to your ego and you have to step back.</strong> I mean, with Cartoon Lizard
               specifically, our whole MO was to have a completely democratic
               process. We all have opinions and we all try to work together, but
               it can get so weedy because people’s feelings get involved. But in
@@ -128,8 +128,8 @@
               again, it’s like a custom made song for you, but that you had
               nothing to do with other than the initial idea. It’s such a great,
               weird feeling.—Everyone in that band has had a huge impact on my
-              life.You uncover new parts of yourself when working with someone
-              who has new ideas for you to react to. I’ve been really lucky that
+              life. <strong>You uncover new parts of yourself when working with someone
+              who has new ideas for you to react to.</strong> I’ve been really lucky that
               a lot of people have reached out and asked for me to make them a
               music video. And in doing that, it’s like a new form of
               collaboration that I had never done before. Just being around
@@ -172,8 +172,8 @@
               <span class="trevor">“Eventually someone
               who likes your music (or art) is going to hear it. It might even
               be long after you die... Like today, with all these vinyl reissues
-              of forgotten records of the sixties and stuff like that. Anyone
-              can get their day in the sun... You’ll never be heard if you’re
+              of forgotten records of the sixties and stuff like that. <strong>Anyone
+              can get their day in the sun...</strong> You’ll never be heard if you’re
               not actively putting stuff out. So just keep doing it. I mean,
               that’s what I have to remind myself every time I release a song
               and it doesn’t go viral. I have to be like, ‘Yeah well, I can’t
@@ -181,7 +181,7 @@
               natural to you. It can be dangerous, doing something for an
               aesthetic over actual inner expression. If you’re not expressing
               anything, then it’s going to be very diffi cult to make something
-              meaningful, or whatever.Just always try to find yourself in it.”</span>
+              meaningful, or whatever. <strong>Just always try to find yourself in it.</strong>”</span>
               Too true, Trevor. So reader, what will you find yourself in next?
             </p>
 
