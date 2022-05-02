@@ -133,10 +133,8 @@
               is.’”</span></p>
               
               <p class="quote">
-              I gotta say, I’m a bit of a control freak at times. So
-              it can be really difficult working in a collaborative setting,
-              because it’s essential to relieve some of that control to the
-              people you’re collaborating with.
+              I’m a bit of a control freak at times — That control is sort of attached
+              to your ego and you have to step back.
               </p>
 
               <p>
