@@ -115,8 +115,8 @@
               wouldn’t have come up with and it can be so magical. </span>
               
               <p class="quote">
-              That control is sort of attached
-              to your ego and you have to step back.
+              I’m a bit of a control freak at times — it’s essential to relieve some of that control to the
+              people you’re collaborating with.
               </p>
 
               <p>
