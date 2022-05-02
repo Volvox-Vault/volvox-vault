@@ -46,8 +46,7 @@
               artist based in Vancouver, British Columbia. Recently, he released
               a new solo single, Spotlight. Taking a moment away from
               collaborative music projects with his usual bands (Cartoon Lizard
-              and Haley Blais), he’s focusing on solo music again for the fi
-              rst time in years. I met with Trevor (and his cat Star) over a
+              and Haley Blais), he’s focusing on solo music again for the first time in years. I met with Trevor (and his cat Star) over a
               video call to chat about his blossoming solo endeavours this past Winter. </em
               >
             </p>
