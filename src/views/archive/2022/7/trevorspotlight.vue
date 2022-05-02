@@ -94,7 +94,7 @@
               to fi nd a balance, because they’re both obviously such
               legends—and I’m not saying that I’ve gotten there at all—but I
               mean, you can even see like up around the top here, I have like
-              all of my most inspirational stuff ,”<span> he points to vinyl records
+              all of my most inspirational stuff ,”</span> he points to vinyl records
               on a shelf around the upper perimeter of his space, 
               <span class="trevor">“There’s
               Joanna Newsom, Stevie Wonder, Bob Dylan... Brian Wilson is up
