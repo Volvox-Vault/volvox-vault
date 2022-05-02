@@ -354,6 +354,10 @@ mark.molly {
     min-width: 300px;
     max-width: 300px;
   }
+
+  .quote {
+  font-size: 18pt;
+  }
 }
 
 @media only screen and (max-device-width: 800px) {
@@ -361,6 +365,10 @@ mark.molly {
     margin-top: 25px;
     min-width: 300px;
     max-width: 300px;
+  }
+
+  .quote {
+  font-size: 18pt;
   }
 }
 </style>
