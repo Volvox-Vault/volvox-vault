@@ -143,7 +143,7 @@
               life have been ones where I’d go into an album or song and fully
               surrender to it, and crazy shit can happen. You know, you don’t
               have to be high or more inebriated at all for your mind to go off
-              and experience something unique. So, defi nitely closed eyes with
+              and experience something unique. So, definitely closed eyes with
               some nice headphones in a dark or mood-lit room. Maybe a salt lamp
               or Christmas lights. But if you must watch something, I’m hoping to have a video for it. Although, who
               knows if that’s going to happen. There’s a lot of things happening
@@ -183,7 +183,7 @@
               Too true, Trevor. So reader, what will you find yourself in next?
             </p>
 
-            <br><br>
+            <br>
 
             <p
               style="
