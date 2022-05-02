@@ -241,13 +241,14 @@ body {
 }
 
 .quote {
-  font-size: 15pt;
+  font-size: 18pt;
   font-family: 'Times New Roman', Times, serif;
-  color: yellowgreen;
+  color: grey;
   border-top: 1px solid yellowgreen;
   border-bottom: 1px solid yellowgreen;
   margin-top: 20px;
   margin-bottom: 20px;
+  padding: 15px;
 }
 
 .head {
