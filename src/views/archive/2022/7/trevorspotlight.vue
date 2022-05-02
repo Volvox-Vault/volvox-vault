@@ -66,7 +66,7 @@
 
               <br>
 
-              <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/23qI9nnlXjiOuFrFTNjbn6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+              <iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/23qI9nnlXjiOuFrFTNjbn6?utm_source=generator" width="100%" height="152" style="margin: 0px; padding: 0px;" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
             </div>
             
@@ -183,6 +183,8 @@
               Too true, Trevor. So reader, what will you find yourself in next?
             </p>
 
+            <br><br>
+
             <p
               style="
                 border: 1px solid yellowgreen;
@@ -253,7 +255,7 @@ p {
 }
 
 .trevor {
-  color: rebeccapurple;
+  color: #593879;
 }
 
 a {
