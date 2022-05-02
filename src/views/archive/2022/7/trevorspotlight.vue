@@ -135,9 +135,9 @@
               <br><br>
               
               I asked him what the perfect listening situation would be for
-              Spotlight from home. <span class="trevor">“The most formulative music experiences in my
+              Spotlight from home. <span class="trevor">“<strong>The most formulative music experiences in my
               life have been ones where I’d go into an album or song and fully
-              surrender to it, and crazy shit can happen. You know, you don’t
+              surrender to it, and crazy shit can happen.</strong> You know, you don’t
               have to be high or more inebriated at all for your mind to go off
               and experience something unique. So, definitely closed eyes with
               some nice headphones in a dark or mood-lit room. Maybe a salt lamp
