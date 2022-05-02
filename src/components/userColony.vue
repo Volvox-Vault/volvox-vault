@@ -164,7 +164,7 @@ export default {
             {
                 name: 'Ana Santl',
                 feat: 'in heart',
-                bio: 'I am a Slovenian photographer, currently based in Copenhagen.',
+                bio: 'A Slovenian photographer, currently based in Copenhagen.',
                 email: 'hello@iamnotana.com',
                 website: 'https://www.iamnotana.com/',
                 websiteShow: 'iamnotana.com',
@@ -232,7 +232,7 @@ export default {
                 pic: 'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/usr.png?v=1651526023814',
             },
             {
-                name: 'Yatu',
+                name: 'Yatú',
                 feat: 'in volvox times',
                 bio: 'I enjoy putting energy towards Teal Process & Company.',
                 email: 'WhosYatu@gmail.com',
