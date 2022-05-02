@@ -147,7 +147,7 @@ export default {
                 email: 'hi@leahmaldo.com',
                 website: 'https://www.are.na/leah-maldonado',
                 websiteShow: 'are.na/leah-maldonado',
-                pronoun: 'she/they',
+                pronoun: '',
                 pic: 'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/usr.png?v=1651526023814',
             },
             {
