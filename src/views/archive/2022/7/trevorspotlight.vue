@@ -69,12 +69,6 @@
                 style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Oscillations%20%234%20Trevor%20James%20Lang.00_19_16_05.Still001.jpg?v=1651514948737"
               />
-              <p style="line-height: 0; margin-top: 20px; text-align: center">
-                <em
-                  >Photo:
-                  <a href="https://open.spotify.com/show/2fo1GJaSCXUBF5iMCZgBQJ?si=3e215bc45a5f4f96">Oscillations</a></em
-                >
-              </p>
 
               <br>
 
