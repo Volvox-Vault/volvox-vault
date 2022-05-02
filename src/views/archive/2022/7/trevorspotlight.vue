@@ -71,7 +71,7 @@
 
               </div>
 
-              <iframe style="border-radius:12px; margin: 0px; padding: 0px;" src="https://open.spotify.com/embed/episode/23qI9nnlXjiOuFrFTNjbn6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+              <iframe style="border-radius:12px; margin: 0px; margin-bottom: 20px; padding: 0px;" src="https://open.spotify.com/embed/episode/23qI9nnlXjiOuFrFTNjbn6?utm_source=generator" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
             
 
@@ -130,9 +130,17 @@
               traveling. Going to a diff erent country and seeing how another
               culture operates while comparing it to your own like, ‘Oh, that’s
               so weird. I never would have thought how weird my own culture
-              is.’”</span>
-              <br><br>
+              is.’”</span></p>
               
+              <p class="quote">
+              I gotta say, I’m a bit of a control freak at times. And so
+              it can be really difficult working in a collaborative setting
+              because it’s essential to relieve some of that control to the
+              people you’re collaborating with. That control is sort of attached
+              to your ego and you have to step back.
+              </p>
+
+              <p>
               I asked him what the perfect listening situation would be for
               Spotlight from home. <span class="trevor">“<strong>The most formulative music experiences in my
               life have been ones where I’d go into an album or song and fully
@@ -230,6 +238,16 @@ body {
 .HotelQ {
   color: yellowgreen;
   font-weight: bold;
+}
+
+.quote {
+  font-size: 15pt;
+  font-family: 'Times New Roman', Times, serif;
+  color: yellowgreen;
+  border-top: 1px solid yellowgreen;
+  border-bottom: 1px solid yellowgreen;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }
 
 .head {
