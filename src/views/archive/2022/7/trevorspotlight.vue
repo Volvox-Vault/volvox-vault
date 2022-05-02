@@ -38,6 +38,7 @@
                 border: 1px solid yellowgreen;
                 border-radius: 30px;
                 padding: 20px;
+                margin-bottom: 20px;
               "
             >
               <em
@@ -50,7 +51,6 @@
               video call to chat about his blossoming solo endeavours this past Winter. </em
               >
             </p>
-            <br />
 
             <p>
               <span class="trevor">“I finished these four songs that have different feelings and vibes.
