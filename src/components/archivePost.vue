@@ -96,7 +96,7 @@ export default {
           link: "/archive/neopets",
           type: "essay",
           image:
-            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/faerie.png?v=1643656493391",
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/IMG_91882.jpg?v=1651517003960",
         },
         {
           date: "Jan 2022",
@@ -105,7 +105,7 @@ export default {
           link: "/archive/fieldgossip",
           type: "creative writing",
           image:
-            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/jake_7.jpg?v=1643655179937",
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/grass.jpg?v=1651516802393",
         },
         {
           date: "Dec 2021",
