@@ -10,8 +10,9 @@
              “artist-made wind chime festival” 
             </p>
             <br />
-            <p class="windchime">
-              <span style="color: yellowgreen;">May 28th from 12pm-6pm, in Toronto at Christie Pits Park</span> … OPEN CALL<br />
+            <p>
+              <span style="color: yellowgreen;" class="windchime">Join us at Christie Pits Park on May 28th from 12pm-6pm, to hang and craft artist-made wind chimes.</span><br />
+              Limited supplies will be available for sale, so we recommend you craft one in advance. <br />
               Wind Chime Festival was created by Laurel Schwulst and Ellie Hunter in NYC.<br>
               This Toronto event will be hosted by Tiana Dueck with Volvox Vault.
               <br />
@@ -78,30 +79,6 @@
               ~Laurel and Ellie
               <br />
               </p>
-              <hr />
-              <h2>Invitation from Volvox Vault</h2>
-              <p class="windchime">
-              Join us on May 28th, 2022 @ 2pm in Toronto (<strong>Christie Pits Park</strong>) to
-              install or make your own original wind chime. (Rain
-              check: May 29th)<br>
-              Limited supplies will be available, so we recommend you craft one in advance. <br />
-              <a href="https://windchime.world/">Based in NYC?</a>
-            </p>
-            <hr />
-            <p
-              style="
-                background: white;
-                margin: 0px;
-                padding: 0px;
-              "
-            >
-              This is our timeline: <br>
-              March — artists learn about
-              festival and RSVP through <a href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform">this form</a>.<br />
-              April — artists work on and finish their wind chimes<br />
-              May — artists bring or make and install their own wind chime at
-              the festival in Toronto on the 28th @ 2pm!
-            </p>
             <hr />
             <h2 class="windchime">
               <a href="https://windchime.world/">Learn more about Wind Chime Festival.</a>
