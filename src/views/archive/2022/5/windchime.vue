@@ -20,7 +20,7 @@
               "
             >
               <span style="color: cornflowerblue"
-                >Christie Pits Park on May 28 from 12-6pm</span
+                >Saturday, May 28 from 12-6pm @ Christie Pits Park</span
               >
               </p>
               <hr />
