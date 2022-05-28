@@ -103,7 +103,7 @@
               <br />
             </p>
             <hr />
-            <h2 class="windchime">
+            <h2 class="windchime" style="font-weight: normal;">
               <a href="https://windchime.world/"
                 >Learn more about Wind Chime Festival.</a
               >
