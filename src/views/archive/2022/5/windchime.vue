@@ -4,25 +4,37 @@
       <main>
         <div>
           <div>
-            <h1 class="head windchime" style="font-weight: normal;">Wind Chime Festival ~ Toronto</h1>
+            <h1 class="head windchime" style="font-weight: normal">
+              Wind Chime Festival ~ Toronto
+            </h1>
 
-            <p class="headDes">
-             “artist-made wind chime festival” 
-            </p>
+            <p class="headDes">“artist-made wind chime festival”</p>
             <br />
-            <p style="
+            <p
+              style="
                 background: white;
                 margin: 0px;
                 padding: 5px;
                 text-align: center;
-              ">
-              <span style="color: cornflowerblue;">Join us at Christie Pits Park on May 28th from 12pm-6pm, to hang and craft artist-made wind chimes.</span> 
-              <br>
-              Limited supplies will be available for sale, so we recommend you craft one in advance. <br />
-              </p>
-              <hr />
-              <p><em>World Wide Wind Chime Festival</em> was created by Laurel Schwulst and Ellie Hunter in NYC. <a href="https://windchime.world/">Explore their online exhibition.</a><br>
-              This Toronto event will be hosted by Tiana Dueck with Volvox Vault.<br />
+              "
+            >
+              <span style="color: cornflowerblue"
+                >Join us at Christie Pits Park on May 28th from 12pm-6pm, to
+                hang and craft artist-made wind chimes.</span
+              >
+              <br />
+              Limited supplies will be available for sale, so we recommend you
+              craft one in advance. <br />
+            </p>
+            <hr />
+            <p>
+              <em>World Wide Wind Chime Festival</em> was created by Laurel
+              Schwulst and Ellie Hunter in NYC.
+              <a href="https://windchime.world/"
+                >Explore their online exhibition.</a
+              ><br />
+              This Toronto event will be hosted by Tiana Dueck with Volvox
+              Vault.<br />
             </p>
             <hr />
             <p
@@ -35,7 +47,9 @@
             >
               <a
                 href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform"
-                >I will be making a wind chime for the festival on May 28th. (RSVP)</a
+                style="color: cornflowerblue"
+                >I will be making a wind chime for the festival on May 28th.
+                (RSVP)</a
               >
             </p>
             <hr />
@@ -84,10 +98,12 @@
               <br /><br />
               ~Laurel and Ellie
               <br />
-              </p>
+            </p>
             <hr />
             <h2 class="windchime">
-              <a href="https://windchime.world/">Learn more about Wind Chime Festival.</a>
+              <a href="https://windchime.world/"
+                >Learn more about Wind Chime Festival.</a
+              >
             </h2>
           </div>
         </div>
