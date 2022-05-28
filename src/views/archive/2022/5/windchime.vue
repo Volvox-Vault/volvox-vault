@@ -14,7 +14,7 @@
               style="
                 background: white;
                 margin: 0px;
-                padding: 5px;
+                padding: 10px;
                 border-radius: 30px;
                 text-align: center;
               "
@@ -43,7 +43,7 @@
               style="
                 background: white;
                 margin: 0px;
-                padding: 5px;
+                padding: 10px;
                 border-radius: 30px;
                 text-align: center;
               "
