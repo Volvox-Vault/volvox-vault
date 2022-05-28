@@ -48,8 +48,7 @@
               <a
                 href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform"
                 style="color: cornflowerblue"
-                >I will be making a wind chime for the festival on May 28th.
-                (RSVP)</a
+                >RSVP: I will be making a wind chime for the festival.</a
               >
             </p>
             <hr />
