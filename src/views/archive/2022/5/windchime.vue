@@ -19,11 +19,11 @@
               "
             >
               <span style="color: cornflowerblue"
-                >Join us at Christie Pits Park on May 28th from 12pm-6pm, to
-                hang and craft artist-made wind chimes.</span
+                >Christie Pits Park on May 28 from 12-6pm</span
               >
-              <br />
-              Limited supplies will be available for sale, so we recommend you
+              </p>
+              <p>
+              Join us in sharing, crafting, and hearing wind chimes. Limited supplies will be available for sale, so we recommend you
               craft one in advance. <br />
             </p>
             <hr />
@@ -31,8 +31,8 @@
               <em>World Wide Wind Chime Festival</em> was created by Laurel
               Schwulst and Ellie Hunter in NYC.
               <a href="https://windchime.world/"
-                >Explore their online exhibition.</a
-              ><br />
+                >Explore their online exhibition</a
+              >.<br />
               This Toronto event will be hosted by Tiana Dueck with Volvox
               Vault.<br />
             </p>
