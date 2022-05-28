@@ -4,7 +4,7 @@
       <main>
         <div>
           <div>
-            <h1 class="head windchime">Wind Chime Festival ~ Toronto</h1>
+            <h1 class="head windchime" style="font-weight: normal;">Wind Chime Festival ~ Toronto</h1>
 
             <p class="headDes">
              “artist-made wind chime festival” 
