@@ -10,8 +10,13 @@
              “artist-made wind chime festival” 
             </p>
             <br />
-            <p>
-              <span style="color: yellowgreen;">Join us at Christie Pits Park on May 28th from 12pm-6pm, to hang and craft artist-made wind chimes.</span> Limited supplies will be available for sale, so we recommend you craft one in advance. <br />
+            <p style="
+                background: white;
+                margin: 0px;
+                padding: 0px;
+                text-align: center;
+              ">
+              <span style="color: cornflowerblue;">Join us at Christie Pits Park on May 28th from 12pm-6pm, to hang and craft artist-made wind chimes.</span> Limited supplies will be available for sale, so we recommend you craft one in advance. <br />
               </p>
               <hr />
               <p><em>World Wide Wind Chime Festival</em> was created by Laurel Schwulst and Ellie Hunter in NYC.<br>
