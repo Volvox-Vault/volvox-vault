@@ -8,7 +8,7 @@
               Wind Chime Festival ~ Toronto
             </h1>
 
-            <p class="headDes">an artist-made wind chime festival</p>
+            <p class="headDes">artist-made wind chime festival</p>
             <br />
             <p
               style="
@@ -56,6 +56,7 @@
             </p>
             <hr />
             <h2>Letter from Laurel and Ellie</h2>
+            <br>
             <p class="windchime">
               “We have a tendency to think of Earth as a closed system. It is
               not. We do not live in a sealed spacecraft, isolated from the
@@ -148,7 +149,7 @@ body {
 
 .head {
   text-align: center;
-  font-size: 20pt;
+  font-size: 25pt;
   line-height: 1.5;
 }
 
