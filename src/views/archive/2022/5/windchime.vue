@@ -8,13 +8,14 @@
               Wind Chime Festival ~ Toronto
             </h1>
 
-            <p class="headDes">“artist-made wind chime festival”</p>
+            <p class="headDes">an artist-made wind chime festival</p>
             <br />
             <p
               style="
                 background: white;
                 margin: 0px;
                 padding: 5px;
+                border-radius: 30px;
                 text-align: center;
               "
             >
@@ -43,6 +44,7 @@
                 background: white;
                 margin: 0px;
                 padding: 5px;
+                border-radius: 30px;
                 text-align: center;
               "
             >
