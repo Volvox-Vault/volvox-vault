@@ -22,6 +22,7 @@
                 >Christie Pits Park on May 28 from 12-6pm</span
               >
               </p>
+              <hr />
               <p>
               Join us in sharing, crafting, and hearing wind chimes. Limited supplies will be available for sale, so we recommend you
               craft one in advance. <br />
