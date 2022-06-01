@@ -35,10 +35,10 @@ export default {
             title: "Shop",
             colony: [
             {
-                header: 'Heart Launch',
-                des: '$10 CAD - welcome the heart issue with volvox and spirit josh on march 6th.',
+                header: 'Heart Issue',
+                des: '$30 - CAD FROM THE BOTTOM OF OUR HEARTS',
                 pic:'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/heart%20launch-01.jpg?v=1645111610488',
-                website: 'https://checkout.square.site/buy/SPH7VDOX5SCZEN6L52UBIMDI',
+                website: 'https://checkout.square.site/buy/NOKUU77SLZM72TCK6SWWENS7',
                 nav: '',
             },
             {
