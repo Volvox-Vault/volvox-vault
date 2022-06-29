@@ -1,35 +1,41 @@
 <template>
   <div id="app">
- 
-      <router-link to="/"
-        ><div id="header">
-          <p>volvox vault</p>
-        </div></router-link
-      >
- 
 
-    <div id="nav">
-      <div class="nav-pill">
-        <router-link to="/about"><p>about</p></router-link>
+    <div class="container">
+      <div class="box a">
+        <div class="bin1 sticky">
+          <div class="div1 box1">
+            <router-link to="/"><h1>VOLVOX OBSERVER</h1></router-link>
+          </div>
+          <div style="color: #212121; background: #fbfdf7" class="div2 box1">
+            <p>a public diary.</p>
+          </div>
+          <router-link to="/about" class="div3 box1">
+            <p>about</p>
+          </router-link>
+          <router-link to="/archive" class="div4 box1">
+            <p>archive</p>
+          </router-link>
+          <router-link to="/bulletin" class="div5 box1">
+            <p>bulletin</p>
+          </router-link>
+          <router-link to="/colony" class="div6 box1">
+            <p>colony</p>
+          </router-link>
+          <router-link to="/support" class="div7 box1">
+            <p>support</p>
+          </router-link>
+          <router-link to="/contribute" class="div8 box1">
+            <p>contribute</p>
+          </router-link>
+          <router-link to="/pond" class="div9 box1">
+            <p>pond chat</p>
+          </router-link>
+        </div>
       </div>
-      <div class="nav-pill">
-        <router-link to="/archive"><p>archive</p></router-link>
-      </div>
-      <div class="nav-pill">
-        <router-link to="/bulletin"><p>bulletin</p></router-link>
-      </div>
-      <div class="nav-pill">
-        <router-link to="/colony"><p>colony</p></router-link>
-      </div>
-      <div class="nav-pill">
-        <router-link to="/support"><p>support</p></router-link>
-      </div>
-      <div class="nav-pill">
-        <router-link to="/contribute"><p>contribute</p></router-link>
-      </div>
-    </div>
-
+<div class="box b">
     <slot />
+    </div></div>
   </div>
 </template>
 
@@ -40,147 +46,432 @@
   scrollbar-color: #e5e5e5 yellowgreen;
   scrollbar-width: thin !important;
 }
-
 body {
-  margin: 0 auto;
-  font-family: sans-serif;
-  background-color: #e5e5e5;
+  margin: 0px auto;
+  max-width: 3050px;
+  padding: 0px;
+  background: #f3f9e6;
+  max-height: 100vh;
+  font-family: hersheyFut, arial, sans-serif;
+  cursor: auto;
+
+  scrollbar-width: thin;
+  scrollbar-color: #212121 #fbfdf7;
 }
 
-p,
-h1,
-h2,
-h3,
-h4,
-a {
-  margin: 0;
-  padding: 0;
-  text-decoration: none;
+*::-webkit-scrollbar {
+  width: 12px;
 }
 
-::-moz-selection {
-  /* Code for Firefox */
-  color: ghostwhite;
-  background: yellowgreen;
+*::-webkit-scrollbar-track {
+  background: #fbfdf7;
 }
 
-::selection {
-  color: ghostwhite;
-  background: yellowgreen;
+*::-webkit-scrollbar-thumb {
+  background-color: #212121;
+  border-radius: 20px;
+  border: 3px solid #fbfdf7;
 }
 
-::-webkit-scrollbar {
-  width: 0.2em;
-  background-color: yellowgreen;
+@font-face {
+  font-family: hersheyTrip;
+  src: url(https://cdn.glitch.global/a19cf884-ad98-4fca-ae58-df109a77d14a/Hershey-Noailles-Times-Triplex-Light.otf?v=1654047866384);
 }
 
-::-webkit-scrollbar-thumb {
-  background-color: gainsboro;
+@font-face {
+  font-family: hersheyFut;
+  src: url(https://cdn.glitch.global/a19cf884-ad98-4fca-ae58-df109a77d14a/Hershey-Noailles-Futura-Simplex-Light.ttf?v=1654047866180);
 }
 
-/* HEADER */
-
-#header {
-  cursor: pointer;
-  margin: 20px;
-  background-color: yellowgreen;
-  width: 245px;
-  text-align: center;
-  font-size: 20pt;
-  padding: 33px;
-  padding-left: 32px;
-  -moz-border-radius: 100px / 50px;
-  -webkit-border-radius: 100px / 178px;
-  border-radius: 694px / 208px;
-  max-width: 300px;
-  text-decoration: none;
+h1 {
+  margin: 0px;
+  padding: 0px;
+  font-family: hersheyTrip, Times, serif;
+  font-size: 30px;
 }
 
-#header p {
-  color: ghostwhite;
-  transition: 2s;
-  width: 245px;
-}
-
-#header p:hover {
-  color: #9879a6;
-  text-decoration: none;
-}
-
-/* LOGO */
-
-.logo {
-  width: 30%;
-  max-width: 300px;
-  min-width: 200px;
-  margin: 20px;
-}
-
-/* NAVIGATION */
-#nav {
+.container {
   display: grid;
-  grid-template-columns: auto auto auto auto auto auto;
-  margin-top: 25px;
-  align-items: center;
+  grid-template-columns: 200px 1fr;
+  height: 100vh;
+  color: #212121;
+  max-height: 100vh;
+}
+
+.box {
+  border: 0.5px solid #212121;
+  border-collapse: collapse;
+}
+
+p {
+  font-size: 20px;
+}
+
+a {
+  text-decoration: none;
+}
+
+.sticky {
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width:200px;
+}
+
+.a {
+  overflow: hidden;
+}
+
+.bin1 {
+  background: #212121;
+  color: #fbfdf7;
+  height: 100vh;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(9, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.bin1 a {
+  color: #fbfdf7;
+  text-decoration: none;
+  transition: 3s;
+}
+
+.bin1 a:hover {
+  color: yellowgreen;
+}
+
+.box1,
+.bin1 a {
+  border-bottom: 0.5px solid #fbfdf7;
+  padding: 20px;
+  position: relative;
+}
+
+.div1 a {
+  border-bottom: 0px;
+  padding: 0px;
+  position: relative;
+}
+
+.div9 {
+  background: midnightblue;
+}
+
+.box2 {
+  max-height: 100vh;
+  overflow: auto;
+}
+
+.box1 p {
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+}
+
+.parent {
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(9, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+}
+
+.new-container {
+  display: grid;
+  border-bottom: 0.5px solid #212121;
+  grid-template-columns: 1fr 1fr 1fr;
+  color: #212121;
+  background: #fbfdf7;
+}
+
+.new-box p {
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
   text-align: center;
-  line-height: 1.5;
-  grid-gap: 1px;
-  box-sizing: border-box;
 }
 
-#nav > div {
-  padding: 12px;
+.new-container a {
+  color: #212121;
+  text-decoration: none;
+  transition: 3s;
 }
 
-.nav-pill {
-  box-shadow: 0 0 0 1px yellowgreen;
-  font-size: 12pt;
+.new-container a:hover {
+  color: yellowgreen;
 }
 
-.nav-pill p {
+.new-box {
+  background: #fbfdf7;
+  padding: 15px;
+  border-right: 1px dotted #212121;
+}
+
+.column-container {
+  display: grid;
+  grid-template-columns: 1fr;
+  margin-bottom: 80px;
+  grid-gap: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
+  margin-right: 10px;
+  margin-left: 10px;
+  font-family: hersheyTrip, Times, serif;
+}
+
+.column-box {
+  background: #212121;
+  border-radius: 50%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 34px;
+  margin-bottom: 0px;
+  text-align: center;
+  color: #fbfdf7;
+  width: 80%;
+
+  filter: blur(0);
+  transition: 3s;
+}
+
+.column-box p {
+  font-size: 30px;
+}
+
+.column-container a {
+  text-decoration: none;
+}
+
+.column-box:hover {
+  color: yellowgreen;
+}
+
+.col-1a,
+.col-2a,
+.col-3a,
+.col-4a,
+.col-5a,
+.col-6a {
+  display: block;
+}
+
+.column-box:hover .col-1a,
+.column-box:hover .col-2a,
+.column-box:hover .col-3a,
+.column-box:hover .col-4a,
+.column-box:hover .col-5a,
+.column-box:hover .col-6a {
+  display: none;
+}
+
+.col-1b,
+.col-2b,
+.col-3b,
+.col-4b,
+.col-5b,
+.col-6b {
+  display: none;
+}
+
+.column-box:hover .col-1b,
+.column-box:hover .col-2b,
+.column-box:hover .col-3b,
+.column-box:hover .col-4b,
+.column-box:hover .col-5b,
+.column-box:hover .col-6b {
+  display: block;
+}
+
+#myCanvas {
+  position: absolute;
+  width: 100%;
+  height: 100%;
+  pointer-events: none;
+}
+
+.bin3 {
+  color: #212121;
+  background: #fbfdf7;
+  height: 100vh;
+
+  display: grid;
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(9, 1fr);
+  grid-column-gap: 0px;
+  grid-row-gap: 0px;
+  overflow-y: auto;
+}
+
+.bin3 a:hover {
+  color: yellowgreen;
+}
+
+.bin3 a:hover img {
+  opacity: 0.7;
+}
+
+.bin3 a {
+  color: #212121;
+  text-decoration: none;
+  transition: 3s;
+  border-bottom: 0.5px solid #212121;
+  padding: 20px;
+  position: relative;
+}
+
+.box3 {
+  border-bottom: 0.5px solid #fbfdf7;
+  padding: 20px;
+  position: relative;
+}
+
+.bin3 .small {
+  margin: 0px;
+  padding: 0px;
+  font-size: 20px;
+}
+
+.bin3 .main {
+  margin: 0px;
+  padding: 0px;
+  font-size: 30px;
+  margin-bottom: 5px;
+}
+
+.box3 img {
+  float: right;
+  height: 100px;
+  border-radius: 100px;
   transition: 2s;
-  color: grey;
 }
 
-.nav-pill p:hover {
-  color: #9879a6;
-  cursor: pointer;
-}
-
-@media (min-width: 800px) {
-  .chat-block {
-    grid-column-start: 3;
-    grid-column-end: 5;
-    grid-row-start: 2;
-    grid-row-end: 2;
-  }
-}
-
-@media (max-width: 800px) {
-  .chat-block {
-    grid-row: 1;
+@media only screen and (min-width: 601px) {
+  .a {
+    height: 100vh;
   }
 
-  #nav {
-  grid-template-columns: repeat(3, 1fr);
-  }
+  .box1 p {
+    margin: 0px;
+    padding: 0px;
+    font-size: 20px;
 
-  #header {
-    margin-left: auto;
-    margin-right: auto;
+    position: absolute;
+    top: 50%;
+    -ms-transform: translate(0%, -50%);
+    transform: translate(0%, -50%);
   }
 }
 
-@media only screen and (max-device-width: 566px) {
-  .chat-block {
-    grid-row: 1;
+@media only screen and (max-width: 600px) {
+  body {
+    overflow: auto;
+    max-height: 3000px;
   }
-  #header {
-    margin-left: auto;
-    margin-right: auto;
+
+  .container {
+    display: grid;
+    grid-template-columns: 1fr;
+    height: 100%;
+    color: #212121;
   }
-  #nav {
-  grid-template-columns: repeat(3, 1fr);
+
+  .a {
+    height: 100%;
+  }
+
+  .bin1 {
+    background: #212121;
+    color: #fbfdf7;
+    height: 100%;
+
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 1fr;
+    grid-column-gap: 0px;
+    grid-row-gap: 0px;
+  }
+
+  .div1 {
+    grid-column: 1 / 4;
+  }
+  
+  .div2 {
+    grid-column: 1 / 4;
+  }
+  
+  .div3, .div4, .div6, .div7 {
+    border-right: 0.5px solid #fbfdf7;
+  }
+
+  .div9 {
+    grid-column: 1 / 4;
+    text-align: center;
+    background: midnightblue;
+  }
+
+  .box1,
+  .bin1 a {
+    padding: 20px;
+    text-align: center;
+  }
+
+  .box2 {
+    max-height: 100%;
+    overflow: hidden;
+  }
+
+  .new-container {
+    grid-template-columns: 1fr;
+  }
+
+  .new-box {
+    border-top: 1px dotted #212121;
+  }
+  
+  
+  
+  
+  
+
+  .topnav {
+    overflow: hidden;
+    background-color: #333;
+    position: relative;
+  }
+
+  .topnav #myLinks {
+    display: none;
+  }
+
+  .topnav a {
+    color: white;
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+    display: block;
+  }
+
+  .topnav a.icon {
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
+
+  .topnav a:hover {
+    background-color: #ddd;
+    color: black;
+  }
+
+  .active {
+    background-color: #04aa6d;
+    color: white;
   }
 }
 </style>

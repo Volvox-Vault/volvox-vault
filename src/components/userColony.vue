@@ -1111,7 +1111,7 @@ export default {
 /* BLOCKS */
 #blocks-Artists {
   display: grid;
-  grid-template-columns: repeat(5, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 25px;
   margin: 20px;
   padding: 0;

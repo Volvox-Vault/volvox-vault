@@ -257,9 +257,9 @@ export default {
 /* BLOCKS */
 #blocks-Archive {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
-  grid-gap: 15px;
-  margin: 20px;
+  grid-template-columns: repeat(3, 1fr);
+  grid-gap: 25px;
+  margin: 25px;
   line-height: 1.6;
 }
 
@@ -281,7 +281,7 @@ export default {
   border-collapse: collapse;
   background-color: #f0f7de;
   overflow: auto;
-  height: 35vh;
+  height: 300px;
   position: relative;
   transition: 2s;
   overflow: hidden;
@@ -305,8 +305,8 @@ export default {
 }
 
 .block-Archive-link {
-  font-size: 20px;
-  height: 31.5vh;
+  font-size: 25px;
+  height: 250px;
   text-align: center;
   color: grey;
   padding: 10px;

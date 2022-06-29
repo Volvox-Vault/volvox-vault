@@ -23,222 +23,93 @@
     
     </head>
 
-    <div id="blocks-Home">
-      <div class="block-Home community-block">
-        
+<div class="bin2">
+          <div class="box2">
+            <div class="new-container">
+              <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX"
+                ><div class="new-box">
+                  <p>NEWSPAPER</p>
+                </div></a
+              >
+              <router-link to="/windchime"
+                ><div class="new-box">
+                  <p>WIND CHIME FEST</p>
+                </div></router-link
+              >
+              <router-link to="/archive/lho"
+                ><div class="new-box">
+                  <p>LET'S HANG OUT</p>
+                </div></router-link
+              >
+            </div>
 
-
-        <div class="block-Home-header">Community</div>
-        <p class="block-Home-link">
-          <router-link to="/archive">Archive</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/bulletin">Bulletin</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/contribute">Contribute</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/horoscopes">Horoscopes</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/colony">Colony</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/support">Newsletter / Support</router-link>
-        </p>
-        <p class="block-Home-link">
-          <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX"
-            >Newspaper</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/about">About</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/shop">Shop</router-link>
-        </p>
-      </div>
-
-      <!-- ARTICLES -->
-      <div class="block-Home">
-        <div class="recent">
-          <div class="recent-Router">
-            <router-link to="/archive/LHO">Let's Hang Out</router-link>
+            <div class="column-container">
+              <div class="column-box">
+                  <p class="col-1a">UNDER CONSTRUCTION<br>
+                  We now offer a small honourarium for contributors,<br>
+                  and are launching a variety of columns.<br>
+                  I hope you enjoy our new website.<br>
+                  - tiana
+                  </p>
+                  <p class="col-1b">UNDER CONSTRUCTION<br>
+                  We now offer a small honourarium for contributors,<br>
+                  and are launching a variety of columns.<br>
+                  I hope you enjoy our new website.<br>
+                  - tiana</p>
+                </div>
+              <a href="/"
+                ><div class="column-box">
+                  <p class="col-6a">Projects & Events</p>
+                  <p class="col-6b">let's make something special together</p>
+                </div></a
+              >
+              <a href="/"
+                ><div class="column-box">
+                  <p class="col-6a">Publication Archive</p>
+                  <p class="col-6b">a whole world to discover</p>
+                </div></a
+              >
+              <a href="/"
+                ><div class="column-box">
+                  <p class="col-1a">Oscillations</p>
+                  <p class="col-1b">conversations with artists and friends</p>
+                </div></a
+              >
+              <a href="/comingsoon"
+                ><div class="column-box">
+                  <p class="col-2a">NEW - Dear Diary</p>
+                  <p class="col-2b">personal realizations</p>
+                </div></a
+              >
+              <a href="/"
+                ><div class="column-box">
+                  <p class="col-3a">NEW - Notebook</p>
+                  <p class="col-3b">lessons and tutorials</p>
+                </div></a
+              >
+              <a href="/comingsoon"
+                ><div class="column-box">
+                  <p class="col-4a">NEW - Feelings</p>
+                  <p class="col-4b">pieces that delve into a certain feeling</p>
+                </div></a
+              >
+              <a href="/"
+                ><div class="column-box">
+                  <p class="col-5a">NEW - Personal Gossip</p>
+                  <p class="col-5b">bites of community updates</p>
+                </div></a
+              >
+              <a href="/"
+                ><div class="column-box">
+                  <p class="col-6a">NEW - Kind Words</p>
+                  <p class="col-6b">exchanging kind words</p>
+                </div></a
+              >
+            </div>
           </div>
-          <div class="recent-Router">
-            <router-link to="/windchime"
-              >Wind Chime Festival</router-link
-            >
-          </div>
-          <div class="recent-Router">
-            <router-link to="/archive/neopets">The Proto-NFT: Unconverted Neopets</router-link>
-          </div>
-          <div class="recent-Router">
-            <router-link to="/archive/seasofnoise">Seas of Noise</router-link>
-          </div>
-        </div>
-      </div>
-
-      <!-- IMG -->
-      <div class="block-Home">
-        <router-link to="/issues/heart">  
-        <div class="block-Home-image" style="width: 100%; height: 100%;">
-        <img
-        style="padding: 10px;"
-          src="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fheart.png?v=1632189014516"
-        />
-        </div>
-        </router-link>
-      </div>
-
-      <!-- SHOP -->
-      <div class="block-Home" style="overflow: hidden">
-        <div class="block-Home-shop" style="text-decoration: none">
-          <router-link to="/shop" style="color: #9879a6">shop</router-link>
-        </div>
-      </div>
-
-      <!-- MUSIC -->
-      <div class="block-Home">
-        <div class="block-Home-header">Music</div>
-        <p class="block-Home-link">
-          <a href="https://jjeroboam.bandcamp.com/" target="_blank">JEROBOAM</a>
-        </p>
-        <p class="block-Home-link">
-          <a
-            href="https://76666.world/mixes/76666-ideals-19-inwoo-jung-for-those-with-heads-full-of-images/"
-            target="_blank"
-            >Inwoo Jung</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a href="https://soundcloud.com/76666" target="_blank">76666</a>
-        </p>
-        <p class="block-Home-link">
-          <a href="https://jacobnico.bandcamp.com/" target="_blank"
-            >Jacob Nico</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a href="https://virgorisingband.bandcamp.com/" target="_blank"
-            >Virgo Rising</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a href="https://soundcloud.com/foil_music" target="_blank">FOIL</a>
-        </p>
-        <p class="block-Home-link">
-          <a href="https://soundcloud.com/ohew" target="_blank">Ohew</a>
-        </p>
-        <p class="block-Home-link">
-          <a href="https://soundcloud.com/lp_sters" target="_blank">Sters</a>
-        </p>
-        <p class="block-Home-link">
-          <a href="https://packstheband.bandcamp.com/" target="_blank">PACKS</a>
-        </p>
-        <p class="block-Home-link">
-          <a href="https://glutenhead.bandcamp.com/" target="_blank"
-            >Glutenhead</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a href="https://alexnunes.bandcamp.com/" target="_blank"
-            >Alex Nunes</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a href="https://fanclubwallet.bandcamp.com/" target="_blank"
-            >fanclubwallet</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a href="https://lunali.bandcamp.com/" target="_blank">Luna Li</a>
-        </p>
-        <p class="block-Home-link">
-          <a href="https://astraking.bandcamp.com/" target="_blank"
-            >Astra King</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a href="https://horsechampion.bandcamp.com/releases" target="_blank"
-            >Horse Champion</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a
-            href="https://noahsauer.bandcamp.com/album/cloud-computer"
-            target="_blank"
-            >Cloud Computer</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a href="https://soundcloud.com/colliersir" target="_blank"
-            >Adam Collier</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a href="https://uncaughtinpromise.bandcamp.com/" target="_blank"
-            >Uncaught (in promise)</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a href="https://watersilk.bandcamp.com/" target="_blank"
-            >Water Silk</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a href="https://twothirtygabber.bandcamp.com/" target="_blank"
-            >Twothirty Gabber</a
-          >
-        </p>
-        <p class="block-Home-link">
-          <a
-            href="https://open.spotify.com/artist/1DSuFOePUh2gDFlxyuLxkD?si=joqGSaDUR8WJtBbS01Xz7w&nd=1"
-            target="_blank"
-            >People's Republic of Amsterdam</a
-          >
-        </p>
-      </div>
-
-      <!-- MAGAZINES / ADS-->
-
-      <div class="block-Home magazine-block">
-        <div class="block-Home-header">Magazine Issues</div>
-        <p class="block-Home-link">
-          <router-link to="/issues/heart">5: Heart</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/issues/metamorphosis">4: Metamorphosis</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/issues/aggregate">3: Aggregate</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/issues/proximity">2: Proximity</router-link>
-        </p>
-        <p class="block-Home-link">
-          <router-link to="/issues/identity">1: Identity</router-link>
-        </p>
         </div>
 
-      <!-- CHAT -->
-     <div class="block-Home chat-block-Home">
-       <router-link to="/pond">  <div class="block-Home-image-pond" style="width: 100%; height: 100%;">
-        <img class="block-Home-image-pond-img" src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504%2Fpond.png?v=1636858501765" />
-        <!--<button onclick="location.href='https://volvoxvault.com/pond'" type="button">
-         enter the pond</button>-->
-        <!--
-        <div class="block-Home-header">
-          <router-link to="/pond">Pond</router-link>
-        </div>
-        <div style="padding: 10px; padding-left: 14px">
-          <Chat />
-        </div>-->
-        </div></router-link>
-      </div>
 
-    </div>
   </MainLayout>
 </template>
 

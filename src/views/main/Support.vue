@@ -21,7 +21,7 @@
 
     <div class="newsletter-Support" style="padding: 20px;">
       <p style="font-style: italic; font-size: 12pt; line-height: 2;">Volvox Vault is funded by nice people like you. ♥<br>
-      Thank you to our patrons: Daniela Sandoval and Seán.</p>
+      Thank you to our patrons: Kristoffer Tjalve, Kalil Haddad, and Seán.</p>
     </div>
 
     <div class="newsletter-Support" style="padding: 25px; margin-bottom: 60px;">
@@ -47,6 +47,7 @@ export default {
 <style scoped>
 
 #blocks-Support {
+  overflow-y: auto;
   display: grid;
   grid-template-columns: repeat(3, 1fr);
   grid-gap: 20px;
@@ -69,7 +70,6 @@ a {
   font-weight: normal;
   font-size: 13px;
   cursor: pointer;
-  font-family: sans-serif;
 }
 
 .block-Support {
@@ -117,13 +117,11 @@ a {
   width: auto;
   line-height: 1.2;
   padding: 8px;
-  font-family: sans-serif;
   text-align: center;
 }
 
 iframe {
   border: none;
-  font-family: sans-serif;
 }
 
 
