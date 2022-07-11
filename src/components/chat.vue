@@ -48,7 +48,7 @@
           placeholder="what are you up to?"
           v-model="message"
           required
-        /> <input type="submit" class="send" value="Send" />
+        /> <input type="submit" class="send" value="send" />
         </div>
       </form>
 
@@ -341,7 +341,7 @@ form {
   border: #fbfdf7;
   margin-right: 8px;
   font-size: 15pt;
-  width: 95%;
+  width: 90%;
 }
 
 placeholder {
