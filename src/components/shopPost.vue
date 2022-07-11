@@ -135,7 +135,7 @@ export default {
 
   .block-Shop-header {
     color: #212121;
-    font-size: 12pt;
+    font-size: 15pt;
     font-weight: bold;
     padding: 10px;
     border-bottom: 1px solid #212121;
@@ -144,7 +144,7 @@ export default {
   }
 
   .block-Shop-link {
-    font-size: 12pt;
+    font-size: 15pt;
     color: #212121;
     padding: 10px;
     border-bottom: 1px solid #212121;
@@ -166,7 +166,7 @@ export default {
     text-decoration: none;
     margin-top: 35%;
     margin-bottom: 45%;
-    font-size: 10vh;
+    font-size: 15pt;
     max-height: 50vh;
   }
 

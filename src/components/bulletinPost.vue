@@ -179,7 +179,7 @@ export default {
 
 .block-Collab-header {
   color: #212121;
-  font-size: 12pt;
+  font-size: 15pt;
   font-weight: bold;
   padding: 10px;
   border-bottom: 1px solid #212121;
@@ -189,7 +189,7 @@ export default {
 }
 
 .block-Collab-link {
-  font-size: 12pt;
+  font-size: 15pt;
   color: #212121;
   padding: 10px;
   word-wrap: break-word;

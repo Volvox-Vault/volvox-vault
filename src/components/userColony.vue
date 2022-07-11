@@ -1138,7 +1138,7 @@ export default {
 
 .block-Artists-header {
   color: #f3f9e6;
-  font-size: 12pt;
+  font-size: 15pt;
   font-weight: bold;
   padding: 10px;
   padding-bottom: 5px;
@@ -1148,7 +1148,7 @@ export default {
 }
 
 .block-Artists-link {
-  font-size: 12pt;
+  font-size: 15pt;
   color: #f3f9e6;
   padding: 10px;
   padding-top: 5px;
