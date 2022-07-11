@@ -123,6 +123,7 @@ export default {
 
 .block-About-link img {
   float: right;
+  max-width: 250px;
   padding-bottom: 15px;
   padding-left: 15px;
 }
