@@ -311,6 +311,7 @@ input[type="submit"] {
   padding: 3px;
   margin-left: 1px;
   font-size: 15pt;
+  font-family:  hersheyFut, arial, sans-serif;
 }
 
 #code,
@@ -326,7 +327,7 @@ form {
 
 .write {
   color: #fbfdf7;
-  width: 70%;
+  width: 90%;
   min-width: 200px;
   border: #fbfdf7;
   margin-right: 8px;
@@ -344,7 +345,7 @@ placeholder {
 
 .write:hover,
 .write:focus {
-  border: grey;
+  border: #fbfdf7;
   outline: none;
 }
 
