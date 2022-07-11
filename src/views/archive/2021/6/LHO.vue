@@ -821,6 +821,13 @@
 <script>
 export default {
   name: "LHO",
+  
+  beforeCreate () {
+    document.querySelector('body').setAttribute('style', 'background:#e5e5e5')
+  },
+  beforeDestroy () {
+    document.querySelector('body').setAttribute('style', '')
+  }
 };
 </script>
 
@@ -829,10 +836,14 @@ export default {
   fill: #151349;
 }
 
+html {
+  background: #e5e5e5;
+}
+
 body {
   cursor: grab;
   padding: 80px;
-  background-color: #e5e5e5;
+  background: #e5e5e5;
 }
 
 .cls-1 {
@@ -844,6 +855,7 @@ main {
   margin: 0 auto;
   min-width: 300px;
   margin-bottom: 60px;
+  background-color: #e5e5e5;
 }
 
 p {
@@ -860,6 +872,7 @@ a {
 @media only screen and (max-device-width: 800px) {
   body {
     padding: 20px;
+    background-color: #e5e5e5;
   }
 }
 </style>

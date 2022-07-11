@@ -326,8 +326,7 @@ export default {
 
 <style scoped>
 body {
-  font-family: arial, sans-serif;
-  color: grey;
+  line-height: 2;
 }
 
 h1,

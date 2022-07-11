@@ -163,7 +163,7 @@
         <br />
         <p style="font-size: 10pt">
           Thank you to Jerome for sharing your perspectives and trusting me to
-          write this piece. I am so grateful.
+          write this piece. <br>I am so grateful.
         </p>
         <br />
 
@@ -190,23 +190,17 @@ export default {
 <style scoped>
 body {
   line-height: 2;
-  color: grey;
-  font-family: arial, sans-serif;
 }
 
 .head {
   text-align: center;
-  font-size: 15pt;
+  font-size: 20pt;
 }
 
 .headDes {
   text-align: center;
   padding: 15px;
   color: yellowgreen;
-}
-
-p {
-  font-size: 13pt;
 }
 
 a {

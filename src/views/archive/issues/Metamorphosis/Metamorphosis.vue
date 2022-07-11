@@ -106,6 +106,12 @@ export default {
   components: {
     MainLayout,
   },
+   beforeCreate () {
+    document.querySelector('body').setAttribute('style', 'background: #76448a')
+  },
+  beforeDestroy () {
+    document.querySelector('body').setAttribute('style', '')
+  }
 };
 </script>
 
@@ -115,7 +121,7 @@ body {
   height: 100%;
   padding-top: 60px;
   padding-bottom: 60px;
-  font-family: Arial, Helvetica, sans-serif;
+  line-height: 2;
 }
 
 @font-face {
@@ -132,7 +138,7 @@ body {
   max-width: 700px;
   border-radius: 30px;
   background: rgba(215, 189, 226, 0.5);
-  color: #76448a;
+  color: #212121;
   padding: 35px;
   box-shadow: 0 3px 10px rgb(215 189 226 / 0.5);
   line-height: 2;
@@ -178,5 +184,8 @@ td {
 video, iframe {
   border-radius: 30px;
   box-shadow: 0 5px 10px rgb(215 189 226 / 0.5);
+}
+main {
+  margin-bottom: 60px;
 }
 </style>

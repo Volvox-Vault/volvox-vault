@@ -2,7 +2,7 @@
   <MainLayout>
     <body>
       <main>
-        <div>
+        <div class="main">
           <div>
             <h1 class="head windchime" style="font-weight: normal">
               Wind Chime Festival ~ Toronto
@@ -134,8 +134,6 @@ export default {
 <style scoped>
 body {
   line-height: 2;
-  color: grey;
-  font-family: arial, sans-serif;
 }
 
 @font-face {
@@ -157,10 +155,6 @@ body {
   text-align: center;
   padding-top: 15px;
   color: yellowgreen;
-}
-
-p {
-  font-size: 14pt;
 }
 
 a {

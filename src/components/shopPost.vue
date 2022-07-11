@@ -16,7 +16,6 @@
             
                 <img v-bind:src="item.pic"/>
       
-                <br>
             </div>
 
         </div>
@@ -107,84 +106,53 @@ export default {
     width: 100%;
     margin: 0px;
     padding: 0px;
+    display: block;
   }
 
-  .shop-event {
-    background-color: #f0f7de;
-  }
-
-    .shop-c4c {
-    background-color: #d0e8a0;
-  }
-
-    .shop-update {
-    background-color: #b1d961;
-  }
-
-    .shop-release {
-    background-color: #f7fbef;
-  }
-
-  .shop-select-nav {
-    margin: 20px;
-    margin-top: 30px;
-    margin-bottom: 30px;
-    color: grey;
-  }
-
-  .shop-select {
-    border: 1px solid yellowgreen;
-    padding: 8px;
+  p {
+    margin: 0px;
   }
 
   /* BLOCKS */
   #blocks-Shop {
     display: grid;
-    grid-template-columns: repeat(4, 1fr);
-    grid-gap: 25px;
-    margin:20px;
+    grid-template-columns: repeat(3, 1fr);
+    grid-gap: 15px;
+    margin:15px;
     padding: 0;
   }
 
   .block-Shop {
     line-height: 1.6;
-    border: 1px solid yellowgreen;
+    border: 1px solid #212121;
       border-collapse: collapse;
     overflow-y: auto;
     overflow-x: hidden;
     height: 300px;
-    background-color: #f0f7de;
+    background-color: #fbfdf7;
   }
 
 
   .block-Shop-header {
-    color: grey;
+    color: #212121;
     font-size: 12pt;
     font-weight: bold;
     padding: 10px;
-    border-bottom: 1px solid yellowgreen;
+    border-bottom: 1px solid #212121;
     align-items: center;
-  }
-
-  .block-Shop-nav {
-    color: grey;
-    transition: 2s;
-  }
-
-  .block-Shop-nav:hover {
-    color: yellowgreen;
+    margin: 0px;
   }
 
   .block-Shop-link {
     font-size: 12pt;
-    color: grey;
+    color: #212121;
     padding: 10px;
-    border-bottom: 1px solid yellowgreen;
+    border-bottom: 1px solid #212121;
     align-items: center;
   }
 
   .block-Shop-link a{
-    color: grey;
+    color: #212121;
     text-decoration: none;
   }
 
@@ -198,7 +166,6 @@ export default {
     text-decoration: none;
     margin-top: 35%;
     margin-bottom: 45%;
-    color: ghostwhite;
     font-size: 10vh;
     max-height: 50vh;
   }

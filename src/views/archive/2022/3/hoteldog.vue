@@ -107,8 +107,6 @@ export default {
 <style scoped>
 body {
   line-height: 2;
-  color: grey;
-  font-family: arial, sans-serif;
 }
 
 .HotelQ {
@@ -126,10 +124,6 @@ body {
   text-align: center;
   padding-top: 15px;
   color: yellowgreen;
-}
-
-p {
-  font-size: 13pt;
 }
 
 a {

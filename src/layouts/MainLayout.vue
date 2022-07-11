@@ -25,8 +25,8 @@
           <router-link to="/support" class="div7 box1">
             <p>support</p>
           </router-link>
-          <router-link to="/contribute" class="div8 box1">
-            <p>contribute</p>
+          <router-link to="/shop" class="div7 box1">
+            <p>shop</p>
           </router-link>
           <router-link to="/pond" class="div9 box1">
             <p>pond chat</p>
@@ -43,7 +43,7 @@
 <style>
 
 * {
-  scrollbar-color: #e5e5e5 yellowgreen;
+  scrollbar-color: #e5e5e5 #f3f9e6;
   scrollbar-width: thin !important;
 }
 body {
@@ -54,6 +54,8 @@ body {
   max-height: 100vh;
   font-family: hersheyFut, arial, sans-serif;
   cursor: auto;
+  color: #212121;
+
 
   scrollbar-width: thin;
   scrollbar-color: #212121 #fbfdf7;
@@ -88,6 +90,7 @@ h1 {
   padding: 0px;
   font-family: hersheyTrip, Times, serif;
   font-size: 30px;
+  font-weight: normal;
 }
 
 .container {
@@ -99,12 +102,11 @@ h1 {
 }
 
 .box {
-  border: 0.5px solid #212121;
   border-collapse: collapse;
 }
 
 p {
-  font-size: 20px;
+  font-size: 15pt;
 }
 
 a {
@@ -159,7 +161,7 @@ a {
 }
 
 .div9 {
-  background: midnightblue;
+  background: #664b71;
 }
 
 .box2 {
@@ -367,7 +369,7 @@ a {
   }
 }
 
-@media only screen and (max-width: 600px) {
+@media only screen and (max-device-width:566px) {
   body {
     overflow: auto;
     max-height: 3000px;
@@ -411,7 +413,7 @@ a {
   .div9 {
     grid-column: 1 / 4;
     text-align: center;
-    background: midnightblue;
+    background: #664b71;
   }
 
   .box1,

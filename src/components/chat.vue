@@ -251,7 +251,7 @@ const colors = (hash) =>
 
 <style>
 .linkified {
-  color: yellowgreen;
+  color: #fbfdf7;
   text-decoration: underline;
 }
 
@@ -260,13 +260,13 @@ const colors = (hash) =>
 }
 
 .linkified:visited {
-  color: grey;
+  color: #fbfdf7;
 }
 </style>
 
 <style scoped>
 #chat {
-  color: grey;
+  color: #fbfdf7;
   line-height: 2;
   font-size: 12pt;
 }
@@ -279,7 +279,7 @@ const colors = (hash) =>
 
 #error {
   background: yellowgreen;
-  color: grey;
+  color: #fbfdf7;
   font-size: 80%;
   padding: 4px;
 }
@@ -305,8 +305,8 @@ const colors = (hash) =>
 input,
 input:focus,
 input[type="submit"] {
-  color: grey;
-  outline: 1px solid grey;
+  color: #fbfdf7;
+  outline: 1px solid #fbfdf7;
   background: none;
   padding: 3px;
   margin-left: 1px;
@@ -325,20 +325,20 @@ form {
 }
 
 .write {
-  color: grey;
+  color: #fbfdf7;
   width: 70%;
   min-width: 200px;
-  border: grey;
+  border: #fbfdf7;
   margin-right: 8px;
   font-size: 12pt;
 }
 
 placeholder {
-  color: grey;
+  color: #fbfdf7;
 }
 
 .send {
-  color: grey;
+  color: #fbfdf7;
   font-size: 12pt;
 }
 
@@ -350,7 +350,7 @@ placeholder {
 
 hr {
   border: 0px;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid #fbfdf7;;
 }
 
 #code {

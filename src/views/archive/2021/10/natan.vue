@@ -456,8 +456,6 @@ export default {
 <style scoped>
 body {
   line-height: 2;
-  color: grey;
-  font-family: arial, sans-serif;
   height: 100%;
   padding-top: 60px;
   padding-bottom: 60px;
@@ -481,7 +479,7 @@ body {
 }
 
 p {
-  font-size: 13pt;
+  font-size: 15pt;
 }
 
 a {
@@ -503,6 +501,7 @@ a:hover {
   background-color: rgb(255, 255, 255, 0.6);
   padding: 40px;
   border-radius: 45px;
+  margin-bottom: 60px;
 }
 
 img {
@@ -569,7 +568,7 @@ h2 {
 }
 
 .q {
-  color: yellowgreen;
+  color: grey;
 }
 
 @media (max-width: 800px) {

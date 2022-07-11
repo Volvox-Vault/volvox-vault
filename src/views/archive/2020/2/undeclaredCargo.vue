@@ -133,8 +133,6 @@ export default {
 <style scoped>
 body {
   line-height: 2;
-  color: grey;
-  font-family: arial, sans-serif;
 }
 
 .head {
@@ -147,11 +145,6 @@ body {
   padding-top: 15px;
   padding-bottom: 15px;
   color: yellowgreen;
-}
-
-p {
-  font-size: 13pt;
-  padding-bottom: 20px;
 }
 
 a {

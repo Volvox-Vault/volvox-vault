@@ -3,43 +3,45 @@
     <div id="blocks-About">
       <!-- ABOUT -->
       <div class="block-About">
-        <p class="block-About-header">about</p>
+        <p class="block-About-header">ABOUT</p>
         <p class="block-About-link">
           <img style="width: 25%" src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504%2FAsset%201.png?v=1637158464886" />
-          Volvox is a thoughtful creative space.
+          Volvox is a thoughtful creative community.
 
-          <br /><br />
+          <br />
           A
           <a href="https://en.wikipedia.org/wiki/Volvox" target="_blank"
             >volvox</a
           >
           is a type of algae colony made up of smaller volvox colonies. It's a
           similar matrix sensation to when you point your front camera into a
-          mirror.<br />
-          The volvox would not exist without its colonies... likewise, as
+          mirror. The volvox would not exist without its colonies... likewise, as
           creatives and human beings we thrive with support from our colonies /
-          communities.
-          <br />Volvox Vault is a special place to mindfully come together, and
-          archive our creations and connections. <br /><br />
+          communities. Volvox Observer is a special hub to mindfully come together and
+          archive our creations and connections.
+        </p>
 
-          Similar to how organisms like algae evolve over time, we too are
-          always changing.<br />
-          After our Heart issue, we are shifting our focus from
-          semi-annual magazines, to annual publications of our online content.<br />
-          This way our content becomes more accessible, while still maintaining
-          our love for print.<br />
-          Our seasonal newspaper Volvox Times, a newspaper
-          for creative community updates, will continue as usual. 
-          <br /><br />
-          Pitch to hello@volvoxvault.com <br />
-          We are looking for thought provoking:<br />
-          &#10023; Solo or collaborative creative projects<br />
-          &#10023; Articles<br />
-          &#10023; Interviews<br />
-          &#10023; Art (visual, written, digital, analog, films, photos, so on)<br />
-          <router-link to="contribute">Guidelines</router-link>
-          <br /><br />
-          If you would like, you can support us on <a href="https://www.patreon.com/volvoxvault">patreon</a> or <router-link to="support">some other way</router-link>.
+        <p style="text-align: center; max-width: 450px; margin: 40px auto;padding: 50px; background: #fbfdf7; border-radius: 100px; color: #212121;">
+      <b>CONTRIBUTE</b><br><br>
+      
+      We are seeking 1-2 contributers per month.<br>
+      As a small community effort, we offer...<br> 
+      $50 for pieces over 1000 words<br> 
+      $30 for pieces between 500-999 words<br> 
+      $20 for mini pieces between 300-500 words<br> 
+      Email us about pricing for visual focused pieces.
+      <br><br>
+  
+      Got an idea? Send your pitch to hello@volvoxvault.com (email change coming soon)
+      <br><br>
+      Want to support us so we can pay our contributors?
+      <br>
+<a href="https://patreon.com/volvoxvault">Join our Patreon</a>
+      or email us about buying ad space.
+    </p>
+
+    <p class="block-About-link" style="text-align: center;">
+       If you would like, you can support us on <a href="https://www.patreon.com/volvoxvault">patreon</a> or <router-link to="support">some other way</router-link>.
           <br /><br />
           Community Manager —
           <a href="https://tiana.computer/" target="_blank">Tiana Dueck</a
@@ -52,7 +54,7 @@
           <router-link to="/contribute">Join our team.</router-link><br /><br />
 
           hello@volvoxvault.com
-        </p>
+    </p>
       </div>
     </div>
 
@@ -77,18 +79,16 @@ export default {
 <style scoped>
 /* BLOCKS */
 #blocks-About {
-  margin: 20px;
+  margin: 0px;
   display: grid;
   grid-template-columns: repeat(1, 1fr);
   grid-row-gap: 0;
-  padding: 0;
   grid-gap: 10px;
 }
 
 .block-About {
-  background-color: #f0f7de;
-  color: grey;
-  border: 1px solid yellowgreen;
+  background-color: #f3f9e6;
+  color: #212121;
   border-collapse: collapse;
   overflow: auto;
   width: 100%;
@@ -98,20 +98,23 @@ export default {
 }
 
 .block-About-header {
-  font-size: 15pt;
+  font-size: 20pt;
   font-weight: bold;
-  color: grey;
+  color: #212121;
+  font-family: hersheyTrip;
+  text-align: center;
 
-  background-color: Gainsboro;
+  background-color: #cbbad2;
 
   padding: 15px;
+  margin: 0px;
 
-  border-bottom: 1px solid yellowgreen;
+  border-bottom: 1px solid #212121;
   align-items: center;
 }
 
 .block-About-link {
-  font-size: 12pt;
+  font-size: 15pt;
 
   padding: 15px;
 

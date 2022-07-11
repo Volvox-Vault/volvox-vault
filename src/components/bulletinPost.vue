@@ -156,38 +156,11 @@ export default {
 
 
 <style>
-.bulletin-event {
-  background-color: #f0f7de;
-}
-
-.bulletin-c4c {
-  background-color: #d0e8a0;
-}
-
-.bulletin-update {
-  background-color: #b1d961;
-}
-
-.bulletin-release {
-  background-color: #f7fbef;
-}
-
-.bulletin-select-nav {
-  margin: 20px;
-  margin-top: 30px;
-  margin-bottom: 30px;
-  color: grey;
-}
-
-.bulletin-select {
-  border: 1px solid yellowgreen;
-  padding: 8px;
-}
 
 /* BLOCKS */
 #blocks-Collab {
   display: grid;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 25px;
   margin: 20px;
   padding: 0;
@@ -196,31 +169,33 @@ export default {
 }
 
 .block-Collab {
-  border: 1px solid yellowgreen;
+  border: 1px solid #212121;
   border-collapse: collapse;
   overflow: auto;
   height: 200px;
   word-break: break-all;
-  background-color: #f7fbef;
+  background-color: #fbfdf7;
 }
 
 .block-Collab-header {
-  color: grey;
+  color: #212121;
   font-size: 12pt;
   font-weight: bold;
   padding: 10px;
-  border-bottom: 1px solid yellowgreen;
+  border-bottom: 1px solid #212121;
   align-items: center;
   word-break: break-all;
+  margin:0px;
 }
 
 .block-Collab-link {
   font-size: 12pt;
-  color: grey;
+  color: #212121;
   padding: 10px;
   word-wrap: break-word;
-  border-bottom: 1px solid yellowgreen;
+  border-bottom: 1px solid #212121;
   align-items: center;
+  margin:0px;
 }
 
 .block-Collab-link a {

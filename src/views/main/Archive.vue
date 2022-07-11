@@ -1,7 +1,7 @@
 <template>
   <MainLayout>
 
-    <ArchivePost></ArchivePost>
+    <ArchivePost sort="item.type === 'interview'"/>
 
   </MainLayout>
 </template>

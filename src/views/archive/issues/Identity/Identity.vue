@@ -299,8 +299,7 @@ export default {
 
 <style scoped>
 body {
-  font-family: arial, sans-serif;
-  color: grey;
+line-height: 2;
 }
 
 h1,
@@ -365,6 +364,10 @@ main {
 }
 #blocks .list a {
   display: block;
+}
+
+main {
+  margin-bottom: 60px;
 }
 
 @media (max-width: 800px) {

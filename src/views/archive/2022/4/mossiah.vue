@@ -80,8 +80,7 @@ export default {
 <style scoped>
 body {
   line-height: 2;
-  color: grey;
-  font-family: arial, sans-serif;
+  margin-bottom: 90px;
 }
 
 .head {
@@ -94,10 +93,6 @@ body {
   text-align: center;
   padding-top: 15px;
   color: yellowgreen;
-}
-
-p {
-  font-size: 13pt;
 }
 
 a {

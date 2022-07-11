@@ -57,19 +57,19 @@
                   I hope you enjoy our new website.<br>
                   - tiana</p>
                 </div>
-              <a href="/"
+              <a href="/archive#projects"
                 ><div class="column-box">
                   <p class="col-6a">Projects & Events</p>
                   <p class="col-6b">let's make something special together</p>
                 </div></a
               >
-              <a href="/"
+              <a href="/archive#magazines"
                 ><div class="column-box">
                   <p class="col-6a">Publication Archive</p>
                   <p class="col-6b">a whole world to discover</p>
                 </div></a
               >
-              <a href="/"
+              <a href="https://open.spotify.com/show/2fo1GJaSCXUBF5iMCZgBQJ"
                 ><div class="column-box">
                   <p class="col-1a">Oscillations</p>
                   <p class="col-1b">conversations with artists and friends</p>
@@ -81,7 +81,7 @@
                   <p class="col-2b">personal realizations</p>
                 </div></a
               >
-              <a href="/"
+              <a href="/archive#notebook"
                 ><div class="column-box">
                   <p class="col-3a">NEW - Notebook</p>
                   <p class="col-3b">lessons and tutorials</p>
@@ -93,13 +93,13 @@
                   <p class="col-4b">pieces that delve into a certain feeling</p>
                 </div></a
               >
-              <a href="/"
+              <a href="/archive#gossip"
                 ><div class="column-box">
                   <p class="col-5a">NEW - Personal Gossip</p>
                   <p class="col-5b">bites of community updates</p>
                 </div></a
               >
-              <a href="/"
+              <a href="/kindwords"
                 ><div class="column-box">
                   <p class="col-6a">NEW - Kind Words</p>
                   <p class="col-6b">exchanging kind words</p>

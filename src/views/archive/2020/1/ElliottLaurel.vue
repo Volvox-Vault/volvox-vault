@@ -113,7 +113,7 @@
           These projects are still forming but here are a few values behind
           those ones…
         </p>
-        <ul style="list-style-type: circle; font-size: 12pt">
+        <ul style="list-style-type: circle;">
           <li>
             Things don’t have to be complete (websites are never complete) but
             they should achieve their goals and work (not break).
@@ -698,25 +698,16 @@ export default {
 <style scoped>
 body {
   line-height: 2;
-  color: grey;
-  font-family: arial, sans-serif;
 }
 
 .head {
   text-align: center;
-  font-size: 20pt;
 }
 
 .headDes {
   padding-top: 15px;
   padding-bottom: 15px;
-  font-size: 12pt;
   color: grey;
-}
-
-p,
-a {
-  font-size: 14pt;
 }
 
 a {
@@ -797,7 +788,6 @@ img {
 .sub {
   background-color: transparent;
   text-shadow: 1px 2px 5px yellowgreen;
-  font-size: 25px;
   color: grey;
 }
 

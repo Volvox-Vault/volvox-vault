@@ -27,7 +27,7 @@
           <router-link to="/"><p class="header">volvox pond</p></router-link>
         </span>
         <hr />
-        <p style="color: grey; line-height: 2; margin-bottom: 20px">
+        <p style="color: #fbfdf7; line-height: 2; margin-bottom: 20px">
           volvox pond is an ecosystem. it is cleaned every 48 hours.
           <br />
           <!--<iframe
@@ -51,20 +51,19 @@
         </div>
       </div>
 
-      <footer
+      <!--<footer
         style="
           position: fixed;
           bottom: 20px;
           right: 20px;
           width: 100%;
-          background-color: none;
         "
       >
         <img
           src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504%2Fpond.png?v=1636858501765"
           class="pondpic"
         />
-      </footer>
+      </footer>-->
     </div>
   </div>
 </template>
@@ -87,16 +86,17 @@ export default {
 
 <style scoped>
 * {
-  scrollbar-color: grey midnightblue;
+  scrollbar-color: #9879a6 #fbfdf7;
   scrollbar-width: thin !important;
 }
 
 body {
-  background-color: midnightblue;
+  background-color: #fbfdf7;
+  color: #fbfdf7;
 }
 
 a {
-  color: grey;
+  color: #fbfdf7;
   text-decoration: underline;
 }
 
@@ -107,37 +107,39 @@ a:hover {
 
 .pond {
   height: 100vh;
-  background-color: midnightblue;
+  background-color: #664b71;
 }
 
 .header {
   text-align: right;
   text-decoration: none;
-  font-size: 14pt;
+  font-size: 20pt;
+  margin:0px;
 }
 
 .top a {
-  color: yellowgreen;
+  color: #fbfdf7;
   text-decoration: none;
 }
 .top a:hover {
-  color: grey;
-  text-decoration: none;
+  color: #fbfdf7;
+  text-decoration: underline;
 }
 
 .space {
   padding: 20px;
-  background-color: midnightblue;
+  background-color: #664b71;
 }
 
 .chatness {
   height: 70vh;
   overflow-y: auto;
+  color: #fbfdf7;
 }
 
 hr {
   border: none;
-  border-bottom: 1px solid grey;
+  border-bottom: 1px solid #fbfdf7;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -158,7 +160,7 @@ hr {
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: grey;
+  background-color: #fbfdf7;
 }
 
 iframe {

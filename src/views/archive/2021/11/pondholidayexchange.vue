@@ -184,6 +184,12 @@ export default {
       // title will be injected into parent titleTemplate
       title: 'Pond Holiday Exchange'
     },
+    beforeCreate () {
+    document.querySelector('body').setAttribute('style', 'background: black')
+  },
+  beforeDestroy () {
+    document.querySelector('body').setAttribute('style', '')
+  }
 };
 </script>
 
@@ -191,8 +197,8 @@ export default {
 body {
   color: white;
   background: black;
-  font-family: arial, sans-serif;
   line-height: 2;
+  font-size: 25pt;
 }
 
 table {
@@ -213,14 +219,14 @@ marquee {
   color: white;
   scrollamount: 1;
   behaviour: scroll;
-  font-size: 10pt;
+  font-size: 20pt;
 }
 
 h1 {
   font-weight: normal;
   padding: 0px;
   margin: 0px;
-  font-size: 20px;
+  font-size: 25px;
 
 }
 
@@ -236,7 +242,7 @@ ul {
   margin: 0px;
   padding: 0px;
   padding-left:15px;
-  font-size: 15px;
+  font-size: 15pt;
 
 }
 </style>

@@ -281,8 +281,6 @@ export default {
 <style scoped>
 body {
   line-height: 2;
-  color: grey;
-  font-family: arial, sans-serif;
 }
 
 .head {
@@ -297,9 +295,6 @@ body {
   color: yellowgreen;
 }
 
-p {
-  font-size: 13pt;
-}
 
 a {
   color: yellowgreen;

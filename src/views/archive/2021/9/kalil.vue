@@ -213,6 +213,12 @@ export default {
   components: {
     MainLayout,
   },
+  beforeCreate () {
+    document.querySelector('body').setAttribute('style', 'background: navy')
+  },
+  beforeDestroy () {
+    document.querySelector('body').setAttribute('style', '')
+  }
 };
 </script>
 
@@ -220,7 +226,6 @@ export default {
 body {
   line-height: 2;
   color: white;
-  font-family: arial, sans-serif;
   background-color: navy;
   height: 100%;
   padding-top: 60px;
@@ -240,7 +245,7 @@ body {
 }
 
 p {
-  font-size: 13pt;
+  font-size: 15pt;
 }
 
 a {
@@ -262,6 +267,7 @@ a:hover {
   background-color: rgb(111, 111, 111, 0.4);
   padding: 40px;
   border-radius: 45px;
+  margin-bottom: 60px;
 }
 
 img {

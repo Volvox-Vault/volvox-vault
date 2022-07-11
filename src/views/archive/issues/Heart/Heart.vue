@@ -8,7 +8,7 @@
       <hr />
 
       <p style="text-align: center">
-        <router-link to="/">Volvox Vault's</router-link> 5th issue, 60
+        <router-link to="/">Volvox Observer's</router-link> 5th issue, 60
         hand-bound pages inspired by love, friendship, and empathy.<br />
         <u>FROM THE BOTTOM OF OUR HEARTS</u>
       </p>
@@ -164,6 +164,12 @@ export default {
     // title will be injected into parent titleTemplate
     title: "HEART",
   },
+   beforeCreate () {
+    document.querySelector('body').setAttribute('style', 'background: ivory')
+  },
+  beforeDestroy () {
+    document.querySelector('body').setAttribute('style', '')
+  }
 };
 </script>
 
@@ -176,9 +182,7 @@ export default {
 body {
   background: radial-gradient(closest-side, white, ivory);
   padding: 60px;
-  font-family: Arial, Helvetica, sans-serif;
   line-height: 2;
-  color: grey;
 }
 h1 {
   font-size: 100pt;

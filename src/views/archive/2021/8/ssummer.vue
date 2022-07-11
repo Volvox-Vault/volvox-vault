@@ -53,6 +53,7 @@
             <br />
 
             <p>
+              Dear Diary,<br><br>
               After taking a
               <a href="https://pollinatorpartnership.ca/" target="_blank"
                 >pollinator stewardship course</a
@@ -136,8 +137,6 @@ export default {
 <style scoped>
 body {
   line-height: 2;
-  color: grey;
-  font-family: arial, sans-serif;
 }
 
 .head {
@@ -150,10 +149,6 @@ body {
   text-align: center;
   padding-top: 15px;
   color: yellowgreen;
-}
-
-p {
-  font-size: 13pt;
 }
 
 a {

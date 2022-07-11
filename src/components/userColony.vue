@@ -1095,7 +1095,7 @@ export default {
 }
 
 #colonyH1 {
-  color: grey;
+  color: #f3f9e6;
   font-size: 20pt;
   font-weight: normal;
   margin: 20px;
@@ -1105,27 +1105,27 @@ export default {
 
 .colonyHr {
   border: 0px;
-  border-bottom: 1px solid yellowgreen;
+  border-bottom: 1px solid #f3f9e6;
 }
 
 /* BLOCKS */
 #blocks-Artists {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 25px;
-  margin: 20px;
+  grid-gap: 15px;
+  margin: 15px;
   padding: 0;
   word-wrap: break-word;
   line-height: 1.5;
 }
 
 .block-Artists {
-  border: 1px solid yellowgreen;
+  border: 1px solid #f3f9e6;
     border-collapse: collapse;
   overflow: auto;
   height: 200px;
   word-wrap: break-word;
-  background-color: #f0f7de;
+  background-color: #212121;
 }
 
 .block-Artists img {
@@ -1137,18 +1137,19 @@ export default {
 
 
 .block-Artists-header {
-  color: grey;
+  color: #f3f9e6;
   font-size: 12pt;
   font-weight: bold;
   padding: 10px;
   padding-bottom: 5px;
   padding-top: 13px;
   align-items: center;
+  margin:0px;
 }
 
 .block-Artists-link {
   font-size: 12pt;
-  color: grey;
+  color: #f3f9e6;
   padding: 10px;
   padding-top: 5px;
   padding-bottom: 5px;
@@ -1156,7 +1157,7 @@ export default {
 }
 
 .block-Artists-link a{
-  color: #9879a6;
+  color: #cbbad2;
   text-decoration: none;
 }
 
