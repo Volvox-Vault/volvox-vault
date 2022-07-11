@@ -1130,7 +1130,7 @@ export default {
 
 .block-Artists img {
   float: right; 
-  width: 20%; 
+  width: 25%; 
   padding-left: 10px;
   padding-bottom: 10px;
 }
