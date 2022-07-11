@@ -339,7 +339,7 @@ placeholder {
 
 .send {
   color: #fbfdf7;
-  font-size: 15pt;
+  font-size: 12pt;
 }
 
 .write:hover,

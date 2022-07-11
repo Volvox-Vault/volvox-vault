@@ -117,6 +117,10 @@ a:hover {
   margin:0px;
 }
 
+input {
+    font-family: hersheyFut, arial, sans-serif;
+}
+
 .top a {
   color: #fbfdf7;
   text-decoration: none;
