@@ -46,6 +46,17 @@
   scrollbar-color: #e5e5e5 #f3f9e6;
   scrollbar-width: thin !important;
 }
+
+::-moz-selection { /* Code for Firefox */
+  color: #f3f9e6;
+  background: #664b71;
+}
+
+::selection {
+  color: #f3f9e6;
+  background: #664b71;
+}
+
 body {
   margin: 0px auto;
   max-width: 3050px;
