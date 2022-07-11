@@ -341,7 +341,7 @@ form {
   border: #fbfdf7;
   margin-right: 8px;
   font-size: 15pt;
-  width: 90%;
+  width: 80%;
 }
 
 placeholder {
