@@ -327,6 +327,8 @@ export default {
 <style scoped>
 body {
   line-height: 2;
+    font-family: hersheyFut, arial, sans-serif;
+
 }
 
 h1,

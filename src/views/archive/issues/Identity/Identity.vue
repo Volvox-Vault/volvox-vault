@@ -300,6 +300,8 @@ export default {
 <style scoped>
 body {
 line-height: 2;
+  font-family: hersheyFut, arial, sans-serif;
+
 }
 
 h1,
@@ -310,7 +312,7 @@ p {
   padding: 0;
   margin: 0;
   font-weight: normal;
-  font-size: 14pt;
+  font-size: 15pt;
 }
 
 a {

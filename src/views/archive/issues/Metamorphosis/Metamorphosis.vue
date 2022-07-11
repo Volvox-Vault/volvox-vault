@@ -142,6 +142,8 @@ body {
   padding: 35px;
   box-shadow: 0 3px 10px rgb(215 189 226 / 0.5);
   line-height: 2;
+    font-family: hersheyFut, arial, sans-serif;
+
 }
 h1 {
   font-size: 20pt;

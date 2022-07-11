@@ -187,9 +187,8 @@ export default {
 
 <style scoped>
 body {
-  font-family: arial, sans-serif;
+    font-family: hersheyFut, arial, sans-serif;
   line-height: 2;
-  color: grey;
 }
 
 h1 {
