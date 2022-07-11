@@ -41,6 +41,7 @@
           />
         </div>
 
+<div class="enter">
         <input
           type="text"
           class="write"
@@ -48,6 +49,7 @@
           v-model="message"
           required
         /> <input type="submit" class="send" value="Send" />
+        </div>
       </form>
 
       
@@ -314,6 +316,10 @@ input[type="submit"] {
   font-family:  hersheyFut, arial, sans-serif;
 }
 
+input[type="submit"] {
+  float: right;
+}
+
 #code,
 #name {
   outline: none;
@@ -325,9 +331,12 @@ form {
   font-size: 15pt;
 }
 
+.enter {
+  width: 100%;
+}
+
 .write {
   color: #fbfdf7;
-  width: 90%;
   min-width: 200px;
   border: #fbfdf7;
   margin-right: 8px;
