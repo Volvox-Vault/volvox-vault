@@ -469,22 +469,12 @@ a {
     display: block;
   }
 
-  .topnav a.icon {
-    background: black;
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
+  
 
   .topnav a:hover {
     background-color: #ddd;
     color: black;
   }
 
-  .active {
-    background-color: #04aa6d;
-    color: white;
-  }
 }
 </style>
