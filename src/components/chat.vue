@@ -268,7 +268,7 @@ const colors = (hash) =>
 #chat {
   color: #fbfdf7;
   line-height: 2;
-  font-size: 12pt;
+  font-size: 15pt;
 }
 
 #chat ul {
@@ -310,18 +310,18 @@ input[type="submit"] {
   background: none;
   padding: 3px;
   margin-left: 1px;
-  font-size: 12pt;
+  font-size: 15pt;
 }
 
 #code,
 #name {
   outline: none;
-  font-size: 12pt;
+  font-size: 15pt;
 }
 
 form {
   margin-bottom: 14px;
-  font-size: 12pt;
+  font-size: 15pt;
 }
 
 .write {
@@ -330,7 +330,7 @@ form {
   min-width: 200px;
   border: #fbfdf7;
   margin-right: 8px;
-  font-size: 12pt;
+  font-size: 15pt;
 }
 
 placeholder {
@@ -339,7 +339,7 @@ placeholder {
 
 .send {
   color: #fbfdf7;
-  font-size: 12pt;
+  font-size: 15pt;
 }
 
 .write:hover,
