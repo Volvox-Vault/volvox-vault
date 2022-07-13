@@ -10,7 +10,7 @@
             
 
             <div class="block-Shop">
-                <p class="block-Shop-header shop-event"><router-link class="block-Shop-nav" v-bind:to="item.nav">{{item.header}}</router-link></p>
+                <p class="block-Shop-header shop-event">{{item.header}}</p>
 
                 <p class="block-Shop-link shop-des"><a v-bind:href="item.website" target="_blank"><b>Buy</b></a> | {{item.des}}</p>
             
