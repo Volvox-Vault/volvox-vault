@@ -45,7 +45,7 @@
 
             <div class="column-container">
               <router-link to="/about">
-              <div style="font-family: hersheyFut, Times, serif; border-radius: 50px; font-size: 20px; background: #664b71;" class="column-box">
+              <div style="font-family: hersheyFut, Times, serif; border-radius: 50px; font-size: 15pt; background: #664b71;" class="column-box">
                   <p class="col-1a" style="border-radius: 30px;">
                   Welcome to our new website. We now offer a small honourarium for contributors,
                   and are launching a variety of columns.
