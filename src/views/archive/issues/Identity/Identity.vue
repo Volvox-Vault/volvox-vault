@@ -22,7 +22,7 @@
           </div>
 
           <div class="block list">
-            <p><b>A chat with Editor-in-Chief: Tiana Dueck</b></p>
+            <p><b>A chat with Editor-in-Chief: Tiana Dueck</b></p><hr>
             <iframe
               width="100%"
               height="380px"
