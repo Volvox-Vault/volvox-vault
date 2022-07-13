@@ -34,24 +34,30 @@ export default {
             title: "Shop",
             colony: [
             {
+                header: 'Volvox Times Newspaper',
+                des: '$20 CAD - 1 year subscription to a quarterly look inside of the global independent creative-scape.',
+                pic:'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/023C3744-1F53-4821-9E1C-83E05ED271D3(1).jpg?v=1657687475115',
+                website: 'https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX',
+                nav: '',
+            },
+            {
+                header: 'Entire Digital Archive',
+                des: '$30 CAD - Includes all Volvox Times and Magazine issues. Tax included.',
+                pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Falgaegrain2.png?v=1625602972717',
+                website: 'https://checkout.square.site/merchant/VP8DEG0CP9DTF/checkout/7SGPFZTQH4UQ43556V63BMVG',
+                nav: '',
+            },
+            {
                 header: 'Heart Issue',
                 des: '$30 - CAD FROM THE BOTTOM OF OUR HEARTS',
-                pic:'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/heart%20launch-01.jpg?v=1645111610488',
+                pic:'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HP0001.jpg?v=1657687218865',
                 website: 'https://checkout.square.site/buy/NOKUU77SLZM72TCK6SWWENS7',
                 nav: '',
             },
             {
-                header: 'Volvox Times Newspaper',
-                des: '$20 CAD - 1 year subscription to a quarterly look inside of the global independent creative-scape.',
-                pic:'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/274029030_308655554575743_5440939941705159568_n.jpg?v=1645113783642',
-                website: 'https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX',
-                nav: '',
-            },
-          
-            {
                 header: 'Metamorphosis (SS 21)',
                 des: '$30 CAD - An issue about transformation, growth, and change.',
-                pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fbutterweb.png?v=1625841250777',
+                pic:'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/metamock3.png?v=1657687314676',
                 website: 'https://volvoxvault.com/issues/metamorphosis',
                 nav: '',
             },
@@ -60,20 +66,6 @@ export default {
                 des: '$11.80 USD - An issue for togetherness.',
                 pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2FaggregateCover.png?v=1621611734107',
                 website: 'https://www.magcloud.com/browse/issue/1915590',
-                nav: '',
-            },
-            {
-                header: 'Red Bubble',
-                des: 'Explore our merch.',
-                pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2FredBubble.png?v=1621611646072',
-                website: 'https://www.redbubble.com/people/volvox-vault/shop',
-                nav: '',
-            },
-            {
-                header: 'Entire Digital Archive',
-                des: '$30 CAD - Includes all Volvox Times and Magazine issues. Tax included.',
-                pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Falgaegrain2.png?v=1625602972717',
-                website: 'https://checkout.square.site/merchant/VP8DEG0CP9DTF/checkout/7SGPFZTQH4UQ43556V63BMVG',
                 nav: '',
             },
             {
@@ -88,6 +80,13 @@ export default {
                 des: '$9 USD - Full of nice art and thoughts on identity from 17 artists. Download a free digital version.',
                 pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2FidentityCover.jpg?v=1621610719603',
                 website: 'https://www.magcloud.com/browse/issue/1812415',
+                nav: '',
+            },
+            {
+                header: 'Red Bubble',
+                des: 'Explore our merch.',
+                pic:'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2FredBubble.png?v=1621611646072',
+                website: 'https://www.redbubble.com/people/volvox-vault/shop',
                 nav: '',
             },
             ]
