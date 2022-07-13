@@ -122,7 +122,7 @@
               <br />
               Photos taken in San Francisco and Toronto. Collaged in Keynote.
             </p><hr>
-            <img src="./Ari_Kim.png" style="width: 100%" />
+            <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Ari_Kim.png?v=1657683621660" style="width: 100%" />
           </div>
 
           <div class="block list">
