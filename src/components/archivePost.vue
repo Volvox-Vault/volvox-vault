@@ -70,6 +70,7 @@
         </div>
 </div>
 
+<!--
 <h1 class="archHead" id="diary">dear diary</h1>
 <div v-for="(item, i) in colony" v-bind:key="i">
         <div v-if="item.type === 'Dear Diary'">
@@ -85,6 +86,7 @@
           </a>
         </div>
         </div>
+        -->
 
 <h1 class="archHead" id="gossip">personal gossip</h1>
 <div v-for="(item, i) in colony" v-bind:key="i">
@@ -101,6 +103,22 @@
           </a>
         </div>
 </div>
+
+<h1 class="archHead" id="misc">MISC</h1>
+<div v-for="(item, i) in colony" v-bind:key="i">
+        <div v-if="item.type === 'Misc'">
+          <a :href="item.link">
+            <div class="block-Archive" style="display: block">
+              <img :src="item.image" class="archImg" />
+
+              <p class="block-Archive-header">
+                {{ item.date }} | {{ item.author }} | {{ item.type }}
+              </p>
+              <p class="block-Archive-link">{{ item.title }}</p>
+            </div>
+          </a>
+        </div>
+        </div>
 
       </div>
     <slot />
@@ -210,7 +228,7 @@ export default {
           author: "Rue Yi",
           title: "The Proto-NFT: Unconverted Neopets",
           link: "/archive/neopets",
-          type: "Notebook",
+          type: "Misc",
           image:
             "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/IMG_91882.jpg?v=1651517003960",
         },
@@ -254,7 +272,7 @@ export default {
           author: "Seán",
           title: '"How are you appreciating nature this summer?"',
           link: "/archive/ssummer",
-          type: "Dear Diary",
+          type: "Misc",
           image:
             "https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fo3v0oFW.jpg?v=1630533904588",
         },
