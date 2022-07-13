@@ -45,7 +45,7 @@
 
             <div class="column-container">
               <router-link to="/about">
-              <div style="border-radius: 50px; background: #664b71;" class="column-box">
+              <div style="font-family: hersheyFut, Times, serif; border-radius: 50px; font-size: 20px; background: #664b71;" class="column-box">
                   <p class="col-1a" style="border-radius: 30px;">
                   Welcome to our new website. We now offer a small honourarium for contributors,
                   and are launching a variety of columns.
@@ -159,7 +159,7 @@ h2 {
   background-color: Gainsboro;
   font-size: 12pt;
   font-weight: bold;
-  color: grey;
+  color: #212121;
   padding: 10px;
   border-bottom: 1px solid #c8c8c8;
   align-items: center;
@@ -174,17 +174,17 @@ h2 {
 }
 
 .block-Home-enterpond a {
-  color: grey;
+  color: #212121;
 }
 
 .block-Home-enterpond a:hover {
-  color: grey;
+  color: #212121;
   text-decoration: underline;
 }
 
 .block-Home-link {
   font-size: 12pt;
-  color: grey;
+  color: #212121;
   padding: 10px;
   border-bottom: 1px solid #c8c8c8;
   background-color: #f0f7de;
@@ -194,7 +194,7 @@ h2 {
 .block-Home-link a,
 .recent-Router a,
 .block-Home-shop a {
-  color: grey;
+  color: #212121;
   text-decoration: none;
 }
 
