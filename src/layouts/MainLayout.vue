@@ -430,7 +430,7 @@ a {
     grid-column: 1 / 4;
   }
   
-  .div3, .div4, .div6, .div7 {
+  .div3, .div4, .div6 {
     border-right: 0.5px solid #fbfdf7;
   }
 
