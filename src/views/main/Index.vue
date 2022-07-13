@@ -44,8 +44,9 @@
             </div>
 
             <div class="column-container">
-              <div class="column-box">
-                  <p class="col-1a">UNDER CONSTRUCTION<br>
+              <router-link to="/about">
+              <div style="border-radius: 50px; background: #664b71;" class="column-box">
+                  <p class="col-1a" style="border-radius: 30px;">UNDER CONSTRUCTION<br>
                   We now offer a small honourarium for contributors,<br>
                   and are launching a variety of columns.<br>
                   I hope you enjoy our new website.<br>
@@ -56,7 +57,7 @@
                   and are launching a variety of columns.<br>
                   I hope you enjoy our new website.<br>
                   - tiana</p>
-                </div>
+                </div></router-link>
               <a href="/archive#projects"
                 ><div class="column-box">
                   <p class="col-6a">Projects & Events</p>
@@ -75,7 +76,7 @@
                   <p class="col-1b">conversations with artists and friends</p>
                 </div></a
               >
-              <a href="/comingsoon"
+              <a href="/about"
                 ><div class="column-box">
                   <p class="col-2a">NEW - Dear Diary</p>
                   <p class="col-2b">personal realizations</p>
@@ -87,16 +88,16 @@
                   <p class="col-3b">lessons and tutorials</p>
                 </div></a
               >
-              <a href="/comingsoon"
+              <a href="/about"
                 ><div class="column-box">
                   <p class="col-4a">NEW - Feelings</p>
-                  <p class="col-4b">pieces that delve into a certain feeling</p>
+                  <p class="col-4b">getting emotional</p>
                 </div></a
               >
-              <a href="/archive#gossip"
+              <a href="/about"
                 ><div class="column-box">
                   <p class="col-5a">NEW - Personal Gossip</p>
-                  <p class="col-5b">bites of community updates</p>
+                  <p class="col-5b">what's new?</p>
                 </div></a
               >
               <a href="/kindwords"

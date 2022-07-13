@@ -11,7 +11,7 @@ import Shop from '../views/main/Shop.vue'
 import Horoscopes from '../views/main/Horoscopes.vue'
 import Pond from '../views/main/Pond.vue'
 import Town from '../views/main/Town.vue'
-import ComingSoon from '../views/main/ComingSoon.vue'
+import KindWords from '../views/main/KindWords.vue'
 import NotFound from '../views/NotFound.vue';
 
 import CafeDoor from '../views/cafe/CafeDoor.vue'
@@ -159,9 +159,9 @@ const routes = [
   },
 
   {
-    path: '/comingsoon',
-    name: 'ComingSoon',
-    component: ComingSoon
+    path: '/kindwords',
+    name: 'KindWords',
+    component: KindWords
   },
 
   /* ARCHIVE */

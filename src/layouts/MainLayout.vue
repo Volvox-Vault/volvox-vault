@@ -104,6 +104,19 @@ h1 {
   font-weight: normal;
 }
 
+h1,
+h2,
+h3 {
+  margin: 0px;
+  padding: 0px;
+  font-family: hersheyTrip, Times, serif;
+  font-weight: normal;
+}
+hr {
+  border: none;
+  border-bottom: 1px dotted #212121;
+}
+
 .container {
   display: grid;
   grid-template-columns: 200px 1fr;
@@ -380,7 +393,7 @@ a {
   }
 }
 
-@media only screen and (max-device-width:566px) {
+@media only screen and (max-width: 600px) {
   body {
     overflow: auto;
     max-height: 3000px;
@@ -445,6 +458,14 @@ a {
   .new-box {
     border-top: 1px dotted #212121;
   }
+
+  .sticky {
+  position: relative;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+}
   
   
   
@@ -469,12 +490,22 @@ a {
     display: block;
   }
 
-  
+  .topnav a.icon {
+    background: black;
+    display: block;
+    position: absolute;
+    right: 0;
+    top: 0;
+  }
 
   .topnav a:hover {
     background-color: #ddd;
     color: black;
   }
 
+  .active {
+    background-color: #04aa6d;
+    color: white;
+  }
 }
 </style>
