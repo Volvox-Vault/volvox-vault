@@ -496,31 +496,14 @@ export default {
 }
 
 @media (min-width: 1998px) {
-  .block-Archive-link {
-    font-size: 30px;
-  }
+
 }
 
 @media (max-width: 800px) {
-  #blocks-Archive {
-    display: grid;
-    grid-template-columns: repeat(1fr);
-
-    grid-gap: 15px;
-    margin: 20px;
-  }
-  .block-Archive-link {
-    font-size: 15px;
-  }
+ 
 }
 
 @media only screen and (max-device-width: 566px) {
-  #blocks-Archive {
-    display: grid;
-    grid-template-columns: repeat(1fr);
-  }
-  .block-Archive-link {
-    font-size: 15px;
-  }
+
 }
 </style>
