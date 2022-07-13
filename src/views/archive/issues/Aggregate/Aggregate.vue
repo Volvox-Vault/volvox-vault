@@ -3,28 +3,29 @@
     <body>
       <main>
         <div id="blocks">
-         
-            <a
-              style="border-bottom: none;"
-              href="https://www.magcloud.com/browse/issue/1915590"
-              target="_blank"
-              ><img style="border: 1px solid yellowgreen;" src="./dither_shop.png" width="100%"
-            /></a>
-        
+          <a
+            style="border-bottom: none"
+            href="https://www.magcloud.com/browse/issue/1915590"
+            target="_blank"
+            ><img
+              style="border: 1px dotted #212121"
+              src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/dither_shop.png?v=1657681527528"
+              width="100%"
+          /></a>
 
           <div class="block list">
             <p style="line-height: 2; font-size: 10pt">
               volvox vault issue 03 | winter 2020
             </p>
+            <hr />
             <p style="font-size: 20pt; font-weight: bold; line-height: 40px">
               Aggregate
             </p>
+            <hr />
             <p style="line-height: 2; font-size: 12pt; font-style: italic">
               A whole formed by combining several elements.
             </p>
-            <a href="https://checkout.square.site/buy/YPI3NFPAKJDPN7BZOX2OCIB5"
-              >Buy the t-shirt</a
-            >
+            <hr />
             <p style="line-height: 2; font-size: 12pt">
               This issue is for collaboration, and seeing what happens when we
               put our minds together. It's for connecting with each other: a
@@ -49,21 +50,26 @@
             <p style="font-size: 15pt; font-weight: bold; line-height: 40px">
               Jeff Bezos Actually Works For Me
             </p>
+            <hr />
             <p style="font-size: 12pt; line-height: 200%">
               By The John Denver Airport Conspiracy
             </p>
+            <hr />
             <p>
               <audio title="Jeff Bezos Actually Works For Me" controls>
                 <source
                   title=""
-                  src="./Jeff_Bezos_Actually_Works_For_Me.wav"
+                  src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/Jeff_Bezos_Actually_Works_For_Me.wav?v=1657681544376"
                   type="audio/wav"
                 />
                 Your browser does not support the audio element.
               </audio>
             </p>
+            <hr />
             <a href="https://www.magcloud.com/user/volvox_vault" target="_blank"
-              ><img src="./JB.jpg" width="100%"
+              ><img
+                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/JB.jpg?v=1657681529429"
+                width="100%"
             /></a>
           </div>
 
@@ -71,15 +77,14 @@
             <p style="font-size: 15pt; font-weight: bold; line-height: 40px">
               HONEYPOT
             </p>
+            <hr />
             <a
               href="https://kalilhaddad.com/"
-              style="
-                font-size: 12pt;
-                line-height: 200%;
-              "
+              style="font-size: 12pt; line-height: 200%"
               target="_blank"
               >An art film by Kalil Haddad</a
             >
+            <hr />
             <p style="font-size: 12pt; line-height: 200%">
               A story of the eye - one read through the lens of desire.<br />
               Remixing various fragments of archival material, HONEYPOT is best
@@ -95,25 +100,26 @@
               space between.<br />
               What does it mean for two people to feel close?
             </p>
-
-            <p style="font-size: 15px; line-height: 200%">
+            <hr />
+            <p style="font-size: 10pt; line-height: 200%">
               Read more in Aggregate
             </p>
           </div>
 
-            <iframe
-              src="https://player.vimeo.com/video/499434644"
-              width="100%"
-              height="480px"
-              frameborder="0"
-              allow="autoplay; fullscreen; picture-in-picture"
-              allowfullscreen
-            ></iframe>
+          <iframe
+            src="https://player.vimeo.com/video/499434644"
+            width="100%"
+            height="480px"
+            frameborder="0"
+            allow="autoplay; fullscreen; picture-in-picture"
+            allowfullscreen
+          ></iframe>
 
           <div class="block list">
             <p style="font-size: 15pt; font-weight: bold; line-height: 40px">
               Natan Lawson's Little Moments
             </p>
+            <hr />
             <p style="font-size: 12pt; line-height: 200%">
               <strong
                 >Tiana: How would you describe yourself as an artist?</strong
@@ -154,21 +160,25 @@
               through my perspective of noticing and honoring the richness in
               their original design.
             </p>
-
+            <hr />
             <p style="font-size: 10pt; line-height: 200%">
               Read more in Aggregate
             </p>
-
+            <hr />
             <a
               href="https://natanlawson.com/work/?v=ba43077c0ac9"
               target="_blank"
-              ><img src="./2345_18.jpeg" width="100%"
+              ><img
+                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/2345_18.jpeg?v=1657681527736"
+                width="100%"
             /></a>
 
             <a
               href="https://natanlawson.com/work/?v=ba43077c0ac9"
               target="_blank"
-              ><img src="./2345_24.jpeg" width="100%"
+              ><img
+                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/2345_24.jpeg?v=1657681529486"
+                width="100%"
             /></a>
           </div>
 
@@ -196,9 +206,11 @@
             <p style="font-size: 15pt; font-weight: bold; line-height: 40px">
               AHH 20
             </p>
+            <hr />
             <p style="font-size: 12pt; line-height: 200%">
               A fashion collection by Lynne
             </p>
+            <hr />
             <p style="font-size: 10pt; line-height: 200%">
               <strong
                 >What were your inspirations for the AHH 20 collection?</strong
@@ -210,17 +222,21 @@
               and had them printed and displayed on early design boards in my
               apartment for many months.
             </p>
-
+            <hr />
             <p style="font-size: 15px; line-height: 200%">
               Lynne | Rue | Joseph | Tiana | Nayake
             </p>
-
-            <p style="font-size: 15px; line-height: 200%">
+            <hr />
+            <p style="font-size: 10pt; line-height: 200%">
               Read more in Aggregate
             </p>
+            <hr />
 
-            <img src="./SML_C-8.jpg" width="100%" />
-
+            <img
+              src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/SML_C-8.jpg?v=1657681526938"
+              width="100%"
+            />
+            <hr />
             <p style="font-size: 15px; line-height: 200%">
               music: what's paradise by dwig
             </p>
@@ -228,34 +244,54 @@
 
           <div class="videoblock list">
             <video
-              style="width: 100%; border: 1px solid yellowgreen;"
+              style="width: 100%; border: 1px dotted #212121"
               class="tab"
-              poster="./Lynne.jpg"
+              poster="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Lynne.jpg?v=1657681529368"
               controls
             >
               Your browser does not support the &lt;video&gt; tag.
-              <source src="./Lynne.mp4" />
+              <source
+                src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504/Lynne.mp4?v=1657681549249"
+              />
             </video>
           </div>
 
           <div class="schaeBlock list">
-            <img src="./s3.png" width="100%" />
-            <p
-              style="
-                font-size: 12pt;
-                line-height: 200%;
-                text-align: center;
-              "
-            >
+            <img
+              src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/s3.png?v=1657681529018"
+              width="100%"
+            />
+            <hr>
+            <p style="font-size: 12pt; line-height: 200%; text-align: center; padding: 10px">
               Schaefer Genco, lLara O'Lanick, Noah Bradbury, Dylan Obront, Dame
               Anthony, &#38; Kate Shatalow
             </p>
-            <br>
-            <img src="./s1.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" /><br>
-            <img src="./s2.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" /><br>
-            <img src="./s4.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" /><br>
-            <img src="./s5.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" /><br>
-            <img src="./s6.png" width="70%" style="display:block; margin-right: auto; margin-left: auto;" /><br>
+            <hr>
+            <img
+              src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/s1.png?v=1657681528612"
+              width="70%"
+              style="display: block; margin-right: auto; margin-left: auto"
+            /><br />
+            <img
+              src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/s2.png?v=1657681528954"
+              width="70%"
+              style="display: block; margin-right: auto; margin-left: auto"
+            /><br />
+            <img
+              src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/s4.png?v=1657681528819"
+              width="70%"
+              style="display: block; margin-right: auto; margin-left: auto"
+            /><br />
+            <img
+              src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/s5.png?v=1657681529262"
+              width="70%"
+              style="display: block; margin-right: auto; margin-left: auto"
+            /><br />
+            <img
+              src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/s6.png?v=1657681529670"
+              width="70%"
+              style="display: block; margin-right: auto; margin-left: auto"
+            /><br />
           </div>
 
           <div class="block">
@@ -290,7 +326,9 @@
                 >cecilia de los rios,</a
               >
               &#38;
-              <a href="mailto:anamaria257257@gmail.com">ana mar&Iacute;a romero</a>.
+              <a href="mailto:anamaria257257@gmail.com"
+                >ana mar&Iacute;a romero</a
+              >.
             </p>
 
             <p
@@ -304,7 +342,9 @@
             </p>
 
             <a href="https://www.magcloud.com/user/volvox_vault" target="_blank"
-              ><img src="./thankyou.png" width="100%"
+              ><img
+                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/thankyou.png?v=1657681527675"
+                width="100%"
             /></a>
           </div>
         </div>
@@ -327,8 +367,7 @@ export default {
 <style scoped>
 body {
   line-height: 2;
-    font-family: hersheyFut, arial, sans-serif;
-
+  font-family: hersheyFut, arial, sans-serif;
 }
 
 h1,
@@ -351,7 +390,7 @@ a {
 }
 
 a:hover {
-  color: grey;
+  text-decoration: underline;
 }
 
 main {
@@ -365,7 +404,7 @@ main {
 #blocks {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-gap: 20px;
+  grid-gap: 10px;
   padding-bottom: 90px;
   align-items: flex-end;
   justify-content: flex-end;
@@ -377,12 +416,12 @@ main {
 }
 
 .block {
-  background-color: #f0f7de;
-  border: 1px solid yellowgreen;
+  background-color: #fbfdf7;
+  border: 1px dotted #212121;
   min-height: 445px;
-  max-height: 445px;
+  max-height: 100%;
   overflow: hidden;
-  overflow-y: scroll;
+  overflow-y: auto;
   line-height: 2;
   padding: 10px;
 }
@@ -391,19 +430,12 @@ main {
   min-height: 600px;
   max-height: 600px;
   overflow-y: scroll;
-  background-color: #f0f7de;
-  border: 1px solid yellowgreen;
+  background-color: #fbfdf7;
+  border: 1px dotted #212121;
 }
 
 .videoblock {
   min-height: 500px;
-}
-
-#blocks p,
-#blocks .list h2,
-#blocks .list a {
-  border-bottom: 1px solid #e6e6e6;
-  padding: 8px;
 }
 
 #blocks .list a {
@@ -451,6 +483,10 @@ main {
 .thumb img {
   width: 100%;
   height: auto;
+}
+
+img {
+  display: block;
 }
 
 #footer {

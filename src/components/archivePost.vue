@@ -146,7 +146,7 @@ export default {
           link: "/issues/metamorphosis",
           type: "Magazine",
           image:
-            "https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fbagsm.jpg?v=1625879209143",
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/IMG_3565.jpg?v=1657683296907",
         },
         {
           date: "2020",
@@ -164,7 +164,7 @@ export default {
           link: "/issues/proximity",
           type: "Magazine",
           image:
-            "https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2FproximityCover.jpg?v=1621610719424",
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/bandday-15.jpg?v=1657683358273",
         },
         {
           date: "2020",
@@ -173,7 +173,7 @@ export default {
           link: "/issues/identity",
           type: "Magazine",
           image:
-            "https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Falgaegrain2.png?v=1625602972717",
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/T.jpg?v=1657683135894",
         },
         {
           date: "May 2022",

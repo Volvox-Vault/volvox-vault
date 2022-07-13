@@ -7,21 +7,17 @@
               <p style="line-height: 2; font-size: 10pt">
               volvox vault issue 01 | summer 2020
             </p>
-            <p><b>Identity</b></p>
+            <hr>
+            <p><b>Identity</b></p><hr>
             <a
               href="https://www.magcloud.com/browse/issue/1812415?__r=2733067"
               target="_blank"
               >Identity [print &#38; digital] - $9 USD</a
-            >
+            ><hr>
             <a
               href="https://www.instagram.com/ar/587004575282538/"
               target="_blank"
               >The Digital Cowboy AR Filter</a
-            >
-            <a
-              href="https://checkout.square.site/buy/SXUZ3XI7UJSDXVVT77GWG345"
-              target="_blank"
-              >Donate</a
             >
           </div>
 
@@ -38,7 +34,7 @@
           </div>
 
           <div class="block list">
-            <p><b>Letter From The Editor</b></p>
+            <p><b>Letter From The Editor</b></p><hr>
             <p style="line-height: 2; font-size: 18px">
               Hello world,<br />
               I’m overjoyed to introduce you to the first issue of Volvox Vault.
@@ -93,14 +89,14 @@
               collaboration. We need to unite more fluidly somehow. So here we
               are, coming together for the first time. Thank you for supporting
               this little baby project & enjoy Identity...
-            </p>
+            </p><hr>
             <a href="https://tiana.computer" target="_blank"
               >Tiana Dueck - Editor-in-chief</a
             >
           </div>
 
           <div class="block list">
-            <p><b>A Minute With Max</b></p>
+            <p><b>A Minute With Max</b></p><hr>
             <iframe
               width="100%"
               height="380px"
@@ -112,7 +108,7 @@
           </div>
 
           <div class="block list">
-            <p><b>How I Found Creativity in Self Isolation</b></p>
+            <p><b>How I Found Creativity in Self Isolation</b></p><hr>
             <p style="line-height: 2; font-size: 18px">
               “Have you been more creative now since quarantine started?”<br />
               Many artistic and creative types have heard this question over the
@@ -171,12 +167,12 @@
               <br /><br />
               Once I had worked through all these things and internalized them,
               I was able to harness my creativity once more.
-            </p>
+            </p><hr>
             <p>Daniel Maluka</p>
           </div>
 
           <div class="block list">
-            <p><b>Quarantine Dreams Part 1-9</b></p>
+            <p><b>Quarantine Dreams Part 1-9</b></p><hr>
             <iframe
               width="100%"
               height="380px"
@@ -188,7 +184,7 @@
           </div>
 
           <div class="block list">
-            <p><b>Piece. (Peace) - - - Website Exclusive</b></p>
+            <p><b>Piece. (Peace) - - - Website Exclusive</b></p><hr>
             <p style="line-height: 2; font-size: 18px">
               The storm marries nicely with our familiar pools.<br />
               An overflow – <br />
@@ -233,12 +229,12 @@
               Speak now or forever hold your peace.<br />
               Sometimes I think we bind ourselves to things,<br />
               Without ever thinking about our piece. (peace).
-            </p>
+            </p><hr>
             <a href="">Em Biggs</a>
           </div>
 
           <div class="block list">
-            <p><b>Winged Aphid Morphs</b></p>
+            <p><b>Winged Aphid Morphs</b></p><hr>
             <iframe
               width="100%"
               height="380px"
@@ -250,7 +246,7 @@
           </div>
 
           <div class="block list">
-            <p><b>In Closing</b></p>
+            <p><b>In Closing</b></p><hr>
             <p style="line-height: 2; font-size: 18px">
               Thank you for supporting the first issue of Volvox Vault. We have
               poured our hearts and souls into this project, and we hope you
@@ -272,7 +268,7 @@
           </div>
 
           <div class="block list purchase">
-            <p><b>Featured Artists</b></p>
+            <p><b>Featured Artists</b></p><hr>
             <p>
               Tiana Dueck, Andrei Pora, Beatrice Douaihy, Daniel Maluka, Emily
               Biggs, Rae Bundy, Hannah Polinski, The Digital Cowboy, Arianna
@@ -338,32 +334,26 @@ main {
 #blocks {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-gap: 20px;
+  grid-gap: 10px;
   padding-bottom: 90px;
   align-items: flex-end;
   justify-content: flex-end;
 }
 
 #blocks .purchase {
-  max-height: 202px;
-  min-height: 202px;
+  max-height: 100%;
 }
 
 .block {
-  background-color: #f0f7de;
-  border: 1px solid yellowgreen;
-  min-height: 445px;
-  max-height: 445px;
+  background-color: #fbfdf7;
+  border: 1px dotted #212121;
+  max-height: 500px;
   overflow: hidden;
   overflow-y: auto;
   line-height: 2;
   padding: 10px;
 }
 
-#blocks p, #blocks .list h2, #blocks .list a {
-  border-bottom: 1px solid #E6E6E6;
-  padding: 8px;
-}
 #blocks .list a {
   display: block;
 }

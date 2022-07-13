@@ -5,9 +5,11 @@
         <div id="blocks">
           <div class="block list">
             <p style="font-size: 10pt">volvox vault issue 02 | fall 2020</p>
+            <hr>
             <h1>Proximity</h1>
+            <hr>
             <p>prox·im·i·ty — nearness in space, time, or relationship.</p>
-
+<hr>
             <p>
               Welcome to the Fall 2020 issue of Volvox Vault: Proximity. This
               issue is all about nearness and farness from people, places,
@@ -29,30 +31,30 @@
               have been stressful. Imagine each piece as an apple slice from the
               same nutritious apple, and enjoy!
             </p>
-
+<hr>
             <router-link to="/archive/elliottLaurel"
               >Exploring the independent web with Elliott Cost and Laurel
               Schwulst. [Full Article]</router-link
-            >
+            ><hr>
             <a href="https://tiana.computer" target="_blank"
               >Tiana Dueck - Editor-in-chief</a
             >
           </div>
 
           <div class="block list">
-            <h2>Shop Proximity</h2>
+            <h2>Shop Proximity</h2><hr>
             <a
               href="https://www.magcloud.com/browse/issue/1873311"
               target="_blank"
               >Proximity [print &#38; digital]</a
-            >
-            <a href="" target="_blank">Proximity Tote - SOLD OUT</a>
+            ><hr>
+            <a href="" target="_blank">Proximity Tote - SOLD OUT</a><hr>
             <a
               style="line-height: 2; font-size: 18px"
               href="https://volvoxvault.square.site/product/donate/3?cs=true"
               target="_blank"
               >Donate</a
-            >
+            ><hr>
             <a href=""><img src="./proxmag.jpg" width="100%" /></a>
             <a href=""><img src="./9shop.jpg" width="100%" /></a>
           </div>
@@ -66,8 +68,8 @@
   -->
 
           <div class="block list">
-            <h2>Pools</h2>
-            <p>Charlie Weare</p>
+            <h2>Pools</h2><hr>
+            <p>Charlie Weare</p><hr>
             <iframe
               width="100%"
               height="400px"
@@ -76,7 +78,7 @@
               allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
               allowfullscreen
             ></iframe>
-
+<hr>
             <p style="line-height: 2; font-size: 18px">
               “Pools.” is a personal effort to encapsulate the emotional drought
               of self isolation during the COVID-19 pandemic, hoping to provide
@@ -96,13 +98,13 @@
           </div>
 
           <div class="block list">
-            <h2>Fit Pics</h2>
+            <h2>Fit Pics</h2><hr>
             <img style="width: 100%" src="./Proximity_Fit.jpg" />
           </div>
 
           <div class="block list">
-            <h2>2259 mi</h2>
-            <p>Caesaria Kim</p>
+            <h2>2259 mi</h2><hr>
+            <p>Caesaria Kim</p><hr>
             <p style="line-height: 2; font-size: 18px">
               Lately I’ve become more aware of my habit of looking for home
               elsewhere. I am always thinking “Okay, in 2 years I’ll be in
@@ -119,18 +121,18 @@
               daydreaming about my fantasy cottage in New Zealand...
               <br />
               Photos taken in San Francisco and Toronto. Collaged in Keynote.
-            </p>
+            </p><hr>
             <img src="./Ari_Kim.png" style="width: 100%" />
           </div>
 
           <div class="block list">
-            <h2>Alex — Version 3</h2>
-            <p>Read about this painting by Zoé de Grand'Maison in Proximity.</p>
+            <h2>Alex — Version 3</h2><hr>
+            <p>Read about this painting by Zoé de Grand'Maison in Proximity.</p><hr>
             <a
               href="https://www.etsy.com/shop/BigHouseArtHouse?ref=seller-platform-mcnav"
               target="_blank"
               >Shop her prints here.</a
-            >
+            ><hr>
             <p>
               <img
                 src="./Zoe_AlexVersion3.jpg"
@@ -145,7 +147,7 @@
           </div>
 
           <div class="block list">
-            <h2>Purchase Proximity for more.</h2>
+            <h2>Purchase Proximity for more.</h2><hr>
             <a
               href="https://www.magcloud.com/browse/issue/1873311"
               target="_blank"
@@ -156,7 +158,7 @@
           </div>
 
           <div class="block list">
-            <h2>Artists featured in Proximity</h2>
+            <h2>Artists featured in Proximity</h2><hr>
             <p style="line-height: 2; font-size: 18px">
               tiana dueck, charlie weare, will agnew, tom valkanas, madison
               cleary, cameron brown, shaefer genco, jordan sosensky, chris
@@ -165,7 +167,7 @@
               bundy, zoe de grand'maison, elliott cost, laurel schwulzt, em
               biggs, susan le, etienne bolduc, jeremy franczyk, ryan luke, liam
               beauchamp, vincent ha, vincent shore.
-            </p>
+            </p><hr>
             <img src="./apl-2SM.jpg" style="width: 100%" />
           </div>
         </div>
@@ -227,7 +229,7 @@ main {
 #blocks {
   display: grid;
   grid-template-columns: repeat(1, 1fr);
-  grid-gap: 20px;
+  grid-gap: 10px;
   padding-bottom: 90px;
   align-items: flex-end;
   justify-content: flex-end;
@@ -240,21 +242,13 @@ main {
 }
 
 .block {
-  background-color: #f0f7de;
-  border: 1px solid yellowgreen;
-  min-height: 445px;
-  max-height: 445px;
+  background-color: #fbfdf7;
+  border: 1px dotted #212121;
+  max-height: 500px;
   overflow: hidden;
-  overflow-y: scroll;
+  overflow-y: auto;
+  line-height: 2;
   padding: 10px;
-}
-
-#blocks p,
-#blocks .list h1,
-#blocks .list h2,
-#blocks .list a {
-  border-bottom: 1px solid #e6e6e6;
-  padding: 8px;
 }
 
 #blocks .list a {
