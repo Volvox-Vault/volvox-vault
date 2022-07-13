@@ -5,7 +5,7 @@
     <p>
       hi everyone, this is mad（ ꒰ .·:*0¨◌ …︑ ༘︒⚬∙︓·⠄ :·. ꒱ … ◌.·:*0¨◌ ꒱
       …。。◌ ） <br /><br />
-      welcome to the volvox.observer kind words column, where you can
+      welcome to the <router-link to="/">volvox.observer</router-link> kind words column, where you can
       <a
         href="https://docs.google.com/forms/d/e/1FAIpQLScaMRoojXD19ClmhFsylL6NPGA6jKA98DxdhSafjnZnNCURQA/viewform?usp=sf_link"
         >share a worry and ask for kind words or share some kind words to all of
