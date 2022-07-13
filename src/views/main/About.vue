@@ -126,7 +126,6 @@
           <a href="https://polapola.format.com/">Seán</a>,
           <a href="https://chris.e-worm.club/portfolio.gmi">Chris</a>
           <br />
-          <router-link to="/contribute">Join our team.</router-link><br /><br />
 
           hello@volvoxvault.com
         </p>
