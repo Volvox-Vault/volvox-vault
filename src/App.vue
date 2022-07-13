@@ -7,9 +7,9 @@
     name: 'App',
     metaInfo: {
       // if no subcomponents specify a metaInfo.title, this title will be used
-      title: 'Volvox Vault',
+      title: 'Volvox Observer',
       // all titles will be injected into this template
-      titleTemplate: '%s | Volvox Vault'
+      titleTemplate: '%s | Volvox Observer'
     }
   }
 </script>

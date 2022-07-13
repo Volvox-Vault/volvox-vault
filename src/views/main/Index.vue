@@ -1,23 +1,23 @@
 <template>
   <MainLayout>
     <head>
-      <title>Volvox Vault</title>
+      <title>volvox.observer</title>
 
-      <link rel="shortcut icon" type="image/png" href="@assets/logo.png" />
+      <link rel="shortcut icon" type="image/png" href="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fvvicon.png?v=1630726961919" />
 
       <meta name="viewport" content="width=device-width, initial-scale=1" />
 
-      <meta name="description" content="a creative community" />
-      <meta name="author" content="Tiana Dueck" />
+      <meta name="description" content="a public diary." />
+      <meta name="author" content="volvox.observer" />
 
-      <meta property="og:title" content="Volvox Vault" />
-      <meta property="og:description" content="a creative community" />
-      <meta property="og:image" content="@assets/logo.png" />
+      <meta property="og:title" content="volvox.observer" />
+      <meta property="og:description" content="a public diary." />
+      <meta property="og:image" content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fvvicon.png?v=1630726961919" />
       <meta property="og:url" content="http://volvoxvault.com/" />
 
-      <meta property="twitter:title" content="Volvox Vault" />
-      <meta property="twitter:description" content="a creative community" />
-      <meta property="twitter:image" content="@assets/logo.png" />
+      <meta property="twitter:title" content="volvox.observer" />
+      <meta property="twitter:description" content="a public diary." />
+      <meta property="twitter:image" content="https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fvvicon.png?v=1630726961919" />
       <meta property="twitter:url" content="http://volvoxvault.com/" />
 
     
