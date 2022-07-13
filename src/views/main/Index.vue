@@ -44,18 +44,6 @@
             </div>
 
             <div class="column-container">
-              <router-link to="/about">
-              <div style="font-family: hersheyFut, Times, serif; border-radius: 50px; font-size: 15pt; background: #664b71;" class="column-box">
-                  <p class="col-1a" style="border-radius: 30px; font-size: 15pt; ">
-                  Welcome to our new website. We now offer a small honourarium for contributors,
-                  and are launching a variety of columns.
-                  - Tiana
-                  </p>
-                  <p class="col-1b" style="border-radius: 30px; font-size: 15pt; ">
-                  Welcome to our new website. We now offer a small honourarium for contributors,
-                  and are launching a variety of columns.
-                  - Tiana</p>
-                </div></router-link>
               <a href="/archive#projects"
                 ><div class="column-box">
                   <p class="col-6a">Projects & Events</p>
