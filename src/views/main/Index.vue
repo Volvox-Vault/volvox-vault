@@ -53,9 +53,9 @@
                   - tiana
                   </p>
                   <p class="col-1b">UNDER CONSTRUCTION<br>
-                  We now offer a small honourarium for contributors,<br>
-                  and are launching a variety of columns.<br>
-                  I hope you enjoy our new website.<br>
+                  We now offer a small honourarium for contributors,
+                  and are launching a variety of columns.
+                  I hope you enjoy our new website.
                   - tiana</p>
                 </div></router-link>
               <a href="/archive#projects"

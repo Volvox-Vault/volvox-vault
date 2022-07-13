@@ -184,7 +184,7 @@ export default {
   padding: 15px;
   margin: 0px;
 
-  border-bottom: 1px solid #212121;
+  border-bottom: 1px dotted #212121;
   align-items: center;
 }
 

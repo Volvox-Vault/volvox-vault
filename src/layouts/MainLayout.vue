@@ -467,45 +467,5 @@ a {
   width: 100%;
 }
   
-  
-  
-  
-  
-
-  .topnav {
-    overflow: hidden;
-    background-color: #333;
-    position: relative;
-  }
-
-  .topnav #myLinks {
-    display: none;
-  }
-
-  .topnav a {
-    color: white;
-    padding: 14px 16px;
-    text-decoration: none;
-    font-size: 17px;
-    display: block;
-  }
-
-  .topnav a.icon {
-    background: black;
-    display: block;
-    position: absolute;
-    right: 0;
-    top: 0;
-  }
-
-  .topnav a:hover {
-    background-color: #ddd;
-    color: black;
-  }
-
-  .active {
-    background-color: #04aa6d;
-    color: white;
-  }
 }
 </style>

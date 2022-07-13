@@ -3,10 +3,8 @@
     <!--<div class="select-nav"><span class="select">Type</span> <span class="select">Topic</span></div>-->
 
     <div id="blocks-Archive">
-
       <h1 class="archHead" id="interviews">magazines</h1>
       <div v-for="(item, i) in colony" v-bind:key="i">
-
         <div v-if="item.type === 'Magazine'">
           <a :href="item.link">
             <div class="block-Archive" style="display: block">
@@ -19,11 +17,10 @@
             </div>
           </a>
         </div>
-        </div>
-      
+      </div>
+
       <h1 class="archHead" id="interviews">interviews</h1>
       <div v-for="(item, i) in colony" v-bind:key="i">
-
         <div v-if="item.type === 'Interview'">
           <a :href="item.link">
             <div class="block-Archive" style="display: block">
@@ -36,10 +33,10 @@
             </div>
           </a>
         </div>
-        </div>
+      </div>
 
-<h1 class="archHead" id="projects">projects</h1>
-<div v-for="(item, i) in colony" v-bind:key="i">
+      <h1 class="archHead" id="projects">projects</h1>
+      <div v-for="(item, i) in colony" v-bind:key="i">
         <div v-if="item.type === 'Project'">
           <a :href="item.link">
             <div class="block-Archive" style="display: block">
@@ -52,10 +49,10 @@
             </div>
           </a>
         </div>
-        </div>
+      </div>
 
-<h1 class="archHead" id="notebook">notebook</h1>
-<div v-for="(item, i) in colony" v-bind:key="i">
+      <h1 class="archHead" id="notebook">notebook</h1>
+      <div v-for="(item, i) in colony" v-bind:key="i">
         <div v-if="item.type === 'Notebook'">
           <a :href="item.link">
             <div class="block-Archive" style="display: block">
@@ -68,9 +65,9 @@
             </div>
           </a>
         </div>
-</div>
+      </div>
 
-<!--
+      <!--
 <h1 class="archHead" id="diary">dear diary</h1>
 <div v-for="(item, i) in colony" v-bind:key="i">
         <div v-if="item.type === 'Dear Diary'">
@@ -88,8 +85,8 @@
         </div>
         -->
 
-<h1 class="archHead" id="gossip">personal gossip</h1>
-<div v-for="(item, i) in colony" v-bind:key="i">
+      <h1 class="archHead" id="gossip">personal gossip</h1>
+      <div v-for="(item, i) in colony" v-bind:key="i">
         <div v-if="item.type === 'Personal Gossip'">
           <a :href="item.link">
             <div class="block-Archive" style="display: block">
@@ -102,10 +99,10 @@
             </div>
           </a>
         </div>
-</div>
+      </div>
 
-<h1 class="archHead" id="misc">MISC</h1>
-<div v-for="(item, i) in colony" v-bind:key="i">
+      <h1 class="archHead" id="misc">MISC</h1>
+      <div v-for="(item, i) in colony" v-bind:key="i">
         <div v-if="item.type === 'Misc'">
           <a :href="item.link">
             <div class="block-Archive" style="display: block">
@@ -118,9 +115,8 @@
             </div>
           </a>
         </div>
-        </div>
-
       </div>
+    </div>
     <slot />
   </div>
 </template>
@@ -406,7 +402,7 @@ export default {
 }
 
 .archHead {
-    font-size: 20pt;
+  font-size: 20pt;
   font-weight: bold;
   color: #212121;
   font-family: hersheyTrip;
@@ -417,19 +413,19 @@ export default {
   padding: 15px;
   margin: 0px;
 
-  border-bottom: 1px solid #212121;
+  border-bottom: 1px dotted #212121;
   align-items: center;
   text-transform: uppercase;
 }
 
 .select {
-  border-bottom: 1px solid #212121;
+  border-bottom: 1px dotted #212121;
   padding: 8px;
   margin-right: 5px;
 }
 
 .block-Archive {
-  border-bottom: 1px solid #212121;
+  border-bottom: 1px dotted #212121;
   border-collapse: collapse;
   background-color: #fbfdf7;
   overflow: auto;
@@ -448,7 +444,7 @@ export default {
 
 .block-Archive-header {
   position: absolute;
-  color: grey;
+  color: #212121;
   font-size: 14pt;
   padding-left: 15px;
   z-index: 10;
@@ -459,7 +455,7 @@ export default {
   font-size: 35px;
   height: 250px;
   text-align: left;
-  color: grey;
+  color: #212121;
   padding: 15px;
   font-weight: bold;
 
@@ -468,7 +464,7 @@ export default {
 }
 
 .block-Archive-link a {
-  color: grey;
+  color: #212121;
   text-decoration: none;
 }
 
@@ -502,18 +498,26 @@ export default {
 }
 
 @media (max-width: 800px) {
-
   .block-Archive-link {
     font-size: 25px;
-    padding-top: 30px;
+    margin-top: 0px;
+  }
+  .block-Archive-header {
+    position: relative;
+    font-size: 12pt;
+    margin-bottom: 0px;
   }
 }
 
 @media only screen and (max-device-width: 566px) {
-
   .block-Archive-link {
     font-size: 25px;
-    padding-top: 30px;
-      }
+    margin-top: 0px;
+  }
+  .block-Archive-header {
+    position: relative;
+    font-size: 12pt;
+    margin-bottom: 0px;
+  }
 }
 </style>
