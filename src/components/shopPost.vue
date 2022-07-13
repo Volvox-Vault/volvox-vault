@@ -49,7 +49,7 @@ export default {
             },
             {
                 header: 'Heart Issue',
-                des: '$30 - CAD FROM THE BOTTOM OF OUR HEARTS',
+                des: '$30 CAD - FROM THE BOTTOM OF OUR HEARTS',
                 pic:'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HP0001.jpg?v=1657687218865',
                 website: 'https://checkout.square.site/buy/NOKUU77SLZM72TCK6SWWENS7',
                 nav: '',
