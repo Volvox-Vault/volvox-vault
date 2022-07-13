@@ -125,7 +125,7 @@
           <a href="https://polapola.format.com/">Pola</a>, Aditi, George,
           <a href="https://polapola.format.com/">Seán</a>,
           <a href="https://chris.e-worm.club/portfolio.gmi">Chris</a>
-          <br />
+          <br /><br />
 
           hello@volvoxvault.com
         </p>
