@@ -46,13 +46,13 @@
             <div class="column-container">
               <router-link to="/about">
               <div style="border-radius: 50px; background: #664b71;" class="column-box">
-                  <p class="col-1a" style="border-radius: 30px;">UNDER CONSTRUCTION<br>
+                  <p class="col-1a" style="border-radius: 30px;">
                   We now offer a small honourarium for contributors,
                   and are launching a variety of columns.
                   I hope you enjoy our new website.
                   - tiana
                   </p>
-                  <p class="col-1b">UNDER CONSTRUCTION<br>
+                  <p class="col-1b">
                   We now offer a small honourarium for contributors,
                   and are launching a variety of columns.
                   I hope you enjoy our new website.
