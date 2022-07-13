@@ -496,14 +496,24 @@ export default {
 }
 
 @media (min-width: 1998px) {
-
+  .block-Archive-link {
+    font-size: 30px;
+  }
 }
 
 @media (max-width: 800px) {
- 
+
+  .block-Archive-link {
+    font-size: 25px;
+    padding-top: 30px;
+  }
 }
 
 @media only screen and (max-device-width: 566px) {
 
+  .block-Archive-link {
+    font-size: 25px;
+    padding-top: 30px;
+      }
 }
 </style>
