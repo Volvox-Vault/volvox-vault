@@ -44,7 +44,6 @@
             </p>
             <hr />
             <h2>Letter from Laurel and Ellie</h2>
-            <br />
             <p class="windchime">
               “We have a tendency to think of Earth as a closed system. It is
               not. We do not live in a sealed spacecraft, isolated from the
