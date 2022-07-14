@@ -4,12 +4,20 @@
       <main>
         <div class="main">
           <div>
-            <h1 class="head windchime" style="font-weight: normal">
-              Wind Chime Festival ~ Toronto
+            <h1 class="head">
+              Wind Chime Festival: Toronto
             </h1>
 
-            <p class="headDes">artist-made wind chime festival</p>
-            <br />
+            <p class="headDes">an artist-made wind chime festival</p>
+   
+          <hr>
+            <div class="container">
+              <iframe
+                src="https://www.youtube.com/embed/2vwx8RQxBZI"
+                frameborder="0" allowfullscreen class="video"
+              ></iframe>
+            </div>
+<br>
             <p
               style="
                 background: white;
@@ -17,46 +25,26 @@
                 padding: 10px;
                 border-radius: 30px;
                 text-align: center;
+                border: 1px solid yellowgreen;
               "
             >
-              <span style="color: cornflowerblue"
+              <span style="color: yellowgreen"
                 >Saturday, May 28 from 12-6pm @ Christie Pits Park</span
               >
-              </p>
-              <hr />
-              <p>
-              Join us in sharing, crafting, and hearing wind chimes. Limited supplies will be available for sale, so we recommend you
-              craft one in advance. <br />
             </p>
-            <hr />
+    
             <p>
               <em>World Wide Wind Chime Festival</em> was created by Laurel
               Schwulst and Ellie Hunter in NYC.
               <a href="https://windchime.world/"
                 >Explore their online exhibition</a
-              >.<br />
-              This Toronto event will be hosted by Tiana Dueck with Volvox
-              Vault.<br />
-            </p>
-            <hr />
-            <p
-              style="
-                background: white;
-                margin: 0px;
-                padding: 10px;
-                border-radius: 30px;
-                text-align: center;
-              "
-            >
-              <a
-                href="https://docs.google.com/forms/d/e/1FAIpQLSfNIlhUmiRrK5StxyfugR-Ba-FEWVIj456u6ih3KmTPXBnKVw/viewform"
-                style="color: cornflowerblue"
-                >RSVP: I will be making a wind chime for the festival.</a
-              >
+              >.
+              The Toronto event was hosted by Tiana Dueck and Tim Roth with Volvox
+              Observer.<br />
             </p>
             <hr />
             <h2>Letter from Laurel and Ellie</h2>
-            <br>
+            <br />
             <p class="windchime">
               “We have a tendency to think of Earth as a closed system. It is
               not. We do not live in a sealed spacecraft, isolated from the
@@ -103,14 +91,15 @@
               <br />
             </p>
             <hr />
-            <h2 class="windchime" style="font-weight: normal;">
+            <h2 class="windchime" style="font-weight: normal">
               <a href="https://windchime.world/"
-                >Learn more about Wind Chime Festival.</a
+                >windchime.world</a
               >
             </h2>
           </div>
         </div>
       </main>
+      <br>
     </body>
   </MainLayout>
 </template>
@@ -244,6 +233,20 @@ mark.mollyA {
 mark.molly {
   background-color: OliveDrab;
   color: black;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 @media (max-width: 800px) {
