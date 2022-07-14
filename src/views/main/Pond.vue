@@ -30,7 +30,7 @@
         <p style="color: #fbfdf7; line-height: 2; margin-bottom: 20px">
           volvox pond is an ecosystem. it is cleaned every 48 hours.
           <br />
-          <!--<iframe
+          <iframe
             style="color: grey; line-height: 2; margin-top: 20px"
             width="560"
             height="315"
@@ -40,7 +40,7 @@
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
           ></iframe>
-          <br />-->
+          <br />
           <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnic archive</a> | <router-link to="/support">support</router-link> | <router-link to="/town">explore the town</router-link>
           <br />
         </p>
