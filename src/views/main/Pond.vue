@@ -136,7 +136,7 @@ input {
 }
 
 .chatness {
-  height: 70vh;
+  height: 80vh;
   overflow-y: auto;
   color: #fbfdf7;
 }
@@ -190,7 +190,7 @@ video {
 
 @media only screen and (max-device-width: 800px) {
   .chatness {
-    height: 50vh;
+    height: 60vh;
     overflow-y: auto;
   }
 
