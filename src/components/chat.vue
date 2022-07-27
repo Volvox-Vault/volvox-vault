@@ -339,6 +339,7 @@ form {
   color: #fbfdf7;
   min-width: 200px;
   border: 0px;
+  outline: none;
   border-bottom: 0.5px dashed #fbfdf7;
   margin-right: 8px;
   font-size: 15pt;
@@ -352,6 +353,7 @@ placeholder {
 .send {
   color: #fbfdf7;
   font-size: 12pt;
+  outline: none;
   border: 0.5px dashed #fbfdf7;
 }
 
