@@ -24,10 +24,8 @@
     <div class="pond">
       <div class="space">
         <span class="top">
-          <router-link to="/"><p class="header" style="text-align: center;">volvox pond</p></router-link>
+          <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnic archive</a> | <router-link to="/support">support</router-link> | <router-link to="/town">explore the town</router-link> | <router-link to="/">VOLVOX POND</router-link>
         
-        <p style="color: #fbfdf7; line-height: 2; margin-bottom: 20px; text-align: center;">
-
           <!-- <iframe
             style="color: grey; line-height: 2; margin-top: 20px"
             width="560"
@@ -38,9 +36,7 @@
             allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
             allowfullscreen
           ></iframe>
-          <br /> -->
-          <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnic archive</a> | <router-link to="/support">support</router-link> | <router-link to="/town">explore the town</router-link>
-          <br />
+          -->
         </p>
         </span>
 
