@@ -308,7 +308,8 @@ input,
 input:focus,
 input[type="submit"] {
   color: #fbfdf7;
-  outline: 1px solid #fbfdf7;
+  outline: none;
+  border-bottom: 0.5px dashed #fbfdf7;
   background: none;
   padding: 3px;
   margin-left: 1px;
