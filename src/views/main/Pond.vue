@@ -27,9 +27,8 @@
           <router-link to="/"><p class="header">volvox pond</p></router-link>
         </span>
         <hr />
-        <p style="color: #fbfdf7; line-height: 2; margin-bottom: 20px">
-          volvox pond is an ecosystem. it is cleaned every 48 hours.
-          <br />
+        <p style="color: #fbfdf7; line-height: 2; margin-bottom: 20px; text-align: right;">
+
           <!-- <iframe
             style="color: grey; line-height: 2; margin-top: 20px"
             width="560"
