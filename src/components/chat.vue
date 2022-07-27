@@ -338,6 +338,7 @@ form {
 .write {
   color: #fbfdf7;
   min-width: 200px;
+  border: 0px;
   border-bottom: 0.5px dashed #fbfdf7;
   margin-right: 8px;
   font-size: 15pt;
