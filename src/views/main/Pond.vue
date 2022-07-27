@@ -25,7 +25,7 @@
       <div class="space">
         <span class="top">
           <router-link to="/"><p class="header" style="text-align: center;">volvox pond</p></router-link>
-        </span>
+        
         <p style="color: #fbfdf7; line-height: 2; margin-bottom: 20px; text-align: center;">
 
           <!-- <iframe
@@ -42,6 +42,7 @@
           <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnic archive</a> | <router-link to="/support">support</router-link> | <router-link to="/town">explore the town</router-link>
           <br />
         </p>
+        </span>
 
         <hr />
         <div class="chatness">
