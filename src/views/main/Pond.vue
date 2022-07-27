@@ -24,10 +24,9 @@
     <div class="pond">
       <div class="space">
         <span class="top">
-          <router-link to="/"><p class="header">volvox pond</p></router-link>
+          <router-link to="/"><p class="header" style="text-align: center;">volvox pond</p></router-link>
         </span>
-        <hr />
-        <p style="color: #fbfdf7; line-height: 2; margin-bottom: 20px; text-align: right;">
+        <p style="color: #fbfdf7; line-height: 2; margin-bottom: 20px; text-align: center;">
 
           <!-- <iframe
             style="color: grey; line-height: 2; margin-top: 20px"
