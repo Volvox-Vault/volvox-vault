@@ -82,10 +82,7 @@
             <p style="padding: 20px">
               <strong>PERSONAL GOSSIP</strong>: WHAT'S NEW?<br />
               Share about a new creative endeavour, an iconic recipe, a sewing
-              pattern, a short film, etc. Embody the likes of Carrie Bradshaw,
-              Gossip Girl — even Jonah Weiner (of blackbird spyplane), or Rachel
-              Tashjian (of opulent tips). Just don't forget to bring the
-              (friendly) drama!
+              pattern, a short film, etc.
             </p>
             <hr />
             <p style="padding: 20px">
