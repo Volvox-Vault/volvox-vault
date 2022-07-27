@@ -23,9 +23,11 @@
 
     <div class="pond">
       <div class="space">
-        <span class="top">
+        <span class="top" style="color: #fbfdf7; line-height: 2; text-align: right;">
           <a href="https://youtube.com/playlist?list=PLHTW864KflNnohBABQv0QCtorvWeHQOdV" target="_blank">picnic archive</a> | <router-link to="/support">support</router-link> | <router-link to="/town">explore the town</router-link> | <router-link to="/">VOLVOX POND</router-link>
         
+        
+
           <!-- <iframe
             style="color: grey; line-height: 2; margin-top: 20px"
             width="560"
@@ -37,7 +39,6 @@
             allowfullscreen
           ></iframe>
           -->
-     
         </span>
 
         <hr />
