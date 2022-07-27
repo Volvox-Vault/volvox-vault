@@ -4,7 +4,7 @@
       <!-- ABOUT -->
       <div class="block-About">
         <p class="block-About-header">ABOUT</p>
-        <p class="block-About-link">
+        <p class="block-About-link" style="text-align: center">
           <img
             style="width: 25%"
             src="https://cdn.glitch.me/31c7994a-ff45-4592-b835-14262460c504%2FAsset%201.png?v=1637158464886"
