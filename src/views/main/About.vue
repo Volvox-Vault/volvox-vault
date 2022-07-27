@@ -16,9 +16,12 @@
           <a href="https://en.wikipedia.org/wiki/Volvox" target="_blank"
             >volvox</a
           >
-          is a type of algae colony made up of smaller volvox colonies. The volvox would not exist without its colonies... likewise,
-          we thrive with support from our colonies/communities. volvox.observer
-          is a hub for cultivating gentle creative connections, with a mission to bloom together.
+          is a type of algae colony made up of smaller volvox colonies. 
+          <br>
+          The volvox would not exist without its colonies... likewise,
+          we thrive with support from our colonies/communities. 
+          <br>
+          volvox.observer is a hub for cultivating gentle creative connections, with a mission to bloom together.
           <br />
           If you would like, you can support us on
           <a href="https://www.patreon.com/volvoxvault">patreon</a> or
