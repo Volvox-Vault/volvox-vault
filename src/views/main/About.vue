@@ -16,12 +16,9 @@
           <a href="https://en.wikipedia.org/wiki/Volvox" target="_blank"
             >volvox</a
           >
-          is a type of algae colony made up of smaller volvox colonies. It's a
-          similar matrix sensation to when you point your front camera into a
-          mirror. The volvox would not exist without its colonies... likewise,
+          is a type of algae colony made up of smaller volvox colonies. The volvox would not exist without its colonies... likewise,
           we thrive with support from our colonies/communities. volvox.observer
-          is a special hub to gently come together and archive our creations,
-          thoughts, and connections.
+          is a hub for cultivating gentle creative connections, with a mission to bloom together.
           <br />
           If you would like, you can support us on
           <a href="https://www.patreon.com/volvoxvault">patreon</a> or
@@ -42,6 +39,7 @@
           <h2>CONTRIBUTE</h2>
           <p>
             We are seeking 1-2 contributers per month.<br />
+            We are looking for holistic pieces with creative roots.<br />
             As a small community effort, we offer...<br />
             $50 for pieces over 1000 words<br />
             $30 for pieces between 500-999 words<br />
@@ -60,23 +58,22 @@
           >
             <p style="padding: 20px">
               <strong>DEAR DIARY</strong>: PERSONAL REALIZATIONS <br />
-              Got a thought stuck on your mind? Hash it out on volvox.observer.
+              Got a creative thought stuck on your mind? Hash it out on volvox.observer.
               Unravel a topic that's special to you with your best research and
               opinions... the more obscure the better.
             </p>
             <hr />
             <p style="padding: 20px">
               <strong>NOTEBOOK</strong>: LESSONS + TUTORIALS <br />
-              Are you good at something, or getting there? Share your knowledge
+              Are you good at something creative, or getting there? Share your knowledge
               on volvox.observer with an educational piece that could inspire
               readers to delve into something new or old.
             </p>
             <hr />
             <p style="padding: 20px">
               <strong>FEELINGS</strong>: GETTING EMOTIONAL <br />
-              Explore a feeling that stands out to you. Whether the feeling or
-              something that brings up a certain feeling is at the centre of
-              your piece, get emotional! And ask your therapist for a quote.
+              Explore a feeling that stands out to you. How does this feeling serve your creative practices?
+              Or rather, how does a creative practice inspire this feeling?
             </p>
             <hr />
             <p style="padding: 20px">
@@ -86,6 +83,11 @@
               Gossip Girl — even Jonah Weiner (of blackbird spyplane), or Rachel
               Tashjian (of opulent tips). Just don't forget to bring the
               (friendly) drama!
+            </p>
+            <hr />
+            <p style="padding: 20px">
+              <strong>INTREVIEW</strong>: SPEAK WITH A CREATIVE<br />
+              Interview an artist or innovator about their creative inner-workings.
             </p>
             <hr />
             <p style="padding: 20px">
