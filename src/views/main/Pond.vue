@@ -141,7 +141,7 @@ input {
 
 hr {
   border: none;
-  border-bottom: 1px solid #fbfdf7;
+  border-bottom:  0.5px dashed #fbfdf7;
   margin-top: 20px;
   margin-bottom: 20px;
 }

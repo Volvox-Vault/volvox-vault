@@ -338,7 +338,7 @@ form {
 .write {
   color: #fbfdf7;
   min-width: 200px;
-  border: #fbfdf7;
+  border-bottom: 0.5px dashed #fbfdf7;
   margin-right: 8px;
   font-size: 15pt;
   width: 80%;
@@ -361,7 +361,7 @@ placeholder {
 
 hr {
   border: 0px;
-  border-bottom: 1px solid #fbfdf7;;
+  border-bottom: 0.5px dashed #fbfdf7;
 }
 
 #code {
