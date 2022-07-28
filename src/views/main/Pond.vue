@@ -64,6 +64,12 @@
         />
       </footer>-->
     </div>
+
+    <div class="buttons">
+
+      <button type="button" class="dawn" @click="dawn">dawn</button> <button type="button" class="day" @click="day">day</button> <button type="button" class="dusk" @click="dusk">dusk</button> <button type="button" class="night" @click="night">night</button> 
+
+    </div>
   </div>
 </template>
 
@@ -80,22 +86,54 @@ export default {
     // title will be injected into parent titleTemplate
     title: "Volvox Pond",
   },
+  methods: {
+  dawn() {
+    document.querySelector('.pond').setAttribute('style', 'background:#664b71')
+    document.querySelector('.space').setAttribute('style', 'background:#664b71')
+    document.querySelectorAll('.dawn, .day, .dusk, .night').setAttribute('style', 'color:#664b71')
+    },
+  day() {
+    document.querySelector('.pond').setAttribute('style', 'background:midnightblue')
+    document.querySelector('.space').setAttribute('style', 'background:midnightblue')
+    document.querySelectorAll('.dawn, .day, .dusk, .night').setAttribute('style', 'color:midnightblue')
+    },
+  dusk() {
+    document.querySelector('.pond').setAttribute('style', 'background:#464f76')
+    document.querySelector('.space').setAttribute('style', 'background:#464f76')
+    document.querySelectorAll('.dawn, .day, .dusk, .night').setAttribute('style', 'color:#464f76')
+    },
+  night() {
+    document.querySelector('.pond').setAttribute('style', 'background:#212121')
+    document.querySelector('.space').setAttribute('style', 'background:#212121')
+    document.querySelectorAll('.dawn, .day, .dusk, .night').setAttributes('style', 'color:#212121')
+    }
+  }
+  
 };
 </script>
 
 <style scoped>
 * {
-  scrollbar-color: #464f76 #fbfdf7;
+  scrollbar-color: #e5e5e5 #f3f9e6;
   scrollbar-width: thin !important;
 }
 
 body {
-  background-color: #fbfdf7;
-  color: #fbfdf7;
+  background-color: #664b71;
+  color: #f3f9e6;
+}
+
+button {
+  font-family: hersheyTrip, Times, serif;
+  font-size: 12pt;
+  background: #f3f9e6;
+  outline: none;
+  border: 0px;
+  color: #212121;
 }
 
 a {
-  color: #fbfdf7;
+  color: #f3f9e6;
   text-decoration: underline;
 }
 
@@ -106,7 +144,9 @@ a:hover {
 
 .pond {
   height: 100vh;
-  background-color: #464f76;
+  background-color: #664b71;
+  position: relative;
+  color: #f3f9e6;
 }
 
 .header {
@@ -116,33 +156,40 @@ a:hover {
   margin:0px;
 }
 
+.buttons {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+}
+
 input {
     font-family: hersheyFut, arial, sans-serif;
 }
 
 .top a {
-  color: #fbfdf7;
+  color: #f3f9e6;
   text-decoration: none;
 }
 .top a:hover {
-  color: #fbfdf7;
+  color: #f3f9e6;
   text-decoration: underline;
 }
 
 .space {
   padding: 20px;
-  background-color: #464f76;
+  background-color: #664b71;
+  color: #f3f9e6;
 }
 
 .chatness {
-  max-height: 88vh;
+  max-height: 85vh;
   overflow-y: auto;
-  color: #fbfdf7;
+  color: #f3f9e6;
 }
 
 hr {
   border: none;
-  border-bottom:  0.5px dotted #fbfdf7;
+  border-bottom:  0.5px dotted #f3f9e6;
   margin-top: 20px;
   margin-bottom: 20px;
 }
@@ -159,11 +206,11 @@ hr {
 
 ::-webkit-scrollbar {
   width: 0.2em;
-  background-color: #fbfdf7;
+  background-color: #f3f9e6;
 }
 
 ::-webkit-scrollbar-thumb {
-  background-color: #fbfdf7;
+  background-color: #f3f9e6;
 }
 
 iframe {
@@ -189,7 +236,7 @@ video {
 
 @media only screen and (max-device-width: 800px) {
   .chatness {
-    max-height: 88vh;
+    max-height: 85vh;
     overflow-y: auto;
   }
 
