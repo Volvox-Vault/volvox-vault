@@ -135,6 +135,7 @@ p {
 
 a {
   text-decoration: none;
+  color: #664b71;
 }
 
 .sticky {
