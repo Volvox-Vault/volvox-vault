@@ -253,7 +253,7 @@ const colors = (hash) =>
 
 <style>
 .linkified {
-  color: #fbfdf7;
+  color: #f3f9e6;
   text-decoration: underline;
 }
 
@@ -262,13 +262,13 @@ const colors = (hash) =>
 }
 
 .linkified:visited {
-  color: #fbfdf7;
+  color: #f3f9e6;
 }
 </style>
 
 <style scoped>
 #chat {
-  color: #fbfdf7;
+  color: #f3f9e6;
   line-height: 2;
   font-size: 15pt;
 }
@@ -281,7 +281,7 @@ const colors = (hash) =>
 
 #error {
   background: yellowgreen;
-  color: #fbfdf7;
+  color: #f3f9e6;
   font-size: 80%;
   padding: 4px;
 }
@@ -307,9 +307,9 @@ const colors = (hash) =>
 input,
 input:focus,
 input[type="submit"] {
-  color: #fbfdf7;
+  color: #f3f9e6;
   outline: none;
-  border-bottom: 0.5px dashed #fbfdf7;
+  border:  0.5px dotted #f3f9e6;
   background: none;
   padding: 3px;
   margin-left: 1px;
@@ -337,36 +337,36 @@ form {
 }
 
 .write {
-  color: #fbfdf7;
+  color: #f3f9e6;
   min-width: 200px;
   border: 0px;
   outline: none;
-  border-bottom: 0.5px dashed #fbfdf7;
+  border-bottom:  0.5px dotted #f3f9e6;
   margin-right: 8px;
   font-size: 15pt;
   width: 80%;
 }
 
 placeholder {
-  color: #fbfdf7;
+  color: #f3f9e6;
 }
 
 .send {
   color: #fbfdf7;
   font-size: 12pt;
   outline: none;
-  border: 0.5px dashed #fbfdf7;
+  border: 0.5px dashed #f3f9e6;
 }
 
 .write:hover,
 .write:focus {
-  border: #fbfdf7;
+  border: #f3f9e6;
   outline: none;
 }
 
 hr {
   border: 0px;
-  border-bottom: 0.5px dashed #fbfdf7;
+  border-bottom: 0.5px dashed #f3f9e6;
 }
 
 #code {
