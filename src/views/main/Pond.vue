@@ -110,7 +110,7 @@ export default {
 
 <style scoped>
 * {
-  scrollbar-color: #f3f9e6;
+  scrollbar-color: #e5e5e5 #f3f9e6;
   scrollbar-width: thin !important;
 }
 
