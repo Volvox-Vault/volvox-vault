@@ -85,7 +85,7 @@ export default {
 
 <style scoped>
 * {
-  scrollbar-color: #9879a6 #fbfdf7;
+  scrollbar-color: #464f76 #fbfdf7;
   scrollbar-width: thin !important;
 }
 
@@ -106,7 +106,7 @@ a:hover {
 
 .pond {
   height: 100vh;
-  background-color: #664b71;
+  background-color: #464f76;
 }
 
 .header {
@@ -131,7 +131,7 @@ input {
 
 .space {
   padding: 20px;
-  background-color: #664b71;
+  background-color: #464f76;
 }
 
 .chatness {
@@ -142,7 +142,7 @@ input {
 
 hr {
   border: none;
-  border-bottom:  0.5px dashed #fbfdf7;
+  border-bottom:  0.5px dotted #fbfdf7;
   margin-top: 20px;
   margin-bottom: 20px;
 }
