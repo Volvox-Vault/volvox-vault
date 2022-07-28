@@ -90,26 +90,18 @@ export default {
   dawn() {
     document.querySelector('.pond').setAttribute('style', 'background:#664b71')
     document.querySelector('.space').setAttribute('style', 'background:#664b71')
-    document.querySelectorAll('.dawn, .day, .dusk, .night').setAttribute('style', 'color:#664b71')
-    document.querySelector('*').setAttributes('style', 'scrollbar-color: #664b71 #f3f9e6;')
     },
   day() {
     document.querySelector('.pond').setAttribute('style', 'background:midnightblue')
     document.querySelector('.space').setAttribute('style', 'background:midnightblue')
-    document.querySelectorAll('.dawn, .day, .dusk, .night').setAttribute('style', 'color:midnightblue')
-    document.querySelector('*').setAttributes('style', 'scrollbar-color: midnightblue #f3f9e6;')
     },
   dusk() {
     document.querySelector('.pond').setAttribute('style', 'background:#464f76')
     document.querySelector('.space').setAttribute('style', 'background:#464f76')
-    document.querySelectorAll('.dawn, .day, .dusk, .night').setAttribute('style', 'color:#464f76')
-    document.querySelector('*').setAttributes('style', 'scrollbar-color: #464f76 #f3f9e6;')
     },
   night() {
     document.querySelector('.pond').setAttribute('style', 'background:#212121')
     document.querySelector('.space').setAttribute('style', 'background:#212121')
-    document.querySelectorAll('.dawn, .day, .dusk, .night').setAttributes('style', 'color:#212121')
-    document.querySelector('*').setAttributes('style', 'scrollbar-color: #212121 #f3f9e6;')
     }
   }
   
@@ -118,7 +110,7 @@ export default {
 
 <style scoped>
 * {
-  scrollbar-color: #664b71 #f3f9e6;
+  scrollbar-color: #f3f9e6;
   scrollbar-width: thin !important;
 }
 
