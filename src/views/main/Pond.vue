@@ -247,7 +247,7 @@ video {
   }
 
   .header {
-    margin-top: 30px;
+    margin-top: 35px;
   }
 }
 </style>
