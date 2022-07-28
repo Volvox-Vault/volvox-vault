@@ -245,6 +245,10 @@ video {
     width: 350px;
     height: 200px;
   }
+
+  .header {
+    margin-top: 20px;
+  }
 }
 </style>
 
