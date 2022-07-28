@@ -159,7 +159,7 @@ hr {
 
 ::-webkit-scrollbar {
   width: 0.2em;
-  background-color: midnightblue;
+  background-color: #fbfdf7;
 }
 
 ::-webkit-scrollbar-thumb {
