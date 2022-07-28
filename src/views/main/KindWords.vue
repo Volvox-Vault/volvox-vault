@@ -3,26 +3,20 @@
     <h1>kind words</h1>
     <br />
     <p>
-      hi everyone, this is mad（ ꒰ .·:*0¨◌ …︑ ༘︒⚬∙︓·⠄ :·. ꒱ … ◌.·:*0¨◌ ꒱
-      …。。◌ ） <br /><br />
+      hi everyone, this is mad <br /><br />
       welcome to the <router-link to="/">volvox.observer</router-link> kind
       words column, where you can
       <a
         href="https://docs.google.com/forms/d/e/1FAIpQLScaMRoojXD19ClmhFsylL6NPGA6jKA98DxdhSafjnZnNCURQA/viewform?usp=sf_link"
-        >share a worry and ask for kind words or share some kind words to all of
-        us who might need it...</a
+        >share a worry, ask for or share some kind words of your own...</a
       >
-      rather than an advice column for pointed advice, this column will focus on
-      sharing kind words and relating to one another. it will including gentle
-      advice, should there be any. <br /><br />
-      this column is inspired by the indie writing game "Kind Words (lofi chill
-      beats to write to)." in the game, players send out letters about their
-      worries, fly out paper planes, and trade stickers with each other in the
-      process.
-      <br /><br />
-      to me, kind words is a practice of showing care without having all the
-      solutions and being gentle to anonymous kins in a quiet community... "use
-      your words to lift others and be lifted in return".
+      rather than an advice column for pointed advice, this column will focus on sharing kind words and relating to one another. it will including gentle advice, should there be any...
+<br><br>
+to me, kind words is a practice of showing care without having all the solutions, and being gentle to anonymous kins in a quiet community...
+<br><br>
+"use your words to lift others and be lifted in return"
+<br><br>
+（ ꒰ .·:*0¨◌ …︑ ༘︒⚬∙︓·⠄ :·. ꒱ … ◌.·:*0¨◌ ꒱ …。。◌ ）
       <br />
     </p>
     <br />
