@@ -16,7 +16,7 @@ to me, kind words is a practice of showing care without having all the solutions
 <br><br>
 "use your words to lift others and be lifted in return"
 <br><br>
-（ ꒰ .·:*0¨◌ …︑ ༘︒⚬∙︓·⠄ :·. ꒱ … ◌.·:*0¨◌ ꒱ …。。◌ ）
+( ꒰ .·:*0¨◌ …︑ ༘︒⚬∙︓·⠄ :·. ꒱ … ◌.·:*0¨◌ ꒱ …。。◌ ）
       <br />
     </p>
     <br />
