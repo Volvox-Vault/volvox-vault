@@ -232,7 +232,7 @@ video {
 
 @media only screen and (max-device-width: 800px) {
   .chatness {
-    max-height: 75vh;
+    max-height: 65vh;
     overflow-y: auto;
   }
 
@@ -247,7 +247,7 @@ video {
   }
 
   .header {
-    margin-top: 35px;
+    margin-top: 40px;
   }
 }
 </style>
