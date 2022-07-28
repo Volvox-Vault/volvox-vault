@@ -145,9 +145,13 @@ p {
   padding: 0px;
   margin: 0px;
 }
+a {
+  text-decoration: underline;
+}
 a:hover {
   background-color: #cbbad2;
   border-radius: 100px;
+  text-decoration: none;
 }
 .kindc {
   padding: 10px;
