@@ -50,7 +50,7 @@
           <h2>ANNUAL</h2>
           <p>As of 2022, Volvox will be publishing annual printed archives.<br>
           <strong>2022 Pitch Deadline: September 4th, 2022</strong><br>
-          Email pitches to hello@volvoxvault.com
+          Email pitches to tianadueck@pm.me
           </p>
           <h2>COLUMNS</h2>
           <br />
@@ -104,8 +104,8 @@
           <br />
 
           <p>
-            Got an idea? Send your pitch to hello@volvoxvault.com <br />
-            (email change coming soon)
+            Got an idea? Send your pitch to tianadueck@pm.me<br>
+            (new email coming soon)
             <br />
           </p>
 
