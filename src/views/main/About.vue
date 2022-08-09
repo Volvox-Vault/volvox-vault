@@ -50,6 +50,7 @@
           <h2>ANNUAL</h2>
           <p>As of 2022, Volvox will be publishing annual printed archives.<br>
           <strong>2022 Pitch Deadline: September 4th, 2022</strong><br>
+          <em>Max 300 words. Answer: What is the topic and format? Why this? Why volvox?</em> <br>
           Email pitches to hello@volvox.observer (NEW)
           </p>
           <h2>COLUMNS</h2>
