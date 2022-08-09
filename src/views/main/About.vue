@@ -39,7 +39,7 @@
           <p>
             We are seeking 1-2 contributers per month.<br />
             We are looking for holistic pieces with creative roots<br />
-            via tutorials, conversations, short stories, opinions, collaborative projects, etc.<br />
+            via tutorials, conversations, short stories, opinions, projects, etc.<br />
             As a small community effort, we offer...<br />
             $50 for pieces over 1000 words<br />
             $30 for pieces between 500-999 words<br />
