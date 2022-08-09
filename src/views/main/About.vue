@@ -49,7 +49,8 @@
           </p>
           <h2>ANNUAL</h2>
           <p>As of 2022, Volvox will be publishing annual printed archives.<br>
-          <strong>2022 Deadline: September 4th, 2022</strong>
+          <strong>2022 Pitch Deadline: September 4th, 2022</strong><br>
+          Email pitches to hello@volvoxvault.com
           </p>
           <h2>COLUMNS</h2>
           <br />
@@ -129,8 +130,6 @@
           <a href="https://polapola.format.com/">Seán</a>,
           <a href="https://chris.e-worm.club/portfolio.gmi">Chris</a>
           <br /><br />
-
-          hello@volvoxvault.com
         </p>
       </div>
     </div>
