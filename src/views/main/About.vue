@@ -38,13 +38,18 @@
           <h2>CONTRIBUTE</h2>
           <p>
             We are seeking 1-2 contributers per month.<br />
-            We are looking for holistic pieces with creative roots.<br />
+            We are looking for holistic pieces with creative roots<br />
+            via tutorials, conversations, short stories, opinions, collaborative projects, etc.<br />
             As a small community effort, we offer...<br />
             $50 for pieces over 1000 words<br />
             $30 for pieces between 500-999 words<br />
             $20 for mini pieces between 300-499 words<br />
             Email us about pricing for visual focused pieces.
             <br />
+          </p>
+          <h2>ANNUAL</h2>
+          <p>As of 2022, Volvox will be publishing annual printed archives.<br>
+          <strong>2022 Deadline: September 4th, 2022</strong>
           </p>
           <h2>COLUMNS</h2>
           <br />
