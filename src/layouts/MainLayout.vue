@@ -187,6 +187,7 @@ a {
 
 .div9 {
   background: #664b71;
+  border-bottom: 0px solid #fbfdf7;
 }
 
 .box2 {
@@ -439,6 +440,7 @@ a {
     grid-column: 1 / 4;
     text-align: center;
     background: #664b71;
+    border-bottom: 0.5px solid #fbfdf7;
   }
 
   .box1,
