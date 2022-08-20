@@ -209,6 +209,9 @@
         yesterday, I overheard a mother tell her young son - "listen, everything
         that you care about will matter someday"
       </p>
+      <p class="kindc">
+      things take time and in the end, you will find your way even if you feel lost right now.
+      </p>
     </div>
     <br><br>
   </main>
