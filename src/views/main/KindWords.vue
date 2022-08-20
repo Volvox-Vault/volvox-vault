@@ -67,7 +67,7 @@
         practice it. now it’s 2022 and i feel like i am capable of keeping this
         mindset for a long time. i’m rooting for you!
       </p>
-      <br />
+      <br /><br />
       <p class="kindq">
         I constantly have a nagging feeling that I'm running out of time... +
         then I get discouraged that I don't have the energy to make my dreams
@@ -94,7 +94,7 @@
           >"on 0"</a
         >
       </p>
-      <br />
+      <br /><br />
       <p class="kindq">
         hi mad!! i’m worried about wasting time on relationships that may not
         last forever. do you think “forever” is a realistic idea or just a naive
@@ -121,7 +121,7 @@
         happy with this person, right here, right now? i wish you many perfect
         moments with your special person ♥
       </p>
-      <br />
+      <br /><br />
       <p class="kindq">
         i'm often worried that I am disappointing and arbitrary to those around
         me. - yeT
@@ -139,7 +139,7 @@
         appreciation &#9829; i like to remember that the people i think are
         judging me can be counted one by one and dismissed one by one.
       </p>
-      <br />
+      <br /><br />
       <p class="kindq">
         I've been quite insecure about my looks lately. How can I learn to love
         my little quirks? - dee
@@ -242,6 +242,7 @@ main {
   background: #fbfdf7;
   border-radius: 100px;
   color: #212121;
+  max-width: 1920px;
 }
 p {
   padding: 0px;
