@@ -235,7 +235,7 @@ export default {
 
 <style scoped>
 main {
-  margin: 30px;
+  margin: 40px;
 }
 .main {
   margin: 0 auto;
