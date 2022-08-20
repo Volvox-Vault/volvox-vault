@@ -210,6 +210,9 @@
         that you care about will matter someday"
       </p>
       <p class="kindc">
+      Your presence is felt in ways you're not even aware. The past doesn't inform your future; you're going to keep getting closer to your truth.
+      </p>
+      <p class="kindc">
       things take time and in the end, you will find your way even if you feel lost right now.
       </p>
     </div>
