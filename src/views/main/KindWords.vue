@@ -238,6 +238,7 @@ main {
   margin: 30px;
 }
 .main {
+  margin: 0 auto;
   padding: 50px;
   background: #fbfdf7;
   border-radius: 100px;
