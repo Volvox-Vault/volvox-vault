@@ -243,7 +243,7 @@ main {
   background: #fbfdf7;
   border-radius: 100px;
   color: #212121;
-  max-width: 1920px;
+  max-width: 900px;
 }
 p {
   padding: 0px;
