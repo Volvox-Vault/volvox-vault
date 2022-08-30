@@ -380,7 +380,7 @@ a {
 
 @media only screen and (min-width: 601px) {
   .a {
-    height: 100vh;
+    height: 100%;
   }
 
   .box1 p {
@@ -392,6 +392,10 @@ a {
     top: 50%;
     -ms-transform: translate(0%, -50%);
     transform: translate(0%, -50%);
+  }
+
+  .sticky {
+  position:fixed;
   }
 }
 
