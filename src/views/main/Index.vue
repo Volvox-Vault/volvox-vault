@@ -56,10 +56,28 @@
                   <p class="col-6b">a whole world to discover</p>
                 </div></a
               >
+              <a href="/kindwords"
+                ><div class="column-box">
+                  <p class="col-6a">NEW - Kind Words</p>
+                  <p class="col-6b">exchanging kind words</p>
+                </div></a
+              >
               <a href="https://open.spotify.com/show/2fo1GJaSCXUBF5iMCZgBQJ"
                 ><div class="column-box">
                   <p class="col-1a">Oscillations</p>
                   <p class="col-1b">conversations with artists and friends</p>
+                </div></a
+              >
+              <a href="/archive#personalgossip"
+                ><div class="column-box">
+                  <p class="col-5a">Personal Gossip</p>
+                  <p class="col-5b">what's new?</p>
+                </div></a
+              >
+              <a href="/archive#notebook"
+                ><div class="column-box">
+                  <p class="col-3a">Notebook</p>
+                  <p class="col-3b">lessons and tutorials</p>
                 </div></a
               >
               <a href="/about"
@@ -68,30 +86,14 @@
                   <p class="col-2b">personal realizations</p>
                 </div></a
               >
-              <a href="/archive#notebook"
-                ><div class="column-box">
-                  <p class="col-3a">NEW - Notebook</p>
-                  <p class="col-3b">lessons and tutorials</p>
-                </div></a
-              >
               <a href="/about"
                 ><div class="column-box">
                   <p class="col-4a">NEW - Feelings</p>
                   <p class="col-4b">getting emotional</p>
                 </div></a
               >
-              <a href="/about"
-                ><div class="column-box">
-                  <p class="col-5a">NEW - Personal Gossip</p>
-                  <p class="col-5b">what's new?</p>
-                </div></a
-              >
-              <a href="/kindwords"
-                ><div class="column-box">
-                  <p class="col-6a">NEW - Kind Words</p>
-                  <p class="col-6b">exchanging kind words</p>
-                </div></a
-              >
+              
+              
             </div>
           </div>
         </div>
