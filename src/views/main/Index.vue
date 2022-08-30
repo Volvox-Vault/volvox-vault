@@ -58,7 +58,7 @@
               >
               <a href="/kindwords"
                 ><div class="column-box">
-                  <p class="col-6a">NEW - Kind Words</p>
+                  <p class="col-6a">Kind Words</p>
                   <p class="col-6b">exchanging kind words</p>
                 </div></a
               >
