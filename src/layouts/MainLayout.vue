@@ -379,6 +379,25 @@ a {
 }
 
 @media only screen and (min-width: 601px) {
+  
+  body {
+  max-height: 3000px;
+  }
+
+  .container {
+  height: 100%;
+  max-height: 100%;
+  }
+
+  .bin1, .bin3 {
+  height: 100%;
+  }
+
+  .box2 {
+  max-height: 100%;
+  }
+  
+  
   .a {
     height: 100%;
   }
@@ -405,6 +424,19 @@ a {
     max-height: 3000px;
   }
 
+  .container {
+  height: 100%;
+  max-height: 100%;
+  }
+
+  .bin1, .bin3 {
+  height: 100%;
+  }
+
+  .box2 {
+  max-height: 100%;
+  }
+
   .sticky {
   position:fixed;
   }
@@ -415,6 +447,8 @@ a {
     height: 100%;
     color: #212121;
   }
+
+
 
   .a {
     height: 100%;
