@@ -187,7 +187,7 @@ a {
 
 .div9 {
   background: #664b71;
-  border-bottom: 0px solid #fbfdf7;
+  border-bottom: 0px;
 }
 
 .box2 {
