@@ -114,7 +114,7 @@
             >
               <em
                 ><a href="https://www.instagram.com/celebratingtheprocess/"
-                  >Follow Celebrate The Process</a
+                  >Follow Celebrating The Process</a
                 ></em
               >
             </p>
