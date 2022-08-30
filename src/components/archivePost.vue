@@ -176,6 +176,15 @@ export default {
             "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/T.jpg?v=1657683135894",
         },
         {
+          date: "August 2022",
+          author: "Ian Zuke",
+          title: "Celebrate The Process",
+          link: "/archive/celebratetheprocess",
+          type: "Personal Gossip",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ian%201.jpg?v=1661818405949",
+        },
+        {
           date: "May 2022",
           author: "Trevor Lang",
           title: "Spotlight",
