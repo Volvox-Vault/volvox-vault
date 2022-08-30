@@ -401,6 +401,10 @@ a {
     max-height: 3000px;
   }
 
+  .sticky {
+  position:fixed;
+  }
+
   .container {
     display: grid;
     grid-template-columns: 1fr;
