@@ -33,7 +33,7 @@
 
             <p>
               <span class="HotelQ">“You’re allowed to make mistakes in the practice room!”</span> I remember
-              hearing my professors and peers say during my studies in the Music
+              hearing my professors and friends say during my studies in the Music
               Performance program in the fall of 2020, at the University of
               Toronto. People mean well with this piece of advice. To encourage
               the ‘reckless abandonment’ performance mindset which helps
