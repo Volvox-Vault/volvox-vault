@@ -290,6 +290,7 @@ h2 {
 .newest h1 {
   padding: 0px;
   margin: 0px;
+  width: 100%;
 }
 .newest-link:hover .newest {
   background: #212121;
