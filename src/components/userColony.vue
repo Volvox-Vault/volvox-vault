@@ -302,7 +302,7 @@ export default {
                 email: '@moontidepoet',
                 website: '/horoscopes',
                 websiteShow: 'horoscopes ☽',
-                pronoun: '-',
+                pronoun: '',
                 pic: 'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fjulie.png?v=1629598753643',
             },
             {
@@ -322,7 +322,7 @@ export default {
                 email: '-',
                 website: 'https://www.instagram.com/_adrianpop/',
                 websiteShow: '_adrianpop',
-                pronoun: '-',
+                pronoun: '',
                 pic: 'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fadrian.png?v=1627753588996',
             },
             {
@@ -332,7 +332,7 @@ export default {
                 email: '-',
                 website: 'https://www.instagram.com/kay.esser/',
                 websiteShow: 'kay.esser',
-                pronoun: '-',
+                pronoun: '',
                 pic: 'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fkayla.png?v=1627754183810',
             },
             {
@@ -342,7 +342,7 @@ export default {
                 email: 'henryholtgeerts@gmail.com',
                 website: 'https://www.henryholtgeerts.com/',
                 websiteShow: 'henryholtgeerts.com',
-                pronoun: '-',
+                pronoun: '',
                 pic: 'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fhenry.png?v=1627753588962',
             },
             {
@@ -372,7 +372,7 @@ export default {
                 email: '-',
                 website: '-',
                 websiteShow: '-',
-                pronoun: '-',
+                pronoun: '',
                 pic: 'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fada.png?v=1627754269090',
             },
             {
@@ -382,7 +382,7 @@ export default {
                 email: 'http://fee.cool/note/',
                 website: 'http://fee.cool/',
                 websiteShow: 'fee.cool',
-                pronoun: '-',
+                pronoun: '',
                 pic: 'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Fjake.png?v=1627754078271',
             },
             
@@ -393,7 +393,7 @@ export default {
                 email: '-',
                 website: 'https://e-worm.club/',
                 websiteShow: 'e-worm.club',
-                pronoun: '-',
+                pronoun: '',
                 pic: 'https://cdn.glitch.com/31c7994a-ff45-4592-b835-14262460c504%2Feworm.png?v=1627754078232',
             },
             {
