@@ -279,6 +279,8 @@ mark.molly {
     margin-top: 25px;
     min-width: 300px;
     max-width: 300px;
+
+    height: 100%;
   }
 
   .quote {
@@ -291,6 +293,7 @@ mark.molly {
     margin-top: 25px;
     min-width: 300px;
     max-width: 300px;
+    height: 100%;
   }
 
   .quote {
