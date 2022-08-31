@@ -281,6 +281,10 @@ h2 {
   padding: 10px;
   transition: 1s;
 }
+.newest h1 {
+  padding: 0px;
+  margin: 0px;
+}
 .newest-link:hover .newest {
   background: #212121;
 }
