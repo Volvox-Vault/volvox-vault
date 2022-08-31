@@ -45,10 +45,9 @@
 
 
             <router-link to="/archive/celebratetheprocess"  class="newest-link">
-            <div style="width: 100%; height: 300px;"><img style="height: 300px; object-fit: cover;"
-                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ian%201%20-%20Copy%20(2).jpg?v=1661911407193"
-              /></div>
-            <div class="newest"><marquee><h1>THIS JUST IN — PERSONAL GOSSIP FROM IAN ZUKE: "CELEBRATE THE PROCESS"</h1></marquee></div></router-link>
+      
+            <div class="newest"><marquee><h1>THIS JUST IN — PERSONAL GOSSIP FROM IAN ZUKE: "CELEBRATE THE PROCESS"</h1></marquee></div>
+            </router-link>
 
 
             <div class="column-container">
