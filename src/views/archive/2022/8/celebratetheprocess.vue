@@ -13,8 +13,18 @@
                   >Ian Zuke</a
                 >.</em
               >
-              <br />
             </p>
+
+            <p>
+          <audio
+            class="firstAudio"
+            title="Ian Zuke reading this article."
+            controls
+          >
+            <source title="" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ianzukemp3.mp3?v=1661908170982" type="audio/mpeg" />
+            Your browser does not support the audio element.
+          </audio>
+        </p>
 
             <div class="imgBox">
               <img
