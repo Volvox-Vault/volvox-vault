@@ -32,7 +32,6 @@
           </p>
 
           <p class="block-Collab-link bulletin-date">{{ item.date }}</p>
-          <br />
         </div>
       </div>
     </div>
@@ -202,6 +201,10 @@ export default {
   border-bottom: 1px solid #212121;
   align-items: center;
   margin:0px;
+}
+
+.bulletin-date {
+  border-bottom: 0px;
 }
 
 .block-Collab-link a {
