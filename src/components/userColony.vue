@@ -20,8 +20,8 @@
                 <hr v-if="item.email" class="colonyHr">
                 <p v-if="item.email" class="block-Artists-link artist-email break_long_text">{{item.email}}</p>
             
-                <hr v-if="pronoun" class="colonyHr">
-                <p  v-if="pronoun" class="block-Artists-link artist-rec break_long_text">{{item.pronoun}}</p>
+                <hr v-if="item.pronoun" class="colonyHr">
+                <p  v-if="item.pronoun" class="block-Artists-link artist-rec break_long_text">{{item.pronoun}}</p>
                
             </div>
 
