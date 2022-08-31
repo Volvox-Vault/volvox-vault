@@ -409,8 +409,8 @@ export default {
             {
                 name: 'Aidan Mcteague',
                 bio: 'I am Aidan and I want to hear your weirdest thoughts.',
-                website: '/horoscopes',
-                websiteShow: 'No website.',
+                website: '/issues/identity',
+                websiteShow: 'Identity',
                 feat: 'in Identity',
                 email: 'mcteague.aidan@gmail.com',
                 pronoun: 'he/they',
