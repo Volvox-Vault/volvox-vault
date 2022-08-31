@@ -61,6 +61,16 @@ export default {
             },
 
             {
+                name: 'Ian Zuke',
+                feat: 'on the website',
+                bio: 'Founder of Celebrating The Process.',
+                email: '@ianzuke',
+                website: 'https://volvox.observer/archive/celebratetheprocess',
+                websiteShow: 'archive/celebratetheprocess',
+                pronoun: '',
+                pic: 'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ian%201.jpg?v=1661818405949',
+            },
+            {
                 name: 'Brennan Doyle',
                 feat: 'in volvox times and on the website',
                 bio: 'Relaxing experimental piano muzik.',
