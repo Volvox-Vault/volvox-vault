@@ -44,11 +44,6 @@
             </div>
 
 
-            <router-link to="/archive/celebratetheprocess"  class="newest-link">
-      
-            <div class="newest"><marquee><h1>THIS JUST IN — PERSONAL GOSSIP FROM IAN ZUKE: "CELEBRATE THE PROCESS"</h1></marquee></div></router-link>
-
-
             <div class="column-container">
               <a href="/archive#projects"
                 ><div class="column-box">
