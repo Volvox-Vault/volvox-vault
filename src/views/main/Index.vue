@@ -36,9 +36,9 @@
                   <p>WIND CHIME FEST</p>
                 </div></router-link
               >
-              <router-link to="/archive/lho"
+              <router-link to="/kindwords"
                 ><div class="new-box">
-                  <p>LET'S HANG OUT</p>
+                  <p>KIND WORDS</p>
                 </div></router-link
               >
             </div>
