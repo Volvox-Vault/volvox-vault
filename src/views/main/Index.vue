@@ -46,7 +46,7 @@
 
             <router-link to="/archive/celebratetheprocess"  class="newest-link">
       
-            <div class="newest"><marquee><h1>THIS JUST IN — PERSONAL GOSSIP FROM IAN ZUKE: "CELEBRATE THE PROCESS"</h1></marquee></div>
+            <div class="newest"><h1>THIS JUST IN — PERSONAL GOSSIP FROM IAN ZUKE: "CELEBRATE THE PROCESS"</h1></div>
             </router-link>
 
 
