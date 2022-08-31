@@ -19,8 +19,10 @@
                 <p class="block-Artists-link artist-title break_long_text">Featured {{item.feat}}.</p>
                 <hr class="colonyHr">
                 <p class="block-Artists-link artist-email break_long_text">{{item.email}}</p>
+                <!--
                 <hr v-if="pronoun" class="colonyHr">
                 <p  v-if="pronoun" class="block-Artists-link artist-rec break_long_text">{{item.pronoun}}</p>
+                -->
             </div>
 
         </div>
