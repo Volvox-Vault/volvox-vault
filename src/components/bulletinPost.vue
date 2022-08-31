@@ -48,7 +48,13 @@ export default {
     return {
       title: "Bulletin",
       colony: [
-        
+        {
+          header: "Zonder by Second Guessing",
+          des: "'Zonder', meaning 'without' in Dutch, consists of two songs written between 2018-2019 and was realised slowly over the course of the pandemic. These two songs mark a significant change for us as a band, due to the lingual switch to our native tongue. ",
+          contact: "@second__guessing",
+          website: "https://secondguessing.bandcamp.com/album/zonder",
+          date: "September 2022",
+        },
         {
           header: "Craft Makerspace Cookbook",
           des: "A cookbook of DIY crafts.",
