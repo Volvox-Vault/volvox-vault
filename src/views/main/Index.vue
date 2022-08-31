@@ -287,6 +287,9 @@ h2 {
   transition: 1s;
   width: 100%;
 }
+.newest-link {
+  width: 100%;
+}
 .newest h1 {
   padding: 0px;
   margin: 0px;
@@ -323,8 +326,8 @@ h2 {
     overflow: hidden;
   }
   .block-Home-image img {
-    /* make sure the image is scaled keeping its aspect ratio */
-    max-width: 70%;
+    /* make sure the image is scaled keeping its aspect ratio 
+    max-width: 70%; */
     height: auto;
   }
   .chat-block-Home {
@@ -353,8 +356,8 @@ h2 {
     overflow: hidden;
   }
   .block-Home-image img {
-    /* make sure the image is scaled keeping its aspect ratio */
-    max-width: 70%;
+    /* make sure the image is scaled keeping its aspect ratio 
+    max-width: 70%; */
     height: auto;
   }
   .chat-block-Home {
