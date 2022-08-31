@@ -43,6 +43,9 @@
               >
             </div>
 
+
+            <router-link to="/archive/celebratetheprocess"  class="newest-link"><div class="newest"><marquee><h1>THIS JUST IN — PERSONAL GOSSIP FROM IAN ZUKE: "CELEBRATE THE PROCESS"</h1></marquee></div></router-link>
+
             <div class="column-container">
               <a href="/archive#projects"
                 ><div class="column-box">
@@ -270,7 +273,17 @@ h2 {
   justify-content: center;
   align-items: center;
 }
-
+.newest {
+  border-bottom: 1px dotted #212121;
+  background:#9879a6;
+  color:#f0f7de;
+  text-align:center;
+  padding: 10px;
+  transition: 1s;
+}
+.newest-link:hover .newest {
+  background: #212121;
+}
 .chat-block-Home {
   background-color: midnightblue;
 }
