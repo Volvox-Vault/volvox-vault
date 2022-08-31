@@ -17,8 +17,8 @@
                 <p class="block-Artists-link artist-website break_long_text"><a v-bind:href="item.website" target="_blank">{{item.websiteShow}}</a></p>
                 <hr class="colonyHr">
                 <p class="block-Artists-link artist-title break_long_text">Featured {{item.feat}}.</p>
-                <hr v-if="email" class="colonyHr">
-                <p v-if="email" class="block-Artists-link artist-email break_long_text">{{item.email}}</p>
+                <hr v-if="item.email" class="colonyHr">
+                <p v-if="item.email" class="block-Artists-link artist-email break_long_text">{{item.email}}</p>
             
                 <hr v-if="pronoun" class="colonyHr">
                 <p  v-if="pronoun" class="block-Artists-link artist-rec break_long_text">{{item.pronoun}}</p>
