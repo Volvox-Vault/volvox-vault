@@ -12,7 +12,8 @@
                 <a href="https://www.instagram.com/rue.yi/" target="_blank"
                   >Rue Yi</a
                 >.</em
-              >
+              > <br>
+              Featured in <router-link to="/issues/heart">Heart</router-link>.
             </p>
 
 
