@@ -67,7 +67,7 @@
         </div>
       </div>
 
-      <!--
+      
 <h1 class="archHead" id="diary">dear diary</h1>
 <div v-for="(item, i) in colony" v-bind:key="i">
         <div v-if="item.type === 'Dear Diary'">
@@ -83,7 +83,7 @@
           </a>
         </div>
         </div>
-        -->
+     
 
       <h1 class="archHead" id="gossip">personal gossip</h1>
       <div v-for="(item, i) in colony" v-bind:key="i">
@@ -130,6 +130,15 @@ export default {
     return {
       title: "Archive",
       colony: [
+        {
+          date: "2022",
+          author: "Rue Yi",
+          title: "A Letter to My Dearest",
+          link: "/archive/dearest",
+          type: "Dear Diary",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/000015920024.jpg?v=1663799687629",
+        },
         {
           date: "2022",
           author: "Volvox Observer",
