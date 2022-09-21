@@ -54,6 +54,7 @@
               Yours in eternity,
               <br /><br />
               Rue Yi
+              <br /><br />
             </p>
 
             <div class="imgBox">
