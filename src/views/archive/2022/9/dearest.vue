@@ -52,7 +52,7 @@
               why builders build and gardens grow. Need.
               <br /><br />
               Yours in eternity,
-              <br /><br />
+              <br />
               Rue Yi
               <br /><br />
             </p>
