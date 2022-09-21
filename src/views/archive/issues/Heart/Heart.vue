@@ -41,6 +41,10 @@
         </h3>
       </div>
 
+      <br><br>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHTW864KflNkz1ZJkuP2dDz2T9hKAndrm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
       <hr />
 
       <h2>contributors</h2>
@@ -66,27 +70,6 @@
         <a href="https://www.cuffgod.com/home">Samuel Letnik</a>,
         <a href="https://www.instagram.com/gardenvarietea/">Carling Bulger</a>,
         + <a href="https://youtu.be/klXDUvGtMMI">Spirit Josh</a>.
-      </p>
-
-      <hr />
-
-      <h2 id="heartathome">heart @ home</h2>
-
-      <div class="container">
-        <iframe
-          class="video"
-          src="https://www.youtube.com/embed/kR-7Lset4_A"
-          title="YouTube video player"
-          frameborder="0"
-          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
-          allowfullscreen
-        ></iframe>
-      </div>
-      <p>
-        <a
-          href="https://i.pinimg.com/originals/5f/86/7d/5f867d8704ba32bc55b818217db93417.jpg"
-          >heart origami</a
-        >
       </p>
 
       <hr />
@@ -126,8 +109,29 @@
       <br />
 
       <p style="text-align: center">and so much more...</p>
-<br><br>
-      <iframe width="560" height="315" src="https://www.youtube.com/embed/videoseries?list=PLHTW864KflNkz1ZJkuP2dDz2T9hKAndrm" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+<hr />
+
+      <h2 id="heartathome">heart @ home</h2>
+
+      <div class="container">
+        <iframe
+          class="video"
+          src="https://www.youtube.com/embed/kR-7Lset4_A"
+          title="YouTube video player"
+          frameborder="0"
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"
+          allowfullscreen
+        ></iframe>
+      </div>
+      <p>
+        <a
+          href="https://i.pinimg.com/originals/5f/86/7d/5f867d8704ba32bc55b818217db93417.jpg"
+          >heart origami</a
+        >
+      </p>
+
+
 
       <footer
         style="
