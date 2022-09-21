@@ -12,44 +12,46 @@
                 <a href="https://www.instagram.com/rue.yi/" target="_blank"
                   >Rue Yi</a
                 >.</em
-              > <br>
+              >
+              <br />
               Featured in <router-link to="/issues/heart">Heart</router-link>.
             </p>
 
-<hr>
+            <hr />
             <p>
               Dearest,
               <br /><br />
               Today love speaks to me in reprise. It is the repetition, the
               commitment, the devotion of the ba-thump ba-thump the heart
-              carries on love’s light wings. It speaks to me today in the
+              carries on love’s weightless flight. It speaks to me today in the
               willingness to do it over and over. Tolerance. Patience. The quiet
-              by immense measures of a great live. What is the heart, if not the
-              mutable, constant promise to know another moment?
+              but immense measures of a great love. What is the heart, if not
+              the tacit, constant promise to know another moment?
               <br /><br />
-              Today love speaks to me in closeness, I touch. When I hold someone
-              I can feel their warmth melt into my marrow, viscous and achingly
-              gourmand. Touch transmits feeling in a way words could never
-              fashion completely, touch shows me you trust me in a way you could
-              never tell me. Pour it in, darling, until everything between you
-              and me is full.
+              Today love speaks to me in closeness, in touch. When I hold you I
+              can feel your warmth melt into my marrow, where blood is made
+              before it reaches the heart, viscous with aching tang. Your touch
+              transmits feeling in a way language could never achieve in
+              absolution, and shows me the depths of your trust words could
+              never say. Pour it in, darling, until everything between you and
+              me is full.
               <br /><br />
-              Today love speaks to me in dignity and space. The sovereignty you
-              recognize in me and the agency to which you grant each
-              interaction. It is the consideration you take for me with every
-              move made, the awareness for my comfort you remain ever attentive
-              of. It does not go unnoticed, the meaningful brush against the
-              inside of my wrist, the artful steer in conversation in a topic
-              I’d rather not discuss, the moment of pause you allow me to
-              recognize I’ve tripped over my words, and the outstretched hand
-              open to help me up again. They ring high and true, this aria
-              bridging you and me. The dignity you offer me is the glory of
-              being known and understood and accepted in spite of it all. The
-              sanctity of your heart is sacred to me, and like all things holy
-              it is terrific, in the sense that each pulse slips like glowing
-              sand between my fingers, which I cannot hold and keep for every
-              moment I am loved by you. To hold and be held by you is to know
-              why builders build and gardens grow. Need.
+              Today love speaks to me in dignity and space. The sovereignty and
+              agency granted in mutual recognition. It is the consideration you
+              take for me, the attentiveness to my comfort. The meaningful brush
+              against the inside of my wrist, the artful steer away from
+              conversations I’d rather not have, the moments of pause where you
+              allow me to acknowledge I’ve tripped over myself, and your
+              outstretched hand held open to help me up again. The dignity you
+              offer me is the glory of being known and understood and accepted
+              in spite of it all.
+              <br /><br />
+              This aria bridging you and me rings high and true. The sanctity of
+              your heart is sacred, and like all things holy, it is terrific.
+              Every pulse together slips through my fingers, desert-dust I
+              cannot keep for every moment I am loved by you. To hold you and be
+              held by you is to know why builders build and gardens grow. Need.
+
               <br /><br />
               Yours in eternity,
               <br />
