@@ -22,6 +22,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */
+import dearest from '../views/archive/2022/9/dearest.vue'
 import celebratetheprocess from '../views/archive/2022/8/celebratetheprocess.vue'
 import trevorspotlight from '../views/archive/2022/7/trevorspotlight.vue'
 import seasofnoise from '../views/archive/2022/6/seasofnoise.vue'
@@ -166,7 +167,11 @@ const routes = [
   },
 
   /* ARCHIVE */
-
+  {
+    path: '/archive/dearest',
+    name: 'dearest',
+    component: dearest
+  },
   {
     path: '/archive/celebratetheprocess',
     name: 'celebratetheprocess',
