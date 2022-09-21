@@ -16,7 +16,7 @@
               Featured in <router-link to="/issues/heart">Heart</router-link>.
             </p>
 
-
+<hr>
             <p>
               Dearest,
               <br /><br />
