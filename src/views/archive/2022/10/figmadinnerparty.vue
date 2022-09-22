@@ -241,7 +241,7 @@ compulsively draws everything that she buys. When I met her, that was her claim 
 It was really interesting, because while she does this illustration, and this is her illustration style, I started to realize that being a designer could be really different. Like, who you were as a designer could be very different from who you were as a visual outputer, artist, creative, like whatever that title could be. I don’t know if this picture or anything that she’s drawn represents the type of artists that she is to me. I think you’d have to go to her class to experience that version of her. Maybe that’s why I really want to find her face. Okay, here’s her face. I think that this kind of helps sum it up.”
 <br>
 Leah brought out these images from our Figma oven, and uncovered them carefully. Their comforting aromas spread throughout the whole room.
-<p>
+</p>
 
 <div class="imgBox">
               <img
@@ -258,7 +258,7 @@ Leah brought out these images from our Figma oven, and uncovered them carefully.
               />
 </div>
 
-</p>
+<p>
 “That’s incredible. How do you get your heart in the right place before getting creative when you’re doing something for fun or art?”
 <br>
 “I think I need to become obsessed with something before I can really make work about it. I think my public output is what I was obsessed with, which was getting to know Photoshop and making something in the program that was so shiny, shining back at me. It was so satisfying to have a computer screen playback, in full brightness, the colours that I was putting down on the canvas. To be getting better and better with my tool, then grabbing new tools and using those and getting even better. Then I started to get a little bit disgusted by all of the maximalism. I started to struggle with letterforms, and finding time outside of work and yada yada. So my obsession with that tool kind of faded away, and overlapped with my new obsession with learning, or the pursuit of teaching.
