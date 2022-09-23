@@ -39,7 +39,9 @@
                 identity. I work as a graphic designer and make artwork as a
                 type-designer. I made Glyphworld, which I think is my one hit
                 wonder. It’s actually not one hit, it’s a full album. There’s
-                lots of fonts within that typeface. So that’s kind of like my
+                lots of fonts within that typeface. 
+                <br><br>
+                So that’s kind of like my
                 claim to fame. I’ve made other typefaces, but they haven’t
                 really received the same type of attention as my star child —
                 which is Glyphworld, who I’m beginning to kind of hate a little
