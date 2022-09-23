@@ -44,11 +44,11 @@
             </div>
 
 
-            <router-link to="/archive/celebratetheprocess"  class="newest-link">
+            <router-link to="/archive/figmadinnerparty"  class="newest-link">
             <div style="width: 100%; height: 300px;"><img style="height: 300px; width: 100%;  object-fit: cover;"
-                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ian%201%20-%20Copy%20(2).jpg?v=1661911407193"
+                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/leah-dither.png?v=1663936602038"
               /></div>
-            <div class="newest"><marquee><h1>THIS JUST IN — PERSONAL GOSSIP FROM IAN ZUKE: "CELEBRATE THE PROCESS"</h1></marquee></div></router-link>
+            <div class="newest"><marquee><h1>THIS JUST IN — VIDEO: FIGMA DINNER PARTY WITH LEAH MALDONADO + TIANA DUECK NOW AVAILABLE ONLINE, AS SEEN IN THE HEART ISSUE.</h1></marquee></div></router-link>
 
 
             <div class="column-container">
