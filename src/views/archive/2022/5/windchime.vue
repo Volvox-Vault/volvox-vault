@@ -246,6 +246,7 @@ mark.molly {
   left: 0;
   width: 100%;
   height: 100%;
+  border-radius: 30px;
 }
 
 @media (max-width: 800px) {

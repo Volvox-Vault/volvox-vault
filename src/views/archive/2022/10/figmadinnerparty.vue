@@ -12,8 +12,18 @@
               Dinner Party, to discuss Leah’s art and work practices in relation
               to her heart.
               <br />
-              Featured in <router-link to="/issues/heart">Heart</router-link>.
+              Featured in <router-link to="/issues/heart">Heart</router-link>.<br />
+              Listen to or watch to hear more of our conversation.
             </p>
+
+            <hr />
+
+            <div class="container">
+              <iframe
+                src="https://www.youtube.com/embed/Pu2zB_3DkXs"
+                frameborder="0" allowfullscreen class="video"
+              ></iframe>
+            </div>
 
             <hr />
 
@@ -1506,6 +1516,21 @@ img {
   justify-content: center;
   padding-top: 30px;
   padding-bottom: 30px;
+}
+
+.container {
+  position: relative;
+  width: 100%;
+  height: 0;
+  padding-bottom: 56.25%;
+}
+.video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  border-radius: 30px;
 }
 
 br {
