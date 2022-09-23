@@ -13,7 +13,7 @@
               to her heart.
               <br />
               Featured in <router-link to="/issues/heart">Heart</router-link>.<br />
-              Listen to or watch to hear more of our conversation.
+              Listen to (<a href="https://open.spotify.com/show/2fo1GJaSCXUBF5iMCZgBQJ?si=d9f210436b884734">Spotify</a>) or watch to hear more of our conversation.
             </p>
 
             <hr />
