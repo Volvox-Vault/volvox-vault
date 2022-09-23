@@ -132,7 +132,7 @@ export default {
       colony: [
         {
           date: "2022",
-          author: "Leah Maldonado + Tiana Dueck",
+          author: "Leah Maldonado & Tiana Dueck",
           title: "Figma Dinner Party With Leah Maldonado",
           link: "/archive/figmadinnerparty",
           type: "Interview",
@@ -275,7 +275,7 @@ export default {
         },
         {
           date: "Oct 2021",
-          author: "Natan Lawson & Tiana Dueck",
+          author: "Natan Lawson",
           title: "Natan Lawson's Little Moments",
           link: "/archive/natan",
           type: "Interview",
@@ -357,7 +357,7 @@ export default {
         },
         {
           date: "Nov 2020",
-          author: "Tiana Dueck & Will Agnew",
+          author: "Will Agnew",
           title: "I Thought Nothing Of It - Horse Champion",
           link: "/archive/horseChampion",
           type: "Interview",
@@ -399,7 +399,7 @@ export default {
         },
         {
           date: "Aug 2020",
-          author: "Tiana Dueck, Elliott Cost, & Laurel Schwulst",
+          author: "Elliott Cost, Laurel Schwulst, & Tiana Dueck",
           title:
             "Exploring the independent web with Elliott Cost and Laurel Schwulst.",
           link: "/archive/ElliottLaurel",
