@@ -41,27 +41,21 @@ She moves the circles to overlap.
 </p>
 <div class="imgBox">
               <img
-                style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Group%2010.png?v=1663889715030"
               />
               <img
-                style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Group%2013.png?v=1663889715317"
               />
               <img
-                style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Group%2011.png?v=1663889715133"
               />
               <img
-                style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Group%2014.png?v=1663889715359"
               />
               <img
-                style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Group%2012.png?v=1663889715193"
               />
               <img
-                style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Group%2015.png?v=1663889715266"
               />
             </div>
@@ -82,15 +76,15 @@ She garnished her venn-diagams as I nodded in agreement.
 
 <div class="imgBox">
               <img
-                style="border-radius: 30px"
+              style="width: 90%"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Design%20%3D%20Work.png?v=1663889077486"
               />
               <img
-                style="border-radius: 30px"
+              style="width: 90%"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Design%20%3D%20Money.png?v=1663889077486"
               />
               <img
-                style="border-radius: 30px"
+              style="width: 90%"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Art%20Work%20%3D%20Expression.png?v=1663889077486"
               />
             </div>
@@ -118,7 +112,6 @@ Leah turned her attention to another portion of our Figma counter-top, and  star
 </p>
 <div class="imgBox">
               <img
-                style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Group%206.png?v=1663889864975"
               />
 </div>
@@ -181,7 +174,6 @@ I stretched out my heart dough and decorated it too, with strong inspiration fro
 </p>
 <div class="imgBox">
               <img
-                style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Group%203.png?v=1663889936990"
               />
 </div>
@@ -248,10 +240,12 @@ Leah brought out these images from our Figma oven, and uncovered them carefully.
                 style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/image%206.png?v=1663890063659"
               />
+              <br>
               <img
                 style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/image%208.png?v=1663890066009"
               />
+              <br>
               <img
                 style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/image%207.png?v=1663890063002"
@@ -346,7 +340,7 @@ The double story g does get made into things that aren’t serif, but I think wh
 
 <div class="imgBox">
               <img
-                style="border-radius: 30px"
+              style="width: 90%"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/g.png?v=1663890177534"
               />
 </div>
@@ -379,7 +373,6 @@ But then internally, when I was little I liked the colour yellow a lot. So ketch
 
 <div class="imgBox">
               <img
-                style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Group%204.png?v=1663890215333"
               />
 </div>
@@ -400,7 +393,6 @@ But then internally, when I was little I liked the colour yellow a lot. So ketch
 
 <div class="imgBox">
               <img
-                style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Group%205.png?v=1663890322243"
               />
 </div>
@@ -474,7 +466,6 @@ That’s what social media looks like in my brain. If it were personified, it’
 
 <div class="imgBox">
               <img
-                style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Group%202.png?v=1663890435694"
               />
 </div>
@@ -543,6 +534,7 @@ I just love it when clickbait is circling something, and they make it really big
                 style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/image%2011.png?v=1663890502573"
               />
+              <br>
               <img
                 style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/image%2012%20edit.png?v=1663890504660"
@@ -568,12 +560,7 @@ We savoured our delicious Figma noodle soup, then cleaned up our mess. Afterward
 
              </p>
 
-            <div class="imgBox">
-              <img
-                style="border-radius: 30px"
-                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/000015920024.jpg?v=1663799687629"
-              />
-            </div>
+<hr>
 
             <br />
 
