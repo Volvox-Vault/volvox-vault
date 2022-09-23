@@ -132,6 +132,15 @@ export default {
       colony: [
         {
           date: "2022",
+          author: "Leah Maldonado + Tiana Dueck",
+          title: "Figma Dinner Party With Leah Maldonado",
+          link: "/archive/figmadinnerparty",
+          type: "Interview",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/leah.01_29_27_01.Still001.jpg?v=1663936508902",
+        },
+        {
+          date: "2022",
           author: "Rue Yi",
           title: "A Letter to My Dearest",
           link: "/archive/dearest",
