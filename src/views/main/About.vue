@@ -20,7 +20,7 @@
           volvox.observer is a hub for cultivating gentle creative connections, with a mission to bloom together.
           <br />
           If you would like, you can support us on
-          <a href="https://www.patreon.com/volvoxvault">patreon</a> or
+          <a href="https://www.patreon.com/volvoxvault" target="_blank">patreon</a> or
           <router-link to="support">some other way</router-link>.
         </p>
 
