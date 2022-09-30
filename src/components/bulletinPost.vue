@@ -48,6 +48,20 @@ export default {
       title: "Bulletin",
       colony: [
         {
+          header: "Music You Can See",
+          des: "After toying with the idea for the past year or two I've recently started releasing ambient projects under Sound Image. This is something I'll be continuing to do for many years to come. Would love for you to hear!",
+          contact: "kotrba.sam@gmail.com",
+          website: "https://soundimage.bandcamp.com",
+          date: "September 2022",
+        },
+        {
+          header: "Neighbour Andy",
+          des: "Some of my pals and I have a new self titled EP out now.",
+          contact: "@neighbourandy",
+          website: "https://open.spotify.com/artist/0p9ozwnqaVgVFSLMJAST4O?si=38TG5t97Rv6hBINX43bgoA",
+          date: "September 2022",
+        },
+        {
           header: "Zonder by Second Guessing",
           des: "'Zonder', meaning 'without' in Dutch, consists of two songs written between 2018-2019 and was realised slowly over the course of the pandemic. These two songs mark a significant change for us as a band, due to the lingual switch to our native tongue. ",
           contact: "@second__guessing",
