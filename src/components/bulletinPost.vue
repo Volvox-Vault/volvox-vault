@@ -57,7 +57,7 @@ export default {
         {
           header: "Neighbour Andy",
           des: "Some of my pals and I have a new self titled EP out now.",
-          contact: "@neighbourandy",
+          contact: "neighbourandyband@gmail.com",
           website: "https://open.spotify.com/artist/0p9ozwnqaVgVFSLMJAST4O?si=38TG5t97Rv6hBINX43bgoA",
           date: "September 2022",
         },
