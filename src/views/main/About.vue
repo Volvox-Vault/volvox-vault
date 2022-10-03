@@ -5,7 +5,7 @@
       <div class="block-About">
         <p class="block-About-header">ABOUT</p>
         <p class="block-About-link" style="text-align: center">
-          volvox.observer is a thoughtful creative community...
+          volvox.observer is a thoughtful creative community.
 
           <br />
           A
