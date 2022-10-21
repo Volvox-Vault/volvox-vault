@@ -255,7 +255,7 @@
       </div>
     </div>
 
-    <script src="/script.js"></script>
+    <script src="/script.js" type="application/javascript" ></script>
 
   </body>
 </template>
@@ -325,7 +325,7 @@ hr {
   font-weight: normal;
   padding: 0px;
   margin: 0px;
-  font-size: 20pt;
+  font-size: 30pt;
 }
 
 #para {
