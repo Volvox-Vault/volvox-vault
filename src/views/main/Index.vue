@@ -44,11 +44,11 @@
             </div>
 
 
-            <router-link to="/archive/figmadinnerparty"  class="newest-link">
+            <router-link to="/archive/belongingthroughcreativity"  class="newest-link">
             <div style="width: 100%; height: 300px;"><img style="height: 300px; width: 100%;  object-fit: cover;"
-                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/leah-dither.png?v=1663936602038"
+                src="https://cdn.glitch.global/25997b0f-8076-48ed-9905-f08bf8646cf5/dither_it_68221226406__7BDBA268-1A78-4865-B3FF-56446D7445D5.png?v=1666351520275"
               /></div>
-            <div class="newest"><marquee><h1>THIS JUST IN — VIDEO: FIGMA DINNER PARTY WITH LEAH MALDONADO + TIANA DUECK NOW AVAILABLE ONLINE, AS SEEN IN THE HEART ISSUE.</h1></marquee></div></router-link>
+            <div class="newest"><marquee><h1>THIS JUST IN — SOPHIE SPENCER ILLUSTRATES HOW BELONGING MAY BE FOUND THROUGH CREATIVITY</h1></marquee></div></router-link>
 
 
             <div class="column-container">

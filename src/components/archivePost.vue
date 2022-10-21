@@ -153,7 +153,7 @@ export default {
           link: "/archive/belongingthroughcreativity",
           type: "Feelings",
           image:
-            "https://cdn.glitch.global/25997b0f-8076-48ed-9905-f08bf8646cf5/IMG_0277.jpeg?v=1664644236212",
+            "https://cdn.glitch.global/25997b0f-8076-48ed-9905-f08bf8646cf5/dither_it_68221226406__7BDBA268-1A78-4865-B3FF-56446D7445D5.png?v=1666351520275",
         },
         {
           date: "2022",
