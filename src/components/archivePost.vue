@@ -132,6 +132,15 @@ export default {
       colony: [
         {
           date: "2022",
+          author: "Sophie Spencer",
+          title: "FEELINGS: Belonging Through Creativity",
+          link: "/archive/belongingthroughcreativity",
+          type: "Interview",
+          image:
+            "https://cdn.glitch.global/25997b0f-8076-48ed-9905-f08bf8646cf5/IMG_0277.jpeg?v=1664644236212",
+        },
+        {
+          date: "2022",
           author: "Leah Maldonado & Tiana Dueck",
           title: "Figma Dinner Party With Leah Maldonado",
           link: "/archive/figmadinnerparty",

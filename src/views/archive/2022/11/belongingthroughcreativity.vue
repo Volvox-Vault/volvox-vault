@@ -5,7 +5,7 @@
         
         <h1 class="title">Belonging + Creativity</h1>
       <br>  
-      <p class="by" style="font-size: 14pt;">By Sophie Spencer for <router-link to="/">Volvox Observer</router-link></p>     
+      <p class="by" style="font-size: 14pt;">By <a href="">Sophie Spencer</a> for <router-link to="/"><u>Volvox Observer</u></router-link></p>     
       <br>
       <hr />
         <br />
