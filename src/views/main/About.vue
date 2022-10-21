@@ -49,7 +49,6 @@
           <p>As of 2022, Volvox will be publishing annual printed archives.</p>
           <h2>PITCH</h2>
           <p>
-          <strong>2022 Pitch Deadline: September 4th, 2022</strong><br>
           Max 300 words. Answer: What is the topic and format? Why this? Why Volvox?<br>
           Email pitches to hello@volvox.observer (NEW)
           </p>
