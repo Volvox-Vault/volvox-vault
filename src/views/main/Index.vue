@@ -88,18 +88,23 @@
                   <p class="col-3b">lessons and tutorials</p>
                 </div></a
               >
-              <a href="/about"
+
+              <a href="/archive#diary"
                 ><div class="column-box">
-                  <p class="col-2a">NEW - Dear Diary</p>
+                  <p class="col-2a">Dear Diary</p>
                   <p class="col-2b">personal realizations</p>
                 </div></a
               >
-              <a href="/about"
+
+              <a href="/archive#feelings">
                 ><div class="column-box">
-                  <p class="col-4a">NEW - Feelings</p>
+                  <p class="col-4a">Feelings</p>
                   <p class="col-4b">getting emotional</p>
                 </div></a
               >
+
+              
+              
               
               
             </div>
