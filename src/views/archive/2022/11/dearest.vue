@@ -5,7 +5,7 @@
         
         <h1 class="title">Belonging + Creativity</h1>
       <br>  
-      <p class="by" style="font-size: 14pt;">By Sophie Spencer for Volvox Observer</p>     
+      <p class="by" style="font-size: 14pt;">By Sophie Spencer for <router-link to="/">Volvox Observer</router-link></p>     
       <br>
       <hr />
         <br />
@@ -260,18 +260,17 @@
 
 
 <script>
-import MainLayout from "../../../../layouts/MainLayout";
 
 export default {
   name: "belongingandcreativity",
   components: {
-    MainLayout,
   },
   metaInfo: {
     // title will be injected into parent titleTemplate
     title: "Belonging + Creativity",
   },
 };
+
 </script>
 
 <style scoped>
