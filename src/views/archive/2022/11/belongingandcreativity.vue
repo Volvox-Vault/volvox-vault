@@ -255,8 +255,6 @@
       </div>
     </div>
 
-    <script src="/script.js" type="application/javascript" ></script>
-
   </body>
 </template>
 
