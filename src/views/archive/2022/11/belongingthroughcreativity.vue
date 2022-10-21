@@ -5,7 +5,7 @@
         
         <h1 class="title">FEELINGS: Belonging Through Creativity</h1>
       <br>  
-      <p class="by" style="font-size: 14pt;">By <a href="">Sophie Spencer</a> for <router-link to="/"><u>Volvox Observer</u></router-link></p>     
+      <p class="by" style="font-size: 14pt;">By <a href="https://www.instagram.com/sophieespencerr/">Sophie Spencer</a> for <router-link to="/"><u>Volvox Observer</u></router-link></p>     
       <br>
       <hr />
         <br />
