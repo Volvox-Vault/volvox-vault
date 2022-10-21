@@ -149,7 +149,7 @@ export default {
         {
           date: "2022",
           author: "Sophie Spencer",
-          title: "FEELINGS: Belonging Through Creativity",
+          title: "Belonging Through Creativity",
           link: "/archive/belongingthroughcreativity",
           type: "Feelings",
           image:
