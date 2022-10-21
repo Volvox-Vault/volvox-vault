@@ -22,6 +22,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */
+import belongingandcreativity from '../views/archive/2022/11/belongingandcreativity.vue'
 import figmadinnerparty from '../views/archive/2022/10/figmadinnerparty.vue'
 import dearest from '../views/archive/2022/9/dearest.vue'
 import celebratetheprocess from '../views/archive/2022/8/celebratetheprocess.vue'
@@ -168,6 +169,11 @@ const routes = [
   },
 
   /* ARCHIVE */
+  {
+    path: '/archive/belongingandcreativity',
+    name: 'belongingandcreativity',
+    component: belongingandcreativity
+  },
   {
     path: '/archive/figmadinnerparty',
     name: 'figmadinnerparty',
