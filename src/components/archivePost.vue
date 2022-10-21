@@ -83,6 +83,22 @@
           </a>
         </div>
         </div>
+
+        <h1 class="archHead" id="feelings">feelings</h1>
+      <div v-for="(item, i) in colony" v-bind:key="i">
+        <div v-if="item.type === 'Feelings'">
+          <a :href="item.link">
+            <div class="block-Archive" style="display: block">
+              <img :src="item.image" class="archImg" />
+
+              <p class="block-Archive-header">
+                {{ item.date }} | {{ item.author }} | {{ item.type }}
+              </p>
+              <p class="block-Archive-link">{{ item.title }}</p>
+            </div>
+          </a>
+        </div>
+      </div>
      
 
       <h1 class="archHead" id="gossip">personal gossip</h1>
@@ -101,7 +117,7 @@
         </div>
       </div>
 
-      <h1 class="archHead" id="misc">MISC</h1>
+      <h1 class="archHead" id="misc">misc</h1>
       <div v-for="(item, i) in colony" v-bind:key="i">
         <div v-if="item.type === 'Misc'">
           <a :href="item.link">
@@ -135,7 +151,7 @@ export default {
           author: "Sophie Spencer",
           title: "FEELINGS: Belonging Through Creativity",
           link: "/archive/belongingthroughcreativity",
-          type: "Interview",
+          type: "Feelings",
           image:
             "https://cdn.glitch.global/25997b0f-8076-48ed-9905-f08bf8646cf5/IMG_0277.jpeg?v=1664644236212",
         },
