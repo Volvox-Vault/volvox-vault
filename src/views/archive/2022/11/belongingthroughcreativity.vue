@@ -15,7 +15,7 @@
             title="Sophie Spencer reading this article."
             controls
           >
-            <source title="" src="/belongingsophie.mp3" type="audio/mp3" />
+            <source title="" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/belongingsophie.mp3?v=1666523950529" type="audio/mp3" />
             Your browser does not support the audio element.
           </audio>
           
