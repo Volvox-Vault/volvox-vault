@@ -8,6 +8,20 @@
       <p class="by" style="font-size: 14pt;">By <a href="https://www.instagram.com/sophieespencerr/">Sophie Spencer</a> for <router-link to="/"><strong>Volvox Observer</strong></router-link></p>     
       <br>
       <hr />
+
+       <p>
+          <audio
+            class="firstAudio"
+            title="Sophie Spencer reading this article."
+            controls
+          >
+            <source title="" src="/belongingsophie.mp3" type="audio/mp3" />
+            Your browser does not support the audio element.
+          </audio>
+          
+        </p>
+
+        <hr>
         <br />
         
         <p>
@@ -296,6 +310,13 @@ main {
   height: 65vh;
     overflow: scroll;
 
+}
+
+.firstAudio {
+  padding-top: 25px;
+  padding-bottom: 5px;
+  width: 100%;
+  height: 30px;
 }
 
 img {
