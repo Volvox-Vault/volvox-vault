@@ -1,7 +1,7 @@
 <template>
   <MainLayout>
     <div id="blocks-Support">
-      <a href="https://www.patreon.com/volvoxvault" target="_blank"
+      <a href="https://www.patreon.com/volvoxobserver" target="_blank"
         ><div class="block-Support patreon-Support">
           <br />
           <h2>Patreon</h2>
