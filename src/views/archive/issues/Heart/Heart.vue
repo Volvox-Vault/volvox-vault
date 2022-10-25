@@ -28,9 +28,9 @@
         />
         <h2>Shop</h2>
         <h3>
-          <s>
+          
             Buy the Hand-bound Print Version (only 50 copies) + Digital
-            &#8674;</s> — SOLD OUT
+            &#8674; — SOLD OUT
         </h3>
         <h3>
           <a href="https://square.link/u/iUH9bsim" target="_blank"
