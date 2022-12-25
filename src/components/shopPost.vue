@@ -48,10 +48,10 @@ export default {
                 nav: '',
             },
             {
-                header: 'Heart (2022)',
-                des: '$30 CAD - FROM THE BOTTOM OF OUR HEARTS',
+                header: 'Heart (2022) — Digital',
+                des: '$10 CAD - FROM THE BOTTOM OF OUR HEARTS',
                 pic:'https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HP0001.jpg?v=1657687218865',
-                website: 'https://checkout.square.site/buy/NOKUU77SLZM72TCK6SWWENS7',
+                website: 'https://checkout.square.site/buy/M5WJMYG3YJQAQ6X5QFFCDU7D',
                 nav: '',
             },
             {
