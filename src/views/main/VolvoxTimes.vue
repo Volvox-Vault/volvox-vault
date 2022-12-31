@@ -44,6 +44,7 @@
     
                         <p>FALL 2022<br> tiana dueck</p>
                         <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt7.jpg?v=1672508428254" />
+                        <br>
                     </div>
     
                 </div>
