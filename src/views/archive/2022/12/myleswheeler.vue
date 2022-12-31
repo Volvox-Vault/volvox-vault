@@ -10,7 +10,7 @@
                         <p class="headDes">
                             In conversation with
                             <a href="https://tiana.computer" target="_blank">Tiana Dueck</a
-                  >. <a href="https://youtu.be/FpCnMbmz85o" target="_blank">Watch Boy Ant here.</a>
+                  >.
                             <br />
                             <em>Featured in
                     <a
@@ -18,8 +18,24 @@
                       >Volvox Times</a
                     >.
                     <a href="https://www.patreon.com/volvoxobserver"
-                      >Video on Patreon</a
+                      >Video coming soon on Patreon</a
                     >.</em
+                  >
+                </p>
+
+                  <p
+                  style="
+                    border: 1px solid yellowgreen;
+                    border-radius: 30px;
+                    padding: 20px;
+                    text-align: center;
+                    margin-top: 20px;
+                  "
+                >
+                  <em
+                    ><a href="https://youtu.be/FpCnMbmz85o"
+                      >Watch Boy Ant</a
+                    ></em
                   >
                 </p>
 
@@ -39,7 +55,7 @@
               />
               <br>
                   <em
-                    >I found Myles's YouTube channel around 2014. Over the years I've grown to admire him as someone the same age as me, who I can see parts of myself in, who makes art with pure curiousity and enthusiasm. I hope you'll check out his work and enjoy his wit over this conversation. — Tiana Dueck</em
+                    >I found Myles's YouTube channel around 2014. Over the years I've grown to admire him as someone the same age as me, who I can see parts of myself in, who makes art with pure curiousity and enthusiasm. I hope you'll check out his work and enjoy his wit over this conversation. — Tiana</em
                   >
                 </p>
     <br>
