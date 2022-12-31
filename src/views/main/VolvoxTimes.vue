@@ -59,7 +59,7 @@
         
         <p>SUMMER 2021<br>
         jonah grindler</p>
-        <img class="vtposter" src=""/>
+        <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt2.jpg?v=1672509117129"/>
         
         <p>FALL 2021<br>
         romina malta</p>
