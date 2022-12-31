@@ -13,6 +13,7 @@ import Pond from '../views/main/Pond.vue'
 import Town from '../views/main/Town.vue'
 import KindWords from '../views/main/KindWords.vue'
 import NotFound from '../views/NotFound.vue';
+import VolvoxTimes from '../views/main/VolvoxTimes.vue'
 
 import CafeDoor from '../views/cafe/CafeDoor.vue'
 import CafeToronto from '../views/cafe/Toronto.vue'
@@ -167,6 +168,12 @@ const routes = [
     path: '/kindwords',
     name: 'KindWords',
     component: KindWords
+  },
+
+  {
+    path: '/volvoxtimes',
+    name: 'VolvoxTimes',
+    component: VolvoxTimes
   },
 
   /* ARCHIVE */

@@ -1,0 +1,174 @@
+<template>
+  <MainLayout>
+    <div id="blocks-About">
+      <!-- ABOUT -->
+      <div class="block-About">
+        <p class="block-About-header">VOLVOX TIMES</p>
+        <p class="block-About-link" style="text-align: center">
+          a global creative community newspaper.
+        </p>
+
+        <div
+          style="
+            text-align: center;
+            max-width: 650px;
+            margin: 40px auto;
+            padding: 50px;
+            background: #fbfdf7;
+            border-radius: 100px;
+            color: #212121;
+          "
+        >
+        <h2>SUBSCRIBE</h2>
+          <p>
+          <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX">Subscribe to Volvox Times here</a> (1 year subscription = 4 issues, once each season), or <a href="https://patreon.com/volvoxvault">join our Patreon</a> to subscribe digitally.
+          </p>
+          </div>
+
+        <div
+          style="
+            text-align: center;
+            max-width: 650px;
+            margin: 40px auto;
+            padding: 50px;
+            background: #fbfdf7;
+            border-radius: 100px;
+            color: #212121;
+          "
+        >
+          <h2>CONTRIBUTE</h2>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4VM4g0Oqtj28jdn-J9yg3T0UEu0EPrY8BwnI26GYMVx1r1g/viewform?embedded=true" width="640" height="1987" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          </div>
+          <br />
+
+
+
+        </div>
+
+        <h2 style="text-align: center">MASTHEAD</h2>
+        <p class="block-About-link" style="text-align: center">
+          Community Manager —
+          <a href="https://tiana.computer/" target="_blank">Tiana Dueck</a
+          ><br />
+          Website Team — Tiana Dueck &#38;
+          <a href="https://ari.computer/" target="_blank">Ari Lotter</a><br />
+          Volunteer Editors —
+          <a href="https://henryland.net/homepage">Henry</a>,
+          <a href="https://polapola.format.com/">Pola</a>, Aditi, George,
+          <a href="https://polapola.format.com/">Seán</a>,
+          <a href="https://chris.e-worm.club/portfolio.gmi">Chris</a>
+          <br /><br />
+        </p>
+      </div>
+    </div>
+
+    <br /><br /><br />
+  </MainLayout>
+</template>
+
+
+<script>
+import MainLayout from "../../layouts/MainLayout";
+
+export default {
+  name: "VolvoxTimes",
+  components: {
+    MainLayout,
+  },
+};
+</script>
+
+
+
+<style scoped>
+/* BLOCKS */
+#blocks-About {
+  margin: 0px;
+  display: grid;
+  grid-template-columns: repeat(1, 1fr);
+  grid-row-gap: 0;
+  grid-gap: 10px;
+}
+
+.block-About {
+  background-color: #f3f9e6;
+  color: #212121;
+  border-collapse: collapse;
+  overflow: auto;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+  line-height: 1.8;
+}
+
+.block-About-header {
+  font-size: 20pt;
+  font-weight: bold;
+  color: #212121;
+  font-family: hersheyTrip;
+  text-align: center;
+
+  background-color: #cbbad2;
+
+  padding: 15px;
+  margin: 0px;
+
+  border-bottom: 1px dotted #212121;
+  align-items: center;
+}
+
+.block-About-link {
+  font-size: 15pt;
+
+  padding: 15px;
+
+  align-items: center;
+}
+
+.block-About-link img {
+  float: right;
+  max-width: 250px;
+  padding-bottom: 15px;
+  padding-left: 25px;
+}
+
+.block-About-link a,
+.block-shop a {
+  color: #9879a6;
+  text-decoration: none;
+}
+
+.block-About-link a:hover,
+.block-shop a:hover,
+a:hover {
+  text-decoration: underline;
+  cursor: pointer;
+}
+
+.block-About-shop {
+  text-align: center;
+  text-decoration: none;
+  margin-top: 35%;
+  margin-bottom: 45%;
+  font-size: 10vh;
+  max-height: 50vh;
+}
+
+.block-About-image {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+@media (max-width: 800px) {
+  .block-About-link img {
+    width: 35%;
+  }
+}
+
+@media only screen and (max-device-width: 566px) {
+  .block-About-link img {
+    width: 35%;
+  }
+}
+</style>
