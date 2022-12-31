@@ -256,7 +256,7 @@
     <br><br><span class="myles">
     Went off on an existential bit of despair.
     <br><br></span>
-    Oh yeah. The whole, “if you died today”. What do you hope happens when we die? Where do you expect to go and then afterlife, or maybe you expect to come back?
+    Oh yeah. The whole, “if you died today”. What do you hope happens when we die? Where do you expect to go in the afterlife, or maybe you expect to come back?
     <br><br><span class="myles">
     I expect to come back. I'll be back. Don't worry about it, I'll be back. There's obviously the very depressing, realistic answer — of nothing. But you read that in print and that's not that fun. Is it like, “Oh, don't wanna check out this guy's film!” I think actually what happens — this is it, this is the answer. —  So what happens is you sort of die, but it's just, it's quite nice. And then you wake up actually, and you're like, “Did I die?” And there's a rabbit that sort of reads you poems and uh, you can get on the rabbits back cause the rabbit's really big. And just go around sort of a white void. But for copyright reasons, it's not referred to as heaven. You sort of just run around and the rabbit tells you facts about things. And maybe gives you snacks. It puts snacks in your mouth and it feeds you. It doesn't let you feed. The rabbit puts food in. It sort of just goes on like that, I think, until maybe you go to sleep and then you wake up and it's a different animal. Like a badger or something that feeds you. Um, I think that's what happens actually. Yeah.
     <br><br></span>
