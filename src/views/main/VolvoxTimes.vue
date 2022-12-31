@@ -23,7 +23,7 @@
                     </p>
     
                     <div style="height: 500px; overflow: scroll; border: 1px dotted #212121;">
-                        <h2>POSTER ARCHIVE</h2>
+                        <h2 style="padding-top: 10px;">POSTER ARCHIVE</h2>
                         <hr/>
                         <p>SPRING 2021<br> john bengtsson</p>
                         <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt1.jpg?v=1672507664223" />
