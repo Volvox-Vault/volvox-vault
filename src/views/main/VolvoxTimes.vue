@@ -6,7 +6,7 @@
                 <p class="block-About-header">VOLVOX TIMES</p>
                 <p class="block-About-link" style="text-align: center">
                     a global creative community newspaper.<br>
-                    community entries, interviews, crosswords, sudoku, and more.
+                    community entries, interviews, crosswords, sudoku, and more.<br>
                     1 tabloid sheet. text on the front, poster on the back.
                 </p>
     
