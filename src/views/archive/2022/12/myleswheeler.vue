@@ -23,7 +23,11 @@
                   >
                 </p>
 
-                  <p
+                  
+
+<iframe style="border-radius:30px" src="https://open.spotify.com/embed/episode/0MflRtDYu4UBWfcIb9WUvb?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
+<p
                   style="
                     border: 1px solid yellowgreen;
                     border-radius: 30px;
@@ -39,9 +43,7 @@
                     ></em
                   >
                 </p>
-
-<iframe style="border-radius:30px" src="https://open.spotify.com/embed/episode/0MflRtDYu4UBWfcIb9WUvb?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
-
+                
                 <p
                   style="
                     border: 1px solid yellowgreen;
