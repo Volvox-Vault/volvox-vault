@@ -34,19 +34,21 @@
                 style="border-radius: 30px"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Fb0vNSFWYAEaF2J.jpg?v=1672491484496"
               />
+              <br>
                   <em
                     >I found Myles's YouTube channel around 2014. Over the years I've grown to admire him as someone the same age as me, who I can see parts of myself in, who makes art with pure curiousity and enthusiasm. I hope you'll check out his work and enjoy his wit over this conversation. — Tiana Dueck</em
                   >
                 </p>
-    
+    <br>
                 <p>
                 TIANA — What's your day to day like?
     <br><br>
-    MYLES — I'm a freelance editor. That's what I do most, day-to-day. In between that, I've been working on my latest thing, Boy Ant, for a long time. Now that I've finished that, I'm trying to sort of remember what my usual routine is, because my routine for the past year has basically just been doing my usual video editing freelance stuff, and then writing the monologue Boy Ant thing. But now that's done. I feel I have more spare time now that it's done. So I'm trying to figure out, “Oh God, what do I do now? What do I fill this time with? What do I do?”
+    <span class="myles">MYLES — I'm a freelance editor. That's what I do most, day-to-day. In between that, I've been working on my latest thing, Boy Ant, for a long time. Now that I've finished that, I'm trying to sort of remember what my usual routine is, because my routine for the past year has basically just been doing my usual video editing freelance stuff, and then writing the monologue Boy Ant thing. But now that's done. I feel I have more spare time now that it's done. So I'm trying to figure out, “Oh God, what do I do now? What do I fill this time with? What do I do?”
+    </span>
     <br><br>
     After all that busyness, it's hard to accept that you can just do nothing first for a minute.
     <br><br>
-    Yeah. You make films yourself, you mentioned in your email.
+    <span class="myles">Yeah. You make films yourself, you mentioned in your email.</span>
     <br><br>
     <img
                 style="border-radius: 30px"
@@ -55,57 +57,57 @@
     <br><br>
     I just finished filming something and now I'm onto editing, so, yeah. 
     <br><br>
-    Do you have that feeling when you finish something, and sometimes it's a bit like, so much of my focus has been on this thing now, like, I dunno what I do now. I feel it's quite easy to move on too quickly as well. I'm trying to take a moment to celebrate that I finished something, rather than being like, ah, shit. Where I feel like a part of me just wants to like, make something else. I feel like I need to remind myself to like, you know, just enjoy the fact that you've finished something rather than just thinking, oh God, you need to be productive. Make something else. 
-    <br><br>
+    <span class="myles">Do you have that feeling when you finish something, and sometimes it's a bit like, so much of my focus has been on this thing now, like, I dunno what I do now. I feel it's quite easy to move on too quickly as well. I'm trying to take a moment to celebrate that I finished something, rather than being like, ah, shit. Where I feel like a part of me just wants to like, make something else. I feel like I need to remind myself to like, you know, just enjoy the fact that you've finished something rather than just thinking, oh God, you need to be productive. Make something else. 
+    <br><br></span>
     Yeah. With the film I'm making now, my main goal with it was to write something that's fun to film, like focusing on the process. And so I think it's been a good practice for like, just letting it happen. So that's been cool. 
     Since you edit so much, I guess it's kind of ironic, because Boy Ant doesn't have a whole lot of editing. Is it one take or did I miss a couple cuts?
     <br><br>
-    No, no. There's no sneaky secret cuts. It's all one take. When I first started, I thought my main strength was editing, so I was intrigued to see, could I make something if I took that away? Could I still tell the story? Because I feel like for better and for worse, sometimes I feel like, I guess, you know, when people say, ‘We'll fix it and post.’ — that sort of mindset, which I definitely rely on a bit too much. Like, sometimes I'll film something that I feel like is a complete mess and I don't feel I would be able to give it to another editor, because I feel like I've mucked it up when I've filmed it. But then I have to puzzle-workout what the hell I was actually trying to say. So for better and for worse, I think editing is a strength of mine — maybe I rely on it too much. I wanted to test whether I could tell a story with zero editing i n that main monolog thing.
-    <br><br>
+<span class="myles">No, no. There's no sneaky secret cuts. It's all one take. When I first started, I thought my main strength was editing, so I was intrigued to see, could I make something if I took that away? Could I still tell the story? Because I feel like for better and for worse, sometimes I feel like, I guess, you know, when people say, ‘We'll fix it and post.’ — that sort of mindset, which I definitely rely on a bit too much. Like, sometimes I'll film something that I feel like is a complete mess and I don't feel I would be able to give it to another editor, because I feel like I've mucked it up when I've filmed it. But then I have to puzzle-workout what the hell I was actually trying to say. So for better and for worse, I think editing is a strength of mine — maybe I rely on it too much. I wanted to test whether I could tell a story with zero editing i n that main monolog thing.
+    <br><br></span>
     How many takes did that take you?
-    <br><br>
+    <br><br><span class="myles">
     I did six takes. So, I stayed at an Airbnb by the seasides for three days. I wanted to film at sunrise and get some nice sun. The take I went with was at 8:00 AM, so it's kind of sunrise-ish. But, I really liked the image of the sun backlighting over the course. My main intention going into it was that I wanted it to start a bit dark, and over the course of the hour it gets brighter. But it was too cloudy. Every single day I woke up at like 6:00 AM for the sunrise. It was like, “today there’s gotta be a bit of sun!” But it was so cloudy. So, I did six takes in total. And then, when I realised I was only getting it when it was so cloudy, I was like, I've just gotta film a take later in the day. I filmed one at sunset. I was like, I just need to get as many options as possible. Mm-hmm.  especially, cause I can't edit. I can't edit it. So I just need to get as many options as possible. So, I ended up doing six takes over the few days and then going with the one that I did.
-    <br><br>
+    <br><br></span>
     Yeah. And do you like filming in public? Is it ever nerve-wracking to like — is it just a one person show too?
-    <br><br>
+    <br><br><span class="myles">
     Yeah definitely, it is. Could be equal parts nerve-wracking and quite fun as well. Cause the reactions you get — I've been looking through some old footage, just playing around with some footage today. And one of the clips, I was filming on another beach — I love filming on the beaches. As I was filming some person, some random man just came up to me, and in the background of the footage you can hear him ask if I worked for the government. I can't tell if he was joking or if maybe he was a bit of a paranoid guy. But I think it was mainly because I had this big prop. I'd made a big metal detector out of a broom. So it probably looked a bit suspicious. This guy was like, are you working for the government? What is this? Or are you doing art? Is this art or government conspiracy? I didn't know whether I should play along. I didn't know if it was joking or if he was serious. I think it's quite fun though. Cause I think, you see a camera, I feel like that there's a lot of conversations with strangers. They feel more comfortable starting the conversation because it's like, “Oh, this is for something.” I feel like if you saw a random stranger just still on the beach, you wouldn't go up to them and go, “Oh, what are you doing?” Because they're just maybe in their own thoughts. Whereas, when I was filming, before and after a few of the takes, people came up to me and asked me what I was doing. There was a really nice lady who was walking her dog at one of the 6:00 AM takes and she asked me what I was doing, and I said what I was making a monologue about, and how I had a lot of personal connections with the beach that I was filming it on. And she's like, “Oh yeah, same. I've spent my whole life here just on this beach. So it's nice that you really like this beach.” It was a nice conversation. I don't think it would’ve really happened unless the camera was there as an excuse to be like, “Oh, I can talk to this person because they're talking to themselves, I guess.”
-    <br><br>
+    <br><br></span>
     That's sweet. How much of Boy Ant was scripted versus just riffing? Like did you have more of an outline of points you wanted to hit or was it like you knew the words you wanted to say?
-    <br><br>
+    <br><br><span class="myles">
     I'd say it's probably about 90% memorised, scripted. I spent like a week beforehand just literally just doing nothing else but just reading the script and writing it. There wasn't too much that I improvised, mainly because I was cautious of like — you could say something that's nice and in the moment and fun, but equally you could maybe halfway through a take say something stupid, or that doesn't make sense. So I stuck quite strictly to what I planned to say. Mainly just cuz there was a sort of time limit,  and it was so cloudy. So I was like, if it was sunny maybe I would have improvised — the sun was my favourite. It was a bit of a time issue. So I did stick about 90% to the script.
-    <br><br>
+    <br><br></span>
     The performance felt really natural. Did you ever do any acting training? Or is it just like something you've picked up for yourself?
-    <br><br>
+    <br><br><span class="myles">
     I've always liked drama and stuff. I haven't really done anything outside of just school. Really enjoyed, you know, doing the school shows and stuff. I think I first probably got into YouTube because I was really enjoying drama as a hobby. I sort of saw YouTube as like, I could just talk to a camera and it’s basically my own little stage. 13 year old Myles was excited for the prospect of like, “Oh, I could put my own little shows on in my bedroom!”
-    <br><br>
+    <br><br></span>
     Yeah. Your YouTube goes all the way back to like 2010. Was there anything you recorded as a kid that was too bizarre to put on YouTube?
-    <br><br>
+    <br><br><span class="myles">
     I mean, there is a video somewhere out there of me fully clothed in a bath. Just holding my breath underwater with a really stupid smile on my face. And that went straight up on the channel. So, I think if fully clothed looking weirdly happy in a bath — if that's going up, I dunno what would be too weird. There’s a video of me ironing a banana. I ironed a banana. Cause that's quite wacky when you're 13. That's quite funny. If you want to iron a banana. So yeah no, I don't think there's anything where it's like, “No, that's a bit too silly.”
-    <br><br>
+    <br><br></span>
     Yeh, no limits.
-    <br><br>
+    <br><br><span class="myles">
     I'm bathing in all my clothes and ironing bananas. So I think anything goes, yeah. 
-    <br><br>
+    <br><br></span>
     That's really amazing. I feel like when I was a kid, I guess I felt more cautious about posting stuff, but maybe my parents were more cautious. They were like, “Don't put anything on the internet, or you're gonna die.”
-    <br><br>
+    <br><br><span class="myles">
     For sure, yeah. I remember our hairdresser, when we were younger, was talking about Facebook and how dangerous it was.  And I bear in mind now that my parents love Facebook, my parents are all over it. And I remember at the time my mom, after my hairdresser left, was like, “Oh, you're not going on any of these sites.” I was like, “It's fine, Mom.” It's so interesting how now, I feel like parents especially are such big Facebook people, as I remember how about 10 years ago, it was such a scary place — I mean it still obviously can be a scary place — but it's interesting how the perception of speaking online has flipped. And from a parent's point of view, it’s become more of a safe place. I feel like young people are less on Facebook now.
-    <br><br>
+    <br><br></span>
     Yeah. Did they ever know, like in 2010, did your parents know you were posting stuff to YouTube?
-    <br><br>
+    <br><br><span class="myles">
     I think so, yeah. And I think they were a bit apprehensive. Because I did have a YouTube channel before my current one. My current YouTube channel is called ItsaMeMyleo, the one before that was called ItsaMeaMyleo. So there was another one where I had two a’s. Which is already quite a tricky thing to pronounce. If someone doesn't get that it’s meant to be a Mario reference, it’s a bit like, what are these letters? So I'm kind of glad that [it only has one ‘a’ now]. I had that YouTube channel first, but my parents weren't, uh, best pleased. So I deleted that, and then a few months later I sneakily created another one.
-    <br><br>
+    <br><br></span>
     Sneaky. Nice.
-    <br><br>
+    <br><br><span class="myles">
     Rebellious, rebellious 13 year old. You’ve gotta create a youtube channel to rebel against your parents.
-    <br><br>
+    <br><br></span>
     Are your parents creative people? Like how did you get into all these creative things like music and writing and filmmaking? Was it something you picked up yourself, or?
-    <br><br>
+    <br><br><span class="myles">
     Yeah. I don't think my parents are not creative people. My mom does a lot of singing and stuff. I think when my dad was my age, he did a lot of theatre stuff — They were quite a creatively accepting household. They liked a lot of theatre stuff themselves, but I think it was probably — I know me and my brother, we both bonded over art and video games and stuff and growing up. So I think we both sort of just found another sort of home in the internet. We had, in the days of dial up internet, we used to save Sonic sprites, you know, like her pixel art. We used to like all these pixel art sonic websites where people showed you how to make your own sonic characters and pixel art. So in the days where we had dial up internet, it cost per minute or however long you spent, we always used to save all these websites offline. So then we could just study these sonic art websites. So I'd say, yeah, me and my brother have sort of mainly bonded over creative stuff growing up.
-    <br><br>
+    <br><br></span>
     That's cool!
-    <br><br>
+    <br><br><span class="myles">
     Did you have dial up Internet when you were younger, or? I'm not sure how old you are, but I think we're the same age.
-    <br><br>
+    <br><br></span>
     I don’t think so. I started using my parents' computer, maybe I was like nine or something and I got into it. There was this website I remember called stretchy faces and they'd just have pictures of celebrities, and you would just click around and drag their faces around. It was like the most entertaining thing in the world.
     <br><br>
     Did you ever go on the Impossible quiz? I remember that it was big over here.
@@ -439,7 +441,7 @@ body {
     color: yellowgreen;
 }
 
-.trevor {
+.myles {
     color: #593879;
 }
 
