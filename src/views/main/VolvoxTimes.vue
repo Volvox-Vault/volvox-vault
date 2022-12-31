@@ -52,7 +52,7 @@
           "
         >
         <h2>POSTER ARCHIVE</h2>
-        <hr>
+        <hr/>
         <h2>SPRING 2021<h2>
         <p>john bengtsson</p>
         <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt1.jpg?v=1672507664223"/>
