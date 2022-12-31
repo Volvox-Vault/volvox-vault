@@ -59,7 +59,7 @@
               />
               <br>
                   <em
-                    >I found Myles's YouTube channel around 2014. Over the years I've grown to admire him as someone the same age as me, who I can see parts of myself in, who makes art with pure curiousity and enthusiasm. I hope you'll check out his work and enjoy his wit over this conversation. — Tiana</em
+                    >I found Myles's YouTube channel in around 2014. Over the years I've grown to admire him as someone the same age as me, who I can see parts of myself in, who makes art with pure curiousity and enthusiasm. I hope you'll check out his work and enjoy his wit over this conversation. — Tiana</em
                   >
                 </p>
     <br>
