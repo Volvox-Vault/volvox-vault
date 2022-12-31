@@ -22,7 +22,7 @@
                         <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX" style="background: #f3f9e6;">Subscribe to Volvox Times here</a> (1 year subscription = 4 issues, once each season), or <a href="https://patreon.com/volvoxvault" style="background: #f3f9e6;">join our Patreon</a>                    to subscribe digitally.
                     </p>
     
-                    <div style="height: 500px; overflow: scroll; border-bottom: 1px dotted #212121;">
+                    <div style="height: 500px; overflow: scroll; border: 1px dotted #212121;">
                         <h2>POSTER ARCHIVE</h2>
                         <hr/>
                         <p>SPRING 2021<br> john bengtsson</p>
