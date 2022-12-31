@@ -21,7 +21,8 @@ import CafeGothenburg from '../views/cafe/Gothenburg.vue'
 import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
-/* ARCHIVE */
+/* ARCHIVE */ 
+import myleswheeler from '../views/archive/2022/12/myleswheeler.vue'
 import belongingthroughcreativity from '../views/archive/2022/11/belongingthroughcreativity.vue'
 import figmadinnerparty from '../views/archive/2022/10/figmadinnerparty.vue'
 import dearest from '../views/archive/2022/9/dearest.vue'
@@ -169,6 +170,11 @@ const routes = [
   },
 
   /* ARCHIVE */
+  {
+    path: '/archive/myleswheeler',
+    name: 'myleswheeler',
+    component: myleswheeler
+  },
   {
     path: '/archive/belongingthroughcreativity',
     name: 'belongingthroughcreativity',
