@@ -30,6 +30,10 @@
                     margin-bottom: 20px;
                   "
                 >
+                <img
+                style="border-radius: 30px"
+                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Fb0vNSFWYAEaF2J.jpg?v=1672491484496"
+              />
                   <em
                     >I found Myles's YouTube channel around 2014. Over the years I've grown to admire him as someone the same age as me, who I can see parts of myself in, who makes art with pure curiousity and enthusiasm. I hope you'll check out his work and enjoy his wit over this conversation. — Tiana Dueck</em
                   >
