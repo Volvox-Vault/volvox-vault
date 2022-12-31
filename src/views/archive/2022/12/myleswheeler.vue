@@ -22,6 +22,9 @@
                     >.</em
                   >
                 </p>
+
+<iframe style="border-radius:12px" src="https://open.spotify.com/embed/episode/0MflRtDYu4UBWfcIb9WUvb?utm_source=generator&theme=0" width="100%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy"></iframe>
+
                 <p
                   style="
                     border: 1px solid yellowgreen;
@@ -322,7 +325,7 @@
     Yeah, I feel like 18 is such an important age to watch every psychological movie ever. 
     <br><br><span class="myles">
     I really recommend Once though.
-    <br><br></span></span>
+    <br><br></span>
     Yeah. I wanna watch that. 
     <br><br><span class="myles">
     Yeah. It's very feel good. And the music's really catchy. What are your two favourites? Or three if you have a third.
