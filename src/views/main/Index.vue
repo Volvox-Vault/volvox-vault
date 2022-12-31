@@ -44,7 +44,7 @@
             </div>
 
 
-            <router-link to="/archive/belongingthroughcreativity"  class="newest-link">
+            <router-link to="/archive/myleswheeler"  class="newest-link">
             <div style="width: 100%; height: 300px;"><img style="height: 300px; width: 100%;  object-fit: cover;"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/boyantdither.png?v=1672495245319"
               /></div>
