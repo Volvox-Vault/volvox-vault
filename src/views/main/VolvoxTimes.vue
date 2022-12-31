@@ -53,26 +53,31 @@
         >
         <h2>POSTER ARCHIVE</h2>
         <hr/>
-        <h2>SPRING 2021<h2>
-        <p>john bengtsson</p>
+        <p>SPRING 2021<br>
+        john bengtsson</p>
         <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt1.jpg?v=1672507664223"/>
-        <h2>SUMMER 2021</h2>
-        <p>jonah grindler</p>
+        
+        <p>SUMMER 2021<br>
+        jonah grindler</p>
         <img class="vtposter" src=""/>
-        <h2>FALL 2021</h2>
-        <p>romina malta</p>
+        
+        <p>FALL 2021<br>
+        romina malta</p>
         <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt3.jpg?v=1672507667144"/>
-        <h2>WINTER 2021/22</h2>
-        <p>sam kotrba</p>
+        <p>WINTER 2021/22<br>
+        sam kotrba</p>
         <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/VT6.jpg?v=1672508016599"/>
-        <h2>SPRING 2022</h2>
-        <p>megan pai</p>
+ 
+        <p>SPRING 2022<br>
+        megan pai</p>
         <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt4.jpg?v=1672507667857"/>
-        <h2>SUMMER 2022</h2>
-        <p>lisa gal</p>
+      
+        <p>SUMMER 2022<br>
+        lisa gal</p>
         <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt5.jpg?v=1672507669674"/>
-        <h2>FALL 2022</h2>
-        <p>tiana dueck</p>
+      
+        <p>FALL 2022<br>
+        tiana dueck</p>
         <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt7.jpg?v=1672508428254"/>
           </div>
           <br />
