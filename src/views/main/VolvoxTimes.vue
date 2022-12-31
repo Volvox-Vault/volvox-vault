@@ -39,6 +39,40 @@
           <h2>CONTRIBUTE</h2>
           <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4VM4g0Oqtj28jdn-J9yg3T0UEu0EPrY8BwnI26GYMVx1r1g/viewform?embedded=true" width="100%" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
           </div>
+
+          <div
+          style="
+            text-align: center;
+            max-width: 650px;
+            margin: 40px auto;
+            padding: 50px;
+            background: #fbfdf7;
+            border-radius: 100px;
+            color: #212121;
+          "
+        >
+        <h2>SPRING 2021<h2>
+        <p>john bengtsson</p>
+        <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt1.jpg?v=1672507664223"/>
+        <h2>SUMMER 2021</h2>
+        <p>jonah grindler</p>
+        <img class="vtposter" src=""/>
+        <h2>FALL 2021</h2>
+        <p>romina malta</p>
+        <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt3.jpg?v=1672507667144"/>
+        <h2>WINTER 2021/22</h2>
+        <p>sam kotrba</p>
+        <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/VT6.jpg?v=1672508016599"/>
+        <h2>SPRING 2022</h2>
+        <p>megan pai</p>
+        <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt4.jpg?v=1672507667857"/>
+        <h2>SUMMER 2022</h2>
+        <p>lisa gal</p>
+        <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt5.jpg?v=1672507669674"/>
+        <h2>FALL 2022</h2>
+        <p>tiana dueck</p>
+        <img class="vtposter" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt7.jpg?v=1672508428254"/>
+          </div>
           <br />
 
 
@@ -73,6 +107,13 @@ export default {
   grid-template-columns: repeat(1, 1fr);
   grid-row-gap: 0;
   grid-gap: 10px;
+}
+
+.vtposter {
+  border: 1px solid #cbbad2;
+  border-radius: 30px;
+  height: 300px;
+  width: 100%;
 }
 
 .block-About {
