@@ -153,7 +153,7 @@ export default {
           link: "/archive/myleswheeler",
           type: "Interview",
           image:
-            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/boyant2.jpg?v=1672491482969",
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/boyantdither.png?v=1672495245319",
         },
         {
           date: "2022",
