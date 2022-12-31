@@ -5,7 +5,9 @@
             <div class="block-About">
                 <p class="block-About-header">VOLVOX TIMES</p>
                 <p class="block-About-link" style="text-align: center">
-                    a global creative community newspaper.
+                    a global creative community newspaper.<br>
+                    community entries, interviews, crosswords, sudoku, and more.
+                    1 tabloid sheet. text on the front, poster on the back.
                 </p>
     
                 <div style="
