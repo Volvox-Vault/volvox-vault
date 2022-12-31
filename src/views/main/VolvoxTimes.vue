@@ -37,7 +37,7 @@
           "
         >
           <h2>CONTRIBUTE</h2>
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4VM4g0Oqtj28jdn-J9yg3T0UEu0EPrY8BwnI26GYMVx1r1g/viewform?embedded=true" width="640" height="1987" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4VM4g0Oqtj28jdn-J9yg3T0UEu0EPrY8BwnI26GYMVx1r1g/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
           </div>
           <br />
 
