@@ -76,7 +76,7 @@
                   <p class="col-1b">conversations with artists and friends</p>
                 </div></a
               >
-              <a href="/archive#personalgossip"
+              <a href="/archive#gossip"
                 ><div class="column-box">
                   <p class="col-5a">Personal Gossip</p>
                   <p class="col-5b">what's new?</p>
