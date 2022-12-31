@@ -21,7 +21,7 @@
         >
         <h2>SUBSCRIBE</h2>
           <p>
-          <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX">Subscribe to Volvox Times here</a> (1 year subscription = 4 issues, once each season), or <a href="https://patreon.com/volvoxvault">join our Patreon</a> to subscribe digitally.
+          <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX" style="background: #f3f9e6;">Subscribe to Volvox Times here</a> (1 year subscription = 4 issues, once each season), or <a href="https://patreon.com/volvoxvault" style="background: #f3f9e6;">join our Patreon</a> to subscribe digitally.
           </p>
           </div>
 
@@ -37,7 +37,7 @@
           "
         >
           <h2>CONTRIBUTE</h2>
-          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4VM4g0Oqtj28jdn-J9yg3T0UEu0EPrY8BwnI26GYMVx1r1g/viewform?embedded=true" width="100%" height="100%" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+          <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSd4VM4g0Oqtj28jdn-J9yg3T0UEu0EPrY8BwnI26GYMVx1r1g/viewform?embedded=true" width="100%" height="2000" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
           </div>
           <br />
 
