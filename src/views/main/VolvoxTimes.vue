@@ -45,21 +45,6 @@
 
         </div>
 
-        <h2 style="text-align: center">MASTHEAD</h2>
-        <p class="block-About-link" style="text-align: center">
-          Community Manager —
-          <a href="https://tiana.computer/" target="_blank">Tiana Dueck</a
-          ><br />
-          Website Team — Tiana Dueck &#38;
-          <a href="https://ari.computer/" target="_blank">Ari Lotter</a><br />
-          Volunteer Editors —
-          <a href="https://henryland.net/homepage">Henry</a>,
-          <a href="https://polapola.format.com/">Pola</a>, Aditi, George,
-          <a href="https://polapola.format.com/">Seán</a>,
-          <a href="https://chris.e-worm.club/portfolio.gmi">Chris</a>
-          <br /><br />
-        </p>
-      </div>
     </div>
 
     <br /><br /><br />
