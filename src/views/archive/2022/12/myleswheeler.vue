@@ -50,6 +50,7 @@
                     border-radius: 30px;
                     padding: 20px;
                     margin-bottom: 20px;
+                    margin-top: 20px;
                   "
                 >
                 <img
