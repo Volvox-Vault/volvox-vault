@@ -14,7 +14,7 @@
                             <br />
                             <em>Featured in
                     <a
-                      href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX"
+                      href="https://volvox.observer/volvoxtimes"
                       >Volvox Times</a
                     >.
                     <a href="https://www.patreon.com/volvoxobserver"
