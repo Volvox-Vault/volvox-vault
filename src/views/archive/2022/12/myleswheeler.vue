@@ -1,5 +1,28 @@
 <template>
     <MainLayout>
+
+    <head>
+      <title>volvox.observer</title>
+
+      <link rel="shortcut icon" type="image/png" href="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/boyantdither.png?v=1672495245319" />
+
+      <meta name="viewport" content="width=device-width, initial-scale=1" />
+
+      <meta name="description" content="Let's go to the beach." />
+      <meta name="author" content="volvox.observer" />
+
+      <meta property="og:title" content="Myles Wheeler on his film Boy Ant" />
+      <meta property="og:description" content="Let's go to the beach." />
+      <meta property="og:image" content="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/boyantdither.png?v=1672495245319" />
+      <meta property="og:url" content="https://volvox.observer/" />
+
+      <meta property="twitter:title" content="Myles Wheeler on his film Boy Ant" />
+      <meta property="twitter:description" content="Let's go to the beach." />
+      <meta property="twitter:image" content="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/boyantdither.png?v=1672495245319" />
+      <meta property="twitter:url" content="https://volvox.observer/" />
+
+    
+    </head>
     
         <body>
             <main>
@@ -357,7 +380,7 @@ I expect to come back. I'll be back. Don't worry about it, I'll be back. There's
     <br><br></span>
     It was about these university students kind of breaking the mould, and it was right before I was about to go to university and I was like, let's do this thing. And then there's A Pigeon Sat On A Branch… the elephant in the room vibe, but nobody addresses it. I like that. 
      <br><br><span class="myles">
-    I've got You, the Living on my shelf. Another film directed by that guy (Roy Andersson).
+    I've got You, The Living on my shelf. Another film directed by that guy (Roy Andersson).
     <br><br></span>
     What instruments do you play and do you have any memories from your childhood about how music became important to you?
     <br><br><span class="myles">
