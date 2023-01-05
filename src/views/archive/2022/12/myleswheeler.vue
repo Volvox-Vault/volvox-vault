@@ -1,28 +1,5 @@
 <template>
     <MainLayout>
-
-    <head>
-      <title>volvox.observer</title>
-
-      <link rel="shortcut icon" type="image/png" href="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/boyantdither.png?v=1672495245319" />
-
-      <meta name="viewport" content="width=device-width, initial-scale=1" />
-
-      <meta name="description" content="Let's go to the beach." />
-      <meta name="author" content="volvox.observer" />
-
-      <meta property="og:title" content="Myles Wheeler on his film Boy Ant" />
-      <meta property="og:description" content="Let's go to the beach." />
-      <meta property="og:image" content="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/boyantdither.png?v=1672495245319" />
-      <meta property="og:url" content="https://volvox.observer/" />
-
-      <meta property="twitter:title" content="Myles Wheeler on his film Boy Ant" />
-      <meta property="twitter:description" content="Let's go to the beach." />
-      <meta property="twitter:image" content="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/boyantdither.png?v=1672495245319" />
-      <meta property="twitter:url" content="https://volvox.observer/" />
-
-    
-    </head>
     
         <body>
             <main>
