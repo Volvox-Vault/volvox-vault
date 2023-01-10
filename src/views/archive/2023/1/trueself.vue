@@ -45,9 +45,12 @@ body {
     padding: 30px;
 }
 
-h1 {
+h1, p {
     padding: 0px;
     margin: 0px;
+}
+
+h1 {
     font-size: 45pt;
 }
 
