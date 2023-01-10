@@ -42,9 +42,11 @@
         The festival will be published online at this url. Each selected film will have its own webpage that showcases the film as well as special features (so document your production process!) like photos, Q&As, a director's statement, and more. 
 <br><br>
 We are also planning to host an in person festival in Toronto, and hopefully somewhere in the Netherlands — details TBD. We will also likely host an online live premiere of the fest. Ticket sale profits will be distributed to contributing artists.
+</p>
 <br>
 <hr>
 <br>
+<p>
 Follow @volvox.observer on instagram for updates.
         </p>
     </body>
