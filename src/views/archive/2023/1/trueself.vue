@@ -93,7 +93,7 @@ h1, p {
 }
 
 h1 {
-    line-height: 1.6;
+    line-height: 1;
     font-size: 45pt;
 }
 
