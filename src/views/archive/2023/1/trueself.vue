@@ -35,7 +35,7 @@
         <li>the production must be independent</li>
         <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
         </ul>
-
+<br>
         <hr>
         <br>
         <p>
