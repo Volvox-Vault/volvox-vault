@@ -23,6 +23,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */ 
+import trueself from '../views/archive/2023/1/trueself.vue'
 import myleswheeler from '../views/archive/2022/12/myleswheeler.vue'
 import belongingthroughcreativity from '../views/archive/2022/11/belongingthroughcreativity.vue'
 import figmadinnerparty from '../views/archive/2022/10/figmadinnerparty.vue'
@@ -176,7 +177,12 @@ const routes = [
     component: VolvoxTimes
   },
 
-  /* ARCHIVE */
+  /* ARCHIVE */ 
+  {
+    path: '/trueself',
+    name: 'trueself',
+    component: trueself
+  },
   {
     path: '/archive/myleswheeler',
     name: 'myleswheeler',
