@@ -37,6 +37,8 @@ body {
     line-height: 2;
     background: #664c71;
     font-family: hersheyOld;
+    height: 100vh;
+    color: #f3f9e6;
 }
 
 .logo {
