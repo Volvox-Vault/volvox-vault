@@ -46,11 +46,13 @@ body {
 h1 {
     padding: 0px;
     margin: 0px;
+    font-size: 25pt;
 }
 
 .logo {
-    width: 150px;
+    width: 250px;
     float: right;
+    padding-left: 10px;
 }
 
 a {
