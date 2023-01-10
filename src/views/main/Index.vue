@@ -26,10 +26,10 @@
 <div class="bin2">
           <div class="box2">
             <div class="new-container">
-              <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX"
-                ><div class="new-box">
+              <router-link to="/volvoxtimes"
+              ><div class="new-box">
                   <p>NEWSPAPER</p>
-                </div></a
+                </div></router-link
               >
               <router-link to="/windchime"
                 ><div class="new-box">
