@@ -39,6 +39,12 @@ body {
     font-family: hersheyOld;
     height: 100vh;
     color: #f3f9e6;
+    padding: 30px;
+}
+
+h1 {
+    padding: 0px;
+    margin: 0px;
 }
 
 .logo {
