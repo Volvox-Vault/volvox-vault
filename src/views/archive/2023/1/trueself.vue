@@ -5,7 +5,10 @@
 
         <h1>true self film fest</h1>
 
-        <p style="font-family: hersheyFut;">presented by <router-link to="/">volvox observer</router-link></p>
+        <p style="font-family: hersheyFut;">presented by <router-link to="/">volvox observer</router-link>
+        <br>
+        hosted by <a href="https://tiana.computer">tiana dueck</a> & <a href="http://kalilhaddad.com">kalil haddad</a>
+        </p>
 <br>
         <hr>
 <br>
