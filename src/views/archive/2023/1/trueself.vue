@@ -49,6 +49,10 @@ We are also planning to host an in person festival in Toronto, and hopefully som
 <p>
 Follow @volvox.observer on instagram for updates.
         </p>
+
+        <br>
+
+        <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/000028.JPG?v=1673388199088" style="width: 100%;"/>
     </body>
 
 </template>
