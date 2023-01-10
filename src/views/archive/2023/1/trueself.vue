@@ -5,7 +5,7 @@
 
         <h1>true self film fest</h1>
 
-        <p>presented by <router-link to="/">volvox observer</router-link></p>
+        <p style="font-family: hersheyFut;">presented by <router-link to="/">volvox observer</router-link></p>
 
         <p>
         We’re interested in short films that are made from the heart. We want to see what artists like you are drawn to create from their core, with less focus on the technical details, and more on communicating a feeling that naturally pours from you. Filmmaking can be daunting and overwhelming, so we intend to practice a slower, more compassionate, artist-driven approach through this quaint fest.
@@ -37,7 +37,7 @@ export default {
 }
 
 body {
-    line-height: 2;
+    line-height: 1.6;
     background: #664c71;
     font-family: hersheyOld;
     height: 100vh;
