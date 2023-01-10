@@ -4,7 +4,7 @@
         <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/trueself%403x.png?v=1673385928615" class="logo"/>
 
         <h1>true self film fest</h1>
-
+<br>
         <p style="font-family: hersheyFut;">presented by <router-link to="/">volvox observer</router-link>
         <br>
         hosted by <a href="https://tiana.computer">tiana dueck</a> & <a href="http://kalilhaddad.com">kalil haddad</a>
