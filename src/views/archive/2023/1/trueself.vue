@@ -6,19 +6,23 @@
         <h1>true self film fest</h1>
 
         <p style="font-family: hersheyFut;">presented by <router-link to="/">volvox observer</router-link></p>
-
+<br>
         <hr>
-
+<br>
         <p>
         We’re interested in short films that are made from the heart. We want to see what artists like you are drawn to create from their core, with less focus on the technical details, and more on communicating a feeling that naturally pours from you. Filmmaking can be daunting and overwhelming, so we intend to practice a slower, more compassionate, artist-driven approach through this quaint fest.
         </p>
+        <br>
         <hr>
+        <br>
         <p>
         Send your submission to hello@volvox.observer with the subject "true self" for a chance to be featured in the fest.
         <br>
         Submissions are due on June 1st, 2023. Early submissions are encouraged.
         </p>
+<br>
 <hr>
+<br>
         <p>
         Guidelines:<br>
         <ul>
@@ -26,6 +30,7 @@
         <li>the production must be independent</li>
         <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
         </ul>
+
         </p>
     </body>
 
