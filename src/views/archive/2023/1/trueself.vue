@@ -84,6 +84,7 @@ body {
     height: 100%;
     color: #f3f9e6;
     padding: 30px;
+    overscroll-behavior-y: none;
 }
 
 h1, p {
