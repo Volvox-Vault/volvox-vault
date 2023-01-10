@@ -72,7 +72,7 @@ body {
     line-height: 1.6;
     background: #664c71;
     font-family: hersheyOld;
-    height: 100vh;
+    height: 100%;
     color: #f3f9e6;
     padding: 30px;
 }
