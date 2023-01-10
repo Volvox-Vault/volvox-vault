@@ -1,18 +1,31 @@
 <template>
     
     <body>
-            <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/trueself%403x.png?v=1673385928615" class="logo"/>
+        <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/trueself%403x.png?v=1673385928615" class="logo"/>
 
         <h1>true self film fest</h1>
 
         <p style="font-family: hersheyFut;">presented by <router-link to="/">volvox observer</router-link></p>
 
         <hr>
-        
+
         <p>
         We’re interested in short films that are made from the heart. We want to see what artists like you are drawn to create from their core, with less focus on the technical details, and more on communicating a feeling that naturally pours from you. Filmmaking can be daunting and overwhelming, so we intend to practice a slower, more compassionate, artist-driven approach through this quaint fest.
-        <br><br>
+        </p>
+        <hr>
+        <p>
+        Send your submission to hello@volvox.observer with the subject "true self" for a chance to be featured in the fest.
+        <br>
         Submissions are due on June 1st, 2023. Early submissions are encouraged.
+        </p>
+<hr>
+        <p>
+        Guidelines:<br>
+        <ul>
+        <li>run time must be between 4-10 min</li>
+        <li>the production must be independent</li>
+        <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
+        </ul>
         </p>
     </body>
 
