@@ -27,15 +27,15 @@
 <hr>
 <br>
         <p>
-        Guidelines:<br>
+        Guidelines:
+                </p>
+
         <ul>
         <li>run time must be between 4-10 min</li>
         <li>the production must be independent</li>
         <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
         </ul>
 
-        </p>
-        <br>
         <hr>
         <br>
         <p>
