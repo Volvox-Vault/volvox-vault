@@ -48,7 +48,7 @@ body {
 h1 {
     padding: 0px;
     margin: 0px;
-    font-size: 25pt;
+    font-size: 45pt;
 }
 
 .logo {
