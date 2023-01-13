@@ -106,6 +106,10 @@ h2 {
     line-height: 1;
 }
 
+ul {
+    font-size: 15pt;
+}
+
 .logo {
     width: 250px;
     float: right;
