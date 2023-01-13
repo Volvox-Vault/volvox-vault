@@ -142,6 +142,7 @@ a:hover {
 .ts-box {
     border: 1px dotted #212121;
     padding: 30px;
+    align-self: center;
 }
 
 @media only screen and (max-width: 600px) {
