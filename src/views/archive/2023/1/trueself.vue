@@ -114,7 +114,7 @@ ul {
 }
 
 .logo {
-    width: 250px;
+    width: 150px;
     float: right;
     padding-left: 10px;
     padding-bottom: 10px;
