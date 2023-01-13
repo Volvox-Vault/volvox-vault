@@ -98,6 +98,12 @@ h1 {
     font-size: 45pt;
 }
 
+h2 {
+    padding: 0px;
+    margin: 0px;
+    line-height: 1;
+}
+
 .logo {
     width: 250px;
     float: right;
