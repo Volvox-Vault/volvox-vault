@@ -43,7 +43,7 @@
 <style>
 
 * {
-  scrollbar-color: #e5e5e5 #f3f9e6;
+  scrollbar-color: #f3f9e6 #664b71;
   scrollbar-width: thin !important;
 }
 

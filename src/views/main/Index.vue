@@ -23,7 +23,7 @@
     
     </head>
 
-<div class="bin2">
+<div class="bin2" style="overflow-x: hidden;">
           <div class="box2">
             <div class="new-container">
               <router-link to="/volvoxtimes"
