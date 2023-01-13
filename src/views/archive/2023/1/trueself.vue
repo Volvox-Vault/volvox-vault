@@ -48,7 +48,7 @@ We are also planning to host an in person festival in Toronto, and hopefully som
 <hr>
 <br>
 <p>
-Follow <a href="https://instagram.com/volvox.observer">@volvox.observer</a> on instagram for updates.
+Follow <a href="https://instagram.com/volvox.observer">@volvox.observer</a> on instagram, and <router-link to="/support">subscribe to our newsletter</router-link> for updates.
         </p>
 
         <br>
