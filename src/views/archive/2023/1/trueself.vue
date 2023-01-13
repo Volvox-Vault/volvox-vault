@@ -40,6 +40,7 @@
                     <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
                 </ul>
             </div>
+
             <div class="ts-box">
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">THE FEST</span></h2>
                 <br>
@@ -52,7 +53,6 @@
     
         </div>
     
-        <hr>
         <br>
         <p>
             Follow <a href="https://instagram.com/volvox.observer">@volvox.observer</a> on instagram and
@@ -142,12 +142,8 @@ a:hover {
 
 .ts-box {
     border: 1px dotted #212121;
-    padding: 10px;
+    padding: 20px;
 }
 
-@media only screen and (max-width: 600px) {
-.ts-cotain {
-    grid-template-columns: 1fr;
-}
-}
+
 </style>
