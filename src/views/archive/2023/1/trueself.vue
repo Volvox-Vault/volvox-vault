@@ -36,7 +36,7 @@
         <li>the production must be independent</li>
         <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
         </ul>
-<br>
+
         <hr>
         <br>
         <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">THE FEST</span></h2>
