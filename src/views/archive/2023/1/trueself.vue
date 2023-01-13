@@ -148,4 +148,5 @@ a:hover {
 .ts-cotain {
     grid-template-columns: 1fr;
 }
+}
 </style>
