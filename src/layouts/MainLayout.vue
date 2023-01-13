@@ -69,7 +69,7 @@ body {
 
 
   scrollbar-width: thin;
-  scrollbar-color: #212121 #fbfdf7;
+  scrollbar-color: #f3f9e6 #664b71;
 }
 
 *::-webkit-scrollbar {
