@@ -133,7 +133,7 @@ a:hover {
     color: #664c71;
 }
 
-.ts-cotain {
+.ts-contain {
     display: grid;
     grid-template-columns: 1fr 1fr;
     column-gap: 10px;
