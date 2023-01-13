@@ -31,9 +31,9 @@
                   <p>NEWSPAPER</p>
                 </div></router-link
               >
-              <router-link to="/windchime"
+              <router-link to="/trueself"
                 ><div class="new-box">
-                  <p>WIND CHIME FEST</p>
+                  <p style="background: #f3f9e6;">TRUE SELF FILM FEST</p>
                 </div></router-link
               >
               <router-link to="/kindwords"
