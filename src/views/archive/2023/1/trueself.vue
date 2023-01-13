@@ -31,8 +31,6 @@
 <hr>
 <br>
 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">GUIDELINES</span></h2>
-<br>
-
         <ul>
         <li>run time must be between 4-10 min</li>
         <li>the production must be independent</li>
