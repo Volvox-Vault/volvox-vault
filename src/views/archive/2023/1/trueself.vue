@@ -13,6 +13,7 @@
         <hr>
         <br>
         <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">ABOUT</span></h2>
+        <br>
         <p>
         We’re interested in short films that are made from the heart. We want to see what artists like you are drawn to create from their core, with less focus on the technical details, and more on communicating a feeling that naturally pours from you. Filmmaking can be daunting and overwhelming, so we intend to practice a slower, more compassionate, artist-driven approach through this quaint fest.
         </p>
@@ -20,6 +21,7 @@
         <hr>
         <br>
         <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SUBMIT YOUR FILM</span></h2>
+        <br>
         <p>
         Send your submission to hello@volvox.observer with the subject "true self" for a chance to be featured in the fest.
         <br>
@@ -29,6 +31,7 @@
 <hr>
 <br>
 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">GUIDELINES</span></h2>
+<br>
 
         <ul>
         <li>run time must be between 4-10 min</li>
@@ -39,6 +42,7 @@
         <hr>
         <br>
         <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">THE FEST</span></h2>
+        <br>
         <p>
         The festival will be published online at this url. Each selected film will have its own webpage that showcases the film as well as special features (so document your production process!) like photos, Q&As, a director's statement, and more. 
 <br><br>
@@ -48,7 +52,7 @@ We are also planning to host an in person festival in Toronto, and hopefully som
 <hr>
 <br>
 <p>
-Follow <a href="https://instagram.com/volvox.observer">@volvox.observer</a> on instagram, and <router-link to="/support">subscribe to our newsletter</router-link> for updates.
+Follow <a href="https://instagram.com/volvox.observer">@volvox.observer</a> on instagram and <router-link to="/support">subscribe to our newsletter</router-link> for updates.
         </p>
 
         <br>
