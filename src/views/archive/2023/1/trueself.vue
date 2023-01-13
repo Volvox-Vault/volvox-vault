@@ -9,8 +9,7 @@
             <br> hosted by <a href="https://tiana.computer">tiana dueck</a> & <a href="http://kalilhaddad.com">kalil haddad</a>
         </p>
         <br>
-        <hr>
-        <br>
+
     
         <div class="ts-contain">
     
@@ -142,8 +141,12 @@ a:hover {
 
 .ts-box {
     border: 1px dotted #212121;
-    padding: 20px;
+    padding: 30px;
 }
 
-
+@media only screen and (max-width: 600px) {
+.ts-contain {
+    grid-template-columns: 1fr;
+}
+}
 </style>
