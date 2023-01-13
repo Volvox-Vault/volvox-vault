@@ -136,7 +136,8 @@ a:hover {
 .ts-cotain {
     display: grid;
     grid-template-columns: 1fr 1fr;
-    grid-gap: 5px;
+    column-gap: 10px;
+    row-gap: 10px;
 }
 
 .ts-box {
