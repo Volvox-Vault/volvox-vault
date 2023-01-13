@@ -152,5 +152,8 @@ a:hover {
 .ts-contain {
     grid-template-columns: 1fr;
 }
+.logo {
+    width: 250px;
+}
 }
 </style>
