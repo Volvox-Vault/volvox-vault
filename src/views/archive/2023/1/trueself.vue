@@ -153,7 +153,7 @@ a:hover {
     grid-template-columns: 1fr;
 }
 .logo {
-    width: 250px;
+    width: 200px;
 }
 }
 </style>
