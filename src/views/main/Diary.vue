@@ -53,9 +53,12 @@ export default {
 
 <style scoped>
 
-.form {
-  width: 100%;
-  margin: 0 auto;
+body {
+    text-align: center;
+}
+
+form {
+    display: inline-block;
 }
 
 /* BLOCKS */
