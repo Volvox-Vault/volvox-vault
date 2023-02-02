@@ -5,11 +5,11 @@
       <div class="block-About">
         <p class="block-About-header">WRITE A DIARY ENTRY</p>
         <p class="block-About-link" style="text-align: center">
-           submit your diary entry to our archive. 
+           submit your diary entry to our archive.
 </p>
 <div class="form">
 <form action="/action_page.php">
-      <label for="column-selection">which column? — </label>
+      <label for="diary-selection">which column? — </label>
 
       <select name="column-selection" id="column-selection">
         <option value="dear">
@@ -23,7 +23,7 @@
         </option>
       </select>
       <br /><br />
-      <textarea id="volvox-submit" name="volvox-submit" rows="20" cols="56">
+      <textarea id="volvox-diary" name="volvox-diary" rows="20" cols="56">
 dear diary,
 </textarea
       >
