@@ -3,7 +3,7 @@
     <div id="blocks-About">
       <!-- diary -->
       <div class="block-About">
-        <p class="block-About-header">diary entries</p>
+        <p class="block-About-header">WRITE A DIARY ENTRY</p>
         <p class="block-About-link" style="text-align: center">
            submit your diary entry to our archive. 
 </p>
