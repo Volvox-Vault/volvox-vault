@@ -117,6 +117,10 @@ hr {
   border-bottom: 1px dotted #212121;
 }
 
+select, textarea, input {
+  font-family: hersheyFut, sans-serif;
+}
+
 .container {
   display: grid;
   grid-template-columns: 200px 1fr;

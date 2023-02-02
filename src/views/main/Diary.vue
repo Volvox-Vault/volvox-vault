@@ -50,6 +50,11 @@ export default {
 
 
 <style scoped>
+
+form {
+  margin: 0 auto;
+}
+
 /* BLOCKS */
 #blocks-About {
   margin: 0px;
