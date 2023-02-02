@@ -53,14 +53,18 @@ export default {
 
 <style scoped>
 
-body {
+div.form
+{
+    display: block;
     text-align: center;
 }
-
-form {
+form
+{
     display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    text-align: left;
 }
-
 /* BLOCKS */
 #blocks-About {
   margin: 0px;
