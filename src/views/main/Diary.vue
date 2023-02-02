@@ -7,6 +7,7 @@
         <p class="block-About-link" style="text-align: center">
            submit your diary entry to our archive. 
 </p>
+<div class="form">
 <form action="/action_page.php">
       <label for="column-selection">which column? — </label>
 
@@ -30,6 +31,7 @@ dear diary,
       <input type="submit" value="send" />
     </form>
 </div>
+</div>
 
     <br /><br /><br />
   </MainLayout>
@@ -51,7 +53,8 @@ export default {
 
 <style scoped>
 
-form {
+.form {
+  width: 100%;
   margin: 0 auto;
 }
 
