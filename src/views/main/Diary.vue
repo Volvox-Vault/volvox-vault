@@ -8,27 +8,36 @@
            submit your diary entry to our archive.
 </p>
 <div class="form">
-<form action="/action_page.php">
-      <label for="diary-selection">which column? — </label>
+<form action="/diary-submission" method="POST">
+        <label for="diarySubmissionColumn">which column? — </label>
+  
+        <select name="diarySubmissionColumn" id="column-selection">
+          <option value="dear">
+            dear diary (opinion, etc. open with "dear diary,")
+          </option>
+          <option value="notebook">notebook (research)</option>
+          <option value="feelings">feelings (write about a feeling)</option>
+          <option value="personal">personal gossip (community updates)</option>
+          <option value="oscillations">
+            oscillations (audio + text, chats about creativity)
+          </option>
+        </select>
 
-      <select name="column-selection" id="column-selection">
-        <option value="dear">
-          dear diary (opinion, etc. open with "dear diary,")
-        </option>
-        <option value="notebook">notebook (research)</option>
-        <option value="feelings">feelings (write about a feeling)</option>
-        <option value="personal">personal gossip (community updates)</option>
-        <option value="oscillations">
-          oscillations (audio + text, chats about creativity)
-        </option>
-      </select>
-      <br /><br />
-      <textarea id="volvox-diary" name="volvox-diary" rows="20" cols="56">
-dear diary,
-</textarea
-      >
-<br />
-      <input type="submit" value="send" />
+        <br /><br />
+
+        <textarea id="volvox-diary" name="diarySubmissionText" rows="20" cols="56">dear diary,</textarea>
+
+        <br><br>
+
+        sincerly,
+
+        <br>
+        
+        <input type="text" name="diarySubmissionName" placeholder="your name"> <input type="text" name="diarySubmissionEmail" placeholder="your email">
+
+        <br><br>
+
+        <input type="submit" value="send" />
     </form>
 </div>
 </div>
