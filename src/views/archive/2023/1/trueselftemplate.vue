@@ -29,7 +29,8 @@
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">CREDITS</span></h2>
                 <br>
                 <p>
-                    You, your friend, your enemy, a stranger.
+                    You, your friend, your enemy, a stranger...<br>
+                    Credit and introduce your cast and crew.
                 </p>
             </div>
     
