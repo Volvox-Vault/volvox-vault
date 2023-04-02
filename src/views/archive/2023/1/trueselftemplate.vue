@@ -2,14 +2,14 @@
     <body>
         <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ts.png?v=1673389523276" class="logo" />
     
-        <h1>true self film fest</h1>
+        <h1>your film's title</h1>
         <br>
-        <p style="font-family: hersheyFut;">presented by
-            <router-link to="/">volvox observer</router-link>
-            <br> hosted by <a href="https://tiana.computer">tiana dueck</a> & <a href="http://kalilhaddad.com">kalil haddad</a>
+        <p style="font-family: hersheyFut;">a film by you.
         </p>
         <br>
     
+
+        <div style="border: 1px dotted #212121; padding: 30px;"><iframe width="100%" height="auto" src="https://www.youtube.com/embed/nXdEZWfARJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
     
         <div class="ts-contain">
     
@@ -17,48 +17,24 @@
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">ABOUT</span></h2>
                 <br>
                 <p>
-                    We’re interested in short films that are made from the heart. We want to see what artists like you are drawn to create from their core, with less focus on the technical details, and more on communicating a feeling that naturally pours from you. Filmmaking
-                    can be daunting and overwhelming, so we intend to practice a slower, more compassionate, artist-driven approach through this quaint fest.
+                    Your artist's statement and film synopsis will go here.
                 </p>
                 <br>
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/nXdEZWfARJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
     
             <div class="ts-box">
-                <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SUBMIT YOUR FILM</span></h2>
+                <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">CREDITS</span></h2>
                 <br>
                 <p>
-                    Send your submission to hello@volvox.observer with the subject "true self", include a brief artist's statement and the category of your film (see guidelines) for a chance to be featured in the fest.
-                    <br> Submissions are due on June 1st, 2023. Early submissions are encouraged.
+                    You, your friend, your enemy, your cousin, a stranger.
                 </p>
             </div>
     
             <div class="ts-box">
-                <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">GUIDELINES</span></h2>
-                <ul>
-                    <li>run time must be between 4-15 min</li>
-                    <li>the production must be independent</li>
-                    <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
-                    <li>your film should be in the scope of one of our categories...
-                        <ul>
-                            <li>personal diary films (non-fiction)</li>
-                            <li>based on something true (fiction)</li>
-                            <li>point of view (observational docs)</li>
-                        </ul>
-                    </li>
-                </ul>
+                <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">PHOTOS</span></h2>
+                <p>Photos from your production will go here.</p>
     
-            </div>
-    
-            <div class="ts-box">
-                <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">THE FEST</span></h2>
-                <br>
-                <p>
-                    ONLINE; The festival will be published online at this url. Each selected film will have its own webpage that showcases the film as well as special features (so document your production process!) like photos, Q&As, a director's statement, and more. We
-                    will host an online live premiere of the fest. Ticket sale profits will be distributed to contributing artists.
-                    <br><br> IRL: We are also planning to host in person festivals in Toronto, the Netherlands, and other cities worldwide — details TBD.
-    
-                </p>
             </div>
     
         </div>
@@ -142,7 +118,7 @@ a:hover {
 
 .ts-contain {
     display: grid;
-    grid-template-columns: 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr;
     column-gap: 10px;
     row-gap: 10px;
 }
