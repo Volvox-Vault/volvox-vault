@@ -23,7 +23,8 @@ import CafeGothenburg from '../views/cafe/Gothenburg.vue'
 import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
-/* ARCHIVE */ 
+/* ARCHIVE */  
+import trueselftemplate from '../views/archive/2023/1/trueselftemplate.vue'
 import trueself from '../views/archive/2023/1/trueself.vue'
 import myleswheeler from '../views/archive/2022/12/myleswheeler.vue'
 import belongingthroughcreativity from '../views/archive/2022/11/belongingthroughcreativity.vue'
@@ -184,6 +185,11 @@ const routes = [
   },
 
   /* ARCHIVE */ 
+  {
+    path: '/trueselftemplate',
+    name: 'trueselftemplate',
+    component: trueselftemplate
+  },
   {
     path: '/trueself',
     name: 'trueself',
