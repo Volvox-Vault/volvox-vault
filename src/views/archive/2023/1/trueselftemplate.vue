@@ -17,7 +17,7 @@
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">ABOUT</span></h2>
                 <br>
                 <p>
-                    Your artist's statement and film synopsis will go here.
+                    Your artist's statement and film synopsis.
                 </p>
             </div>
     
@@ -25,7 +25,7 @@
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">CREDITS</span></h2>
                 <br>
                 <p>
-                    You, your friend, your enemy, your cousin, a stranger.
+                    You, your friend, your enemy, a stranger.
                 </p>
             </div>
     
@@ -129,7 +129,7 @@ a:hover {
 .ts-box {
     border: 1px dotted #212121;
     padding: 30px;
-    height: 150px;
+    height: 100px;
     overflow-y: auto;
     overflow-x: hidden;
 }
