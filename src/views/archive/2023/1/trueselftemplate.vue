@@ -9,7 +9,7 @@
         <br>
     
 
-        <div style="border: 1px dotted #212121; padding: 30px; margin-bottom: 10px; height: 400px;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/nXdEZWfARJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+        <div style="border: 1px dotted #212121; padding: 30px; margin-bottom: 10px; height: 30vh;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/nXdEZWfARJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
     
         <div class="ts-contain">
     
@@ -32,6 +32,10 @@
             <div class="ts-box">
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">COMMENTS</span></h2>
                 <br>
+
+                <p>Comments specific for your film will show here. For now, it's our general chat.</p>
+
+        <script type="application/javascript" id="cid0020000341434605351" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%;height: 100%;">{"handle":"trueselfff","arch":"js","styles":{"a":"f3f9e6","b":100,"c":"000000","d":"000000","k":"f3f9e6","l":"f3f9e6","m":"f3f9e6","p":"10","q":"f3f9e6","r":100,"ab":false,"usricon":0,"surl":0,"allowpm":0,"cnrs":"1","fwtickm":1}}</script>
             
     
             </div>
