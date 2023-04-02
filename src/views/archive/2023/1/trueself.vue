@@ -69,6 +69,8 @@
             <router-link to="/support">subscribe to our newsletter</router-link> for updates.<br>
             </p>
 
+            <tsffChat />
+
     
     </body>
 </template>
