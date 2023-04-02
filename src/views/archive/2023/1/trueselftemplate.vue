@@ -9,7 +9,7 @@
         <br>
     
 
-        <div style="border: 1px dotted #212121; padding: 30px; margin-bottom: 10px; height: 400px;"><iframe width="100%" height="auto" src="https://www.youtube.com/embed/nXdEZWfARJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+        <div style="border: 1px dotted #212121; padding: 30px; margin-bottom: 10px; height: 400px;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/nXdEZWfARJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
     
         <div class="ts-contain">
     
