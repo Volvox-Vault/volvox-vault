@@ -149,7 +149,7 @@ a:hover {
 .ts-box {
     border: 1px dotted #212121;
     padding: 30px;
-    height: 150px;
+    height: 200px;
     overflow-y: auto;
     overflow-x: hidden;
 }
