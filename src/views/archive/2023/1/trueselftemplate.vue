@@ -9,7 +9,7 @@
         <br>
     
 
-        <div style="border: 1px dotted #212121; padding: 30px; margin-bottom: 10px; height: 50vh;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/nXdEZWfARJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
+        <div style="border: 1px dotted #212121; padding: 30px; margin-bottom: 10px; height: 55vh; min-height: 350px;"><iframe width="100%" height="100%" src="https://www.youtube.com/embed/nXdEZWfARJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe></div>
     
         <div class="ts-contain">
     
@@ -131,7 +131,7 @@ a:hover {
 .ts-box {
     border: 1px dotted #212121;
     padding: 30px;
-    height: 100px;
+    height: 200px;
     overflow-y: auto;
     overflow-x: hidden;
 }
