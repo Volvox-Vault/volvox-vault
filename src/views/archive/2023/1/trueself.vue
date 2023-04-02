@@ -9,7 +9,7 @@
             <br> hosted by <a href="https://tiana.computer">tiana dueck</a> & <a href="http://kalilhaddad.com">kalil haddad</a>
         </p>
         <br>
-
+    
     
         <div class="ts-contain">
     
@@ -40,24 +40,24 @@
                     <li>the production must be independent</li>
                     <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
                     <li>your film should be in the scope of one of our categories...
-                <ul>
-                    <li>personal diary films (non-fiction)</li>
-                    <li>based on something true (fiction)</li>
-                    <li>point of view (observational docs)</li>
-                </ul></li>
+                        <ul>
+                            <li>personal diary films (non-fiction)</li>
+                            <li>based on something true (fiction)</li>
+                            <li>point of view (observational docs)</li>
+                        </ul>
+                    </li>
                 </ul>
-               
+    
             </div>
-
+    
             <div class="ts-box">
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">THE FEST</span></h2>
                 <br>
                 <p>
-                    ONLINE; The festival will be published online at this url. Each selected film will have its own webpage that showcases the film as well as special features (so document your production process!) like photos, Q&As, a director's statement, and more.
-                    <br><br> 
-                    IRL: We are also planning to host in person festivals in Toronto, the Netherlands, and other cities worldwide — details TBD.
-                    <br><br> 
-                    We will host an online live premiere of the fest. Ticket sale profits will be distributed to contributing artists.
+                    ONLINE; The festival will be published online at this url. Each selected film will have its own webpage that showcases the film as well as special features (so document your production process!) like photos, Q&As, a director's statement, and more. We
+                    will host an online live premiere of the fest. Ticket sale profits will be distributed to contributing artists.
+                    <br><br> IRL: We are also planning to host in person festivals in Toronto, the Netherlands, and other cities worldwide — details TBD.
+    
                 </p>
             </div>
     
@@ -68,7 +68,7 @@
             Follow <a href="https://instagram.com/volvox.observer">@volvox.observer</a> on instagram and
             <router-link to="/support">subscribe to our newsletter</router-link> for updates.
         </p>
-        
+    
     </body>
 </template>
 
@@ -156,11 +156,11 @@ a:hover {
 }
 
 @media only screen and (max-width: 600px) {
-.ts-contain {
-    grid-template-columns: 1fr;
-}
-.logo {
-    width: 200px;
-}
+    .ts-contain {
+        grid-template-columns: 1fr;
+    }
+    .logo {
+        width: 200px;
+    }
 }
 </style>
