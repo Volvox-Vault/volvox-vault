@@ -69,7 +69,7 @@
             <router-link to="/support">subscribe to our newsletter</router-link> for updates.<br>
             </p>
 
-            <tsffChat />
+            <tsffChat></tsffChat>
 
     
     </body>
@@ -77,9 +77,11 @@
 
 
 <script>
+import tsffChat from '../../../../components/tsffChat.vue'
+
 export default {
     name: "trueself",
-    components: {},
+    components: {tsffChat},
     metaInfo: {
         // title will be injected into parent titleTemplate
         title: "True Self Film Fest",
