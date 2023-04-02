@@ -20,6 +20,7 @@
                     We’re interested in short films that are made from the heart. We want to see what artists like you are drawn to create from their core, with less focus on the technical details, and more on communicating a feeling that naturally pours from you. Filmmaking
                     can be daunting and overwhelming, so we intend to practice a slower, more compassionate, artist-driven approach through this quaint fest.
                 </p>
+                <br>
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/nXdEZWfARJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
     
@@ -65,10 +66,7 @@
             Follow <a href="https://instagram.com/volvox.observer">@volvox.observer</a> on instagram and
             <router-link to="/support">subscribe to our newsletter</router-link> for updates.
         </p>
-    
-        <br>
-    
-        <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/000028.JPG?v=1673388199088" style="width: 100%;" />
+        
     </body>
 </template>
 
@@ -150,7 +148,7 @@ a:hover {
 .ts-box {
     border: 1px dotted #212121;
     padding: 30px;
-    height: 200px;
+    height: 250px;
     overflow-y: auto;
     overflow-x: hidden;
 }
