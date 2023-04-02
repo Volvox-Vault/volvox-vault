@@ -26,7 +26,7 @@
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SUBMIT YOUR FILM</span></h2>
                 <br>
                 <p>
-                    Send your submission to hello@volvox.observer with the subject "true self" for a chance to be featured in the fest.
+                    Send your submission to hello@volvox.observer with the subject "true self", include a brief artist's statement and the category of your film (see guidelines) for a chance to be featured in the fest.
                     <br> Submissions are due on June 1st, 2023. Early submissions are encouraged.
                 </p>
             </div>
@@ -34,10 +34,16 @@
             <div class="ts-box">
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">GUIDELINES</span></h2>
                 <ul>
-                    <li>run time must be between 4-10 min</li>
+                    <li>run time must be between 4-15 min</li>
                     <li>the production must be independent</li>
                     <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
                     <li>note if it is a documentary, fiction, or experimental film</li>
+                </ul>
+                <p>your film should be in the scope of one of our categories...</p>
+                <ul>
+                    <li>personal diary films (non-fiction)</li>
+                    <li>based on something true (fiction)</li>
+                    <li>point of view (observational docs)</li>
                 </ul>
             </div>
 
