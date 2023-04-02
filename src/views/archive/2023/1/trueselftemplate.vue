@@ -19,7 +19,9 @@
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">ABOUT</span></h2>
                 <br>
                 <p>
-                    Your artist's statement and film synopsis.
+                    Your artist's statement and film synopsis.<br>
+                    Choose your background and text colours.<br>
+                    Additionally, your webpage can include Q&As, scripts, notes, diary entiries, letters, and any other special features you can imagine.
                 </p>
             </div>
     
