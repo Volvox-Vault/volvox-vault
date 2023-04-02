@@ -38,7 +38,7 @@
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">COMMENTS</span></h2>
                 <br>
     
-                <p>Comments on your film will show here. We also plan to show how many people are "seated" (on this webpage). For now, here's our general chat.</p>
+                <p>Comments on your film will show here. For now, here's our general chat.</p>
     
                 <br>
     
