@@ -39,14 +39,14 @@
                     <li>run time must be between 4-15 min</li>
                     <li>the production must be independent</li>
                     <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
-                    <li>note if it is a documentary, fiction, or experimental film</li>
-                </ul>
-                <p>your film should be in the scope of one of our categories...</p>
+                    <li>your film should be in the scope of one of our categories...
                 <ul>
                     <li>personal diary films (non-fiction)</li>
                     <li>based on something true (fiction)</li>
                     <li>point of view (observational docs)</li>
+                </ul></li>
                 </ul>
+               
             </div>
 
             <div class="ts-box">
