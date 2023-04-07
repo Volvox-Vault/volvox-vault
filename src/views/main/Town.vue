@@ -13,7 +13,7 @@
         ><img class="townicon" style="width: 30%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pond.png?v=1644791327217"><br />the pond</a
       >
 
-      <a id="park" class="flower" href="http://www.citypark.world/"
+      <a id="park" class="flower" title="rip" href=""
         ><img class="townicon" style="width: 30%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/park.png?v=1644791327217"><br />the park</a
       >
 
