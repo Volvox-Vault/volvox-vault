@@ -39,10 +39,10 @@
           <p>
             We are looking for holistic pieces with creative roots<br />
             via tutorials, conversations, short stories, opinions, projects, etc.<br />
-            As a small community effort, we offer...<br />
-            $50 for pieces over 1000 words<br />
-            $30 for pieces between 500-999 words<br />
-            $20 for mini pieces between 300-499 words<br />
+            As a small community effort, we offer (CAD)...<br />
+            $30 for pieces over 1000 words<br />
+            $20 for pieces between 500-999 words<br />
+            $10 for mini pieces between 300-499 words<br />
             Email us about pricing for visual focused pieces.
           </p>
           <h2>ANNUAL</h2>
