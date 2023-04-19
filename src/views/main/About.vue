@@ -45,8 +45,6 @@
             $10 for mini pieces between 300-499 words<br />
             Email us about pricing for visual focused pieces.
           </p>
-          <h2>ANNUAL</h2>
-          <p>As of 2022, Volvox will be publishing annual printed archives.</p>
           <h2>PITCH</h2>
           <p>
           Max 300 words. Answer: What is the topic and format? Why this? Why Volvox?<br>
