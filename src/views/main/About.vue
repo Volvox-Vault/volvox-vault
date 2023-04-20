@@ -86,7 +86,7 @@
             </p>
             <hr />
             <p style="padding: 20px">
-              <strong>INTREVIEW</strong>: SPEAK WITH A CREATIVE<br />
+              <strong>INTERVIEW</strong>: SPEAK WITH A CREATIVE<br />
               Interview an artist or innovator about their creative inner-workings.
             </p>
             <hr />
