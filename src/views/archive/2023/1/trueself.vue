@@ -11,10 +11,11 @@
         <br>
     
     
-        <div style="position: fixed; top:20px; right: 30px; background: black; color: white; padding: 20px;">
+        <div style="position: fixed; top:40px; right: 40px; background: black; color: white; padding: 20px; opacity: 90%;">
         April 22<br>
         17:00 CEST (11:00 EDT)<br> 
-        we will be gathering for a screenwriting workshop!<br>
+        we will be gathering for a<br>
+        screenwriting workshop!<br>
         <a href="https://app.gather.town/app/wvxua16BLWQfL06S/volvoxobserver" style="color: white;">meeting link</a>
         </div>
     
