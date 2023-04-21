@@ -11,7 +11,7 @@
         <br>
     
     
-        <div style="position: fixed; top:10px; right: 10px; backgroound: black; color: white; padding: 20px;">
+        <div style="position: fixed; top:20px; right: 30px; background: black; color: white; padding: 20px;">
         April 22<br>
         17:00 CEST (11:00 EDT)<br> 
         we will be gathering for a screenwriting workshop!<br>
