@@ -11,6 +11,14 @@
         <br>
     
     
+        <div style="position: fixed; top:10px; right: 10px; backgroound: black; color: white; padding: 20px;">
+        April 22<br>
+        17:00 CEST (11:00 EDT)<br> 
+        we will be gathering for a screenwriting workshop!<br>
+        <a href="https://app.gather.town/app/wvxua16BLWQfL06S/volvoxobserver" style="color: white;">meeting link</a>
+        </div>
+    
+    
         <div class="ts-contain">
     
             <div class="ts-box">
@@ -54,8 +62,9 @@
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">THE FEST</span></h2>
                 <br>
                 <p>
-                    ONLINE: The festival will be published online at this url. <router-link to="trueselftemplate">Each selected film will have its own webpage (example)</router-link> that showcases the film as well as special features (so document your production process!) like photos, Q&As, a director's statement, and more. We
-                    will host an online live premiere of the fest. Ticket sale profits will be distributed to contributing artists.
+                    ONLINE: The festival will be published online at this url.
+                    <router-link to="trueselftemplate">Each selected film will have its own webpage (example)</router-link> that showcases the film as well as special features (so document your production process!) like photos, Q&As, a director's statement, and more. We will host an online
+                    live premiere of the fest. Ticket sale profits will be distributed to contributing artists.
                     <br><br> IRL: We are also planning to host in person festivals in Toronto, the Netherlands, and other cities worldwide — details TBD.
     
                 </p>
@@ -64,18 +73,40 @@
         </div>
     
         <br>
-        <p >
+        <p>
             Follow <a href="https://instagram.com/volvox.observer">@volvox.observer</a> on instagram and
-            <router-link to="/support">subscribe to our newsletter</router-link> for updates.<br>
-            Share your ideas in the tsff chat...
+            <router-link to="/support">subscribe to our newsletter</router-link> for updates.<br> Share your ideas in the tsff chat...
         </p>
-
+    
         <br>
-
+    
         <div style="border: 1px dotted #212121; padding: 30px; height: 400px;">
-        <script type="application/javascript" id="cid0020000341434605351" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%;height: 100%;">{"handle":"trueselfff","arch":"js","styles":{"a":"f3f9e6","b":100,"c":"000000","d":"000000","k":"f3f9e6","l":"f3f9e6","m":"f3f9e6","p":"10","q":"f3f9e6","r":100,"ab":false,"usricon":0,"surl":0,"allowpm":0,"cnrs":"1","fwtickm":1}}</script>
+<script type="application/javascript" id="cid0020000341434605351" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%;height: 100%;">
+{
+    "handle": "trueselfff",
+    "arch": "js",
+    "styles": {
+        "a": "f3f9e6",
+        "b": 100,
+        "c": "000000",
+        "d": "000000",
+        "k": "f3f9e6",
+        "l": "f3f9e6",
+        "m": "f3f9e6",
+        "p": "10",
+        "q": "f3f9e6",
+        "r": 100,
+        "ab": false,
+        "usricon": 0,
+        "surl": 0,
+        "allowpm": 0,
+        "cnrs": "1",
+        "fwtickm": 1
+    }
+}
+</script>
         </div>
-
+    
     
     </body>
 </template>
