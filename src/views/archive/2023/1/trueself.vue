@@ -5,7 +5,7 @@
         <h1>true self film fest</h1>
         <br>
         <h2>DEADLINE: JUNE 1</h2>
-        <p><em>Need more time? Let us know via email hello@volvox.observer</em></p>
+        <p><em>Need more time? Let us know via email: hello@volvox.observer</em></p>
         <p style="font-family: hersheyFut;">presented by
             <router-link to="/">volvox observer</router-link>
             <br> hosted by <a href="https://tiana.computer">tiana dueck</a> & <a href="http://kalilhaddad.com">kalil haddad</a>
