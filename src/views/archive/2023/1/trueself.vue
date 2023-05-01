@@ -4,20 +4,15 @@
     
         <h1>true self film fest</h1>
         <br>
+        <h2>DEADLINE: JUNE 1</h2>
+        <p><em>Need more time? Let us know via email hello@volvox.observer</em></p>
         <p style="font-family: hersheyFut;">presented by
             <router-link to="/">volvox observer</router-link>
             <br> hosted by <a href="https://tiana.computer">tiana dueck</a> & <a href="http://kalilhaddad.com">kalil haddad</a>
         </p>
         <br>
     
-    
-        <div style="position: fixed; top:40px; right: 40px; background: black; color: white; padding: 20px; opacity: 90%;">
-        April 22<br>
-        17:00 CEST (11:00 EDT)<br> 
-        we will be gathering for a<br>
-        screenwriting workshop!<br>
-        <a href="https://app.gather.town/app/wvxua16BLWQfL06S/volvoxobserver" style="color: white;">meeting link</a>
-        </div>
+
     
     
         <div class="ts-contain">
