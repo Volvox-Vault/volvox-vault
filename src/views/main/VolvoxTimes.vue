@@ -19,9 +19,9 @@
                     border-radius: 100px;
                     color: #212121;
                   ">
-                    <h2>SUBSCRIBE</h2>
+                    <h2>SUBSCRIBE (CLOSED)</h2>
                     <p>
-                        <a href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX" style="background: #f3f9e6;">Subscribe to Volvox Times here</a> (1 year subscription = 4 issues, once each season), buy <a href="https://checkout.square.site/merchant/VP8DEG0CP9DTF/checkout/IJMTJJ5466SN7WZUUEEOTANI" style="background: #f3f9e6;">the most recent issue</a>, or <a href="https://patreon.com/volvoxvault" style="background: #f3f9e6;">join our Patreon</a>                    to subscribe digitally.
+                    The newspaper is currently on hiatus.
                     </p>
     
                     <div style="height: 500px; overflow: scroll; border: 1px dotted #212121;">
