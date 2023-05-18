@@ -8,15 +8,6 @@
         </div></a
       >
 
-      <a
-        href="https://checkout.square.site/buy/TWWRLYXJEZVU5BCM3W56HKSX"
-        target="_blank"
-        ><div class="block-Support newspaper-Support">
-          <br />
-          <h2>Newspaper</h2>
-        </div></a
-      >
-
       <router-link to="/shop"
         ><div class="block-Support magazines-Support">
           <br />
@@ -60,7 +51,7 @@ export default {
 #blocks-Support {
   overflow-y: auto;
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(2, 1fr);
   grid-gap: 20px;
   margin: 20px;
 }
