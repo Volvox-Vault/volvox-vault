@@ -4,7 +4,7 @@
     
         <h1>true self film fest</h1>
         <br>
-        <h2>DEADLINE: JUNE 1</h2>
+        <h2>DEADLINE: <strike>JUNE 1</strike> JULY 29</h2>
         <p><em>Need more time? Let us know: hello@volvox.observer</em></p>
         <p style="font-family: hersheyFut;">presented by
             <router-link to="/">volvox observer</router-link>
