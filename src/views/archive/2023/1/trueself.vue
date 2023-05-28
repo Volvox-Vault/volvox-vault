@@ -25,7 +25,7 @@
                     can be daunting and overwhelming, so we intend to practice a slower, more compassionate, artist-driven approach through this quaint fest.
                 </p>
                 <br>
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/nXdEZWfARJc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/zAUwJ4zgwF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
             </div>
     
             <div class="ts-box">
