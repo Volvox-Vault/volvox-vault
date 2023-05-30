@@ -33,7 +33,7 @@
                 <br>
                 <p>
                     Send your submission to hello@volvox.observer with the subject "true self", include a brief artist's statement and the category of your film (see guidelines) for a chance to be featured in the fest.
-                    <br> Submissions are due on June 1st, 2023. Early submissions are encouraged.
+                    <br> Submissions are due on July 29, 2023. Early submissions are encouraged.
                 </p>
             </div>
     
