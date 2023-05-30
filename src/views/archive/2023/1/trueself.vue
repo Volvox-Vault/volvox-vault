@@ -40,7 +40,7 @@
             <div class="ts-box">
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">GUIDELINES</span></h2>
                 <ul>
-                    <li>run time must be between 4-15 min</li>
+                    <li>run time must be between 1-15 min</li>
                     <li>the production must be independent</li>
                     <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
                     <li>your film should be in the scope of one of our categories...
