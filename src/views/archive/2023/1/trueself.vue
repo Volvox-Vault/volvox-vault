@@ -45,9 +45,9 @@
                     <li>all content must be original; with the exception of unoriginal content used for quotation, criticism, or review</li>
                     <li>your film should be in the scope of one of our categories...
                         <ul>
-                            <li>experimental films</li>
-                            <li>based on something true (fiction)</li>
-                            <li>point of view (observational docs)</li>
+                            <li>experimental (alternative films)</li>
+                            <li>based on something true (fiction films)</li>
+                            <li>point of view (documentary films)</li>
                         </ul>
                     </li>
                 </ul>
