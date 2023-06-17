@@ -138,6 +138,8 @@
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-06.png?v=1684588280762"
     />
 
+    <script src='/cleaning.js'></script>
+
     </body>
 </template>
 
