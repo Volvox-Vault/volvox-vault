@@ -143,15 +143,15 @@
 
 
 <script>
-import { myFunction1, myFunction2, myFunction3, myFunction4, myFunction5,
+/*import { myFunction1, myFunction2, myFunction3, myFunction4, myFunction5,
     myFunction6, myFunction7, myFunction8, myFunction9, myFunction10, myFunction11,
     myFunction12, myFunction13, myFunction14, myFunction15, myFunction16, myFunction17,
-    myFunction18 } from './cleaning.js';
+    myFunction18 } from './cleaning.js';*/
 
 export default {
 
     name: "cleaningdiary",
-    data() {
+    /*data() {
       return {
         myFunction1, 
         myFunction2, 
@@ -172,11 +172,67 @@ export default {
         myFunction17,
         myFunction18,
       };
-    },
+    },*/
     components: {},
     metaInfo: {
         // title will be injected into parent titleTemplate
         title: "cleaning diary",
+    },
+    methods: {
+      myFunction1: function() {
+        document.getElementById("img1").style.display = "none";
+      },
+      myFunction2: function() {
+        document.getElementById("img2").style.display = "none";
+      },
+      myFunction3: function() {
+        document.getElementById("img3").style.display = "none";
+      },
+      myFunction4: function() {
+        document.getElementById("img4").style.display = "none";
+      },
+      myFunction5: function() {
+        document.getElementById("img5").style.display = "none";
+      },
+      myFunction6: function() {
+        document.getElementById("img6").style.display = "none";
+      },
+      myFunction7: function() {
+        document.getElementById("img7").style.display = "none";
+      },
+      myFunction8: function() {
+        document.getElementById("img8").style.display = "none";
+      },
+      myFunction9: function() {
+        document.getElementById("img9").style.display = "none";
+      },
+      myFunction10: function() {
+        document.getElementById("img10").style.display = "none";
+      },
+      myFunction11: function() {
+        document.getElementById("img11").style.display = "none";
+      },
+      myFunction12: function() {
+        document.getElementById("img12").style.display = "none";
+      },
+      myFunction13: function() {
+        document.getElementById("img13").style.display = "none";
+      },
+      myFunction14: function() {
+        document.getElementById("img14").style.display = "none";
+      },
+      myFunction15: function() {
+        document.getElementById("img15").style.display = "none";
+      },
+      myFunction16: function() {
+        document.getElementById("img16").style.display = "none";
+      },
+      myFunction17: function() {
+        document.getElementById("img17").style.display = "none";
+      },
+      myFunction18: function() {
+        document.getElementById("img18").style.display = "none";
+      },
     },
 };
 </script>
