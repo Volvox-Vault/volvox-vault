@@ -151,7 +151,7 @@ import { myFunction1, myFunction2, myFunction3, myFunction4, myFunction5,
 export default {
 
     name: "cleaningdiary",
-    data {
+    data() {
       return {
         myFunction1, 
         myFunction2, 
