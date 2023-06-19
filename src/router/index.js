@@ -1,5 +1,7 @@
 import Vue from 'vue'
 import VueRouter from 'vue-router'
+import VueMeta from 'vue-meta'
+
 import Index from '../views/main/Index.vue'
 import About from '../views/main/About.vue'
 import Colony from '../views/main/Colony.vue'
@@ -65,6 +67,7 @@ import Heart from '../views/archive/issues/Heart/Heart.vue'
 
 
 Vue.use(VueRouter)
+Vue.use(VueMeta)
 
 const routes = [
   {
