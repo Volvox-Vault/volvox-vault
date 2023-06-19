@@ -98,7 +98,7 @@ body {
 
 @font-face {
   font-family: hersheyFut;
-  src: url(https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Hershey-Noailles-HelpMe-Regular.ttf?v=1687198778957);
+  src: url(https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Hershey-Noailles-Futura-Simplex-Regular.ttf?v=1687198932418);
 }
 
 h1 {
