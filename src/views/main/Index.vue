@@ -48,7 +48,7 @@
             <div style="width: 100%; height: 300px;"><img style="height: 300px; width: 100%;  object-fit: cover;"
                 src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/athena-dither.png?v=1687205643861"
               /></div>
-            <div class="newest"><marquee><h1>THIS JUST IN — ATHENA SCOTT'S CLEANING DIARY</h1></marquee></div></router-link>
+            <div class="newest"><marquee><h1>THIS JUST IN — ATHENA SCOTT'S SPRING CLEANING DIARY</h1></marquee></div></router-link>
 
 
             <div class="column-container">
