@@ -47,7 +47,7 @@
       </p>
     </main>
 
-    <router-link to="/archive" class="back">back</router-link>
+    <router-link to="/archive" class="back">back to archive</router-link>
 
     <img
       @click="myFunction1"
@@ -263,8 +263,8 @@ p {
 
 .back {
   position: absolute;
-  top: 5px;
-  right: 5px;
+  top: 8px;
+  right: 8px;
 }
 
 #img1 {
