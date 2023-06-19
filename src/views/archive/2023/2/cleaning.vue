@@ -43,7 +43,9 @@
         socks onto the floor next to yesterday’s and curl up in the corner of
         the couch. I’ll fold a worn sweater under my head and nap.
         <br /><br />
-        The kale chips will burn in the oven; Ellie will love me anyway.
+        The kale chips will burn in the oven;
+        <br />
+        Ellie will love me anyway.
       </p>
     </main>
 
