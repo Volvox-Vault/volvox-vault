@@ -222,7 +222,6 @@ body {
   padding-bottom: 200px;
   color: rgb(55,55,55);
   line-height: 1.6;
-  background: rgba(200,200, 0,0.1);
 }
 
 main {
