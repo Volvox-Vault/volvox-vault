@@ -321,7 +321,7 @@ p {
 
 #img12 {
   position: absolute;
-  top: 108%;
+  top: 100%;
   left: 10%;
   width: 110px;
 }
@@ -335,7 +335,7 @@ p {
 
 #img9 {
   position: absolute;
-  top: 85%;
+  top: 80%;
   left: 6%;
   width: 90px;
 }
