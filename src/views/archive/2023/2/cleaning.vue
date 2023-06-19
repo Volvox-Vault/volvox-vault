@@ -228,7 +228,7 @@ main {
   padding: 20px;
   border: 1.5px solid rgb(55,55,55);
   margin: 0 auto;
-  max-width: 300px;
+  max-width: 310px;
   hyphens: auto;
   word-break: break-word;
   background: rgba(200,200, 0,0.1);
@@ -251,11 +251,11 @@ h3 {
 }
 
 h3 {
-  font-size: 14pt;
+  font-size: 16pt;
 }
 
 p {
-  font-size: 13pt; 
+  font-size: 14pt; 
   
 }
 
