@@ -48,92 +48,92 @@
     </main>
 
     <img
-      @click="myFunction1()"
+      @click="myFunction1"
       id="img1"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-16.png?v=1684588249867"
     />
     <img
-      @click="myFunction2()"
+      @click="myFunction2"
       id="img2"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-15.png?v=1684588247977"
     />
     <img
-      @click="myFunction3()"
+      @click="myFunction3"
       id="img3"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-07.png?v=1684588251886"
     />
     <img
-      @click="myFunction4()"
+      @click="myFunction4"
       id="img4"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-08.png?v=1684588253510"
     />
     <img
-      @click="myFunction5()"
+      @click="myFunction5"
       id="img5"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-09.png?v=1684588255041"
     />
     <img
-      @click="myFunction6()"
+      @click="myFunction6"
       id="img6"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-10.png?v=1684588256677"
     />
     <img
-      @click="myFunction7()"
+      @click="myFunction7"
       id="img7"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-14.png?v=1684588245896"
     />
     <img
-      @click="myFunction8()"
+      @click="myFunction8"
       id="img8"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-17.png?v=1684588258243"
     />
     <img
-      @click="myFunction9()"
+      @click="myFunction9"
       id="img9"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-11.png?v=1684588259759"
     />
     <img
-      @click="myFunction10()"
+      @click="myFunction10"
       id="img10"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-12.png?v=1684588262922"
     />
     <img
-      @click="myFunction11()"
+      @click="myFunction11"
       id="img11"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-13.png?v=1684588268129"
     />
     <img
-      @click="myFunction12()"
+      @click="myFunction12"
       id="img12"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-01.png?v=1684588271534"
     />
     <img
-      @click="myFunction13()"
+      @click="myFunction13"
       id="img13"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-18.png?v=1684588261340"
     />
     <img
-      @click="myFunction14()"
+      @click="myFunction14"
       id="img14"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-02.png?v=1684588273127"
     />
     <img
-      @click="myFunction15()"
+      @click="myFunction15"
       id="img15"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-03.png?v=1684588274952"
     />
     <img
-      @click="myFunction16()"
+      @click="myFunction16"
       id="img16"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-04.png?v=1684588276526"
     />
     <img
-      @click="myFunction17()"
+      @click="myFunction17"
       id="img17"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-05.png?v=1684588278126"
     />
     <img
-      @click="myFunction18()"
+      @click="myFunction18"
       id="img18"
       src="https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-06.png?v=1684588280762"
     />
