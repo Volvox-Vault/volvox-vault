@@ -215,6 +215,7 @@ export default {
 
 body {
   padding: 45px;
+  padding-bottom: 200px;
   color: rgb(55,55,55);
   line-height: 1.6;
   background: rgba(200,200, 0,0.1);
@@ -222,7 +223,6 @@ body {
 
 main {
   padding: 20px;
-  padding-bottom: 150px;
   border: 1.5px solid rgb(55,55,55);
   margin: 0 auto;
   max-width: 300px;
