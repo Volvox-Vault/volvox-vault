@@ -49,7 +49,7 @@
       </p>
     </main>
 
-    <router-link to="/archive" class="back">back to archive</router-link>
+    <router-link to="/archive#diary" class="back">back to archive</router-link>
 
     <img
       @click="myFunction1"
