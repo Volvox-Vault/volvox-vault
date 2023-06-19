@@ -2,7 +2,7 @@
     <body>
 <main>
       <h2>cleaning diary: saturday</h2>
-      <h3>athena scott</h3>
+      <h3><a href="https://www.athenascott.com/" target="_blank">athena scott</a></h3>
 
       <p>
         If I do my dishes while waiting for my tea to steep, maybe E will
