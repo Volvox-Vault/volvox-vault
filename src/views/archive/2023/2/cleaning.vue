@@ -213,12 +213,20 @@ export default {
 
 <style scoped>
 
+body, html {
+  padding: 0;
+  margin: 0;
+  width: 100%;
+  min-height: 100vh;
+}
+
 body {
   padding: 45px;
   padding-bottom: 200px;
   color: rgb(55,55,55);
   line-height: 1.6;
   background: rgba(200,200, 0,0.1);
+  background-color: rgba(200,200, 0,0.1);
 }
 
 main {
@@ -366,7 +374,7 @@ p {
 
 #img7 {
   position: absolute;
-  top: 10%;
+  top: 8%;
   right: 8%;
   width: 220px;
 }
