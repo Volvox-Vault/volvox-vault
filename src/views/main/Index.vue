@@ -26,9 +26,9 @@
 <div class="bin2" style="overflow-x: hidden;">
           <div class="box2">
             <div class="new-container">
-              <router-link to="/volvoxtimes"
+              <router-link to="/archive"
               ><div class="new-box">
-                  <p>NEWSPAPER</p>
+                  <p>MAGAZINES</p>
                 </div></router-link
               >
               <router-link to="/trueself"
@@ -44,11 +44,11 @@
             </div>
 
 
-            <router-link to="/archive/myleswheeler"  class="newest-link">
+            <router-link to="/archive/cleaning"  class="newest-link">
             <div style="width: 100%; height: 300px;"><img style="height: 300px; width: 100%;  object-fit: cover;"
-                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/boyantdither.png?v=1672495245319"
+                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/athena-dither.png?v=1687205643861"
               /></div>
-            <div class="newest"><marquee><h1>THIS JUST IN — MYLES WHEELER ON HIS FILM BOY ANT</h1></marquee></div></router-link>
+            <div class="newest"><marquee><h1>THIS JUST IN — ATHENA SCOTT'S CLEANING DIARY</h1></marquee></div></router-link>
 
 
             <div class="column-container">
