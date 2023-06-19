@@ -143,36 +143,10 @@
 
 
 <script>
-/*import { myFunction1, myFunction2, myFunction3, myFunction4, myFunction5,
-    myFunction6, myFunction7, myFunction8, myFunction9, myFunction10, myFunction11,
-    myFunction12, myFunction13, myFunction14, myFunction15, myFunction16, myFunction17,
-    myFunction18 } from './cleaning.js';*/
 
 export default {
 
     name: "cleaningdiary",
-    /*data() {
-      return {
-        myFunction1, 
-        myFunction2, 
-        myFunction3, 
-        myFunction4, 
-        myFunction5,
-        myFunction6, 
-        myFunction7, 
-        myFunction8, 
-        myFunction9, 
-        myFunction10, 
-        myFunction11,
-        myFunction12, 
-        myFunction13, 
-        myFunction14, 
-        myFunction15, 
-        myFunction16, 
-        myFunction17,
-        myFunction18,
-      };
-    },*/
     components: {},
     metaInfo: {
         // title will be injected into parent titleTemplate
@@ -244,6 +218,7 @@ body {
   color: rgb(55,55,55);
   line-height: 1.6;
   background: rgba(200,200, 0,0.1);
+  height: 100vh;
 }
 
 main {

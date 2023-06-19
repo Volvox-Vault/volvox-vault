@@ -92,8 +92,13 @@ body {
 }
 
 @font-face {
-  font-family: hersheyFut;
+  font-family: hersheyFutLight;
   src: url(https://cdn.glitch.global/a19cf884-ad98-4fca-ae58-df109a77d14a/Hershey-Noailles-Futura-Simplex-Light.ttf?v=1654047866180);
+}
+
+@font-face {
+  font-family: hersheyFut;
+  src: url(https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Hershey-Noailles-HelpMe-Regular.ttf?v=1687198778957);
 }
 
 h1 {
