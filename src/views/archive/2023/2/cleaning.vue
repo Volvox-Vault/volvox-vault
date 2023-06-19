@@ -268,7 +268,7 @@ p {
 
 #img18 {
   position: absolute;
-  top: 215%;
+  top: 200%;
   right: 16%;
 }
 
@@ -280,7 +280,7 @@ p {
 
 #img11 {
   position: absolute;
-  top: 180%;
+  top: 175%;
   right: 3%;
   width: 150px;
 }
@@ -293,14 +293,14 @@ p {
 
 #img17 {
   position: absolute;
-  top: 155%;
+  top: 150%;
   right: 12%;
   width: 130px;
 }
 
 #img10 {
   position: absolute;
-  top: 130%;
+  top: 125%;
   right: 4%;
   width: 175px;
 }
@@ -314,7 +314,7 @@ p {
 
 #img14 {
   position: absolute;
-  top: 108%;
+  top: 100%;
   right: 19%;
   width: 190px;
 }
@@ -328,7 +328,7 @@ p {
 
 #img5 {
   position: absolute;
-  top: 85%;
+  top: 80%;
   right: 8%;
   width: 65px;
 }
@@ -342,7 +342,7 @@ p {
 
 #img8 {
   position: absolute;
-  top: 60%;
+  top: 55%;
   right: 13%;
   width: 120px;
 }
