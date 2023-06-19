@@ -258,109 +258,109 @@ p {
 
 #img1 {
   position: absolute;
-  top: 240%;
+  top: 230%;
   left: 5%;
   padding-bottom: 40px;
 }
 
 #img18 {
   position: absolute;
-  top: 225%;
+  top: 215%;
   right: 16%;
 }
 
 #img16 {
   position: absolute;
-  top: 200%;
+  top: 190%;
   left: 5%;
 }
 
 #img11 {
   position: absolute;
-  top: 190%;
+  top: 180%;
   right: 3%;
   width: 150px;
 }
 
 #img6 {
   position: absolute;
-  top: 175%;
+  top: 165%;
   left: 15%;
 }
 
 #img17 {
   position: absolute;
-  top: 165%;
+  top: 155%;
   right: 12%;
   width: 130px;
 }
 
 #img10 {
   position: absolute;
-  top: 140%;
+  top: 130%;
   right: 4%;
   width: 175px;
 }
 
 #img3 {
   position: absolute;
-  top: 150%;
+  top: 140%;
   left: 5%;
   width: 120px;
 }
 
 #img14 {
   position: absolute;
-  top: 118%;
+  top: 108%;
   right: 19%;
   width: 190px;
 }
 
 #img12 {
   position: absolute;
-  top: 118%;
+  top: 108%;
   left: 10%;
   width: 110px;
 }
 
 #img5 {
   position: absolute;
-  top: 95%;
+  top: 85%;
   right: 8%;
   width: 65px;
 }
 
 #img9 {
   position: absolute;
-  top: 95%;
+  top: 85%;
   left: 6%;
   width: 90px;
 }
 
 #img8 {
   position: absolute;
-  top: 70%;
+  top: 60%;
   right: 13%;
   width: 120px;
 }
 
 #img13 {
   position: absolute;
-  top: 65%;
+  top: 55%;
   left: 10%;
   width: 200px;
 }
 
 #img4 {
   position: absolute;
-  top: 45%;
+  top: 35%;
   right: 6%;
   width: 130px;
 }
 
 #img2 {
   position: absolute;
-  top: 30%;
+  top: 20%;
   left: 7%;
 }
 
