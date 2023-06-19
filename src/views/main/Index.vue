@@ -289,7 +289,7 @@ h2 {
   color:#f0f7de;
   text-align:center;
   padding: 10px;
-  padding-bottom: 8px;
+  padding-bottom: 5px;
   transition: 1s;
   width: 100%;
 }
