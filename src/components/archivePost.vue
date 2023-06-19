@@ -237,6 +237,15 @@ export default {
             "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/T.jpg?v=1657683135894",
         },
         {
+          date: "2023",
+          author: "Volvox Observer",
+          title: "Volvox Times",
+          link: "/volvoxtimes",
+          type: "Magazine",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/vt7.jpg?v=1672508428254",
+        },
+        {
           date: "August 2022",
           author: "Ian Zuke",
           title: "Celebrate The Process",
