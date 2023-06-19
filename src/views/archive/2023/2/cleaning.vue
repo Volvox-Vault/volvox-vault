@@ -328,7 +328,7 @@ p {
 
 #img5 {
   position: absolute;
-  top: 80%;
+  top: 76%;
   right: 8%;
   width: 65px;
 }
