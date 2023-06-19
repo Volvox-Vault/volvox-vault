@@ -213,11 +213,8 @@ export default {
 
 <style scoped>
 
-body, html {
-  padding: 0;
-  margin: 0;
-  width: 100%;
-  min-height: 100%;
+html {
+  background: rgba(200,200, 0,0.1);
 }
 
 body {
@@ -226,7 +223,6 @@ body {
   color: rgb(55,55,55);
   line-height: 1.6;
   background: rgba(200,200, 0,0.1);
-  background-color: rgba(200,200, 0,0.1);
 }
 
 main {
