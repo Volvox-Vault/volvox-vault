@@ -361,20 +361,20 @@ p {
 
 #img4 {
   position: absolute;
-  top: 35%;
+  top: 40%;
   right: 6%;
   width: 130px;
 }
 
 #img2 {
   position: absolute;
-  top: 20%;
+  top: 25%;
   left: 7%;
 }
 
 #img7 {
   position: absolute;
-  top: 8%;
+  top: 6%;
   right: 8%;
   width: 220px;
 }
