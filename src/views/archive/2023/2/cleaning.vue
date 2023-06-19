@@ -47,6 +47,8 @@
       </p>
     </main>
 
+    <router-link to="/archive" class="back">back</router-link>
+
     <img
       @click="myFunction1"
       id="img1"
@@ -219,7 +221,7 @@ html {
 
 body {
   padding: 45px;
-  padding-bottom: 200px;
+  padding-bottom: 60px;
   color: rgb(55,55,55);
   line-height: 1.6;
 }
@@ -257,6 +259,12 @@ h3 {
 p {
   font-size: 14pt; 
   
+}
+
+.back {
+  position: absolute;
+  top: 5px;
+  right: 5px;
 }
 
 #img1 {
