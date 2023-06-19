@@ -5,7 +5,7 @@
       <h3>athena scott</h3>
 
       <p>
-        If I do my dishes while waiting for my tea to steep, maybe Ellie will
+        If I do my dishes while waiting for my tea to steep, maybe E will
         text me back, will tell me why her last message was three hours ago, why
         it ended in a period, cold and hard and distant.
         <br /><br />
@@ -36,7 +36,7 @@
         the smaller things: the candle wax on the dining table or the blueberry
         that fell on the kitchen floor, crushed under my toes before breakfast.
         <br /><br />
-        Two hours until Ellie gets here and that could be enough to get a handle
+        Two hours until E gets here and that could be enough to get a handle
         on things, should be.
         <br /><br />
         But first, I’ll close my eyes for a minute or twenty. I’ll kick today’s
@@ -45,7 +45,7 @@
         <br /><br />
         The kale chips will burn in the oven;
         <br />
-        Ellie will love me anyway.
+        E will love me anyway.
       </p>
     </main>
 
