@@ -147,6 +147,15 @@ export default {
       title: "Archive",
       colony: [
         {
+          date: "2023",
+          author: "Athena Scott & Tiana Dueck",
+          title: "Cleaning Diary: Saturday",
+          link: "/archive/cleaning",
+          type: "Dear Diary",
+          image:
+            "https://cdn.glitch.global/f78862a1-d039-4c43-af38-52de88c188df/athen-sketches-16.png?v=1684588249867",
+        },
+        {
           date: "2022",
           author: "Tiana Dueck",
           title: "Myles Wheeler on his film Boy Ant",
