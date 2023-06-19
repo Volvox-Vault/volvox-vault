@@ -251,11 +251,11 @@ h3 {
 }
 
 h3 {
-  font-size: 12pt;
+  font-size: 14pt;
 }
 
 p {
-  font-size: 12pt; 
+  font-size: 13pt; 
   
 }
 
