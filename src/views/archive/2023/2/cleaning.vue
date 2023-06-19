@@ -261,7 +261,7 @@ p {
 
 #img1 {
   position: absolute;
-  top: 230%;
+  top: 220%;
   left: 5%;
   padding-bottom: 40px;
 }
@@ -274,7 +274,7 @@ p {
 
 #img16 {
   position: absolute;
-  top: 190%;
+  top: 185%;
   left: 5%;
 }
 
@@ -287,7 +287,7 @@ p {
 
 #img6 {
   position: absolute;
-  top: 165%;
+  top: 160%;
   left: 15%;
 }
 
@@ -307,7 +307,7 @@ p {
 
 #img3 {
   position: absolute;
-  top: 140%;
+  top: 135%;
   left: 5%;
   width: 120px;
 }
