@@ -10,7 +10,7 @@
         it ended in a period, cold and hard and distant.
         <br /><br />
         If I wash the pots from last night and our two matcha-stained mugs from
-        breakfast,and the whisk and milk steamer and cereal bowls and water
+        breakfast, and the whisk and milk steamer and cereal bowls and water
         glasses, then as the dishes drip onto the drying rack I might feel calm
         and light and less and less dizzy.
         <br /><br />
