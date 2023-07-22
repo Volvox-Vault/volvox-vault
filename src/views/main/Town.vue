@@ -9,7 +9,7 @@
         ><img class="townicon" style="width: 30%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/cafe.png?v=1644792564274"><br />the café</a
       >
 
-      <a id="pond" class="flower" href="https://volvoxvault.com/pond"
+      <a id="pond" class="flower" href="https://volvox.observer/pond"
         ><img class="townicon" style="width: 30%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pond.png?v=1644791327217"><br />the pond</a
       >
 
@@ -25,7 +25,7 @@
         ><img class="townicon" style="width: 30%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/airport.png?v=1644791327217"><br />the airport</a
       >
 
-      <a id="volvox" class="flower" href="https://volvoxvault.com"
+      <a id="volvox" class="flower" href="https://volvox.observer"
         ><img class="townicon" style="width: 30%;" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/community.png?v=1644791327217"><br />the community centre</a
       >
     </div>
