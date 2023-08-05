@@ -1,6 +1,7 @@
 <template>
   <div id="chat">
-    <p v-if="!online">The pond is facing techinical difficulties. Follow our <a style="color: #f3f9e6; text-decoration: underline;" href="https://twitter.com/volvoxobserver">Twitter</a> for updates.</p>
+    <p v-if="!online">The pond is facing techinical difficulties. Follow our <a style="color: #f3f9e6; text-decoration: underline;" href="https://twitter.com/volvoxobserver">Twitter</a> for updates.<br>
+    We're seeking back-end tech support at the moment. Please contact hello@volvox.observer</p>
     <p v-if="!online && isDevMode">
       try going to the <pre>volvox-back</pre> repository and running <pre>npm run dev</pre>, then
       reloading! this warning only appears in development mode ;)
