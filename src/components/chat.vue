@@ -1,6 +1,6 @@
 <template>
   <div id="chat">
-    <p v-if="!online">The pond is facing techinical difficulties. <a herf="https://observing-volvox.glitch.me/pond.html">Please enjoy this temporary little pond</a>. Follow our <a style="color: #f3f9e6; text-decoration: underline;" href="https://twitter.com/volvoxobserver">Twitter</a> for updates.<br>
+    <p v-if="!online">The pond is facing techinical difficulties. <a style="color: #f3f9e6; text-decoration: underline;" herf="https://observing-volvox.glitch.me/pond.html">Please enjoy this temporary little pond</a>. Follow our <a style="color: #f3f9e6; text-decoration: underline;" href="https://twitter.com/volvoxobserver">Twitter</a> for updates.<br>
     We're seeking back-end tech support at the moment. Please contact hello@volvox.observer</p>
     <p v-if="!online && isDevMode">
       try going to the <pre>volvox-back</pre> repository and running <pre>npm run dev</pre>, then
