@@ -46,9 +46,6 @@
 
         <hr />
 
-                <script id="cid0020000352265039512" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%;height: 500px;">{"handle":"littlepond","arch":"js","styles":{"a":"664c71","b":100,"c":"f3f9e6","d":"f3f9e6","e":"664c71","f":0,"g":"f3f9e6","i":0,"j":"f3f9e6","k":"f3f9e6","l":"f3f9e6","m":"CC0000","n":"FFFFFF","p":"10","q":"f3f9e6","r":100,"ab":false,"usricon":0,"sbc":"f3f9e6","surl":0,"allowpm":0}}</script>
-
-
         <div class="chatness">
           <Chat />
         </div>
@@ -91,6 +88,7 @@ export default {
     title: "Volvox Pond",
   },
   methods: {
+
   dawn() {
     document.querySelector('.pond').setAttribute('style', 'background:#664b71')
     document.querySelector('.space').setAttribute('style', 'background:#664b71')
