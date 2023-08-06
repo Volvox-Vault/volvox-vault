@@ -102,7 +102,7 @@
           <br />
 
           <p>
-            Got an idea? Send your pitch to hello@volvox.observer (NEW)
+            Got an idea? Send your pitch to hello@volvox.observer (currently down! email tianadueck@pm.me for now)
             <br />
           </p>
 
