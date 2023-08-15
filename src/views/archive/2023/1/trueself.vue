@@ -4,10 +4,10 @@
     
         <h1>true self film fest</h1>
         <br>
-        <h2>DEADLINE: <strike>JUNE 1</strike> JULY 29</h2>
-        <p><em>Need more time? Let us know: hello@volvox.observer (currently down! email tianadueck@pm.me for now)</em></p>
+        <h2>DEADLINE: JULY 29</h2>
+        <p><em>Need more time? Let us know: hello@volvox.observer</em></p>
         <p style="font-family: hersheyFut;">presented by
-            <router-link to="/">volvox observer</router-link>
+            <router-link to="/">volvox observer</router-link> | <a href="https://ko-fi.com/volvoxobserver">Support us on ko-fi</a>
             <br> hosted by <a href="https://tiana.computer">tiana dueck</a> & <a href="http://kalilhaddad.com">kalil haddad</a>
         </p>
         <br>
