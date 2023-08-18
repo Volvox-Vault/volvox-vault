@@ -4,7 +4,6 @@
     
         <h1>true self film fest</h1>
         <br>
-        <p><em>Submissions are closed but feel free to send us a film anyways: hello@volvox.observer</em></p>
         <p style="font-family: hersheyFut;">presented by
             <router-link to="/">volvox observer</router-link> | <a href="https://ko-fi.com/volvoxobserver">support us on ko-fi</a>
             <br> hosted by <a href="https://tiana.computer">tiana dueck</a> & <a href="http://kalilhaddad.com">kalil haddad</a>
@@ -25,14 +24,7 @@
                 </p>
                 <br>
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zAUwJ4zgwF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                <br><br>
-                <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SUBMIT YOUR FILM</span></h2>
-                <br>
-                <p>
-                    Send your submission to hello@volvox.observer with the subject "true self", include a brief artist's statement and the category of your film (see guidelines) for a chance to be featured in the fest.
-                    <br> Submissions are due on July 29, 2023. Early submissions are encouraged.
-                </p>
-
+                
                  </div>
     
             <div class="ts-box">
@@ -44,10 +36,15 @@
         <br>
         <p><em>More screenings to come in Toronto, ON and more.<br>
         Interested in hosting a screening? Send us an email: hello@volvox.observer</em></p>
-           
             </div>
     
             <div class="ts-box">
+                <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SUBMIT YOUR FILM</span></h2>
+                <br>
+                <p>
+                    Send your submission to hello@volvox.observer with the subject "true self", include a brief artist's statement and the category of your film (see guidelines) for a chance to be featured in the fest.
+                </p>
+                 <p><em>Submissions are closed but feel free to send us a film anyways: hello@volvox.observer</em></p>
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">GUIDELINES</span></h2>
                 <ul>
                     <li>run time must be between 1-15 min</li>
