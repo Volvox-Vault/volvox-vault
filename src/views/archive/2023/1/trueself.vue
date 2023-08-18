@@ -13,7 +13,7 @@
         <p><strong>FIRST IN PERSON SCREENING: AUGUST 27 @ 17:00 CEST</strong><br>
         Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br>
         Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
-        <em>More screenings to come in Toronto, ON and more. Interested in hosting a screening? Send us an email.</em>
+        <p class="ok"><em>More screenings to come in Toronto, ON and more. Interested in hosting a screening? Send us an email.</em></p>
         <br>
     
 
@@ -173,7 +173,7 @@ a {
     text-decoration: underline;
 }
 
-a:hover {
+a:hover, .ok {
     text-decoration: none;
     background: #f3f9e6;
     color: #664c71;
