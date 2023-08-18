@@ -46,7 +46,7 @@
                 </p>
                  <p><em>Submissions are closed but feel free to send us a film anyways: hello@volvox.observer</em></p>
                  <br>
-                 
+
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">GUIDELINES</span></h2>
                 <ul>
                     <li>run time must be between 1-15 min</li>
@@ -70,7 +70,8 @@
                     ONLINE: The festival will be published online at this url.
                     <router-link to="trueselftemplate">Each selected film will have its own webpage (example)</router-link> that showcases the film as well as special features (so document your production process!) like photos, Q&As, a director's statement, and more. We will host an online
                     live premiere of the fest. Ticket sale profits will be distributed to contributing artists.
-                    <br><br> IRL: We are also planning to host in person festivals in Toronto, the Netherlands, and other cities worldwide — details TBD.
+                    <br><br> IRL: We are also planning to host in person festivals in Toronto, the Netherlands, and other cities worldwide.<br>
+                    Interested in hosting a screening? Let us know: hello@volvox.observer
     
                 </p>
             </div>
