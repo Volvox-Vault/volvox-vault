@@ -45,6 +45,7 @@
                     Send your submission to hello@volvox.observer with the subject "true self", include a brief artist's statement and the category of your film (see guidelines) for a chance to be featured in the fest.
                 </p>
                  <p><em>Submissions are closed but feel free to send us a film anyways: hello@volvox.observer</em></p>
+                 <br><br>
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">GUIDELINES</span></h2>
                 <ul>
                     <li>run time must be between 1-15 min</li>
