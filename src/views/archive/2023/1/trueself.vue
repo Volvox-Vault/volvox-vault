@@ -4,12 +4,14 @@
     
         <h1>true self film fest</h1>
         <br>
-        <h2>DEADLINE: JULY 29</h2>
-        <p><em>Need more time? Let us know: hello@volvox.observer</em></p>
+        <p><em>Submissions are closed but feel free to send us a film anyways: hello@volvox.observer</em></p>
         <p style="font-family: hersheyFut;">presented by
             <router-link to="/">volvox observer</router-link> | <a href="https://ko-fi.com/volvoxobserver">support us on ko-fi</a>
             <br> hosted by <a href="https://tiana.computer">tiana dueck</a> & <a href="http://kalilhaddad.com">kalil haddad</a>
         </p>
+        <p style="border: 1px dotted #212121; padding: 5px;"><strong>FIRST IN PERSON SCREENING: AUGUST 27 @ 17:00 CEST</strong><br>
+        Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br>
+        Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
         <br>
     
 
