@@ -25,21 +25,24 @@
                 </p>
                 <br>
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zAUwJ4zgwF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SUBMIT YOUR FILM</span></h2>
                 <br>
-                <p><strong>FIRST IN PERSON SCREENING: AUGUST 27 @ 17:00 CEST</strong><br>
-        Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br>
-        Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
-        <p class="ok"><em>More screenings to come in Toronto, ON and more. Interested in hosting a screening? Send us an email.</em></p>
-            </div>
-    
-            <div class="ts-box">
-                <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SCREENINGS</span></h2>
+                <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SUBMIT YOUR FILM</span></h2>
                 <br>
                 <p>
                     Send your submission to hello@volvox.observer with the subject "true self", include a brief artist's statement and the category of your film (see guidelines) for a chance to be featured in the fest.
                     <br> Submissions are due on July 29, 2023. Early submissions are encouraged.
                 </p>
+
+                 </div>
+    
+            <div class="ts-box">
+                <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SCREENINGS</span></h2>
+                <br>
+                <p><strong>FIRST IN PERSON SCREENING: AUGUST 27 @ 17:00 CEST</strong><br>
+        Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br>
+        Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
+        <p><em>More screenings to come in Toronto, ON and more. Interested in hosting a screening? Send us an email: hello@volvox.observer</em></p>
+           
             </div>
     
             <div class="ts-box">
