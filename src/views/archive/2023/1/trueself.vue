@@ -25,7 +25,7 @@
                 </p>
                 <br>
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zAUwJ4zgwF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                <br>
+                <br><br>
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SUBMIT YOUR FILM</span></h2>
                 <br>
                 <p>
@@ -41,7 +41,9 @@
                 <p><strong>FIRST IN PERSON SCREENING: AUGUST 27 @ 17:00 CEST</strong><br>
         Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br>
         Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
-        <p><em>More screenings to come in Toronto, ON and more. Interested in hosting a screening? Send us an email: hello@volvox.observer</em></p>
+        <br>
+        <p><em>More screenings to come in Toronto, ON and more.<br>
+        Interested in hosting a screening? Send us an email: hello@volvox.observer</em></p>
            
             </div>
     
