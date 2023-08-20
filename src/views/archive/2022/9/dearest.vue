@@ -69,6 +69,7 @@
             <br />
 
             <a href="https://paypal.me/ti4na" target="_blank"> Tip Jar ☕ </a>
+
           </div>
         </div>
       </main>

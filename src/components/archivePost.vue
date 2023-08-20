@@ -148,6 +148,15 @@ export default {
       colony: [
         {
           date: "2023",
+          author: "Wietske Nutma & Tiana Dueck",
+          title: "How to make the most practical skirt ever.",
+          link: "/archive/skirt",
+          type: "Notebook",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/27E0C795-A1EC-4240-A2ED-C5205538E7F6.jpg?v=1692484797621",
+        },
+        {
+          date: "2023",
           author: "Athena Scott & Tiana Dueck",
           title: "Cleaning Diary: Saturday",
           link: "/archive/cleaning",
