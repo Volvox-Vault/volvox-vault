@@ -26,7 +26,7 @@ import CafeOsaka from '../views/cafe/Osaka.vue'
 import CafePost from '../views/cafe/CafePost.vue'
 
 /* ARCHIVE */  
-import cleaning from '../views/archive/2023/3/skirt.vue'
+import skirt from '../views/archive/2023/3/skirt.vue'
 import cleaning from '../views/archive/2023/2/cleaning.vue'
 import trueselftemplate from '../views/archive/2023/1/trueselftemplate.vue'
 import trueself from '../views/archive/2023/1/trueself.vue'
