@@ -19,7 +19,7 @@
             <div class="imgBox">
               <div class="container">
                 <iframe
-                  src="https://www.youtube.com/embed/QOAXhm_HlH4"
+                  src="https://www.youtube.com/embed/QOAXhm_HlH4?start=2"
                   frameborder="0"
                   allowfullscreen
                   class="video"
