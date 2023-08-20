@@ -30,11 +30,11 @@
 
             <p>
               With the ambition to make the most practical skirt ever, Wietske and Tiana made their interpretation of the <a href="https://merchantandmills.com/eu/the-mathilde">Mathilde Skirt</a>.
-              <br>
+              
               This massive flowy gingham skirt with a comfy elastic waist and giant pockets will only add joy to your life. So try your hand at it!
               If you do, submit a photo/video to hello@volvox.observer and we'll add it to this webpage.
-              <br>
-              Watch their video to see how it went, and learn how you can make one for yourself!
+              
+              Watch their video to see how it went, and learn how you can make one for yourself.
             </p>
 
             
