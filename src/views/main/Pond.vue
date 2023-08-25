@@ -180,7 +180,7 @@ input {
 }
 
 .chatness {
-  max-height: 85vh;
+  max-height: 80vh;
   overflow-y: auto;
   color: #f3f9e6;
 }
