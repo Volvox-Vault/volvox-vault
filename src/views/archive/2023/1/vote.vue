@@ -2,7 +2,7 @@
     <body>
         <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ts.png?v=1673389523276" class="logo" />
     
-        <h1><router-link to="/trueself">true self film fest</router-link></h1>
+        <h1><router-link to="/trueself" style="text-decoration: none;">true self film fest</router-link></h1>
         <br>
         <p style="font-family: hersheyFut;">presented by
             <router-link to="/">volvox observer</router-link> | <a href="https://ko-fi.com/volvoxobserver">support us on ko-fi</a>
