@@ -42,7 +42,8 @@ body {
     line-height: 1.6;
     background: #664c71;
     font-family: hersheyOld;
-    height: 100%;
+    height: 100vh;
+    overflow: hidden;
     color: #f3f9e6;
     padding: 30px;
     overscroll-behavior: none;
