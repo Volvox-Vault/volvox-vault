@@ -2,7 +2,7 @@
     <body>
         <img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ts.png?v=1673389523276" class="logo" />
     
-        <h1>true self film fest</h1>
+        <h1><router-link to="/trueself">true self film fest</router-link></h1>
         <br>
         <p style="font-family: hersheyFut;">presented by
             <router-link to="/">volvox observer</router-link> | <a href="https://ko-fi.com/volvoxobserver">support us on ko-fi</a>
@@ -15,7 +15,7 @@
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3ikgMzpEYPoDDbd8xkLeLwNMQjKgqWVJ9uQBcehLpBoIjCA/viewform?embedded=true" width="100%" height="500px" frameborder="0" marginheight="0" style="overflow: auto;" marginwidth="0">Loading…</iframe>    
 <br>        <hr>
-<br><br>
+<br><br><br>
     </body>
 </template>
 
