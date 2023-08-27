@@ -13,8 +13,9 @@
         <hr>
         <br>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3ikgMzpEYPoDDbd8xkLeLwNMQjKgqWVJ9uQBcehLpBoIjCA/viewform?embedded=true" width="100%" height="500px" frameborder="0" marginheight="0" style="overflow: auto;" marginwidth="0">Loading…</iframe>    
-<br>        <hr>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3ikgMzpEYPoDDbd8xkLeLwNMQjKgqWVJ9uQBcehLpBoIjCA/viewform?embedded=true" width="100%" height="500px" frameborder="0" marginheight="0" style="overflow: auto;overflow-x: hidden;" marginwidth="0">Loading…</iframe>    
+<br><br>        
+<hr>
 <br><br><br>
     </body>
 </template>
