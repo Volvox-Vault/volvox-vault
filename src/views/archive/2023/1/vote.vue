@@ -38,13 +38,36 @@ export default {
     src: url(https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Hershey-Noailles-OldFrench-Bold.ttf?v=1673385487640);
 }
 
+* {
+  scrollbar-color: #664c71 #664b71;
+  scrollbar-width: thin !important;
+}
+
 body {
     line-height: 1.6;
     background: #664c71;
     font-family: hersheyOld;
     height: 100%;
+    overflow: hidden;
     color: #f3f9e6;
     padding: 30px;
+
+    scrollbar-width: thin;
+  scrollbar-color: #664b71 #664b71;
+}
+
+*::-webkit-scrollbar {
+  width: 12px;
+}
+
+*::-webkit-scrollbar-track {
+  background: #664b71;
+}
+
+*::-webkit-scrollbar-thumb {
+  background-color: #664b71;
+  border-radius: 20px;
+  border: 3px solid #664b71;
 }
 
 h1,
