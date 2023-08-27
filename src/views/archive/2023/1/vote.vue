@@ -8,9 +8,7 @@
             <router-link to="/">volvox observer</router-link> | <a href="https://ko-fi.com/volvoxobserver">support us on ko-fi</a>
             <br> hosted by <a href="https://tiana.computer">tiana dueck</a> & <a href="http://kalilhaddad.com">kalil haddad</a>
             <br>
-            Visit us again in October when webpages for each film with special features are up!
-            <br>
-            review the <a href="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rotterdamprogramme-post.jpg?v=1693132954142" target="_blank">programme</a>.
+            visit us again in October when webpages for each film with special features are up! review the <a href="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rotterdamprogramme-post.jpg?v=1693132954142" target="_blank">programme</a>.
         </p>
         <hr>
         <br>
