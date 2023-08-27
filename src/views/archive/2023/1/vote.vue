@@ -11,12 +11,13 @@
         <br>
 
         <hr>
+<br>
+        <p>Visit us again in October when webpages for each film with special features are up!</p>
 
         <br>
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3ikgMzpEYPoDDbd8xkLeLwNMQjKgqWVJ9uQBcehLpBoIjCA/viewform?embedded=true" width="100%" height="500px" frameborder="0" marginheight="0" style="overflow: auto;" marginwidth="0">Loading…</iframe>    
 
-    <div style="height: 200px;"></div>
     </body>
 </template>
 
