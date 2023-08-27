@@ -14,9 +14,9 @@
 
         <br>
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3ikgMzpEYPoDDbd8xkLeLwNMQjKgqWVJ9uQBcehLpBoIjCA/viewform?embedded=true" width="100%" height="50%" frameborder="0" marginheight="0" style="overflow: auto;" marginwidth="0">Loading…</iframe>    
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSe3ikgMzpEYPoDDbd8xkLeLwNMQjKgqWVJ9uQBcehLpBoIjCA/viewform?embedded=true" width="100%" height="60%" frameborder="0" marginheight="0" style="overflow: auto;" marginwidth="0">Loading…</iframe>    
 
-    
+    <div style="height: 200px;"></div>
     </body>
 </template>
 
@@ -37,15 +37,12 @@ export default {
     font-family: hersheyOld;
     src: url(https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Hershey-Noailles-OldFrench-Bold.ttf?v=1673385487640);
 }
-* {
-        overflow: hidden;
-}
 
 body {
     line-height: 1.6;
     background: #664c71;
     font-family: hersheyOld;
-    height: 100vh;
+    height: 100%;
     color: #f3f9e6;
     padding: 30px;
 }
