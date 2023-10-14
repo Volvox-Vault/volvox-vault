@@ -67,7 +67,7 @@
                 <p><strong>ROTTERDAM SCREENING: AUGUST 27 @ 17:00 CEST</strong><br> Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br> Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
                 <br>
                 <p>
-                    Interested in hosting a screening? Send us an email: hello@volvox.observer</em>
+                    <em>Interested in hosting a screening? Send us an email: hello@volvox.observer</em>
                 </p>
             </div>
     
