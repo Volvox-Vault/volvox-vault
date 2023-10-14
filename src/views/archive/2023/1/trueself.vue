@@ -62,11 +62,20 @@
                     <strong>$5 EARLY BIRD UNTIL OCT 25</strong> or $10 (Oct 25 - Nov 1)<br>
                     Doors: 7:30pm — Screening begins promptly at 8pm, please be on time. :)</p>
                 <br>
+                <br>
+                <p><strong>RICHMOND SCREENING: TBA</strong>
+                <br> Where: RSVP to receive address. (TBA)<br>
+                    Attendance is free.
+                   <br>
+                    Doors: 7pm — Screening begins promptly at 8pm, please be on time. :)</p>
+                <br>
                 <hr>
                 <br>
                 <p>PAST SCREENINGS</p>
                 <br>
-                <p><strong>ROTTERDAM SCREENING: AUGUST 27 @ 17:00 CEST</strong><br> Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br> Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
+                <p><strong>ROTTERDAM SCREENING: AUGUST 27 @ 17:00 CEST</strong>
+                <br> Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br> 
+                Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
                 <br>
                 <p>
                     <em>Interested in hosting a screening? Send us an email: hello@volvox.observer</em>
