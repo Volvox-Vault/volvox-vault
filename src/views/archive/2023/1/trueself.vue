@@ -63,7 +63,8 @@
                     Doors: 7:30pm — Screening begins promptly at 8pm, please be on time. :)</p>
                 <br>
                 <hr>
-                <p>past screenings...</p>
+                <br>
+                <p>PAST SCREENINGS</p>
                 <br>
                 <p><strong>ROTTERDAM SCREENING: AUGUST 27 @ 17:00 CEST</strong><br> Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br> Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
                 <br>
