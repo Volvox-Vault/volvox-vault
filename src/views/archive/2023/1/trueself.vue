@@ -59,7 +59,8 @@
                 <p><strong>TORONTO SCREENING: NOVEMBER 1 @ 7:30PM</strong><br> Where: Eyesore Cinema (1176 Bloor Street West Toronto ON M6H 1N1)<br>
                     <a href="https://checkout.square.site/buy/3X3BSW3RH7SFXU5WTKO26VDD">Purchase Tickets</a>
                     <br>
-                    <strong>$5 EARLY BIRD UNTIL OCT 25</strong> or $10 (Oct 25 - Nov 1)</p>
+                    <strong>$5 EARLY BIRD UNTIL OCT 25</strong> or $10 (Oct 25 - Nov 1)<br>
+                    Doors: 7:30pm — Screening begins promptly at 8pm, please be on time. :)</p>
                 <br>
                 <hr>
                 <p>past screenings...</p>
