@@ -10,7 +10,7 @@
         </p>
         <br>
     
-
+    
     
     
         <div class="ts-contain">
@@ -23,28 +23,52 @@
                     can be daunting and overwhelming, so we intend to practice a calmer artist-driven approach through this quaint fest.
                 </p>
                 <br>
+                <h2>PROGRAMME</h2>
+                <br>
+                <p>
+                    (Each section is around 30 min)<br>
+                    <br> A Wet Cashew by Charles VanderKlipp<br>
+                    <br> Vlog #1460 by Connie Liu<br>
+                    <br> I Am by Kailum Graves<br>
+                    <br> I Am Here by Alexandra Stenberg<br>
+                    <br> Across The Water by Ellen Bjerborn<br>
+                    <br> A Film About My Grandparents by Joel Haver <br>
+                    <br> Estranged by Lisa Saban<br>
+                    <br> ~ + ~ + ~ + ~ 10 min intermission ~ + ~ + ~ + ~<br>
+                    <br> Mega Memories by Lara Olanick<br>
+                    <br> Joel Meyerowitz and My YouTube Addiction by Stanley Tucker <br>
+                    <br> Goddess (She/Her/Hers) by Charli Christine Marker<br>
+                    <br> Why Do Ants Go Back To Their Nest? by Alex Lo<br>
+                    <br> Tracing the Materiality of a Cellular Connection by Alan Perry<br>
+                    <br> ~ + ~ + ~ + ~ 10 min intermission ~ + ~ + ~ + ~<br>
+                    <br> Matador by Matias Vaisman<br>
+                    <br> Patient Object by Terry Cole<br>
+                    <br> Okay, See You Then by Maia Liebeskind<br>
+                    <br> Salad by Tiana Dueck<br>
+                    <br> Ellie’s Lipstick by Anna & Jacob Brotman-Krass<br>
+                    <br> Echappe by Xinli She
+                </p>
+                <br>
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zAUwJ4zgwF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                
-                 </div>
+    
+            </div>
     
             <div class="ts-box">
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SCREENINGS</span></h2>
                 <br>
-                <p><strong>TORONTO SCREENING: NOVEMBER 1 @ 7:30PM</strong><br>
-        Where: Eyesore Cinema (1176 Bloor Street West Toronto ON M6H 1N1)<br>
-        <a href="https://checkout.square.site/buy/3X3BSW3RH7SFXU5WTKO26VDD">Purchase Tickets</a> 
-        <br>
-        <strong>$5 EARLY BIRD UNTIL OCT 25</strong> or $10 (Oct 25 - Nov 1)</p>
-        <br>
-        <hr>
-        <p>past screenings...</p>
-        <br>
-                <p><strong>ROTTERDAM SCREENING: AUGUST 27 @ 17:00 CEST</strong><br>
-        Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br>
-        Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
-        <br>
-        <p>
-        Interested in hosting a screening? Send us an email: hello@volvox.observer</em></p>
+                <p><strong>TORONTO SCREENING: NOVEMBER 1 @ 7:30PM</strong><br> Where: Eyesore Cinema (1176 Bloor Street West Toronto ON M6H 1N1)<br>
+                    <a href="https://checkout.square.site/buy/3X3BSW3RH7SFXU5WTKO26VDD">Purchase Tickets</a>
+                    <br>
+                    <strong>$5 EARLY BIRD UNTIL OCT 25</strong> or $10 (Oct 25 - Nov 1)</p>
+                <br>
+                <hr>
+                <p>past screenings...</p>
+                <br>
+                <p><strong>ROTTERDAM SCREENING: AUGUST 27 @ 17:00 CEST</strong><br> Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br> Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
+                <br>
+                <p>
+                    Interested in hosting a screening? Send us an email: hello@volvox.observer</em>
+                </p>
             </div>
     
             <div class="ts-box">
@@ -53,9 +77,9 @@
                 <p>
                     Send your submission to hello@volvox.observer with the subject "true self", include a brief artist's statement and the category of your film (see guidelines) for a chance to be featured in the fest.
                 </p>
-                 <p><em>Submissions are closed but feel free to send us a film anyways: hello@volvox.observer</em></p>
-                 <br>
-
+                <p><em>Submissions are closed but feel free to send us a film anyways: hello@volvox.observer</em></p>
+                <br>
+    
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">GUIDELINES</span></h2>
                 <ul>
                     <li>run time must be between 1-15 min</li>
@@ -79,8 +103,7 @@
                     ONLINE: The festival will be published online at this url in October.
                     <router-link to="trueselftemplate">Each selected film will have its own webpage (example)</router-link> that showcases the film as well as special features (so document your production process!) like photos, Q&As, a director's statement, and more. We will host an online
                     live premiere of the fest.
-                    <br><br> IRL: We are also planning to host in person festivals in Toronto, Rotterdam, and other cities worldwide.<br>
-                    Interested in hosting a screening? Let us know: hello@volvox.observer
+                    <br><br> IRL: We are also planning to host in person festivals in Toronto, Rotterdam, and other cities worldwide.<br> Interested in hosting a screening? Let us know: hello@volvox.observer
                 </p>
             </div>
     
@@ -187,7 +210,8 @@ a {
     text-decoration: underline;
 }
 
-a:hover, .ok {
+a:hover,
+.ok {
     text-decoration: none;
     background: #f3f9e6;
     color: #664c71;
