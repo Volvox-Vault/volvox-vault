@@ -26,7 +26,7 @@
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">PROGRAMME</span></h2>
                 <br>
                 <p>
-                    (Each section is around 30 min)<br>
+                    <em>Each section is around 30 min.</em>
                     <br> A Wet Cashew by Charles VanderKlipp
                     <br> Vlog #1460 by Connie Liu
                     <br> I Am by Kailum Graves
