@@ -48,10 +48,6 @@
                     <br> Ellie’s Lipstick by Anna & Jacob Brotman-Krass
                     <br> Echappe by Xinli She
                 </p>
-                <br>
-                <hr>
-                <br>
-                <iframe width="100%" height="315" src="https://www.youtube.com/embed/zAUwJ4zgwF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     
             </div>
     
@@ -105,6 +101,11 @@
                         </ul>
                     </li>
                 </ul>
+
+                                <hr>
+                <br>
+                <iframe width="100%" height="315" src="https://www.youtube.com/embed/zAUwJ4zgwF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
     
             </div>
     
