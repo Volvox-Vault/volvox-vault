@@ -19,8 +19,8 @@
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">ABOUT</span></h2>
                 <br>
                 <p>
-                    We’re interested in short films that are made from the heart. We want to see what artists like you are drawn to create from their core, with less focus on the technical details, and more on communicating a feeling that naturally pours from you. Filmmaking
-                    can be daunting and overwhelming, so we intend to practice a slower, more compassionate, artist-driven approach through this quaint fest.
+                    A showcase of short films that are made from the heart. We're thrilled to share films that artists were drawn to create from their core, with less focus on the technical details, and more on communicating a feeling that naturally pours from you. Filmmaking
+                    can be daunting and overwhelming, so we intend to practice a calmer artist-driven approach through this quaint fest.
                 </p>
                 <br>
                 <iframe width="100%" height="315" src="https://www.youtube.com/embed/zAUwJ4zgwF0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
@@ -30,11 +30,20 @@
             <div class="ts-box">
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">SCREENINGS</span></h2>
                 <br>
-                <p><strong>FIRST IN PERSON SCREENING: AUGUST 27 @ 17:00 CEST</strong><br>
+                <p><strong>TORONTO SCREENING: NOVEMBER 1 @ 7:30PM</strong><br>
+        Where: Eyesore Cinema (1176 Bloor Street West Toronto ON M6H 1N1)<br>
+        <a href="https://checkout.square.site/buy/3X3BSW3RH7SFXU5WTKO26VDD">Purchase Tickets</a> 
+        <br>
+        <strong>$5 EARLY BIRD UNTIL OCT 25</strong> or $10 (Oct 25 - Nov 1)</p>
+        <br>
+        <hr>
+        <p>past screenings...</p>
+        <br>
+                <p><strong>ROTTERDAM SCREENING: AUGUST 27 @ 17:00 CEST</strong><br>
         Where: Extra Practice (Zwaanshals 209, 3036 KN Rotterdam)<br>
         Attendance is free. <a href="https://forms.gle/dJRov6Hv46oTUzpLA">Please RSVP</a>.</p>
         <br>
-        <p><em>More screenings to come in Toronto, ON and more.<br>
+        <p>
         Interested in hosting a screening? Send us an email: hello@volvox.observer</em></p>
             </div>
     
