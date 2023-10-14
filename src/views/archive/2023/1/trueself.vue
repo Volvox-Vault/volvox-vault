@@ -19,7 +19,7 @@
                 <h2 style="color:#664c71;"><span style="background:#f3f9e6; padding: 5px;">ABOUT</span></h2>
                 <br>
                 <p>
-                    A showcase of short films that are made from the heart. We're thrilled to share films that artists were drawn to create from their core, with less focus on the technical details, and more on communicating a feeling that naturally pours from you. Filmmaking
+                    A showcase of short films that are made from the heart. We're thrilled to share films that artists were drawn to create from their core, with less focus on the technical details, and more on communicating a feeling that naturally pours from them. Filmmaking
                     can be daunting and overwhelming, so we intend to practice a calmer artist-driven approach through this quaint fest.
                 </p>
                 <br>
