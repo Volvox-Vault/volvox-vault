@@ -62,8 +62,8 @@
                     <strong>$5 EARLY BIRD UNTIL OCT 25</strong> or $10 (Oct 25 - Nov 1)<br>
                     Doors: 7:30pm — Screening begins promptly at 8pm, please be on time. :)</p>
                 <br>
-                <p><strong>RICHMOND SCREENING: TBA</strong>
-                <br> Where: RSVP to receive address. (TBA)<br>
+                <p><strong><a href="https://workingroom.online/trueself.html" target="_blank">RICHMOND SCREENING: NOVEMBER 5 @ 7:00PM</a></strong>
+                <br>Where: <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAWHW7Y6ipWDC_RALRSCM0HXfFGJIso7NEGs3g34-oH-UCeg/viewform" target="_blank">RSVP to receive address.</a><br>
                     Attendance is free.
                    <br>
                     Doors: 7pm — Screening begins promptly at 8pm, please be on time. :)</p>
