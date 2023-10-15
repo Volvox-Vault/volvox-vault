@@ -64,7 +64,7 @@
                 <br>
                 <p><strong><a href="https://workingroom.online/trueself.html" target="_blank">RICHMOND SCREENING: NOVEMBER 5 @ 7:00PM</a></strong>
                 <br>Where: Working Room — <a href="https://docs.google.com/forms/d/e/1FAIpQLSdAWHW7Y6ipWDC_RALRSCM0HXfFGJIso7NEGs3g34-oH-UCeg/viewform" target="_blank">RSVP to receive address.</a><br>
-                    Attendance is free.
+                    Attendance is free. Drinks and refreshments will be provided.
                    <br>
                     Doors: 7pm — Screening begins promptly at 8pm, please be on time. :)</p>
                 <br>
