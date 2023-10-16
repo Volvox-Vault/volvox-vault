@@ -214,7 +214,8 @@ form p {
 .diary-bg-wrap {
   overflow: hidden;
   position: relative;
-  height: 100vh;
+  height: 100%;
+  min-height: 100vh;
 }
 
 .diary-bg {
