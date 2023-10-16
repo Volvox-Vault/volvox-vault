@@ -16,7 +16,7 @@
                 <div class="note">
                     <h2>about</h2>
                     <hr>
-                  <p>
+                  <p style="font-size: 12pt;">
                     We invite you to write diary entries for our public diary collection.
                     A diary is "a book in which one keeps a daily record of events and experiences." (Oxford).
                     If you've ever kept a diary, you've probably experienced the nostalgic joy of reading it
@@ -35,7 +35,7 @@
                 <div class="note">
                     <h2>guide</h2>
                     <hr>
-                    <p>
+                    <p style="font-size: 12pt;">
                     • Share your recent revelations, opinions, wishes, dreams,
                     ambient thoughts, manifestations.<br />
                     • Word count must be between 100 - 4000.<br />
