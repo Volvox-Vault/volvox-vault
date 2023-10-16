@@ -10,6 +10,7 @@
                     <img class="diary-bg" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pexels-dlkr-5676478.jpg?v=1697471798740"/>
                 <div class="main-Diary diary-bg-content">
     
+    <div class="notes-wrap">
                 <div class="block-Diary-link notes">
 
                     <div class="note">
@@ -30,6 +31,7 @@
                     </details>
                     </div>
 
+                </div>
                 </div>
     
                 
@@ -119,8 +121,7 @@ export default {
 div.form {
     margin: 0 auto;
     display: block;
-    text-align: center;
-    width: 610px;
+    width: 640px;
 }
 
 form {
@@ -190,8 +191,15 @@ form p {
   position: relative;
 }
 
+.notes-wrap {
+    margin: 0 auto;
+    display: block;
+    width: 640px;
+}
+
 .notes {
     margin: 0 auto;
+    width: 100%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
     grid-row-gap: 0;
@@ -202,8 +210,9 @@ form p {
 }
 
 .note {
-    width: 300px;
+    width: 100%;
     height: 300px;
+    padding: 20px;
     background: #f3f9e6;
     overflow-y: auto;
     border: 1px dotted #664b71;
