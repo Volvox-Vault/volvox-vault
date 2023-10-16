@@ -10,10 +10,15 @@
                     <img class="diary-bg" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pexels-dlkr-5676478.jpg?v=1697471798740"/>
                 <div class="main-Diary diary-bg-content">
     
-                <div class="block-Diary-link">
+                <div class="block-Diary-link notes">
+
+                    <div class="note">
                     <p>
                         Write a diary entry for our public diary collection (coming soon).
                     </p>
+                    </div>
+
+                    <div class="note">
                     <details>
                         <summary>HOW TO CONTRIBUTE...</summary>
                         • Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations.<br>
@@ -23,6 +28,8 @@
                         • Please be friendly and kind in your entries. We encourage you to be vulnerable!<br>
                         • Please note that disturbing and unpeaceful content may be denied for the safety of our readers.
                     </details>
+                    </div>
+
                 </div>
     
                 <br>
@@ -183,7 +190,18 @@ form p {
   position: relative;
 }
 
+.notes {
+    margin: 0px;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-gap: 10px;
+}
 
+.note {
+    width: 300px;
+    height: 300px;
+    background: #f3f9e6;
+}
 
 
 /* BLOCKS */
