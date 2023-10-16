@@ -366,12 +366,30 @@ button {
     width: 90%;
     grid-template-columns: repeat(1, 1fr);
   }
+  .note {
+    height: 300px;
+  }
+  .form {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 3;
+  grid-row-end: 3;
+  }
 }
 
 @media only screen and (max-device-width: 566px) {
 .notes {
     width: 90%;
     grid-template-columns: repeat(1, 1fr);
+  }
+  .form {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 3;
+  grid-row-end: 3;
+  }
+  .note {
+    height: 300px;
   }
 }
 </style>
