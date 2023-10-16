@@ -131,7 +131,7 @@ export default {
     width: 100%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-column-gap: 10px;
+    grid-gap: 10px;
     margin-top:20px;
     margin-bottom: 20px;
     text-align: left;
@@ -146,11 +146,12 @@ export default {
     border: 1px dotted #664b71;
 }
 
-div.form {
+.form {
     grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 2;
-  grid-row-end: 2;
+    grid-column-end: 3;
+    grid-row-start: 2;
+     grid-row-end: 2;
+
     text-align: left;
     font-size: 15pt;
     color: #664b71;
