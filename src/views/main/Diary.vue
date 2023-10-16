@@ -124,8 +124,10 @@ textarea, input {
 
 form p {
   padding:0px;
+  margin: 0px;
   margin-bottom: 20px;
   margin-top: 20px;
+  line-height: 0;
 }
 
 /* BLOCKS */
