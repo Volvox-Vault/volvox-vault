@@ -234,7 +234,6 @@ button {
       margin-right: 10px;
       margin-bottom: 20px;
     }
-    }
     textarea {
       width: 100%;
     }
