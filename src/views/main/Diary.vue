@@ -17,7 +17,7 @@
                 <div class="note note-a">
                   <h2>about</h2>
                   <hr />
-                  <p style="font-size: 12pt">
+                  <p>
                     Welcome to the diary desk! We invite you to write diary
                     entries for our public diary collection. A diary is "a book
                     in which one keeps a daily record of events and
@@ -47,7 +47,7 @@
                 <div class="note note-b">
                   <h2>guide</h2>
                   <hr />
-                  <p style="font-size: 12pt">
+                  <p>
                     • Share your recent revelations, opinions, wishes, dreams,
                     ambient thoughts, manifestations.<br />
                     • Word count requirement: 100 - 4000<br />
@@ -217,6 +217,10 @@ export default {
   border: 1px dotted #664b71;
 }
 
+.note-a, .note-b {
+  font-size: 12pt;
+}
+
 .form {
   grid-column-start: 1;
   grid-column-end: 3;
@@ -366,9 +370,6 @@ button {
   .notes {
     width: 90%;
   }
-  .note {
-    height: 300px;
-  }
   .note-a {
   grid-column-start: 1;
   grid-column-end: 3;
@@ -388,14 +389,14 @@ button {
   grid-row-end: 3;
   height: 600px;
   }
+  .note-a, .note-b {
+  font-size: 15pt;
+}
 }
 
 @media only screen and (max-device-width: 566px) {
 .notes {
     width: 90%;
-  }
-  .note {
-    height: 300px;
   }
   .form {
   grid-column-start: 1;
@@ -404,5 +405,8 @@ button {
   grid-row-end: 3;
   height: 600px;
   }
+  .note-a, .note-b {
+  font-size: 15pt;
+}
 }
 </style>
