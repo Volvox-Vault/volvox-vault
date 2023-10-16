@@ -120,6 +120,7 @@ textarea, input {
   color: #664b71;
   background: #f3f9e6;
   border:none;
+  margin: 0px;
 }
 
 form p {
