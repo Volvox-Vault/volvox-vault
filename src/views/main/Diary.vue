@@ -111,22 +111,22 @@
                     />
 
                     <p>Share your email with your entry?</p>
-                     
+                    
                     <input
                       type="radio"
                       id="yes"
                       name="share"
                       value="yes"
                     />
-                      <label for="html">Yes please.</label><br />
-                     
+                    <label for="html">Yes please.</label><br />
+                
                     <input
                       type="radio"
                       id="no"
                       name="share"
                       value="no"
                     />
-                      <label for="css">No thanks.</label>
+                    <label for="css">No thanks.</label>
 
                     <div class="h-captcha" data-captcha="true"></div>
 
