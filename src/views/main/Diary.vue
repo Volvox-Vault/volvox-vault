@@ -130,6 +130,7 @@ export default {
     margin: 0 auto;
     display: block;
     width: 640px;
+    overflow-y: auto;
 }
 
 .notes {
@@ -243,6 +244,7 @@ form p {
     grid-gap: 10px;
     height: 100vh;
     width: 100%;
+    overflow-y: auto;
 }
 
 .block-Diary {
