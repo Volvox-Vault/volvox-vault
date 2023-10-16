@@ -8,7 +8,7 @@
            submit your diary entry to our archive.
 </p>
 <div class="form">
-<form action="/diary-submission" method="POST">
+<form @submit.prevent="submitForm">
         <label for="diarySubmissionColumn">which column? — </label>
   
         <select name="diarySubmissionColumn" id="column-selection">
@@ -25,7 +25,7 @@
 
         <br /><br />
 
-        <textarea id="volvox-diary" name="diarySubmissionText" rows="20" cols="56">dear diary,</textarea>
+        <textarea id="volvox-diary" rows="20" cols="56" name="message" v-model="message" required>dear diary,</textarea>
 
         <br><br>
 
@@ -33,12 +33,16 @@
 
         <br>
         
-        <input type="text" name="diarySubmissionName" placeholder="your name"> <input type="text" name="diarySubmissionEmail" placeholder="your email">
+        <input type="text" name="name" v-model="name" placeholder="your name" required> 
+        <input type="email" name="email"  v-model="email" placeholder="your email" required>
+        <div class="h-captcha" data-captcha="true"></div>
 
         <br><br>
 
-        <input type="submit" value="send" />
+        <button type="submit">Send Message</button>
+
     </form>
+    
 </div>
 </div>
 
@@ -49,11 +53,40 @@
 
 <script>
 import MainLayout from "../../layouts/MainLayout";
+const WEB3FORMS_ACCESS_KEY = "e9365dd6-7b23-4d4c-a2e4-c46386e4a99a";
 
 export default {
   name: "Diary",
   components: {
     MainLayout,
+  },
+    data() {
+    return {
+      name: "",
+      email: "",
+      message: "",
+    };
+  },
+  methods: {
+    async submitForm() {
+      const response = await fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        headers: {
+          "Content-Type": "application/json",
+          Accept: "application/json",
+        },
+        body: JSON.stringify({
+          access_key: WEB3FORMS_ACCESS_KEY,
+          name: this.name,
+          email: this.email,
+          message: this.message,
+        }),
+      });
+      const result = await response.json();
+      if (result.success) {
+        console.log(result);
+      }
+    },
   },
 };
 </script>
