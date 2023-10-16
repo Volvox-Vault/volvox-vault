@@ -34,8 +34,9 @@
     </form>
 
 </div>
+</div>
 
-    <br /><br /><br />
+    <br />
   </MainLayout>
 </template>
 
@@ -178,6 +179,13 @@ a:hover {
 
 .nameArea {
   margin-right: 10px;
+}
+
+button {
+  font-family: hersheyFut, arial, sans-serif;
+  color: #f3f9e6;
+  background: #664b71;
+  border: none;
 }
 
 @media (max-width: 800px) {
