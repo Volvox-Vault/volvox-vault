@@ -17,13 +17,14 @@
         <p>Dear diary,</p>
         <textarea id="volvox-diary" rows="20" cols="56" name="message" v-model="message" placeholder="your diary entry + public social media/contact info (optional)" required>dear diary,</textarea>
 
-        <br><br>
+        <br>
 
-        Sincerly,
+
+        <p>Sincerly,</p>
 
         <br>
         
-        <input type="text" name="name" v-model="name" placeholder="your name" required> 
+        <input type="text" name="name" v-model="name" class="nameArea" placeholder="your name" required> 
         <input type="email" name="email"  v-model="email" placeholder="your email" required>
         <div class="h-captcha" data-captcha="true"></div>
 
@@ -102,6 +103,12 @@ form
     margin-left: auto;
     margin-right: auto;
     text-align: left;
+    font-size: 15pt;
+    color: #664b71;
+}
+
+textarea {
+  line-height: 1.6;
 }
 /* BLOCKS */
 #blocks-About {
@@ -180,6 +187,10 @@ a:hover {
   display: flex;
   justify-content: center;
   align-items: center;
+}
+
+.nameArea {
+  margin-right: 5px;
 }
 
 @media (max-width: 800px) {
