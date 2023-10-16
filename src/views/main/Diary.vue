@@ -24,8 +24,11 @@
     
                 <div class="form">
                     <form ref="diaryEntry" class="diaryForm" @submit.prevent="submitForm" @submit="submitFormReset">
+
+                    <input type="hidden" name="subject" value="new public diary entry">
     
                         <p style="margin-top: 15px;">Dear diary,</p>
+
                         <textarea id="volvox-diary" rows="10" cols="60" name="message" v-model="message" minlength="600" maxlength="20000" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
     
                         <p>Love,</p>
@@ -33,9 +36,7 @@
                         <input type="text" name="name" v-model="name" class="nameArea" placeholder="your name" required>
                         <input type="email" name="email" v-model="email" placeholder="your email" required>
                         <div class="h-captcha" data-captcha="true"></div>
-    
-                        <input type="hidden" name="subject" value="new public diary entry">
-    
+        
                         <button type="submit">send</button>
     
                     </form>
