@@ -13,6 +13,7 @@
           <div class="main-Diary diary-bg-content">
             <div class="notes-wrap">
               <div class="block-Diary-link notes">
+
                 <div class="note">
                   <h2>about</h2>
                   <hr />
@@ -364,7 +365,7 @@ button {
 @media (max-width: 800px) {
   .notes {
     width: 90%;
-      grid-template-columns: repeat(1, 1fr);
+      grid-template-columns: 1fr;
   }
   .note {
     height: 300px;
@@ -381,7 +382,10 @@ button {
 @media only screen and (max-device-width: 566px) {
 .notes {
     width: 90%;
-  grid-template-columns: repeat(1, 1fr);
+  grid-template-columns: 1fr;
+  }
+  .note {
+    height: 300px;
   }
   .form {
   grid-column-start: 1;
@@ -389,10 +393,6 @@ button {
   grid-row-start: 3;
   grid-row-end: 3;
   height: 600px;
-  }
-  .note {
-    height: 300px;
-    width: 100%;
   }
 }
 </style>
