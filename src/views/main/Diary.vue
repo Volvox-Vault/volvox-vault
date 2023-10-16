@@ -164,6 +164,7 @@ form p {
 .diary-bg-wrap {
   overflow: hidden;
   position: relative;
+  height: 100%;
 }
 
 .diary-bg {
@@ -193,6 +194,7 @@ form p {
     grid-template-columns: repeat(1, 1fr);
     grid-row-gap: 0;
     grid-gap: 10px;
+    height: 100vh;
 }
 
 .block-Diary {
