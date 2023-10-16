@@ -60,9 +60,8 @@
                     you to be vulnerable!<br />
                     • Please note that disturbing and unpeaceful content may be
                     denied for the safety of our readers. <br />
-                    • You can always email
-                    hello{@}volvox.observer to request a change or deletion of
-                    an entry of yours.
+                    • You can always email hello{@}volvox.observer to request a
+                    change or deletion of an entry of yours.
                   </p>
                 </div>
 
@@ -330,6 +329,7 @@ form p {
 
   padding: 15px;
   margin: 0px;
+  margin-bottom: 10px;
 
   border-bottom: 1px dotted #212121;
   align-items: center;
