@@ -1,6 +1,8 @@
 <template>
   <MainLayout>
     <div id="blocks-Diary">
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+
       <!-- diary -->
       <div class="block-Diary">
         <p class="block-Diary-header">VOLVOX DIARY</p>

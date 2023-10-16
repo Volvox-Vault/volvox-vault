@@ -1,5 +1,6 @@
 <template>
   <MainLayout>
+  
     <head>
       <title>volvox.observer</title>
 
