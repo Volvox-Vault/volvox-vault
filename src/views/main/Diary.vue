@@ -150,16 +150,20 @@ form p {
 }
 
 .block-Diary-header {
-    font-size: 20pt;
-    font-weight: bold;
-    color: #212121;
-    font-family: hersheyTrip;
-    text-align: center;
-    background-color: #cbbad2;
-    padding: 15px;
-    margin: 0px;
-    border-bottom: 1px dotted #212121;
-    align-items: center;
+  font-size: 20pt;
+  font-weight: bold;
+  color: #212121;
+  font-family: hersheyTrip;
+  text-align: center;
+
+  background-color: #cbbad2;
+
+  padding: 15px;
+  margin: 0px;
+
+  border-bottom: 1px dotted #212121;
+  align-items: center;
+  text-transform: uppercase;
 }
 
 .block-Diary-link,

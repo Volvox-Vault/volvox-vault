@@ -184,6 +184,7 @@ export default {
 
   border-bottom: 1px dotted #212121;
   align-items: center;
+  text-transform: uppercase;
 }
 
 .block-About-link {
