@@ -110,7 +110,7 @@
                       required
                     />
 
-                    <br>
+                    <br><br>
 
                     <p>Share your email with your entry?</p>
                     
