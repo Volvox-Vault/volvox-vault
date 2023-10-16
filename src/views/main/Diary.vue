@@ -15,7 +15,7 @@
                         • Submissions will be reviewed before posting. You will be notified via email when your entry is published.<br>
                         • Want to include images/videos? Share a link to them (Google Drive, Dropbox, etc).<br>
                         • Please be friendly and kind in your entries. We encourage you to be vulnerable!<br>
-                        However, please note that disturbing and unpeaceful content may be denied for the safety of our readers.
+                        • Please note that disturbing and unpeaceful content may be denied for the safety of our readers.
                     </details>
                 </div>
     
@@ -25,7 +25,7 @@
                     <form ref="diaryEntry" class="diaryForm" @submit.prevent="submitForm" @submit="submitFormReset">
     
                         <p style="margin-top: 15px;">Dear diary,</p>
-                        <textarea id="volvox-diary" rows="10" cols="60" name="message" v-model="message" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
+                        <textarea id="volvox-diary" rows="10" cols="60" name="message" v-model="message" minlength="700" maxlength="20000" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
     
                         <p>Love,</p>
     
