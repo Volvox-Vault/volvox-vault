@@ -60,6 +60,7 @@
                     you to be vulnerable!<br />
                     • Please note that disturbing and unpeaceful content may be
                     denied for the safety of our readers.
+                    • You can always email hello{@}volvox.observer to request a change or deletion of an entry of yours.
                   </p>
                 </div>
 
