@@ -32,7 +32,7 @@
 
                 </div>
     
-                <br>
+                
     
                 <div class="form">
 
@@ -191,16 +191,20 @@ form p {
 }
 
 .notes {
-    margin: 0px;
+    margin: 0 auto;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
+    grid-row-gap: 0;
     grid-gap: 10px;
+    margin-top:20px;
+    margin-bottom: 20px;
 }
 
 .note {
     width: 300px;
     height: 300px;
     background: #f3f9e6;
+    overflow-y: auto;
 }
 
 
