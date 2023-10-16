@@ -176,7 +176,7 @@ form {
 
 textarea,
 input {
-    display:block;
+    display: inline-block;
     padding: 5px;
     line-height: 1.6;
     font-size: 15pt;
@@ -188,7 +188,7 @@ input {
 }
 
 textarea {
-  width: 95%;
+  width: 99%;
   height: 300px;
 }
 
