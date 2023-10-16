@@ -31,12 +31,10 @@
                     </details>
                     </div>
 
-                </div>
-                </div>
-    
+                
                 
     
-                <div class="form">
+                <div class="form note">
 
                     <form ref="diaryEntry" class="diaryForm" @submit.prevent="submitForm" @submit="submitFormReset">
 
@@ -58,6 +56,10 @@
     
                     </form>
                 </div>
+
+                </div>
+                </div>
+    
     
     </div>
     <br><br>
@@ -118,21 +120,49 @@ export default {
 
 
 <style scoped>
-div.form {
+.notes-wrap {
     margin: 0 auto;
     display: block;
     width: 640px;
 }
 
-form {
+.notes {
     margin: 0 auto;
-    display: inline-block;
+    width: 100%;
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 10px;
+    margin-top:20px;
+    margin-bottom: 20px;
+    text-align: left;
+}
+
+.note {
+    width: auto;
+    height: 300px;
+    padding: 20px;
+    background: #f3f9e6;
+    overflow-y: auto;
+    border: 1px dotted #664b71;
+}
+
+div.form {
+    grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 2;
+  grid-row-end: 2;
     text-align: left;
     font-size: 15pt;
     color: #664b71;
     padding: 20px;
     border: 1px dotted #664b71;
     background: #fbfdf7;
+}
+
+form {
+    margin: 0 auto;
+    display: inline-block;
+    width: 100%;
 }
 
 textarea,
@@ -148,7 +178,7 @@ input {
 }
 
 textarea {
-  width: 620px;
+  width: auto;
   height: 300px;
 }
 
@@ -191,33 +221,6 @@ form p {
 .diary-bg-content {
   position: relative;
 }
-
-.notes-wrap {
-    margin: 0 auto;
-    display: block;
-    width: 640px;
-}
-
-.notes {
-    margin: 0 auto;
-    width: 100%;
-    display: grid;
-    grid-template-columns: repeat(2, 1fr);
-    grid-column-gap: 10px;
-    margin-top:20px;
-    margin-bottom: 20px;
-    text-align: left;
-}
-
-.note {
-    width: auto;
-    height: 300px;
-    padding: 20px;
-    background: #f3f9e6;
-    overflow-y: auto;
-    border: 1px dotted #664b71;
-}
-
 
 /* BLOCKS */
 
