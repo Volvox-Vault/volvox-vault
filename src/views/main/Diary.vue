@@ -219,6 +219,7 @@ form p {
     grid-row-gap: 0;
     grid-gap: 10px;
     height: 100vh;
+    width: 100%;
 }
 
 .block-Diary {
@@ -227,8 +228,7 @@ form p {
     border-collapse: collapse;
     overflow: auto;
     width: 100%;
-    margin-left: auto;
-    margin-right: auto;
+    margin: 0 auto;
     line-height: 1.6;
 }
 
@@ -252,13 +252,11 @@ form p {
 .block-Diary-link,
 .block-Diary-link p {
     font-size: 15pt;
-    padding: 15px;
-    text-align: center;
 }
 
 .block-Diary-link p {
-    margin-bottom: 0px;
-    padding-bottom: 0px;
+    margin: 0px;
+    padding: 0px;
 }
 
 .nameArea {
