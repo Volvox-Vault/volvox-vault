@@ -130,6 +130,10 @@ input:focus {
     border: 1px dotted #664b71;
   }
 
+input:invalid:focus, textarea:invalid:focus {
+  background: #212121;
+}
+
 form p {
     padding: 0px;
     margin: 0px;
