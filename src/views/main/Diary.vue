@@ -119,6 +119,7 @@ export default {
 div.form {
     display: block;
     text-align: center;
+    width: 610px;
 }
 
 form {
@@ -146,7 +147,7 @@ input {
 }
 
 textarea {
-  width: 700px;
+  width: 100%;
   height: 300px;
 }
 
@@ -205,6 +206,7 @@ form p {
     height: 300px;
     background: #f3f9e6;
     overflow-y: auto;
+    border: 1px dotted #664b71;
 }
 
 
