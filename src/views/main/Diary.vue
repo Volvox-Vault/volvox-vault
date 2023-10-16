@@ -114,6 +114,7 @@ form {
     padding: 20px;
     border: 1px dotted #664b71;
     background: #fbfdf7;
+    width: 90%;
 }
 
 textarea,
@@ -129,7 +130,7 @@ input {
 }
 
 textarea {
-  width: 80%;
+  width: 100%;
   height: 300px;
 }
 
