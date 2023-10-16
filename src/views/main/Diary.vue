@@ -42,7 +42,7 @@
                     <p style="font-size: 12pt;">
                     • Share your recent revelations, opinions, wishes, dreams,
                     ambient thoughts, manifestations.<br />
-                    • Word count must be between 100 - 4000.<br />
+                    • Word count requirement: 100 - 4000<br />
                     • Submissions will be reviewed before posting. You will be
                     notified via email when your entry is published.<br />
                     • Want to include images/videos? Share a link to them
