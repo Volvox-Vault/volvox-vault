@@ -132,6 +132,7 @@ form {
     padding: 20px;
     border: 1px dotted #664b71;
     background: #fbfdf7;
+    width: 100%;
 }
 
 textarea,
@@ -202,15 +203,14 @@ form p {
     width: 100%;
     display: grid;
     grid-template-columns: repeat(2, 1fr);
-    grid-row-gap: 0;
-    grid-gap: 10px;
+    grid-column-gap: 10px;
     margin-top:20px;
     margin-bottom: 20px;
     text-align: left;
 }
 
 .note {
-    width: 100%;
+    width: auto;
     height: 300px;
     padding: 20px;
     background: #f3f9e6;
