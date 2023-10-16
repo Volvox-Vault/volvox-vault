@@ -118,7 +118,14 @@ input {
     background: #f3f9e6;
     border: none;
     margin: 0px;
+    outline: none !important;
 }
+
+textarea:focus,
+input:focus {
+    outline: none !important;
+    border: 1px dotted #664b71;
+  }
 
 form p {
     padding: 0px;
@@ -168,7 +175,7 @@ form p {
 
 .block-Diary-link,
 .block-Diary-link p {
-    font-size: 12pt;
+    font-size: 15pt;
     padding: 15px;
     align-items: center;
     text-align: center;
