@@ -202,6 +202,7 @@ input:invalid:focus, textarea:invalid:focus {
   background: #cbbad2;
 }
 
+/*
 form p {
     padding: 0px;
     margin: 0px;
@@ -209,6 +210,7 @@ form p {
     margin-top: 20px;
     line-height: 0;
 }
+*/
 
 .diary-bg-wrap {
   overflow: hidden;
@@ -287,6 +289,7 @@ form p {
 
 button {
     margin-top: 20px;
+    margin-bottom: 0px;
     font-family: hersheyFut, arial, sans-serif;
     color: #f3f9e6;
     background: #664b71;
