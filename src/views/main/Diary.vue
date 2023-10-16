@@ -159,6 +159,7 @@ export default {
     grid-row-start: 2;
     grid-row-end: 2;
 
+    padding-bottom: 0px;
     text-align: left;
     font-size: 15pt;
     color: #664b71;
@@ -287,7 +288,7 @@ form p {
 
 button {
     margin-top: 20px;
-    margin-bottom: 0px;
+    margin-bottom:0px !important;
     font-family: hersheyFut, arial, sans-serif;
     color: #f3f9e6;
     background: #664b71;
