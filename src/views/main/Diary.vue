@@ -170,24 +170,9 @@ form p {
     text-align: center;
 }
 
-.block-Diary-link img {
-    float: right;
-    max-width: 250px;
-    padding-bottom: 15px;
-    padding-left: 25px;
-}
-
-.block-Diary-link a,
-.block-shop a {
-    color: #9879a6;
-    text-decoration: none;
-}
-
-.block-Diary-link a:hover,
-.block-shop a:hover,
-a:hover {
-    text-decoration: underline;
-    cursor: pointer;
+.block-Diary-link p {
+    margin-bottom: 0px;
+    padding-bottom: 0px;
 }
 
 .nameArea {
