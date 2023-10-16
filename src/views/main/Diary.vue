@@ -22,12 +22,16 @@
                     If you've ever kept a diary, you've probably experienced the nostalgic joy of reading it
                     back, reminicing on memories, past obstacles, relationships, the inner workings of your mind,
                     and more. Inspired by the act of sondering, pondering another's experiences and emotions, 
-                    we're expirmenting with the idea of a public diary. There are a lot of platforms to share 
+                    we're expirmenting with the idea of a public diary. 
+                    <br><br>
+                    There are a lot of platforms to share 
                     your memories and experiences in writing; but not many feel soft and approachable. 
                     Here, we hope to create an empathetic atmosphere for public volnurability by keeping it simple.
                     It's even a bit mysterious, as there are not profiles to follow... there will just be
                     an ongoing feed of diary entries submitted by people who can decide to be as anonymous
-                    or known as they wish. We're hoping to create an archive of the human experience 
+                    or known as they wish. 
+                    <br><br>
+                    We're hoping to create an archive of the human experience 
                     in the form of a gentle website. So, will you write with us?
                   </p>
                 </div>
