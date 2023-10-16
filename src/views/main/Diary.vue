@@ -14,15 +14,28 @@
             <div class="notes-wrap">
               <div class="block-Diary-link notes">
                 <div class="note">
+                    <h2>about</h2>
+                    <hr>
                   <p>
-                    Write a diary entry for our public diary collection (coming
-                    soon).
+                    We invite you to write diary entries for our public diary collection.
+                    A diary is "a book in which one keeps a daily record of events and experiences." (Oxford).
+                    If you've ever kept a diary, you've probably experienced the nostalgic joy of reading it
+                    back, reminicing on memories, past obstacles, relationships, the inner workings of your mind,
+                    and more. Inspired by the act of sondering, pondering another's experiences and emotions, 
+                    we're expirmenting with the idea of a public diary. There are a lot of platforms to share 
+                    your memories and experiences in writing; but not many feel soft and approachable. 
+                    Here, we hope to create an empathetic atmosphere for public volnurability by keeping it simple.
+                    It's even a bit mysterious, as there are not profiles to follow... there will just be
+                    an ongoing feed of diary entries submitted by people who can decide to be as anonymous
+                    or known as they wish. We're hoping to create an archive of the human experience 
+                    in the form of a gentle website. So, will you write with us?
                   </p>
                 </div>
 
                 <div class="note">
-                  <details>
-                    <summary>HOW TO CONTRIBUTE...</summary>
+                    <h2>guide</h2>
+                    <hr>
+                    <p>
                     • Share your recent revelations, opinions, wishes, dreams,
                     ambient thoughts, manifestations.<br />
                     • Word count must be between 100 - 4000.<br />
@@ -34,7 +47,7 @@
                     you to be vulnerable!<br />
                     • Please note that disturbing and unpeaceful content may be
                     denied for the safety of our readers.
-                  </details>
+                  </p>
                 </div>
 
                 <div class="form note">
