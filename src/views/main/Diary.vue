@@ -217,13 +217,13 @@ button {
 
 @media (max-width: 800px) {
     textarea {
-      width: 350px;
+      width: 300px;
     }
 }
 
 @media only screen and (max-device-width: 566px) {
     textarea {
-      width: 350px;
+      width: 300px;
     }
 }
 </style>
