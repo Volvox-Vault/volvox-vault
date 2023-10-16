@@ -278,7 +278,7 @@ form p {
   overflow: hidden;
   position: relative;
   height: 100%;
-  margin-top: 20px;
+  padding-top: 20px;
 }
 
 .diary-bg {
