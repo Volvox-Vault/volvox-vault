@@ -27,10 +27,9 @@
     
                 <br>
     
-                <div class="form diary-form-bg-wrap">
-                    <img class="diary-form-bg" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pexels-ron-lach-10526880.jpg?v=1697473203553"/>
+                <div class="form">
 
-                    <form ref="diaryEntry" class="diaryForm diary-form-bg-content" @submit.prevent="submitForm" @submit="submitFormReset">
+                    <form ref="diaryEntry" class="diaryForm" @submit.prevent="submitForm" @submit="submitFormReset">
 
                     <input type="hidden" name="subject" value="new public diary entry">
     
@@ -183,24 +182,7 @@ form p {
   position: relative;
 }
 
-.diary-form-bg-wrap {
-  overflow: hidden;
-  position: relative;
-}
 
-.diary-form-bg {
-  opacity: 0.8;
-  position: absolute;
-  left: 0;
-  top: 0;
-  height: 100%;
-  width: auto;
-  object-fit: cover;
-}
-
-.diary-form-bg-content {
-  position: relative;
-}
 
 
 /* BLOCKS */
