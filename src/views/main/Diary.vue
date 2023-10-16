@@ -364,7 +364,7 @@ button {
 @media (max-width: 800px) {
   .notes {
     width: 90%;
-    grid-template-columns: repeat(1, 1fr);
+      grid-template-columns: repeat(1, 1fr);
   }
   .note {
     height: 300px;
@@ -374,22 +374,25 @@ button {
   grid-column-end: 3;
   grid-row-start: 3;
   grid-row-end: 3;
+  height: 600px;
   }
 }
 
 @media only screen and (max-device-width: 566px) {
 .notes {
     width: 90%;
-    grid-template-columns: repeat(1, 1fr);
+  grid-template-columns: repeat(1, 1fr);
   }
   .form {
   grid-column-start: 1;
   grid-column-end: 3;
   grid-row-start: 3;
   grid-row-end: 3;
+  height: 600px;
   }
   .note {
     height: 300px;
+    width: 100%;
   }
 }
 </style>
