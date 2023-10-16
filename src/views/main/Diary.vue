@@ -110,6 +110,8 @@
                       required
                     />
 
+                    <br>
+
                     <p>Share your email with your entry?</p>
                     
                     <input
@@ -118,7 +120,7 @@
                       name="share"
                       value="yes"
                     />
-                    <label for="html">Yes please.</label><br />
+                    <label for="yes">Yes please.</label><br />
                 
                     <input
                       type="radio"
@@ -126,7 +128,7 @@
                       name="share"
                       value="no"
                     />
-                    <label for="css">No thanks.</label>
+                    <label for="no">No thanks.</label>
 
                     <div class="h-captcha" data-captcha="true"></div>
 
