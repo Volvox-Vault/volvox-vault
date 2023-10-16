@@ -5,31 +5,21 @@
       <div class="block-About">
         <p class="block-About-header">WRITE A DIARY ENTRY</p>
         <p class="block-About-link" style="text-align: center">
-           submit your diary entry to our archive.
-</p>
+           NEW ~ Write a diary entry for our public diary collection.<br>
+           Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations. <br>
+           Submissions will be reviewed before posting. You will be notified via email when your entry is published.<br>
+           Please be friendly and kind in your entries. Disturbing and unpeaceful content may be denied.
+        </p>
+
 <div class="form">
 <form ref="diaryEntry" @submit.prevent="submitForm" @submit="submitFormReset">
-        <label for="diarySubmissionColumn">which column? — </label>
-  
-        <select name="diarySubmissionColumn" id="column-selection">
-          <option value="dear">
-            dear diary (opinion, etc. open with "dear diary,")
-          </option>
-          <option value="notebook">notebook (research)</option>
-          <option value="feelings">feelings (write about a feeling)</option>
-          <option value="personal">personal gossip (community updates)</option>
-          <option value="oscillations">
-            oscillations (audio + text, chats about creativity)
-          </option>
-        </select>
 
-        <br /><br />
-
-        <textarea id="volvox-diary" rows="20" cols="56" name="message" v-model="message" placeholder="dear diary," required>dear diary,</textarea>
+        <p>Dear diary,</p>
+        <textarea id="volvox-diary" rows="20" cols="56" name="message" v-model="message" placeholder="your diary entry + public social media/contact info (optional)" required>dear diary,</textarea>
 
         <br><br>
 
-        sincerly,
+        Sincerly,
 
         <br>
         
@@ -38,6 +28,8 @@
         <div class="h-captcha" data-captcha="true"></div>
 
         <br>
+
+        <input type="hidden" name="subject" value="new public diary entry">
 
         <button type="submit">send</button>
 
