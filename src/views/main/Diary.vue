@@ -278,6 +278,7 @@ form p {
   overflow: hidden;
   position: relative;
   height: 100%;
+  margin-top: 20px;
 }
 
 .diary-bg {
@@ -329,7 +330,6 @@ form p {
 
   padding: 15px;
   margin: 0px;
-  margin-bottom: 10px;
 
   border-bottom: 1px dotted #212121;
   align-items: center;
