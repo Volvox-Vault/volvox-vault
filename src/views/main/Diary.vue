@@ -220,7 +220,8 @@ form p {
 
 .diary-bg {
   opacity: 0.3;
-  position: absolute;
+  position: -webkit-sticky; /* Safari */
+  position: sticky;
   left: 0;
   top: 0;
   height: 100vh;
