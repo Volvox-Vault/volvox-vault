@@ -10,7 +10,7 @@
                         NEW ~ Write a diary entry for our public diary collection.
                     </p>
                     <details>
-                        <summary style="width: 100%; margin-top: 10px;">How to contribute...</summary>
+                        <summary>HOW TO CONTRIBUTE...</summary>
                         Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations. <br> Submissions will be reviewed before posting. You will be notified via email when your entry is published.<br> Want to include images/videos?
                         Share a link to them (Google Drive, Dropbox, etc).<br> Please be friendly and kind in your entries. Disturbing and unpeaceful content may be denied.
                     </details>
@@ -190,7 +190,7 @@ form p {
     margin-right: 20px;
 }
 
-button, summary {
+button {
     margin-top: 20px;
     font-family: hersheyFut, arial, sans-serif;
     color: #f3f9e6;
