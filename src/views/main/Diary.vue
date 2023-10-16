@@ -8,7 +8,7 @@
            submit your diary entry to our archive.
 </p>
 <div class="form">
-<form @submit.prevent="submitForm">
+<form @submit.prevent="submitForm" @submit="submitFormReset">
         <label for="diarySubmissionColumn">which column? — </label>
   
         <select name="diarySubmissionColumn" id="column-selection">
@@ -39,10 +39,10 @@
 
         <br><br>
 
-        <button type="submit">Send Message</button>
+        <button type="submit">sent</button>
 
     </form>
-    
+
 </div>
 </div>
 
@@ -87,6 +87,10 @@ export default {
         console.log(result);
       }
     },
+    submitFormReset(){
+         // Your form submission
+         this.$refs.anyName.reset(); // This will clear that form
+      },
   },
 };
 </script>
