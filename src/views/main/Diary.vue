@@ -50,15 +50,14 @@
                 </div>
     
     </div>
+    <br><br>
             </div>
 
             
 
             </div>
         </div>
-    
-        <br />
-    </MainLayout>
+        </MainLayout>
 </template>
 
 
@@ -167,7 +166,7 @@ form p {
 }
 
 .diary-bg {
-  opacity: 0.6;
+  opacity: 0.3;
   position: absolute;
   left: 0;
   top: 0;
