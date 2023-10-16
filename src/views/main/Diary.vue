@@ -11,12 +11,11 @@
                     </p>
                     <details>
                         <summary>HOW TO CONTRIBUTE...</summary>
-                        <ul>
-                        <li>Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations.</li>
-                        <li>Submissions will be reviewed before posting. You will be notified via email when your entry is published.</li>
-                        <li>Want to include images/videos? Share a link to them (Google Drive, Dropbox, etc).</li>
-                        <li>Please be friendly and kind in your entries. Disturbing and unpeaceful content may be denied.</li>
-                        </ul>
+                        • Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations.<br>
+                        • Submissions will be reviewed before posting. You will be notified via email when your entry is published.<br>
+                        • Want to include images/videos? Share a link to them (Google Drive, Dropbox, etc).<br>
+                        • Please be friendly and kind in your entries. We encourage you to be vulnerable!<br>
+                        However, please note that disturbing and unpeaceful content may be denied for the safety of our readers.
                     </details>
                 </div>
     
