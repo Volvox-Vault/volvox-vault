@@ -145,8 +145,9 @@ export default {
 
 .note {
     width: auto;
-    height: 300px;
+    height: 200px;
     padding: 20px;
+    color: #664b71;
     background: #f3f9e6;
     overflow-y: auto;
     border: 1px dotted #664b71;
@@ -156,7 +157,7 @@ export default {
     grid-column-start: 1;
     grid-column-end: 3;
     grid-row-start: 2;
-     grid-row-end: 2;
+    grid-row-end: 2;
 
     text-align: left;
     font-size: 15pt;
@@ -175,6 +176,7 @@ form {
 
 textarea,
 input {
+    display:block;
     padding: 5px;
     line-height: 1.6;
     font-size: 15pt;
@@ -186,7 +188,7 @@ input {
 }
 
 textarea {
-  width: 100%;
+  width: 95%;
   height: 300px;
 }
 
