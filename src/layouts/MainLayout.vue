@@ -25,8 +25,8 @@
           <router-link to="/support" class="div7 box1">
             <p>support</p>
           </router-link>
-          <router-link to="/shop" class="div8 box1">
-            <p>shop</p>
+          <router-link to="/diary" class="div8 box1">
+            <p>NEW: diary</p>
           </router-link>
           <router-link to="/pond" class="div9 box1">
             <p>pond chat</p>
