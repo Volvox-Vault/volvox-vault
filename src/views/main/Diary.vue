@@ -1,13 +1,14 @@
 <template>
   <MainLayout>
-    <div id="blocks-About">
+    <div id="blocks-Diary">
       <!-- diary -->
-      <div class="block-About">
-        <p class="block-About-header">WRITE A DIARY ENTRY</p>
-        <p class="block-About-link" style="text-align: center">
+      <div class="block-Diary">
+        <p class="block-Diary-header">WRITE A DIARY ENTRY</p>
+        <p class="block-Diary-link" style="text-align: center">
            NEW ~ Write a diary entry for our public diary collection.<br>
            Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations. <br>
            Submissions will be reviewed before posting. You will be notified via email when your entry is published.<br>
+           Want to include images/videos? Share a link to them (Google Drive, Dropbox, etc).<br>
            Please be friendly and kind in your entries. Disturbing and unpeaceful content may be denied.
         </p>
 
@@ -109,7 +110,7 @@ textarea, input {
   color: #664b71;
 }
 /* BLOCKS */
-#blocks-About {
+#blocks-Diary {
   margin: 0px;
   display: grid;
   grid-template-columns: repeat(1, 1fr);
@@ -117,7 +118,7 @@ textarea, input {
   grid-gap: 10px;
 }
 
-.block-About {
+.block-Diary {
   background-color: #f3f9e6;
   color: #212121;
   border-collapse: collapse;
@@ -125,10 +126,10 @@ textarea, input {
   width: 100%;
   margin-left: auto;
   margin-right: auto;
-  line-height: 1.8;
+  line-height: 1.6;
 }
 
-.block-About-header {
+.block-Diary-header {
   font-size: 20pt;
   font-weight: bold;
   color: #212121;
@@ -144,47 +145,32 @@ textarea, input {
   align-items: center;
 }
 
-.block-About-link {
-  font-size: 15pt;
+.block-Diary-link {
+  font-size: 12pt;
 
   padding: 15px;
 
   align-items: center;
 }
 
-.block-About-link img {
+.block-Diary-link img {
   float: right;
   max-width: 250px;
   padding-bottom: 15px;
   padding-left: 25px;
 }
 
-.block-About-link a,
+.block-Diary-link a,
 .block-shop a {
   color: #9879a6;
   text-decoration: none;
 }
 
-.block-About-link a:hover,
+.block-Diary-link a:hover,
 .block-shop a:hover,
 a:hover {
   text-decoration: underline;
   cursor: pointer;
-}
-
-.block-About-shop {
-  text-align: center;
-  text-decoration: none;
-  margin-top: 35%;
-  margin-bottom: 45%;
-  font-size: 10vh;
-  max-height: 50vh;
-}
-
-.block-About-image {
-  display: flex;
-  justify-content: center;
-  align-items: center;
 }
 
 .nameArea {
@@ -192,13 +178,13 @@ a:hover {
 }
 
 @media (max-width: 800px) {
-  .block-About-link img {
+  .block-Diary-link img {
     width: 35%;
   }
 }
 
 @media only screen and (max-device-width: 566px) {
-  .block-About-link img {
+  .block-Diary-link img {
     width: 35%;
   }
 }
