@@ -20,12 +20,12 @@
                     Welcome to the diary desk! We invite you to write diary
                     entries for our public diary collection. A diary is "a book
                     in which one keeps a daily record of events and
-                    experiences." (Oxford). If you've ever kept a diary, you've
+                    experiences" (Oxford). If you've ever kept a diary, you've
                     probably experienced the nostalgic joy of reading it back,
                     reminiscing on memories, past obstacles, relationships, the
                     inner workings of your mind, and more. Inspired by the act
                     of sondering, pondering another's experiences and emotions,
-                    we're experimenting with the idea of a public diary.
+                    we're experimenting with the concept of a public diary.
                     <br /><br />
                     There are a lot of platforms to share your memories and
                     experiences in writing; but not many feel soft and
@@ -38,8 +38,8 @@
                     encouraged to leave contact information in your entry so you
                     might make a friend.
                     <br /><br />
-                    We're hoping to create an archive of the human experience in
-                    the form of a gentle website. So, will you write with us?
+                    Together, let's create an archive of the human experience in
+                    the form of a gentle website. Will you write with us?
                   </p>
                 </div>
 
