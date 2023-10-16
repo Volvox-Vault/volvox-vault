@@ -191,6 +191,7 @@ a:hover {
 }
 
 button {
+  margin-top: 20px;
   font-family: hersheyFut, arial, sans-serif;
   color: #f3f9e6;
   background: #664b71;
