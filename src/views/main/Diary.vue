@@ -17,15 +17,15 @@
                   <h2>about</h2>
                   <hr />
                   <p style="font-size: 12pt">
-                    Welcome to the diary desk! We invite you to write diary entries for our public diary
-                    collection. A diary is "a book in which one keeps a daily
-                    record of events and experiences." (Oxford). If you've ever
-                    kept a diary, you've probably experienced the nostalgic joy
-                    of reading it back, reminiscing on memories, past obstacles,
-                    relationships, the inner workings of your mind, and more.
-                    Inspired by the act of sondering, pondering another's
-                    experiences and emotions, we're experimenting with the idea
-                    of a public diary.
+                    Welcome to the diary desk! We invite you to write diary
+                    entries for our public diary collection. A diary is "a book
+                    in which one keeps a daily record of events and
+                    experiences." (Oxford). If you've ever kept a diary, you've
+                    probably experienced the nostalgic joy of reading it back,
+                    reminiscing on memories, past obstacles, relationships, the
+                    inner workings of your mind, and more. Inspired by the act
+                    of sondering, pondering another's experiences and emotions,
+                    we're experimenting with the idea of a public diary.
                     <br /><br />
                     There are a lot of platforms to share your memories and
                     experiences in writing; but not many feel soft and
@@ -52,15 +52,17 @@
                     • Word count requirement: 100 - 4000<br />
                     • Submissions will be reviewed before posting. You will be
                     notified via email when your entry is published.<br />
-                    • At the end of your entries, list what social media / contact
-                    information you might want to share publicly. <br>
-                    • Want to include images/videos? Share a link to them (Google Drive, Dropbox,
-                    etc).<br />
+                    • At the end of your entries, list what social media /
+                    contact information you might want to share publicly. <br />
+                    • Want to include images/videos? Share a link to them
+                    (Google Drive, Dropbox, etc).<br />
                     • Please be friendly and kind in your entries. We encourage
                     you to be vulnerable!<br />
                     • Please note that disturbing and unpeaceful content may be
-                    denied for the safety of our readers.
-                    • You can always email hello{@}volvox.observer to request a change or deletion of an entry of yours.
+                    denied for the safety of our readers. <br />
+                    • You can always email
+                    hello{@}volvox.observer to request a change or deletion of
+                    an entry of yours.
                   </p>
                 </div>
 
