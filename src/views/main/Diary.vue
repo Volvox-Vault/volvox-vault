@@ -5,7 +5,7 @@
       <div class="block-Diary">
         <p class="block-Diary-header">WRITE A DIARY ENTRY</p>
         <p class="block-Diary-link" style="text-align: center">
-           NEW ~ Write a diary entry for our public diary collection.<br>
+           NEW ~ Write a diary entry for our public diary collection.
            </p>
            <details class="block-Diary-link"><summary>How to contribute...</summary>
            Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations. <br>
@@ -14,7 +14,7 @@
            Please be friendly and kind in your entries. Disturbing and unpeaceful content may be denied.
            </details>
         
-
+<div class="form">
 <form ref="diaryEntry" class="diaryForm" @submit.prevent="submitForm" @submit="submitFormReset">
 
         <p>Dear diary,</p>
@@ -33,6 +33,7 @@
         <button type="submit">send</button>
 
     </form>
+</div>
 
 </div>
 </div>
@@ -156,6 +157,7 @@ textarea, input {
   padding: 15px;
 
   align-items: center;
+  text-align: center;
 }
 
 .block-Diary-link img {
