@@ -157,7 +157,7 @@ textarea, input {
   align-items: center;
 }
 
-.block-Diary-link {
+.block-Diary-link, .block-Diary-link p {
   font-size: 12pt;
 
   padding: 15px;
