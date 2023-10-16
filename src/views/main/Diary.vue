@@ -46,7 +46,7 @@
 
                         <textarea id="volvox-diary" name="message" v-model="message" minlength="600" maxlength="20000" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
     
-                        <br>
+                        <br><br>
 
                         <p>Love,</p>
 
@@ -186,7 +186,7 @@ input {
 }
 
 textarea {
-  width: auto;
+  width: 100%;
   height: 300px;
 }
 
