@@ -52,8 +52,10 @@
                     • Word count requirement: 100 - 4000<br />
                     • Submissions will be reviewed before posting. You will be
                     notified via email when your entry is published.<br />
-                    • Want to include images/videos? Share a link to them
-                    (Google Drive, Dropbox, etc).<br />
+                    • At the end of your entries, list what social media / contact
+                    information you might want to share publicly. <br>
+                    • Want to include images/videos? Share a link to them (Google Drive, Dropbox,
+                    etc).<br />
                     • Please be friendly and kind in your entries. We encourage
                     you to be vulnerable!<br />
                     • Please note that disturbing and unpeaceful content may be
@@ -74,7 +76,11 @@
                       value="new public diary entry"
                     />
 
-                    <input type="hidden" name="from_name" value="Volvox Diary">
+                    <input
+                      type="hidden"
+                      name="from_name"
+                      value="Volvox Diary"
+                    />
 
                     <p style="margin-top: 15px">Dear diary,</p>
 
