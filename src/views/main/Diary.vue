@@ -2,11 +2,12 @@
     <MainLayout>
         <div id="blocks-Diary">
             <!-- diary -->
-            <div class="block-Diary diary-bg-wrap">
+            <div class="block-Diary">
                 <p class="block-Diary-header">WRITE A DIARY ENTRY</p>
 
-                <img class="diary-bg" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pexels-dlkr-5676478.jpg?v=1697471798740"/>
-
+                
+                <div class="diary-bg-wrap">
+                    <img class="diary-bg" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pexels-dlkr-5676478.jpg?v=1697471798740"/>
                 <div class="main-Diary diary-bg-content">
     
                 <div class="block-Diary-link">
@@ -48,7 +49,11 @@
                     </form>
                 </div>
     
+    </div>
             </div>
+
+            
+
             </div>
         </div>
     
@@ -166,8 +171,8 @@ form p {
   position: absolute;
   left: 0;
   top: 0;
-  width: 100%;
-  height: auto;
+  width: auto;
+  height: 100%;
 }
 
 .diary-bg-content {
