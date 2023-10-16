@@ -130,7 +130,6 @@ export default {
     margin: 0 auto;
     display: block;
     width: 640px;
-    overflow-y: auto;
 }
 
 .notes {
@@ -213,7 +212,6 @@ form p {
 }
 
 .diary-bg-wrap {
-  overflow: hidden;
   position: relative;
   height: 100%;
 }
@@ -251,7 +249,6 @@ form p {
     background-color: #f3f9e6;
     color: #212121;
     border-collapse: collapse;
-    overflow: auto;
     width: 100%;
     margin: 0 auto;
     line-height: 1.6;
