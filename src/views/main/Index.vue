@@ -52,6 +52,12 @@
 
 
             <div class="column-container">
+            <a href="/diary"
+                ><div class="column-box">
+                  <p class="col-6a">NEW: Public Diary</p>
+                  <p class="col-6b">submit a diary entry</p>
+                </div></a
+              >
               <a href="/archive#projects"
                 ><div class="column-box">
                   <p class="col-6a">Projects & Events</p>
