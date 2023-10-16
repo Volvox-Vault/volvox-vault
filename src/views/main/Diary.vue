@@ -121,6 +121,13 @@ textarea, input {
   background: #f3f9e6;
   border:none;
 }
+
+form p {
+  padding:0px;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
 /* BLOCKS */
 #blocks-Diary {
   margin: 0px;
