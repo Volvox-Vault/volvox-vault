@@ -217,25 +217,19 @@ button {
 
 @media (max-width: 800px) {
     div.form {
-      width: 100%;
-      margin-left: 10px;
-      margin-right: 10px;
-      margin-bottom: 20px;
+      width: 90%;
     }
     textarea {
-      width: 100%;
+      width: 400px;
     }
 }
 
 @media only screen and (max-device-width: 566px) {
     div.form {
-      width: 100%;
-      margin-left: 10px;
-      margin-right: 10px;
-      margin-bottom: 20px;
+      width: 90%;
     }
     textarea {
-      width: 100%;
+      width: 400px;
     }
 }
 </style>
