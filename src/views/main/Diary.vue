@@ -6,13 +6,14 @@
         <p class="block-Diary-header">WRITE A DIARY ENTRY</p>
         <p class="block-Diary-link" style="text-align: center">
            NEW ~ Write a diary entry for our public diary collection.<br>
-           <details><summary>How to contribute...</summary>
+           </p>
+           <details class="block-Diary-link"><summary>How to contribute...</summary>
            Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations. <br>
            Submissions will be reviewed before posting. You will be notified via email when your entry is published.<br>
            Want to include images/videos? Share a link to them (Google Drive, Dropbox, etc).<br>
            Please be friendly and kind in your entries. Disturbing and unpeaceful content may be denied.
            </details>
-        </p>
+        
 
 <form ref="diaryEntry" class="diaryForm" @submit.prevent="submitForm" @submit="submitFormReset">
 
