@@ -12,6 +12,7 @@
                     <details>
                         <summary>HOW TO CONTRIBUTE...</summary>
                         • Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations.<br>
+                        • Word count must be between 150 - 4000.<br>
                         • Submissions will be reviewed before posting. You will be notified via email when your entry is published.<br>
                         • Want to include images/videos? Share a link to them (Google Drive, Dropbox, etc).<br>
                         • Please be friendly and kind in your entries. We encourage you to be vulnerable!<br>
@@ -131,7 +132,7 @@ input:focus {
   }
 
 input:invalid:focus, textarea:invalid:focus {
-  background: #212121;
+  background: #cbbad2;
 }
 
 form p {
