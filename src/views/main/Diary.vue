@@ -25,7 +25,7 @@
 
         <br /><br />
 
-        <textarea id="volvox-diary" rows="20" cols="56" name="message" v-model="message" required>dear diary,</textarea>
+        <textarea id="volvox-diary" rows="20" cols="56" name="message" v-model="message" placeholder="dear diary," required>dear diary,</textarea>
 
         <br><br>
 
