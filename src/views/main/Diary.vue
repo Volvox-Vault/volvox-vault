@@ -15,14 +15,9 @@
 <form ref="diaryEntry" @submit.prevent="submitForm" @submit="submitFormReset">
 
         <p>Dear diary,</p>
-        <textarea id="volvox-diary" rows="20" cols="56" name="message" v-model="message" placeholder="your diary entry + public social media/contact info (optional)" required>dear diary,</textarea>
-
-        <br>
-
+        <textarea id="volvox-diary" rows="10" cols="60" name="message" v-model="message" placeholder="your diary entry + public social media/contact info (optional)" required>dear diary,</textarea>
 
         <p>Sincerly,</p>
-
-        <br>
         
         <input type="text" name="name" v-model="name" class="nameArea" placeholder="your name" required> 
         <input type="email" name="email"  v-model="email" placeholder="your email" required>
@@ -190,7 +185,7 @@ a:hover {
 }
 
 .nameArea {
-  margin-right: 5px;
+  margin-right: 10px;
 }
 
 @media (max-width: 800px) {
