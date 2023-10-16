@@ -3,7 +3,7 @@
     <div id="blocks-Diary">
       <!-- diary -->
       <div class="block-Diary">
-        <p class="block-Diary-header">WRITE A DIARY ENTRY</p>
+        <p class="block-Diary-header">VOLVOX DIARY</p>
 
         <div class="diary-bg-wrap">
           <img
