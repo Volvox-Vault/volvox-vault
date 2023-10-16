@@ -8,7 +8,7 @@
            submit your diary entry to our archive.
 </p>
 <div class="form">
-<form @submit.prevent="submitForm" @submit="submitFormReset">
+<form ref="diaryEntry" @submit.prevent="submitForm" @submit="submitFormReset">
         <label for="diarySubmissionColumn">which column? — </label>
   
         <select name="diarySubmissionColumn" id="column-selection">
@@ -37,9 +37,9 @@
         <input type="email" name="email"  v-model="email" placeholder="your email" required>
         <div class="h-captcha" data-captcha="true"></div>
 
-        <br><br>
+        <br>
 
-        <button type="submit">sent</button>
+        <button type="submit">send</button>
 
     </form>
 
@@ -89,7 +89,7 @@ export default {
     },
     submitFormReset(){
          // Your form submission
-         this.$refs.anyName.reset(); // This will clear that form
+         this.$refs.diaryEntry.reset(); // This will clear that form
       },
   },
 };
