@@ -102,8 +102,11 @@ form
     color: #664b71;
 }
 
-textarea {
+textarea, input {
+  padding: 5px;
   line-height: 1.6;
+  font-size: 15pt;
+  color: #664b71;
 }
 /* BLOCKS */
 #blocks-About {
