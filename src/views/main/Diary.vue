@@ -14,32 +14,39 @@
             <div class="notes-wrap">
               <div class="block-Diary-link notes">
                 <div class="note">
-                    <h2>about</h2>
-                    <hr>
-                  <p style="font-size: 12pt;">
-                    Welcome to the diary desk! We invite you to write diary entries for our public diary collection.
-                    A diary is "a book in which one keeps a daily record of events and experiences." (Oxford).
-                    If you've ever kept a diary, you've probably experienced the nostalgic joy of reading it
-                    back, reminicing on memories, past obstacles, relationships, the inner workings of your mind,
-                    and more. Inspired by the act of sondering, pondering another's experiences and emotions, 
-                    we're expirmenting with the idea of a public diary. 
-                    <br><br>
-                    There are a lot of platforms to share 
-                    your memories and experiences in writing; but not many feel soft and approachable. 
-                    Here, we hope to create an empathetic atmosphere for public volnurability by keeping it simple.
-                    It's even a bit mysterious, as there are not profiles to follow... there will just be
-                    an ongoing feed of diary entries submitted by people who can decide to be as anonymous
-                    or known as they wish. 
-                    <br><br>
-                    We're hoping to create an archive of the human experience 
-                    in the form of a gentle website. So, will you write with us?
+                  <h2>about</h2>
+                  <hr />
+                  <p style="font-size: 12pt">
+                    We invite you to write diary entries for our public diary
+                    collection. A diary is "a book in which one keeps a daily
+                    record of events and experiences." (Oxford). If you've ever
+                    kept a diary, you've probably experienced the nostalgic joy
+                    of reading it back, reminiscing on memories, past obstacles,
+                    relationships, the inner workings of your mind, and more.
+                    Inspired by the act of sondering, pondering another's
+                    experiences and emotions, we're experimenting with the idea
+                    of a public diary.
+                    <br /><br />
+                    There are a lot of platforms to share your memories and
+                    experiences in writing; but not many feel soft and
+                    approachable. Here, we hope to create an empathetic
+                    atmosphere for public vulnerability by keeping it simple.
+                    It's even a bit mysterious, as there are not profiles to
+                    follow... there will just be an ongoing feed of diary
+                    entries submitted by people who can decide to be as
+                    anonymous or known as they wish. Although, you are
+                    encouraged to leave contact information in your entry so you
+                    might make a friend.
+                    <br /><br />
+                    We're hoping to create an archive of the human experience in
+                    the form of a gentle website. So, will you write with us?
                   </p>
                 </div>
 
                 <div class="note">
-                    <h2>guide</h2>
-                    <hr>
-                    <p style="font-size: 12pt;">
+                  <h2>guide</h2>
+                  <hr />
+                  <p style="font-size: 12pt">
                     • Share your recent revelations, opinions, wishes, dreams,
                     ambient thoughts, manifestations.<br />
                     • Word count requirement: 100 - 4000<br />
@@ -102,6 +109,25 @@
                       placeholder="your email"
                       required
                     />
+
+                    <p>Share your email with your entry?</p>
+                     
+                    <input
+                      type="radio"
+                      id="yes"
+                      name="share"
+                      value="yes"
+                    />
+                      <label for="html">Yes please.</label><br />
+                     
+                    <input
+                      type="radio"
+                      id="no"
+                      name="share"
+                      value="no"
+                    />
+                      <label for="css">No thanks.</label>
+
                     <div class="h-captcha" data-captcha="true"></div>
 
                     <input
