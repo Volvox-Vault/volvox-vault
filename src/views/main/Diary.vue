@@ -117,6 +117,7 @@ export default {
 
 <style scoped>
 div.form {
+    margin: 0 auto;
     display: block;
     text-align: center;
     width: 610px;
@@ -124,8 +125,6 @@ div.form {
 
 form {
     display: inline-block;
-    margin-left: auto;
-    margin-right: auto;
     text-align: left;
     font-size: 15pt;
     color: #664b71;
@@ -199,6 +198,7 @@ form p {
     grid-gap: 10px;
     margin-top:20px;
     margin-bottom: 20px;
+    text-align: left;
 }
 
 .note {
