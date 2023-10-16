@@ -219,11 +219,17 @@ button {
     textarea {
       width: 300px;
     }
+    form {
+      margin: 10px;
+    }
 }
 
 @media only screen and (max-device-width: 566px) {
     textarea {
       width: 300px;
+    }
+    form {
+      margin: 10px;
     }
 }
 </style>
