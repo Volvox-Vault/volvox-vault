@@ -14,7 +14,7 @@
             <div class="notes-wrap">
               <div class="block-Diary-link notes">
 
-                <div class="note">
+                <div class="note note-a">
                   <h2>about</h2>
                   <hr />
                   <p style="font-size: 12pt">
@@ -44,7 +44,7 @@
                   </p>
                 </div>
 
-                <div class="note">
+                <div class="note note-b">
                   <h2>guide</h2>
                   <hr />
                   <p style="font-size: 12pt">
@@ -365,10 +365,21 @@ button {
 @media (max-width: 800px) {
   .notes {
     width: 90%;
-      grid-template-columns: 1fr;
   }
   .note {
     height: 300px;
+  }
+  .note-a {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 1;
+  grid-row-end: 1;
+  }
+  .note-b {
+  grid-column-start: 1;
+  grid-column-end: 3;
+  grid-row-start: 2;
+  grid-row-end: 2;
   }
   .form {
   grid-column-start: 1;
@@ -382,7 +393,6 @@ button {
 @media only screen and (max-device-width: 566px) {
 .notes {
     width: 90%;
-  grid-template-columns: 1fr;
   }
   .note {
     height: 300px;
