@@ -29,7 +29,7 @@
     
                         <p style="margin-top: 15px;">Dear diary,</p>
 
-                        <textarea id="volvox-diary" rows="10" cols="60" name="message" v-model="message" minlength="600" maxlength="20000" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
+                        <textarea id="volvox-diary" name="message" v-model="message" minlength="600" maxlength="20000" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
     
                         <p>Love,</p>
     
@@ -126,6 +126,11 @@ input {
     border: none;
     margin: 0px;
     outline: none !important;
+}
+
+textarea {
+  width: 80%;
+  height: 300px;
 }
 
 textarea:focus,
