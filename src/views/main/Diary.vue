@@ -125,6 +125,7 @@ div.form {
 }
 
 form {
+    margin: 0 auto;
     display: inline-block;
     text-align: left;
     font-size: 15pt;
@@ -132,7 +133,6 @@ form {
     padding: 20px;
     border: 1px dotted #664b71;
     background: #fbfdf7;
-    width: 100%;
 }
 
 textarea,
@@ -148,7 +148,7 @@ input {
 }
 
 textarea {
-  width: 100%;
+  width: 620px;
   height: 300px;
 }
 
