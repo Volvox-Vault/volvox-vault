@@ -68,9 +68,6 @@ export default {
     };
   },
   methods: {
-    mounted() {
-    window.addEventListener("load", () => submitFormReset());
-    },
     async submitForm() {
       const response = await fetch("https://api.web3forms.com/submit", {
         method: "POST",
