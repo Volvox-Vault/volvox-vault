@@ -216,20 +216,14 @@ button {
 }
 
 @media (max-width: 800px) {
-    div.form {
-      width: 90%;
-    }
     textarea {
-      width: 400px;
+      width: 350px;
     }
 }
 
 @media only screen and (max-device-width: 566px) {
-    div.form {
-      width: 90%;
-    }
     textarea {
-      width: 400px;
+      width: 350px;
     }
 }
 </style>
