@@ -22,7 +22,7 @@
 <div class="form">
 <form ref="diaryEntry" class="diaryForm" @submit.prevent="submitForm" @submit="submitFormReset">
 
-        <p>Dear diary,</p>
+        <p style="margin-top: 0px;">Dear diary,</p>
         <textarea id="volvox-diary" rows="10" cols="60" name="message" v-model="message" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
 
         <p>Sincerly,</p>
