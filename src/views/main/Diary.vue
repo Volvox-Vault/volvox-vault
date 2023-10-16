@@ -31,8 +31,6 @@
         <input type="email" name="email"  v-model="email" placeholder="your email" required>
         <div class="h-captcha" data-captcha="true"></div>
 
-        <br>
-
         <input type="hidden" name="subject" value="new public diary entry">
 
         <button type="submit">send</button>
@@ -197,6 +195,8 @@ button {
   color: #f3f9e6;
   background: #664b71;
   border: none;
+  font-size: 15pt;
+  padding:10px;
 }
 
 @media (max-width: 800px) {
