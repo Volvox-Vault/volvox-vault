@@ -74,6 +74,8 @@
                       value="new public diary entry"
                     />
 
+                    <input type="hidden" name="from_name" value="Volvox Diary">
+
                     <p style="margin-top: 15px">Dear diary,</p>
 
                     <br />
@@ -109,26 +111,6 @@
                       placeholder="your email"
                       required
                     />
-
-                    <br><br>
-
-                    <p>Share your email with your entry?</p>
-                    
-                    <input
-                      type="radio"
-                      id="yes"
-                      name="share"
-                      value="yes"
-                    />
-                    <label for="yes">Yes please.</label><br />
-                
-                    <input
-                      type="radio"
-                      id="no"
-                      name="share"
-                      value="no"
-                    />
-                    <label for="no">No thanks.</label>
 
                     <div class="h-captcha" data-captcha="true"></div>
 
