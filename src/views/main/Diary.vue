@@ -181,7 +181,6 @@ form p {
 .block-Diary-link p {
     font-size: 15pt;
     padding: 15px;
-    align-items: center;
     text-align: center;
 }
 
