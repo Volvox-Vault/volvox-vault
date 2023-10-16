@@ -7,12 +7,16 @@
     
                 <div class="block-Diary-link">
                     <p>
-                        NEW ~ Write a diary entry for our public diary collection.
+                        NEW ~ Write a diary entry for our public diary collection (coming soon).
                     </p>
                     <details>
                         <summary>HOW TO CONTRIBUTE...</summary>
-                        Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations. <br> Submissions will be reviewed before posting. You will be notified via email when your entry is published.<br> Want to include images/videos?
-                        Share a link to them (Google Drive, Dropbox, etc).<br> Please be friendly and kind in your entries. Disturbing and unpeaceful content may be denied.
+                        <ul>
+                        <li>Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations.</li>
+                        <li>Submissions will be reviewed before posting. You will be notified via email when your entry is published.</li>
+                        <li>Want to include images/videos? Share a link to them (Google Drive, Dropbox, etc).</li>
+                        <li>Please be friendly and kind in your entries. Disturbing and unpeaceful content may be denied.</li>
+                        </ul>
                     </details>
                 </div>
     
