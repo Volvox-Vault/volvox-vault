@@ -165,7 +165,6 @@ form p {
 .diary-bg-wrap {
   overflow: hidden;
   position: relative;
-  height: 100vh;
 }
 
 .diary-bg {
@@ -190,7 +189,7 @@ form p {
 }
 
 .diary-form-bg {
-  opacity: 1;
+  opacity: 0.8;
   position: absolute;
   left: 0;
   top: 0;
