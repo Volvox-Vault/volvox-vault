@@ -164,7 +164,7 @@ export default {
     padding: 20px;
     border: 1px dotted #664b71;
     background: #fbfdf7;
-    height: 500px;
+    height: 100%;
 }
 
 form {
