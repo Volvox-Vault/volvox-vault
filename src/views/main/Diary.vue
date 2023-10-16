@@ -10,7 +10,7 @@
                         NEW ~ Write a diary entry for our public diary collection.
                     </p>
                     <details>
-                        <summary>How to contribute...</summary>
+                        <summary style="margin-top: 0px;">How to contribute...</summary>
                         Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations. <br> Submissions will be reviewed before posting. You will be notified via email when your entry is published.<br> Want to include images/videos?
                         Share a link to them (Google Drive, Dropbox, etc).<br> Please be friendly and kind in your entries. Disturbing and unpeaceful content may be denied.
                     </details>
@@ -24,7 +24,7 @@
                         <p style="margin-top: 15px;">Dear diary,</p>
                         <textarea id="volvox-diary" rows="10" cols="60" name="message" v-model="message" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
     
-                        <p>Sincerly,</p>
+                        <p>Love,</p>
     
                         <input type="text" name="name" v-model="name" class="nameArea" placeholder="your name" required>
                         <input type="email" name="email" v-model="email" placeholder="your email" required>
@@ -190,12 +190,12 @@ form p {
     margin-right: 20px;
 }
 
-button {
+button, summary {
     margin-top: 20px;
     font-family: hersheyFut, arial, sans-serif;
     color: #f3f9e6;
     background: #664b71;
-    border: none;
+    border: 1px dotted #f3f9e6;
     font-size: 15pt;
     padding: 10px;
 }
