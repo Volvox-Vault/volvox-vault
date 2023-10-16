@@ -12,7 +12,7 @@
                     <details>
                         <summary>HOW TO CONTRIBUTE...</summary>
                         • Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations.<br>
-                        • Word count must be between 150 - 4000.<br>
+                        • Word count must be between 100 - 4000.<br>
                         • Submissions will be reviewed before posting. You will be notified via email when your entry is published.<br>
                         • Want to include images/videos? Share a link to them (Google Drive, Dropbox, etc).<br>
                         • Please be friendly and kind in your entries. We encourage you to be vulnerable!<br>
@@ -26,7 +26,7 @@
                     <form ref="diaryEntry" class="diaryForm" @submit.prevent="submitForm" @submit="submitFormReset">
     
                         <p style="margin-top: 15px;">Dear diary,</p>
-                        <textarea id="volvox-diary" rows="10" cols="60" name="message" v-model="message" minlength="700" maxlength="20000" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
+                        <textarea id="volvox-diary" rows="10" cols="60" name="message" v-model="message" minlength="600" maxlength="20000" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
     
                         <p>Love,</p>
     
