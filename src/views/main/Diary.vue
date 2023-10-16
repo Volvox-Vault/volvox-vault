@@ -42,9 +42,15 @@
     
                         <p style="margin-top: 15px;">Dear diary,</p>
 
+                        <br>
+
                         <textarea id="volvox-diary" name="message" v-model="message" minlength="600" maxlength="20000" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
     
+                        <br>
+
                         <p>Love,</p>
+
+                        <br>
     
                         <input type="text" name="name" v-model="name" class="nameArea" placeholder="your name or alias" required>
                         <input type="email" name="email" v-model="email" placeholder="your email" required>
