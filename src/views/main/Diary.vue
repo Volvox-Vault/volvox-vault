@@ -173,7 +173,10 @@ form p {
   left: 0;
   top: 0;
   height: 100vh;
+  min-height: 100vh;
   width: auto;
+  min-width: 100vw;
+  object-fit: cover;
 }
 
 .diary-bg-content {
@@ -186,12 +189,14 @@ form p {
 }
 
 .diary-form-bg {
-  opacity: 0.3;
+  opacity: 0.8;
   position: absolute;
   left: 0;
   top: 0;
-  height: 100vh;
+  height: 100%;
   width: auto;
+  min-width: 100vw;
+  object-fit: cover;
 }
 
 .diary-form-bg-content {
