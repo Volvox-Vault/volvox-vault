@@ -162,7 +162,6 @@ export default {
     text-align: left;
     font-size: 15pt;
     color: #664b71;
-    padding: 20px;
     border: 1px dotted #664b71;
     background: #fbfdf7;
     height: 100%;
@@ -202,7 +201,7 @@ input:invalid:focus, textarea:invalid:focus {
   background: #cbbad2;
 }
 
-/*
+
 form p {
     padding: 0px;
     margin: 0px;
@@ -210,7 +209,6 @@ form p {
     margin-top: 20px;
     line-height: 0;
 }
-*/
 
 .diary-bg-wrap {
   overflow: hidden;
