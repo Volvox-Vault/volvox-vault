@@ -362,20 +362,16 @@ button {
 }
 
 @media (max-width: 800px) {
-  textarea {
-    width: 340px;
-  }
-  form {
-    margin: 10px;
+  .notes {
+    width: 90%;
+    grid-template-columns: repeat(1, 1fr);
   }
 }
 
 @media only screen and (max-device-width: 566px) {
-  textarea {
-    width: 340px;
-  }
-  form {
-    margin: 10px;
+.notes {
+    width: 90%;
+    grid-template-columns: repeat(1, 1fr);
   }
 }
 </style>
