@@ -215,7 +215,6 @@ form p {
   overflow: hidden;
   position: relative;
   height: 100%;
-  min-height: 100vh;
 }
 
 .diary-bg {
@@ -223,7 +222,7 @@ form p {
   position: absolute;
   left: 0;
   top: 0;
-  height: 100vh;
+  height: 100%;
   min-height: 100vh;
   width: auto;
   min-width: 100vw;
