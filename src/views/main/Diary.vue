@@ -2,8 +2,12 @@
     <MainLayout>
         <div id="blocks-Diary">
             <!-- diary -->
-            <div class="block-Diary">
+            <div class="block-Diary diary-bg-wrap">
                 <p class="block-Diary-header">WRITE A DIARY ENTRY</p>
+
+                <img class="diary-bg" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pexels-dlkr-5676478.jpg?v=1697471798740"/>
+
+                <div class="main-Diary diary-bg-content">
     
                 <div class="block-Diary-link">
                     <p>
@@ -44,6 +48,7 @@
                     </form>
                 </div>
     
+            </div>
             </div>
         </div>
     
@@ -150,6 +155,29 @@ form p {
     margin-top: 20px;
     line-height: 0;
 }
+
+.main-Diary {
+    background-image: url("https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pexels-dlkr-5676478.jpg?v=1697471798740");
+}
+
+.diary-bg-wrap {
+  overflow: hidden;
+  position: relative;
+}
+
+.diary-bg {
+  opacity: 0.6;
+  position: absolute;
+  left: 0;
+  top: 0;
+  width: 100%;
+  height: auto;
+}
+
+.diary-bg-content {
+  position: relative;
+}
+
 
 /* BLOCKS */
 
