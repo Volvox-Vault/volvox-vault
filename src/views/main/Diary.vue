@@ -216,14 +216,14 @@ button {
 }
 
 @media (max-width: 800px) {
-    .block-Diary-link img {
-        width: 35%;
+    textarea {
+      400px;
     }
 }
 
 @media only screen and (max-device-width: 566px) {
-    .block-Diary-link img {
-        width: 35%;
+    textarea {
+      300px;
     }
 }
 </style>
