@@ -36,6 +36,8 @@
                         <input type="text" name="name" v-model="name" class="nameArea" placeholder="your name or alias" required>
                         <input type="email" name="email" v-model="email" placeholder="your email" required>
                         <div class="h-captcha" data-captcha="true"></div>
+
+                        <input type="checkbox" name="botcheck" class="hidden" style="display: none;">
         
                         <button type="submit">send</button>
     
