@@ -7,7 +7,7 @@
     
                 <div class="block-Diary-link">
                     <p>
-                        NEW ~ Write a diary entry for our public diary collection (coming soon).
+                        Write a diary entry for our public diary collection (coming soon).
                     </p>
                     <details>
                         <summary>HOW TO CONTRIBUTE...</summary>
