@@ -167,6 +167,16 @@ export default {
       ],
     };
   },
+  methods: {
+      myFunction1: function() {
+        document.getElementById("book").style.display = "block";
+        document.getElementById("cover").style.display = "none";
+      },
+      myFunction2: function() {
+        document.getElementById("book").style.display = "none";
+        document.getElementById("cover").style.display = "block";
+      },
+  },
 };
 </script>
 
