@@ -180,7 +180,7 @@ export default {
       
       main {
         margin: 20px;
-        margin-top: 100px;
+        padding-top: 100px;
         background: #664b71;
       }
 
