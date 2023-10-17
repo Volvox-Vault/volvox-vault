@@ -72,7 +72,7 @@
     </main>
 
 
-
+<!--
 
 
     <div id="blocks-Collab">
@@ -90,6 +90,7 @@
       </div>
 
     </div>
+-->
     <slot />
   </div>
 </template>
@@ -279,8 +280,8 @@ export default {
 
 
 
+/*
 
-/* BLOCKS */
 #blocks-Collab {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
@@ -355,4 +356,7 @@ export default {
     padding: 0;
   }
 }
+
+*/
+
 </style>
