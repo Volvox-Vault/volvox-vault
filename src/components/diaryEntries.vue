@@ -3,7 +3,7 @@
     <!--<div class="bulletin-select-nav"><span class="bulletin-select">Sort</span></div>-->
 <main>
       <div>
-        <div class="cover" id="cover" onclick="myFunction1()">
+        <div class="cover" id="cover" @click="myFunction1">
           <div class="title">
             <h1>VOLVOX DIARY</h1>
             <br>
@@ -65,7 +65,7 @@
             </div>
           </div>
           
-          <p id="close" onclick="myFunction2()">
+          <p id="close" @click="myFunction2">
             close diary
           </p>
         </div>
