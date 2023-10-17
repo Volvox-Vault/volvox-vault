@@ -3,7 +3,7 @@
     <!--<div class="bulletin-select-nav"><span class="bulletin-select">Sort</span></div>-->
 <main>
       <div>
-        <div class="cover" id="cover" onclick="myFunction1()" tabindex="1">
+        <div class="cover" id="cover" onclick="myFunction1()">
           <div class="title">
             <h1>VOLVOX DIARY</h1>
             <br>
@@ -100,6 +100,16 @@
 <script>
 export default {
   name: "DiaryEntries",
+  methods: {
+      myFunction1: function() {
+        document.getElementById("book").style.display = "block";
+        document.getElementById("cover").style.display = "none";
+      },
+      myFunction2: function() {
+        document.getElementById("book").style.display = "none";
+        document.getElementById("cover").style.display = "block";
+      },
+  },
   data: function () {
     return {
       title: "Diary",
@@ -166,16 +176,6 @@ export default {
         },
       ],
     };
-  },
-  methods: {
-      myFunction1: function() {
-        document.getElementById("book").style.display = "block";
-        document.getElementById("cover").style.display = "none";
-      },
-      myFunction2: function() {
-        document.getElementById("book").style.display = "none";
-        document.getElementById("cover").style.display = "block";
-      },
   },
 };
 </script>
