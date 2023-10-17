@@ -11,17 +11,7 @@
           </div>
         </div>
 
-        <div v-for="(item, i) in colony" v-bind:key="i">
-          <div class="block-Collab">
-            <p class="block-Collab-header bulletin-event">{{ item.name }}</p>
-
-            <p class="block-Collab-link bulletin-des">{{ item.entry }}</p>
-
-            <p class="block-Collab-link bulletin-contact">{{ item.contact }}</p>
-
-            <p class="block-Collab-link bulletin-date">{{ item.date }}</p>
-          </div>
-        </div>
+ 
 
         <div id="book">
           <div class="book">
