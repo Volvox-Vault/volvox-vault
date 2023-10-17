@@ -1,7 +1,7 @@
-<template style="overflow: hidden;">
-  <div id="app" style="overflow: hidden;">
+<template>
+  <div id="app">
     <!--<div class="bulletin-select-nav"><span class="bulletin-select">Sort</span></div>-->
-<main style="overflow: hidden;">
+<main>
       <div>
         <div class="cover" id="cover" onclick="myFunction1()" tabindex="1">
           <div class="title">
@@ -184,7 +184,7 @@ export default {
       main {
         padding-top: 100px;
         background: #664b71;
-        height: 100vh;
+        height: 90vh;
         overflow: hidden;
       }
 
