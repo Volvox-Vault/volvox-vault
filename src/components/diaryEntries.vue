@@ -6,6 +6,7 @@
         <div class="cover" id="cover" onclick="myFunction1()" tabindex="1">
           <div class="title">
             <h1>VOLVOX DIARY</h1>
+            <br>
             <p>click to read</p>
           </div>
         </div>
@@ -177,6 +178,7 @@ export default {
         margin: 0 auto;
         width: 100%;
         background: #664b71;
+        overflow: hidden;
       }
       
       main {
