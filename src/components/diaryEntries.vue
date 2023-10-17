@@ -180,12 +180,12 @@ export default {
       
       main {
         margin: 20px;
+        margin-top: 100px;
         background: #664b71;
       }
 
       .cover {
         margin: 0 auto;
-        margin-top: 100px;
         max-height: 550px;  
         height: 550px;
         max-width: 400px;
@@ -219,7 +219,6 @@ export default {
         display: grid;
         grid-template-columns: 1fr 1fr;
         margin: 0 auto;
-        margin-top: 100px;
 
         padding: 10px;
         padding-top: 2px;
