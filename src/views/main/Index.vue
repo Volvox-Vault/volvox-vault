@@ -1,5 +1,6 @@
 <template>
   <MainLayout>
+  
     <head>
       <title>volvox.observer</title>
 
@@ -36,9 +37,9 @@
                   <p style="background: #f3f9e6;">TRUE SELF FILM FEST</p>
                 </div></router-link
               >
-              <router-link to="/kindwords"
+              <router-link to="/diary"
                 ><div class="new-box">
-                  <p>KIND WORDS</p>
+                  <p>VOLVOX DIARY</p>
                 </div></router-link
               >
             </div>
@@ -54,7 +55,7 @@
             <div class="column-container">
             <a href="/diary"
                 ><div class="column-box">
-                  <p class="col-6a">NEW: Public Diary</p>
+                  <p class="col-6a">NEW: Volvox Diary</p>
                   <p class="col-6b">submit a diary entry</p>
                 </div></a
               >
