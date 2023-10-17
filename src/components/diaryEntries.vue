@@ -15,7 +15,13 @@
           <div class="book">
             <div class="page">
               <div v-for="(item, i) in colony" v-bind:key="i">
-                <p>{{ item.entry }}</p>
+                <p>
+                  <span style="float:right;">{{ item.date }}</span>
+                  Dear diary,<br>
+                {{ item.entry }}
+                <br><br>
+                Love,<br>
+                {{ item.name }} — {{ item.contact }}</p>
               </div>
             </div>
 
