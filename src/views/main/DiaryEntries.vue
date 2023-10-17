@@ -12,7 +12,7 @@ import MainLayout from '../../layouts/MainLayout'
 import DiaryEntries from '../../components/diaryEntries'
 
 export default {
-  name: 'DiaryEntries',
+  name: 'Diary',
   components: {
     MainLayout,
     DiaryEntries

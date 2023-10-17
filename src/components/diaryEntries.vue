@@ -27,7 +27,7 @@ export default {
   name: "DiaryEntries",
   data: function () {
     return {
-      title: "DiaryEntries",
+      title: "Diary",
       colony: [
         {
           name: "Music You Can See",
