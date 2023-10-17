@@ -1,4 +1,4 @@
-<template>
+<template style="overflow: hidden;">
   <div id="app">
     <!--<div class="bulletin-select-nav"><span class="bulletin-select">Sort</span></div>-->
 <main>
