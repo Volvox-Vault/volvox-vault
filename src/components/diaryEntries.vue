@@ -27,7 +27,7 @@
           <div class="book">
             <div class="page">
               <div v-for="(item, i) in colony" v-bind:key="i">
-                <p class="block-Collab-link bulletin-des">{{ item.entry }}</p>
+                <p>{{ item.entry }}</p>
               </div>
             </div>
 
