@@ -1,42 +1,34 @@
 <template>
   <div id="app">
     <!--<div class="bulletin-select-nav"><span class="bulletin-select">Sort</span></div>-->
-<main>
+    <main>
       <div>
         <div class="cover" id="cover" @click="myFunction1">
           <div class="title">
             <h1>VOLVOX DIARY</h1>
-            <br>
+            <br />
             <p>click to read</p>
+          </div>
+        </div>
+
+        <div v-for="(item, i) in colony" v-bind:key="i">
+          <div class="block-Collab">
+            <p class="block-Collab-header bulletin-event">{{ item.name }}</p>
+
+            <p class="block-Collab-link bulletin-des">{{ item.entry }}</p>
+
+            <p class="block-Collab-link bulletin-contact">{{ item.contact }}</p>
+
+            <p class="block-Collab-link bulletin-date">{{ item.date }}</p>
           </div>
         </div>
 
         <div id="book">
           <div class="book">
             <div class="page">
-              <p>
-                Dear diary,<br />
-                This is an example of how Volvox Diary will look once we receive more submissions.
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-                Maecenas ut interdum nisl. Integer blandit ipsum id dolor
-                lacinia, vel auctor leo pretium. Aenean ut tellus ut magna
-                feugiat tempor sit amet at tortor. Interdum et malesuada fames
-                ac ante ipsum primis in faucibus. In laoreet purus vitae
-                tincidunt mattis. Nunc a feugiat lectus, rutrum congue ex. Proin
-                pretium quam nec metus elementum semper. Aenean interdum mauris
-                quis nunc congue, ut hendrerit elit molestie. Nam sed magna ac
-                augue efficitur sodales ac sit amet lorem. Duis quis luctus
-                tortor. Pellentesque porttitor ut felis vel imperdiet. Etiam
-                lacinia vulputate elit ullamcorper vestibulum. Fusce vitae enim
-                viverra, consectetur ipsum id, pharetra nisl. Donec faucibus
-                varius libero in lobortis. Nunc a fermentum elit. Lorem ipsum
-                dolor sit amet, consectetur adipiscing elit. Vivamus at lobortis
-                nulla. Nullam malesuada lorem diam. Proin a suscipit libero. Sed
-                luctus ac nunc id mattis.
-                <br /><br />
-                Love,<br />
-                T — t@mail.com
-              </p>
+              <div v-for="(item, i) in colony" v-bind:key="i">
+                <p class="block-Collab-link bulletin-des">{{ item.entry }}</p>
+              </div>
             </div>
 
             <div class="page">
@@ -64,16 +56,16 @@
               </p>
             </div>
           </div>
-          
-          <p id="close" @click="myFunction2">
-            close diary
+
+          <p class="bottom">
+            <span id="close" @click="myFunction2">close diary</span> —
+            <router-link to="/diary">submit an entry</router-link>
           </p>
         </div>
       </div>
     </main>
 
-
-<!--
+    <!--
 
 
     <div id="blocks-Collab">
@@ -101,14 +93,14 @@
 export default {
   name: "DiaryEntries",
   methods: {
-      myFunction1: function() {
-        document.getElementById("book").style.display = "block";
-        document.getElementById("cover").style.display = "none";
-      },
-      myFunction2: function() {
-        document.getElementById("book").style.display = "none";
-        document.getElementById("cover").style.display = "block";
-      },
+    myFunction1: function () {
+      document.getElementById("book").style.display = "block";
+      document.getElementById("cover").style.display = "none";
+    },
+    myFunction2: function () {
+      document.getElementById("book").style.display = "none";
+      document.getElementById("cover").style.display = "block";
+    },
   },
   data: function () {
     return {
@@ -116,7 +108,8 @@ export default {
       colony: [
         {
           name: "Music You Can See",
-          entry: "After toying with the idea for the past year or two I've recently started releasing ambient projects under Sound Image. This is something I'll be continuing to do for many years to come. Would love for you to hear!",
+          entry:
+            "After toying with the idea for the past year or two I've recently started releasing ambient projects under Sound Image. This is something I'll be continuing to do for many years to come. Would love for you to hear!",
           contact: "kotrba.sam@gmail.com",
           date: "September 2022",
         },
@@ -128,7 +121,8 @@ export default {
         },
         {
           name: "Music You Can See",
-          entry: "After toying with the idea for the past year or two I've recently started releasing ambient projects under Sound Image. This is something I'll be continuing to do for many years to come. Would love for you to hear!",
+          entry:
+            "After toying with the idea for the past year or two I've recently started releasing ambient projects under Sound Image. This is something I'll be continuing to do for many years to come. Would love for you to hear!",
           contact: "kotrba.sam@gmail.com",
           date: "September 2022",
         },
@@ -140,7 +134,8 @@ export default {
         },
         {
           name: "Music You Can See",
-          entry: "After toying with the idea for the past year or two I've recently started releasing ambient projects under Sound Image. This is something I'll be continuing to do for many years to come. Would love for you to hear!",
+          entry:
+            "After toying with the idea for the past year or two I've recently started releasing ambient projects under Sound Image. This is something I'll be continuing to do for many years to come. Would love for you to hear!",
           contact: "kotrba.sam@gmail.com",
           date: "September 2022",
         },
@@ -152,7 +147,8 @@ export default {
         },
         {
           name: "Music You Can See",
-          entry: "After toying with the idea for the past year or two I've recently started releasing ambient projects under Sound Image. This is something I'll be continuing to do for many years to come. Would love for you to hear!",
+          entry:
+            "After toying with the idea for the past year or two I've recently started releasing ambient projects under Sound Image. This is something I'll be continuing to do for many years to come. Would love for you to hear!",
           contact: "kotrba.sam@gmail.com",
           date: "September 2022",
         },
@@ -164,7 +160,8 @@ export default {
         },
         {
           name: "Music You Can See",
-          entry: "After toying with the idea for the past year or two I've recently started releasing ambient projects under Sound Image. This is something I'll be continuing to do for many years to come. Would love for you to hear!",
+          entry:
+            "After toying with the idea for the past year or two I've recently started releasing ambient projects under Sound Image. This is something I'll be continuing to do for many years to come. Would love for you to hear!",
           contact: "kotrba.sam@gmail.com",
           date: "September 2022",
         },
@@ -183,115 +180,97 @@ export default {
 
 
 <style scoped>
-
 #app {
-        margin: 0 auto;
-        width: 100%;
-        background: #664b71;
-        overflow: hidden;
-      }
-      
-      main {
-        padding-top: 100px;
-        background: #664b71;
-        height: 95vh;
-        overflow: hidden;
-      }
+  margin: 0 auto;
+  width: 100%;
+  background: #664b71;
+  overflow: hidden;
+}
 
-      .cover {
-        margin: 0 auto;
-        max-height: 550px;  
-        height: 550px;
-        max-width: 400px;
-        background: #f3f9e6;   
-        border: 1px solid #9879a6;
-        border-left: 5px solid #9879a6;
-        text-align: center;
-        overflow: hidden;
-        color: #664b71;
-        
-        box-shadow: 3px 3px #fbfdf7;
+main {
+  padding-top: 100px;
+  background: #664b71;
+  height: 95vh;
+  overflow: hidden;
+}
 
-        padding: 10px;
-        padding-top: 2px;
-        padding-bottom: 2px; 
-      }
-      
-      .cover:hover p {
-        text-decoration: underline;
-      }
+.cover {
+  margin: 0 auto;
+  max-height: 550px;
+  height: 550px;
+  max-width: 400px;
+  background: #f3f9e6;
+  border: 1px solid #9879a6;
+  border-left: 5px solid #9879a6;
+  text-align: center;
+  overflow: hidden;
+  color: #664b71;
 
-      .title {
-        padding-top: 140px;
-      }
+  box-shadow: 3px 3px #fbfdf7;
 
-      #book { 
-        display: none;
-      }
-      
-      .book {
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        margin: 0 auto;
+  padding: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
+}
 
-        padding: 10px;
-        padding-top: 2px;
-        padding-bottom: 2px;
+.cover:hover p {
+  text-decoration: underline;
+}
 
-        border: 1px solid #f3f9e6;
-        height: 550px;
-        max-width: 800px;
-        background: #9879a6;
-        line-height: 1.6; 
-        font-size: 12pt;
-        color: #664b71;
-      }
+.title {
+  padding-top: 140px;
+}
 
-      .page {
-        border: 1px solid #664b71;
-        text-align: justify;
+#book {
+  display: none;
+}
 
-        padding-top: 20px;
-        padding-bottom: 40px;
-        padding-right: 30px;
-        padding-left: 30px;
+.book {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin: 0 auto;
 
-        overflow: auto;
-        background: #fbfdf7;
-      }
-      
-      #close {
-        padding: 30px;
-        text-align: center;
-        color: #f3f9e6;
-      }
-      #close:hover {
-        text-decoration: underline;
-      }
+  padding: 10px;
+  padding-top: 2px;
+  padding-bottom: 2px;
 
-      p {
-        margin: 0px;
-        padding: 0px;
-      }
+  border: 1px solid #f3f9e6;
+  height: 550px;
+  max-width: 800px;
+  background: #9879a6;
+  line-height: 1.6;
+  font-size: 12pt;
+  color: #664b71;
+}
 
+.page {
+  border: 1px solid #664b71;
+  text-align: justify;
 
+  padding-top: 20px;
+  padding-bottom: 40px;
+  padding-right: 30px;
+  padding-left: 30px;
 
+  overflow: auto;
+  background: #fbfdf7;
+}
 
+.bottom {
+  padding: 30px;
+  text-align: center;
+  color: #f3f9e6;
+}
 
+#close:hover,
+a:hover {
+  text-decoration: underline;
+}
 
-
-
-
-
-
-
-
-
-
-
-
-
-
+p {
+  margin: 0px;
+  padding: 0px;
+}
 
 /*
 
@@ -371,5 +350,4 @@ export default {
 }
 
 */
-
 </style>
