@@ -1,9 +1,7 @@
 <template>
-  <MainLayout>
 
     <DiaryEntries></DiaryEntries>
 
-  </MainLayout>
 </template>
 
 

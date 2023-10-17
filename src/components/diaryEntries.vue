@@ -1,7 +1,80 @@
 <template>
   <div id="app">
     <!--<div class="bulletin-select-nav"><span class="bulletin-select">Sort</span></div>-->
+<main>
+      <div>
+        <div class="cover" id="cover" onclick="myFunction1()" tabindex="1">
+          <div class="title">
+            <h1>VOLVOX DIARY</h1>
+            <p>click to read</p>
+          </div>
+        </div>
 
+        <div id="book">
+          <div class="book">
+            <div class="page a">
+              <p>
+                Dear diary,<br />
+                This is an example of the diary's format.<br />
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Maecenas ut interdum nisl. Integer blandit ipsum id dolor
+                lacinia, vel auctor leo pretium. Aenean ut tellus ut magna
+                feugiat tempor sit amet at tortor. Interdum et malesuada fames
+                ac ante ipsum primis in faucibus. In laoreet purus vitae
+                tincidunt mattis. Nunc a feugiat lectus, rutrum congue ex. Proin
+                pretium quam nec metus elementum semper. Aenean interdum mauris
+                quis nunc congue, ut hendrerit elit molestie. Nam sed magna ac
+                augue efficitur sodales ac sit amet lorem. Duis quis luctus
+                tortor. Pellentesque porttitor ut felis vel imperdiet. Etiam
+                lacinia vulputate elit ullamcorper vestibulum. Fusce vitae enim
+                viverra, consectetur ipsum id, pharetra nisl. Donec faucibus
+                varius libero in lobortis. Nunc a fermentum elit. Lorem ipsum
+                dolor sit amet, consectetur adipiscing elit. Vivamus at lobortis
+                nulla. Nullam malesuada lorem diam. Proin a suscipit libero. Sed
+                luctus ac nunc id mattis.
+                <br /><br />
+                Love,<br />
+                T — t@mail.com
+              </p>
+            </div>
+
+            <div class="page b">
+              <p>
+                Dear diary,<br />
+                Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+                Maecenas ut interdum nisl. Integer blandit ipsum id dolor
+                lacinia, vel auctor leo pretium. Aenean ut tellus ut magna
+                feugiat tempor sit amet at tortor. Interdum et malesuada fames
+                ac ante ipsum primis in faucibus. In laoreet purus vitae
+                tincidunt mattis. Nunc a feugiat lectus, rutrum congue ex. Proin
+                pretium quam nec metus elementum semper. Aenean interdum mauris
+                quis nunc congue, ut hendrerit elit molestie. Nam sed magna ac
+                augue efficitur sodales ac sit amet lorem. Duis quis luctus
+                tortor. Pellentesque porttitor ut felis vel imperdiet. Etiam
+                lacinia vulputate elit ullamcorper vestibulum. Fusce vitae enim
+                viverra, consectetur ipsum id, pharetra nisl. Donec faucibus
+                varius libero in lobortis. Nunc a fermentum elit. Lorem ipsum
+                dolor sit amet, consectetur adipiscing elit. Vivamus at lobortis
+                nulla. Nullam malesuada lorem diam. Proin a suscipit libero. Sed
+                luctus ac nunc id mattis.
+                <br /><br />
+                Love,<br />
+                J — j@mail.com
+              </p>
+            </div>
+          </div>
+          
+          <p id="close" onclick="myFunction2()">
+            close diary
+          </p>
+        </div>
+      </div>
+    </main>
+
+
+
+
+    
     <div id="blocks-Collab">
 
       <div v-for="(item, i) in colony" v-bind:key="i">
@@ -97,7 +170,116 @@ export default {
 
 
 
-<style>
+<style scoped>
+
+body {
+        margin: 0 auto;
+        width: 100%;
+        background: #664b71;
+        font-family: arial, helvetica, sans-serif;
+      }
+      
+      main {
+        margin: 20px;
+      }
+
+      .cover {
+        margin: 0 auto;
+        margin-top: 100px;
+        max-height: 550px;  
+        height: 550px;
+        max-width: 400px;
+        background: #f3f9e6;   
+        border: 1px solid #9879a6;
+        border-left: 5px solid #9879a6;
+        text-align: center;
+        overflow: hidden;
+        color: #664b71;
+        
+        box-shadow: 3px 3px #fbfdf7;
+
+        padding: 10px;
+        padding-top: 2px;
+        padding-bottom: 2px; 
+      }
+      
+      .cover:hover p {
+        text-decoration: underline;
+      }
+
+      .title {
+        padding-top: 140px;
+      }
+
+      #book { 
+        display: none;
+      }
+      
+      .book {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        margin: 0 auto;
+        margin-top: 100px;
+
+        padding: 10px;
+        padding-top: 2px;
+        padding-bottom: 2px;
+
+        border: 1px solid #f3f9e6;
+        height: 550px;
+        max-width: 800px;
+        background: #9879a6;
+        line-height: 1.6; 
+        font-size: 12pt;
+        color: #664b71;
+      }
+
+      .page {
+        border: 1px solid #664b71;
+        text-align: justify;
+
+        padding-top: 20px;
+        padding-bottom: 40px;
+        padding-right: 30px;
+        padding-left: 30px;
+
+        overflow: auto;
+        background: #fbfdf7;
+      }
+      
+      #close {
+        padding: 30px;
+        text-align: center;
+        color: #f3f9e6;
+      }
+      #close:hover {
+        text-decoration: underline;
+      }
+
+      p {
+        margin: 0px;
+        padding: 0px;
+      }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* BLOCKS */
 #blocks-Collab {
