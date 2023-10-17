@@ -13,7 +13,7 @@
 
         <div id="book">
           <div class="book">
-            <div class="page a">
+            <div class="page">
               <p>
                 Dear diary,<br />
                 This is an example of the diary's format.<br />
@@ -39,7 +39,7 @@
               </p>
             </div>
 
-            <div class="page b">
+            <div class="page">
               <p>
                 Dear diary,<br />
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
