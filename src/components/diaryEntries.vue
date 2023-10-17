@@ -11,6 +11,7 @@
           </div>
         </div>
 
+<<<<<<< HEAD
         <div v-for="(item, i) in colony" v-bind:key="i">
           <div class="block-Collab">
             <p class="block-Collab-header bulletin-event">{{ item.name }}</p>
@@ -23,11 +24,19 @@
           </div>
         </div>
 
+=======
+>>>>>>> 5eebc9211223433be2d91ecf105a3f652c9410b9
         <div id="book">
           <div class="book">
             <div class="page">
               <div v-for="(item, i) in colony" v-bind:key="i">
-                <p>{{ item.entry }}</p>
+                <p>
+                  <span style="float:right;">{{ item.date }}</span>
+                  Dear diary,<br>
+                {{ item.entry }}
+                <br><br>
+                Love,<br>
+                {{ item.name }} — {{ item.contact }}</p>
               </div>
             </div>
 
@@ -61,6 +70,7 @@
             <span id="close" @click="myFunction2">close diary</span> —
             <router-link to="/diary">submit an entry</router-link>
           </p>
+          <p ></p>
         </div>
       </div>
     </main>
