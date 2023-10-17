@@ -184,7 +184,7 @@ export default {
       main {
         padding-top: 100px;
         background: #664b71;
-        height: 90vh;
+        height: 95vh;
         overflow: hidden;
       }
 
