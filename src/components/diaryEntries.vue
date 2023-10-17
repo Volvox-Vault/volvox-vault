@@ -1,7 +1,7 @@
 <template style="overflow: hidden;">
-  <div id="app">
+  <div id="app" style="overflow: hidden;">
     <!--<div class="bulletin-select-nav"><span class="bulletin-select">Sort</span></div>-->
-<main>
+<main style="overflow: hidden;">
       <div>
         <div class="cover" id="cover" onclick="myFunction1()" tabindex="1">
           <div class="title">
