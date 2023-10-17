@@ -1,80 +1,79 @@
 <template>
-    <MainLayout>
-        <div id="blocks-Diary">
-            <meta name="viewport" content="width=device-width, user-scalable=no">
-    
-            <!-- diary -->
-            <div class="block-Diary">
-                <p class="block-Diary-header">VOLVOX DIARY</p>
-    
-                <div class="diary-bg-wrap">
-                    <img class="diary-bg" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pexels-dlkr-5676478.jpg?v=1697471798740" />
-                    <div class="main-Diary diary-bg-content">
-                        <div class="notes-wrap">
-                            <div class="block-Diary-link notes">
-    
-                                <div class="note note-a">
-                                    <h2>about</h2>
-                                    <hr />
-                                    <p>
-                                        Welcome to the diary desk! We invite you to write diary entries for our public diary collection. A diary is "a book in which one keeps a daily record of events and experiences" (Oxford). If you've ever kept a diary, you've probably experienced the nostalgic
-                                        joy of reading it back, reminiscing on memories, past obstacles, relationships, the inner workings of your mind, and more. Inspired by the act of sondering, pondering another's experiences and emotions, we're experimenting
-                                        with the concept of a public diary.
-                                        <br /><br /> There are a lot of platforms to share your memories and experiences in writing; but not many feel soft and approachable. Here, we hope to create an empathetic atmosphere for public vulnerability by keeping
-                                        it simple. It's even a bit mysterious, as there are not profiles to follow... there will just be an ongoing feed of diary entries submitted by people who can decide to be as anonymous or known as they wish. Although,
-                                        you are encouraged to leave contact information in your entry so you might make a friend.
-                                        <br /><br /> Together, let's create an archive of the human experience in the form of a gentle website. Will you write with us?
-                                    </p>
-                                </div>
-    
-                                <div class="note note-b">
-                                    <h2>guide</h2>
-                                    <hr />
-                                    <p>
-                                        • Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations.<br /> • Word count requirement: 100 - 4000<br /> • Submissions will be reviewed before posting. You will be notified via email
-                                        when your entry is published.<br /> • At the end of your entries, list what social media / contact information you might want to share publicly. <br /> • Want to include images/videos? Share a link to them (Google Drive,
-                                        Dropbox, etc).<br /> • Please be friendly and kind in your entries. We encourage you to be vulnerable!<br /> • Please note that disturbing and unpeaceful content may be denied for the safety of our readers. <br /> •
-                                        You can always email hello{@}volvox.observer to request a change or deletion of an entry of yours.
-                                    </p>
-                                </div>
-    
-                                <div class="form note">
-                                    <form ref="diaryEntry" class="diaryForm" @submit.prevent="submitForm" @submit="submitFormReset">
-                                        <input type="hidden" name="subject" value="new public diary entry" />
-    
-                                        <input type="hidden" name="from_name" value="Volvox Diary" />
-    
-                                        <p style="margin-top: 15px">Dear diary,</p>
-    
-                                        <br />
-    
-                                        <textarea id="volvox-diary" name="message" v-model="message" minlength="600" maxlength="20000" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
-    
-                                        <br /><br />
-    
-                                        <p>Love,</p>
-    
-                                        <br />
-    
-                                        <input type="text" name="name" v-model="name" class="nameArea" placeholder="your name or alias" required />
-                                        <input type="email" name="email" v-model="email" placeholder="your email" required />
-    
-                                        <div class="h-captcha" data-captcha="true"></div>
-    
-                                        <input type="checkbox" name="botcheck" class="hidden" style="display: none" />
-    
-                                        <button type="submit">send</button>
-                                    </form>
-                                </div>
+<MainLayout>
+    <div id="blocks-Diary">
+        <meta name="viewport" content="width=device-width, user-scalable=no">
+
+        <!-- diary -->
+        <div class="block-Diary">
+            <p class="block-Diary-header">VOLVOX DIARY</p>
+
+            <div class="diary-bg-wrap">
+                <img class="diary-bg" src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/pexels-dlkr-5676478.jpg?v=1697471798740" />
+                <div class="main-Diary diary-bg-content">
+                    <div class="notes-wrap">
+                        <div class="block-Diary-link notes">
+
+                            <div class="note note-a">
+                                <h2>about</h2>
+                                <hr />
+                                <p>
+                                    Welcome to the diary desk! We invite you to write diary entries for our public diary collection. A diary is "a book in which one keeps a daily record of events and experiences" (Oxford). If you've ever kept a diary, you've probably experienced the nostalgic
+                                    joy of reading it back, reminiscing on memories, past obstacles, relationships, the inner workings of your mind, and more. Inspired by the act of sondering, pondering another's experiences and emotions, we're experimenting
+                                    with the concept of a public diary.
+                                    <br /><br /> There are a lot of platforms to share your memories and experiences in writing; but not many feel soft and approachable. Here, we hope to create an empathetic atmosphere for public vulnerability by keeping
+                                    it simple. It's even a bit mysterious, as there are not profiles to follow... there will just be an ongoing feed of diary entries submitted by people who can decide to be as anonymous or known as they wish. Although,
+                                    you are encouraged to leave contact information in your entry so you might make a friend.
+                                    <br /><br /> Together, let's create an archive of the human experience in the form of a gentle website. Will you write with us?
+                                </p>
+                            </div>
+
+                            <div class="note note-b">
+                                <h2>guide</h2>
+                                <hr />
+                                <p>
+                                    • Share your recent revelations, opinions, wishes, dreams, ambient thoughts, manifestations.<br /> • Word count requirement: 100 - 4000<br /> • Submissions will be reviewed before posting. You will be notified via email
+                                    when your entry is published.<br /> • At the end of your entries, list what social media / contact information you might want to share publicly. <br /> • Want to include images/videos? Share a link to them (Google Drive,
+                                    Dropbox, etc).<br /> • Please be friendly and kind in your entries. We encourage you to be vulnerable!<br /> • Please note that disturbing and unpeaceful content may be denied for the safety of our readers. <br /> •
+                                    You can always email hello{@}volvox.observer to request a change or deletion of an entry of yours.
+                                </p>
+                            </div>
+
+                            <div class="form note">
+                                <form ref="diaryEntry" class="diaryForm" @submit.prevent="submitForm" @submit="submitFormReset">
+                                    <input type="hidden" name="subject" value="new public diary entry" />
+
+                                    <input type="hidden" name="from_name" value="Volvox Diary" />
+
+                                    <p style="margin-top: 15px">Dear diary,</p>
+
+                                    <br />
+
+                                    <textarea id="volvox-diary" name="message" v-model="message" minlength="600" maxlength="20000" placeholder="your diary entry + public social media/contact info (optional)" required></textarea>
+
+                                    <br /><br />
+
+                                    <p>Love,</p>
+
+                                    <br />
+
+                                    <input type="text" name="name" v-model="name" class="nameArea" placeholder="your name or alias" required />
+                                    <input type="email" name="email" v-model="email" placeholder="your email" required />
+
+                                    <div class="h-captcha" data-captcha="true"></div>
+
+                                    <input type="checkbox" name="botcheck" class="hidden" style="display: none" />
+
+                                    <button type="submit">send</button>
+                                </form>
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-    </MainLayout>
+    </div>
+</MainLayout>
 </template>
-
 
 <script>
 import MainLayout from "../../layouts/MainLayout";
@@ -119,8 +118,6 @@ export default {
     },
 };
 </script>
-
-
 
 <style scoped>
 .notes-wrap {
@@ -300,18 +297,21 @@ button {
     .notes {
         width: 90%;
     }
+
     .note-a {
         grid-column-start: 1;
         grid-column-end: 3;
         grid-row-start: 1;
         grid-row-end: 1;
     }
+
     .note-b {
         grid-column-start: 1;
         grid-column-end: 3;
         grid-row-start: 2;
         grid-row-end: 2;
     }
+
     .form {
         grid-column-start: 1;
         grid-column-end: 3;
@@ -319,10 +319,12 @@ button {
         grid-row-end: 3;
         height: 600px;
     }
+
     .note-a,
     .note-b {
         font-size: 15pt;
     }
+
     textarea {
         font-size: 20pt;
     }
@@ -332,6 +334,7 @@ button {
     .notes {
         width: 90%;
     }
+
     .form {
         grid-column-start: 1;
         grid-column-end: 3;
@@ -339,10 +342,12 @@ button {
         grid-row-end: 3;
         height: 600px;
     }
+
     .note-a,
     .note-b {
         font-size: 15pt;
     }
+
     textarea {
         font-size: 20pt;
     }

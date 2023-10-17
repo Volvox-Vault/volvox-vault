@@ -55,6 +55,7 @@
             <span id="close" @click="myFunction2">close diary</span> —
             <router-link to="/diary">submit an entry</router-link>
           </p>
+          <p ></p>
         </div>
       </div>
     </main>
