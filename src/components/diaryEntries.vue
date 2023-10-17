@@ -16,7 +16,7 @@
             <div class="page">
               <p>
                 Dear diary,<br />
-                This is an example of the diary's format.<br />
+                This is an example of how Volvox Diary will look once we receive more submissions.
                 Lorem ipsum dolor sit amet, consectetur adipiscing elit.
                 Maecenas ut interdum nisl. Integer blandit ipsum id dolor
                 lacinia, vel auctor leo pretium. Aenean ut tellus ut magna
