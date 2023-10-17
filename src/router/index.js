@@ -17,6 +17,7 @@ import KindWords from '../views/main/KindWords.vue'
 import NotFound from '../views/NotFound.vue';
 import VolvoxTimes from '../views/main/VolvoxTimes.vue'
 import Diary from '../views/main/Diary.vue'
+import DiaryEntries from '../views/main/DiaryEntries.vue'
 
 import CafeDoor from '../views/cafe/CafeDoor.vue'
 import CafeToronto from '../views/cafe/Toronto.vue'
@@ -188,6 +189,11 @@ const routes = [
     path: '/diary',
     name: 'Diary',
     component: Diary
+  },
+  {
+    path: '/archive/diary',
+    name: 'DiaryEntries',
+    component: DiaryEntries
   },
 
   /* ARCHIVE */ 
