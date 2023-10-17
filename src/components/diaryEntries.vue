@@ -74,7 +74,7 @@
 
 
 
-    
+
     <div id="blocks-Collab">
 
       <div v-for="(item, i) in colony" v-bind:key="i">
@@ -172,7 +172,7 @@ export default {
 
 <style scoped>
 
-body {
+#app {
         margin: 0 auto;
         width: 100%;
         background: #664b71;
