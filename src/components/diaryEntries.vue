@@ -183,6 +183,7 @@ export default {
         padding-top: 100px;
         background: #664b71;
         height: 100vh;
+        overflow: hidden;
       }
 
       .cover {
