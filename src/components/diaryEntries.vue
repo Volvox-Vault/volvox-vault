@@ -180,9 +180,9 @@ export default {
       }
       
       main {
-        margin: 20px;
         padding-top: 100px;
         background: #664b71;
+        height: 100vh;
       }
 
       .cover {
