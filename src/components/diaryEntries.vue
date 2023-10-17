@@ -176,11 +176,11 @@ export default {
         margin: 0 auto;
         width: 100%;
         background: #664b71;
-        font-family: arial, helvetica, sans-serif;
       }
       
       main {
         margin: 20px;
+        background: #664b71;
       }
 
       .cover {
