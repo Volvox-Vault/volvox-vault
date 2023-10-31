@@ -6,7 +6,7 @@
         <div class="cover" id="cover" @click="myFunction1">
           <div class="title">
             <h1>VOLVOX DIARY</h1>
-            <br />
+            <br/>
             <p>click to read</p>
           </div>
         </div>
