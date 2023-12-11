@@ -2,7 +2,8 @@
   <body>
     
     <div id="container">
-      <video autoplay="true" ref="camera" id="videoElement"></video>
+<!--      <video autoplay="true" ref="camera" id="videoElement"></video>-->
+<Camera/>
       <div class="box">True Self Film Fest</div>
       <div class="box">
         <a href="/vanderklipp">A Wet Cashew — Charles VanderKlipp</a>
@@ -37,6 +38,8 @@
 
 
 <script>
+import Camera from "../../components/camera.vue";
+
 export default {
   name: "tsff",
   components: {},
