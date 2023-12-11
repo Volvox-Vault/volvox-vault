@@ -74,7 +74,7 @@
         <h3>KAILUM GRAVES</h3>
         <p>
            mrkailumgraves{@}gmail.com 
-           <br><br>
+           <br>
           Kailum is critically obsessed with the Web and born-digital content.
           He is particularly interested in image-rich technologies and the way
           global media communication—a landscape controlled by a handful of
@@ -90,7 +90,7 @@
           material. The aim is to engage with the cultural space and aesthetics
           of the Internet—and the vast amount of digital information it
           contains—as a subject, material, and tool of artistic production.
-          <br />
+          <br /><br />
           To do this, Kailum investigates different media and photographic
           methods—from appropriation to pixel and data manipulation—to create
           still and moving image projects that reflect the influence of
