@@ -62,6 +62,7 @@ import undeclaredCargo from '../views/archive/2020/2/undeclaredCargo.vue'
 import ElliottLaurel from '../views/archive/2020/1/ElliottLaurel.vue'
 
 /* TSFF */
+import tsff from '../views/archive/2023/1/tsff.vue'
 import vaisman from '../views/archive/2023/1/vaisman.vue'
 import graves from '../views/archive/2023/1/graves.vue'
 import cole from '../views/archive/2023/1/cole.vue'
@@ -372,6 +373,11 @@ const routes = [
 
   /* TSFF */
   {
+    path: '/trueself/filmfest',
+    name: 'tsff',
+    component: tsff
+  },
+  {
     path: '/trueself/vaisman',
     name: 'vaisman',
     component: vaisman
@@ -396,6 +402,7 @@ const routes = [
     name: 'saban',
     component: saban
   },
+
   /* Issues */
 
   {
