@@ -2,7 +2,7 @@
   <body>
     
     <div id="container">
-      <video autoplay="true" id="videoElement"></video>
+      <video autoplay="true" ref="camera" id="videoElement"></video>
       <div class="box">True Self Film Fest</div>
       <div class="box">
         <a href="/vanderklipp">A Wet Cashew — Charles VanderKlipp</a>
@@ -44,17 +44,13 @@ export default {
     // title will be injected into parent titleTemplate
     title: "True Self Film Fest",
   },
-data() {
-    return {
-      video: document.querySelector("#videoElement"),
-    };
-},
+
   mounted() {
     
         navigator.mediaDevices.getUserMedia({video: true})
             .then(mediaStream => {
-                    this.$refs.video.srcObject = mediaStream;
-                    this.$refs.video.play()
+                    this.$refs.camera.srcObject = mediaStream;
+                    this.$refs.camera.play()
                     this.mediaStream = mediaStream                   
             })   
     },
