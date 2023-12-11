@@ -53,6 +53,7 @@
           reconnect with her father, Maya is forced to confront her deeply
           buried feelings of resentment.
         </p>
+        <br>
         <h3>LISA SABAN</h3>
         <p>
           After making her first short film, Estranged, in 2022, Lisa continues
@@ -101,7 +102,7 @@
 
       <div class="ts-box">
         <h2 style="color: #664c71">
-          <span style="background: #f3f9e6; padding: 5px">Q&A WITH MATIAS</span>
+          <span style="background: #f3f9e6; padding: 5px">Q&A WITH LISA</span>
         </h2>
         <br />
 
