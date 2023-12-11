@@ -1,6 +1,6 @@
 <template>
   <body>
-    <
+    
     <div id="container">
       <video autoplay="true" id="videoElement"></video>
       <div class="box">True Self Film Fest</div>
