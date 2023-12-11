@@ -6,7 +6,7 @@
         class="logo"
     /></router-link>
 
-    <h1>MATADOR</h1>
+    <h1>Estranged</h1>
     <br />
     <p style="font-family: hersheyFut">
       A film by
@@ -16,6 +16,7 @@
       (She/Her).
     </p>
     <br />
+
 
     <div
       style="
@@ -29,7 +30,7 @@
       <iframe
         width="100%"
         height="100%"
-        src="https://www.youtube.com/embed/zAUwJ4zgwF0"
+        src="https://www.youtube.com/embed/PYAHCRhrpxM?si=FRjzd6fcJoeRE3c0"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -105,7 +106,8 @@
         <br />
 
         <p>
-          <strong>Why were you inspired to make this specific film?</strong> ~
+          <strong>Why were you inspired to make this specific film?</strong>
+          <br><br>
           When I started writing the story, I was going through a break up and
           was feeling a lot of shame, anger and resentment. I wasn't sure how to
           navigate these feelings. I finally realized that I needed to forgive
@@ -124,7 +126,8 @@
             >Were there any challenges or doubts you faced in the
             process?</strong
           >
-          ~ The biggest challenge I faced during the process was being in denial
+          <br><br>
+          The biggest challenge I faced during the process was being in denial
           that I needed to produce the film. I convinced myself that I couldn’t
           produce it, and I tried to bring a producer onboard, but after a year
           of waiting around, I realized that no-one was going to prioritize
@@ -139,6 +142,7 @@
           <strong
             >What is your writing process like?</strong
           >
+          <br><br>
           My writing process continues to reveal itself to me everyday. It still
           feels like a mystery in a lot of ways. The challenge is embracing that
           mystery, and trusting that it will eventually bring out a new story
@@ -150,40 +154,43 @@
           lost in my notebook.
         </p>
 
-        <br />
-
-        <script
-          type="application/javascript"
-          id="cid0020000341434605351"
-          data-cfasync="false"
-          async
-          src="//st.chatango.com/js/gz/emb.js"
-          style="width: 100%; height: 300px"
-        >
-          {
-              "handle": "trueselfff",
-              "arch": "js",
-              "styles": {
-                  "a": "f3f9e6",
-                  "b": 100,
-                  "c": "664c71",
-                  "d": "664c71",
-                  "k": "f3f9e6",
-                  "l": "f3f9e6",
-                  "m": "f3f9e6",
-                  "p": "10",
-                  "q": "f3f9e6",
-                  "r": 100,
-                  "ab": false,
-                  "usricon": 0,
-                  "surl": 0,
-                  "allowpm": 0,
-                  "cnrs": "1",
-                  "fwtickm": 1
-              }
-          }
-        </script>
       </div>
+    </div>
+
+    <br>
+
+    <div style="border: 1px dotted #212121; padding: 30px; height: 400px">
+      <script
+        type="application/javascript"
+        id="cid0020000363315514134"
+        data-cfasync="false"
+        async
+        src="//st.chatango.com/js/gz/emb.js"
+        style="width: 100%; height: 100%"
+      >
+        {
+            "handle": "estrangedlisa",
+            "arch": "js",
+            "styles": {
+                "a": "f3f9e6",
+                "b": 100,
+                "c": "000000",
+                "d": "000000",
+                "k": "f3f9e6",
+                "l": "f3f9e6",
+                "m": "f3f9e6",
+                "p": "10",
+                "q": "f3f9e6",
+                "r": 100,
+                "ab": false,
+                "usricon": 0,
+                "surl": 0,
+                "allowpm": 0,
+                "cnrs": "1",
+                "fwtickm": 1
+            }
+        }
+      </script>
     </div>
 
     <br />

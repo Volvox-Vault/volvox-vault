@@ -80,14 +80,14 @@
         <br />
 
         <p>
-          <strong>Why were you inspired to make this specific film?</strong> ~ I
+          <strong>Why were you inspired to make this specific film?</strong> <br><br> I
           Wanted to make a film that was at once a genre movie focused on
           process, a film about loneliness in the urban environment and an
           experimental film, all of those being themes/aesthetics/qualities that
           i deeply love in the pictures that i watch. So it was at the same time
           an ambitious but humble attempt to use my insirations to make
           something as independently as possible. <br /><br />
-          <strong>How does your true self shine through in your film?</strong> ~
+          <strong>How does your true self shine through in your film?</strong><br><br>
           By two means. The first, by putting a lot of myself and my feelings at
           the time on the character, and it being perceptible despite the
           obvious differences (me not being a contract killer). The second, by
@@ -99,6 +99,7 @@
             >What thoughts has making this film sparked that you may bring into
             your next project or into your daily life?</strong
           >
+          <br><br>
           Definetly that, for independent films, the less the better in terms of
           production. And that cheap, non-hd cameras can also produce images
           that look great!
