@@ -6,14 +6,14 @@
         class="logo"
     /></router-link>
 
-    <h1>MATADOR</h1>
+    <h1>Goddess (She/Her/Hers)</h1>
     <br />
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://www.instagram.com/matias.vaisman/" target="_blank"
-        >Matias Teixeira Vaisman</a
+      <a href="https://www.instagram.com/cookierill/" target="_blank"
+        >Charli Christine Marker</a
       >
-      (He/Him).
+      (She/Her).
     </p>
     <br />
 
@@ -29,7 +29,7 @@
       <iframe
         width="100%"
         height="100%"
-        src="https://www.youtube.com/embed/zAUwJ4zgwF0"
+        src="https://www.youtube.com/embed/PYAHCRhrpxM?si=FRjzd6fcJoeRE3c0"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -44,15 +44,28 @@
         </h2>
         <br />
         <p>
-          Matador is a no-budget short made for a cinematography class at a
-          public Brazilian university. It is an experimental psychological
-          thriller on the angst of having a lonely job, that job being of a
-          contract killer. It's an exercise in conveying feelings purely through
-          the cinematic form, with as minimum written text as possible. In some
-          ways, an attempt to show that genre movies don't need a lot of money
-          to become real, just like our country's most legendary filmmaker
-          Glauber Rocha once said, "a camera in the hand and an idea in the
-          head".
+          A fat autistic trans woman examines both the femininity and toxicity
+          of her family tree to understand her own body and mind.
+        </p>
+        <br />
+        <h3>CHARLI CHRISTINE MARKER</h3>
+        <p>
+          I'm an autistic trans filmmaker who is passionate about finding new
+          ways to show how I and others see the world. This short film, "Goddess
+          (She/Her/Hers)", was made right after I broke my MacBook in the middle
+          of the pandemic, an worrying that I wouldn't be able to use film as an
+          outlet for surviving conversion therapy anymore (I ended up spending
+          another year and a half in it, continually making movies even as not
+          being able to show myself in my own home was causing me trauma).
+          <br /><br />
+          But then I realized I could use iMovie for iPhone to both shoot AND
+          EDIT my movies, and this was my first experiment with it. It ended up
+          being a wonderful experience for me, because I could know longer be so
+          maximializist with the iPhone app, and had to think very clearly about
+          eerie shot I wanted to include. And this is sorta like a dance through
+          the home I lived in in late 2020 <3
+          <br /><br />
+          Email Christine: itschristinemarker{@}gmail.com
         </p>
       </div>
 
@@ -61,77 +74,155 @@
           <span style="background: #f3f9e6; padding: 5px">CREDITS</span>
         </h2>
         <br />
-        <p>
-          Starring: José Miranda<br />
-          Written, Directed, Shot And Edited By: Matias Vaisman<br />
-          Assistant Directors: Pedro Perpétuo, Lipe Dal-cól & Isabelle De<br />
-          Freitas Producers: Kauane Castro, Pedro Perpétuo & Isabelle De
-          Freitas<br />
-          Art Direction: Beatriz Pinheiro Casting And Set Coordinator: Lipe
-          Dal-cól
-        </p>
+        <p>Director: Charli Christine Marker</p>
       </div>
 
       <div class="ts-box">
         <h2 style="color: #664c71">
-          <span style="background: #f3f9e6; padding: 5px">Q&A WITH MATIAS</span>
+          <span style="background: #f3f9e6; padding: 5px">Q&A WITH LISA</span>
         </h2>
         <br />
 
         <p>
-          <strong>Why were you inspired to make this specific film?</strong> ~ I
-          Wanted to make a film that was at once a genre movie focused on
-          process, a film about loneliness in the urban environment and an
-          experimental film, all of those being themes/aesthetics/qualities that
-          i deeply love in the pictures that i watch. So it was at the same time
-          an ambitious but humble attempt to use my insirations to make
-          something as independently as possible. <br /><br />
-          <strong>How does your true self shine through in your film?</strong> ~ By two means. The
-          first, by putting a lot of myself and my feelings at the time on the
-          character, and it being perceptible despite the obvious differences
-          (me not being a contract killer). The second, by making the film that
-          i wanted, having my clear vision and intent onscreen, which is
-          something that is always deeply personal and perhaps the clearest
-          expression of true self a filmmaker can achieve.
-          <br><br>
-          <strong>What thoughts has making this film sparked that you may bring into your next project or into your daily life?</strong>
-Definetly that, for independent films, the less the better in terms of production. And that cheap, non-hd cameras can also produce images that look great!
+          <strong>Why were you inspired to make this specific film?</strong>
+          <br /><br />
+          My dad looks JUST like former ex-gay movement spokesman John Paulk did
+          in the cover of Newsweek in the eighties, so I thought examining his
+          gender and sexuality would be both helpful and fun, especially since
+          both my parents are such bigots. <br /><br />
+          <strong
+            >Did anyone specific become critical to the creation of your film?
+            Why do they stand out as significant to your film?</strong
+          >
+          <br /><br />
+          Well, on the media database site RateYourMusic, the only ratings
+          currently there for Goddess other than my own gave it 0.5 stars. Part
+          of me is not too surprised by that, since not only are they not THAT
+          wild about most films by women in general, the community seems
+          ESPECIALLY hostile to short films by women, if only because the poetic
+          subjectivity we often implement often feels "frivolous" or "indulgent"
+          (see: Lili Loofbourow's theory of the "Male Glance"). What really made
+          me uncomfortable, though, was that the only rating listed on the site
+          was just a one-word statement of "Bro...", which was REALLY hard to
+          not take as blatantly transphobic.<br /><br />
+          <strong
+            >What thoughts has making this film sparked that you may bring into
+            your next project or into your daily life?</strong
+          >
+          <br /><br />
+          It will be three years since I made this short in November, and while
+          I tried to follow it up with a spiritual sequel in my April 2021 short
+          The Milf Cinema (included in the Google Drive), but even back then it
+          felt like I was reaching diminishing returns. I often think about how
+          David Lynch was never able to make a feature so minimal like
+          Eraserhead again, and I'm still trying to figure out my equivalent to
+          Twin Peaks The Return Episode 8 to show what I would do with Goddess
+          today.
+          <br /><br />
+          <strong
+            >How did you perceive films as a kid, in comparison to how you look
+            at them now?</strong
+          >
+          <br /><br />
+          It's funny, because when talking about the aesthetic differences
+          between me and my high school best friend Dan Lotz, I would always use
+          our shared childhood experience with the Lego Spielberg MovieMaker set
+          to illustrate. While he was dedicated to mastering the stop-motion
+          process of, say, Michel Gondry's "Fell in Love With a Girl" video, I
+          would just twist the included webcam around my desk as I played with
+          my toys on camera, almost RELISHING the way accidents would happen in
+          those long takes (looking back, I see a lot of that strangely in my
+          favorite moments of my hero Bela Tarr). You can probably see that in
+          my work to this day.
+          <br /><br />
+          I do have to say, though, that I didn't become anywhere near a
+          cinephile until my late teens, partially because so much of the
+          "serious" film culture surrounding me in the Chicago suburbs had a
+          suffocating bro energy I felt so uncomfortable with before I came out
+          in 2018. At the risk of sounding like a freak, so much of my influence
+          came from being immersed in the BBW paysite scene since middle school,
+          and loving the ways being an auteur of your own body and working with
+          early digital technology created its own aesthetic that sometimes
+          doesn't feel that much different from what made me fall in love with
+          Akerman's Je Tu Il Elle at the end of high school.
+          <br /><br />
+          <strong
+            >What other mediums (apart from film) do you explore as an artist?
+            How do they communicate with your film practice?</strong
+          ><br /><br />
+          I was a competitive dancer for two years. It was in ballroom, which is
+          often cringe and patriarchal and racist, but one thing I don't know if
+          people realize about it compared to, say, ballet, is how it's all
+          about tactile connection with another human being. Your creative
+          intuition isn't based on the audience, but in sensing the pressure in
+          your partner's hands to figure out where they might want to go next. I
+          genuinely think this was an extraordinary training for me as a
+          filmmaker, and you can see that dancerly energy in so much of my work.
+          <br /><br />
+          <strong
+            >How do you imagine the audience might perceive your film? Or how
+            have you seen people react to it in a way that stood out to
+            you?</strong
+          >
+          <br /><br />
+          I've noticed since screening my growing catalog of short films at
+          Chicago's Sweet Void microcinema that lots of people are very stressed
+          out by how raw my movies are. Part of it is the frenetic way I've
+          often edited them (for better or worse, you can compare the way I
+          based the editing of my first two features on the rhythms of Chicago
+          footwork to how Aronofsky did so with NYC hip hop with Pi and
+          Requiem). I've tried to make more "comfy" movies (even with The Squish
+          Trilogy I genuinely DID think I was making something happy), but I
+          can't help that I LOVE miserablism in movies, probably because it
+          makes my C-PTSD feel SEEN.
+          <br /><br />
+          <strong>How do you approach making a personal film?</strong>
+          <br /><br />
+          I honestly don't think I know HOW to make any other kind of film.
+          Maybe part of that is that I spent so much of my life hiding my
+          womanhood, and with that so many other essential parts of myself, so I
+          feel like it's important to show that in every frame of what I make. I
+          also come from the tradition of outsider art, first deciding to make
+          music in 2009 when I discovered the way fellow Chicagoan Wesley
+          Willis's art was inseparable from his bodymind.
         </p>
-
-        <br />
-
-        <script
-          type="application/javascript"
-          id="cid0020000341434605351"
-          data-cfasync="false"
-          async
-          src="//st.chatango.com/js/gz/emb.js"
-          style="width: 100%; height: 300px"
-        >
-          {
-              "handle": "trueselfff",
-              "arch": "js",
-              "styles": {
-                  "a": "f3f9e6",
-                  "b": 100,
-                  "c": "664c71",
-                  "d": "664c71",
-                  "k": "f3f9e6",
-                  "l": "f3f9e6",
-                  "m": "f3f9e6",
-                  "p": "10",
-                  "q": "f3f9e6",
-                  "r": 100,
-                  "ab": false,
-                  "usricon": 0,
-                  "surl": 0,
-                  "allowpm": 0,
-                  "cnrs": "1",
-                  "fwtickm": 1
-              }
-          }
-        </script>
       </div>
+    </div>
+
+    <br />
+
+    <div style="border: 1px dotted #212121; padding: 30px; height: 400px">
+      <script
+        type="application/javascript"
+        id="cid0020000363316340705"
+        data-cfasync="false"
+        async
+        src="//st.chatango.com/js/gz/emb.js"
+        style="width: 100%; height: 100%"
+      >
+        {
+            "handle": "goddesschristine",
+            "arch": "js",
+            "styles": {
+                "a": "f3f9e6",
+                "b": 100,
+                "c": "000000",
+                "d": "000000",
+                "k": "f3f9e6",
+                "l": "f3f9e6",
+                "m": "f3f9e6",
+                "p": "10",
+                "q": "f3f9e6",
+                "r": 100,
+                "ab": false,
+                "usricon": 0,
+                "surl": 0,
+                "allowpm": 0,
+                "cnrs": "1",
+                "fwtickm": 1
+            }
+        }
+      </script>
     </div>
 
     <br />
