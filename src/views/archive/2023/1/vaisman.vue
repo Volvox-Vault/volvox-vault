@@ -87,48 +87,60 @@
           i deeply love in the pictures that i watch. So it was at the same time
           an ambitious but humble attempt to use my insirations to make
           something as independently as possible. <br /><br />
-          <strong>How does your true self shine through in your film?</strong> ~ By two means. The
-          first, by putting a lot of myself and my feelings at the time on the
-          character, and it being perceptible despite the obvious differences
-          (me not being a contract killer). The second, by making the film that
-          i wanted, having my clear vision and intent onscreen, which is
-          something that is always deeply personal and perhaps the clearest
-          expression of true self a filmmaker can achieve.
-          <br><br>
-          <strong>What thoughts has making this film sparked that you may bring into your next project or into your daily life?</strong>
-Definetly that, for independent films, the less the better in terms of production. And that cheap, non-hd cameras can also produce images that look great!
+          <strong>How does your true self shine through in your film?</strong> ~
+          By two means. The first, by putting a lot of myself and my feelings at
+          the time on the character, and it being perceptible despite the
+          obvious differences (me not being a contract killer). The second, by
+          making the film that i wanted, having my clear vision and intent
+          onscreen, which is something that is always deeply personal and
+          perhaps the clearest expression of true self a filmmaker can achieve.
+          <br /><br />
+          <strong
+            >What thoughts has making this film sparked that you may bring into
+            your next project or into your daily life?</strong
+          >
+          Definetly that, for independent films, the less the better in terms of
+          production. And that cheap, non-hd cameras can also produce images
+          that look great!
         </p>
       </div>
     </div>
 
-    <br>
+    <br />
 
-     <div style="border: 1px dotted #212121; padding: 30px; height: 400px;">
-<script type="application/javascript" id="cid0020000341434605351" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%;height: 100%;">
-{
-    "handle": "trueselfff",
-    "arch": "js",
-    "styles": {
-        "a": "f3f9e6",
-        "b": 100,
-        "c": "000000",
-        "d": "000000",
-        "k": "f3f9e6",
-        "l": "f3f9e6",
-        "m": "f3f9e6",
-        "p": "10",
-        "q": "f3f9e6",
-        "r": 100,
-        "ab": false,
-        "usricon": 0,
-        "surl": 0,
-        "allowpm": 0,
-        "cnrs": "1",
-        "fwtickm": 1
-    }
-}
-</script>
-        </div>
+    <div style="border: 1px dotted #212121; padding: 30px; height: 400px">
+      <script
+        type="application/javascript"
+        id="cid0020000363315230781"
+        data-cfasync="false"
+        async
+        src="//st.chatango.com/js/gz/emb.js"
+        style="width: 100%; height: 100%"
+      >
+        {
+            "handle": "matadormatias",
+            "arch": "js",
+            "styles": {
+                "a": "f3f9e6",
+                "b": 100,
+                "c": "000000",
+                "d": "000000",
+                "k": "f3f9e6",
+                "l": "f3f9e6",
+                "m": "f3f9e6",
+                "p": "10",
+                "q": "f3f9e6",
+                "r": 100,
+                "ab": false,
+                "usricon": 0,
+                "surl": 0,
+                "allowpm": 0,
+                "cnrs": "1",
+                "fwtickm": 1
+            }
+        }
+      </script>
+    </div>
 
     <br />
     <p>
