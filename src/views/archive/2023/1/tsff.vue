@@ -38,7 +38,6 @@
 
 
 <script>
-import Camera from "../../components/camera.vue";
 
 export default {
   name: "tsff",
