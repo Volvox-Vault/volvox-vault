@@ -47,7 +47,7 @@ export default {
 
   mounted() {
     
-        navigator.mediaDevices.getUserMedia({video: true})
+        navigator.mediaDevices.getUserMedia({camera: true})
             .then(mediaStream => {
                     this.$refs.camera.srcObject = mediaStream;
                     this.$refs.camera.play()
@@ -65,7 +65,6 @@ export default {
 }
 
 body {
-  background: #281e2d;
   margin: 0px;
   padding: 40px;
   font-family: "hersheyOld", arial, sans-serif;
