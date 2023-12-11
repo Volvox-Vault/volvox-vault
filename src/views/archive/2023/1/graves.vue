@@ -90,7 +90,7 @@
           material. The aim is to engage with the cultural space and aesthetics
           of the Internet—and the vast amount of digital information it
           contains—as a subject, material, and tool of artistic production.
-          <br /><br />
+          <br />
           To do this, Kailum investigates different media and photographic
           methods—from appropriation to pixel and data manipulation—to create
           still and moving image projects that reflect the influence of

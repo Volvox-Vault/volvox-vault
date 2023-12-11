@@ -61,7 +61,7 @@
         <h3>TERRY COLE</h3>
         <p>
           tcoopercole{@}gmail.com
-          <br><br>
+          <br>
           An American artist who works in painting, drawing, and photography. He
           was a child who came of age in a gap where digital technology was
           fully ubiquitous, yet prior to the dawn of social media. His work both
