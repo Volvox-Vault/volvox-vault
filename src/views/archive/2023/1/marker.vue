@@ -64,7 +64,7 @@
           being a wonderful experience for me, because I could know longer be so
           maximializist with the iPhone app, and had to think very clearly about
           eerie shot I wanted to include. And this is sorta like a dance through
-          the home I lived in in late 2020 <3
+          the home I lived in in late 2020.
           <br /><br />
           Email Christine: itschristinemarker{@}gmail.com
         </p>
