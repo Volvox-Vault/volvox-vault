@@ -54,9 +54,6 @@ export default {
         .then(function (stream) {
           video.srcObject = stream;
         })
-        .catch(function (err0r) {
-          console.log("Something went wrong!");
-        });
     }
   },
 };
