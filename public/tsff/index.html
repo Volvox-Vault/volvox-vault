@@ -29,8 +29,8 @@ main {
 #container {
   margin-left: auto;
   margin-right: auto;
-  padding-top: 30px;
-  padding-bottom: 30px;
+  margin-top: 30px;
+  margin-bottom: 30px;
   display: grid;
   grid-template-columns: 1fr;
   border-radius: 100%;
@@ -39,6 +39,8 @@ main {
   color: #f3f9e6;
   height: 800px;
   width: 800px;
+  max-height: 800px;
+  max-width: 800px;
   position: relative;
   top: 50%;
   -ms-transform: translateY(-50%);
@@ -49,6 +51,7 @@ main {
 
 .box {
   text-align: center;
+  padding: 0px;
   border-collapse: collapse;
   vertical-align: middle;
 }
