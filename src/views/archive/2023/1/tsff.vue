@@ -67,10 +67,10 @@ export default {
 
 body {
   background: #281e2d;
-  padding: 0px;
-  margin: 40px;
+  margin: 0px;
+  padding: 40px;
   font-family: "hersheyOld", arial, sans-serif;
-  margin-top: 60px;
+  padding-top: 60px;
 }
 
 #container {
@@ -82,7 +82,6 @@ body {
   border-radius: 100%;
   border-collapse: collapse;
   overflow: hidden;
-  background: rgba(102, 76, 113, 0.5);
   color: #f3f9e6;
   max-width: 1000px;
   position: relative;
