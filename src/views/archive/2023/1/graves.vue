@@ -73,6 +73,8 @@
         <br />
         <h3>KAILUM GRAVES</h3>
         <p>
+           mrkailumgraves{@}gmail.com 
+           <br><br>
           Kailum is critically obsessed with the Web and born-digital content.
           He is particularly interested in image-rich technologies and the way
           global media communication—a landscape controlled by a handful of
@@ -119,8 +121,7 @@
           society that created it. Kailum explores this closed loop by creating
           large-scale still and moving images that play with the ubiquitous
           dichotomies between physical and digital existence.
-          <br /><br />
-          Email Kailum: mrkailumgraves{@}gmail.com
+
         </p>
       </div>
 

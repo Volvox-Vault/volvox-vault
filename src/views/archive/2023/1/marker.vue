@@ -51,6 +51,8 @@
         <br />
         <h3>CHARLI CHRISTINE MARKER</h3>
         <p>
+          itschristinemarker{@}gmail.com
+          <br><br>
           I'm an autistic trans filmmaker who is passionate about finding new
           ways to show how I and others see the world. This short film, "Goddess
           (She/Her/Hers)", was made right after I broke my MacBook in the middle
@@ -65,8 +67,6 @@
           maximializist with the iPhone app, and had to think very clearly about
           eerie shot I wanted to include. And this is sorta like a dance through
           the home I lived in in late 2020.
-          <br /><br />
-          Email Christine: itschristinemarker{@}gmail.com
         </p>
       </div>
 

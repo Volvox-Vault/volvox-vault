@@ -56,6 +56,8 @@
         <br>
         <h3>LISA SABAN</h3>
         <p>
+          asilnabas{@}gmail.com
+            <br /><br />
           After making her first short film, Estranged, in 2022, Lisa continues
           to explore her voice as an emerging filmmaker in Toronto. With a
           background in theatre, Lisa brings a strong understanding of character
@@ -63,8 +65,7 @@
           expose the nuances and messiness of what it means to be a confused
           human on this earth—where not much really makes sense. But alas, we
           persevere and we move forward in the best way we know how.
-          <br /><br />
-          Email Lisa: asilnabas{@}gmail.com
+
         </p>
       </div>
 
