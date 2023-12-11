@@ -44,18 +44,21 @@ export default {
     // title will be injected into parent titleTemplate
     title: "True Self Film Fest",
   },
-
+data() {
+    return {
+      video: document.querySelector("#videoElement"),
+    };
+},
   mounted() {
-    var video = document.querySelector("#videoElement");
+    
+        navigator.mediaDevices.getUserMedia({video: true})
+            .then(mediaStream => {
+                    this.$refs.video.srcObject = mediaStream;
+                    this.$refs.video.play()
+                    this.mediaStream = mediaStream                   
+            })   
+    },
 
-    if (navigator.mediaDevices.getUserMedia) {
-      navigator.mediaDevices
-        .getUserMedia({ video: true })
-        .then(function (stream) {
-          video.srcObject = stream;
-        })
-    }
-  },
 };
 </script>
 
