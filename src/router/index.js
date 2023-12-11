@@ -61,6 +61,13 @@ import stillGroovin from '../views/archive/2020/3/stillGroovin.vue'
 import undeclaredCargo from '../views/archive/2020/2/undeclaredCargo.vue'
 import ElliottLaurel from '../views/archive/2020/1/ElliottLaurel.vue'
 
+/* TSFF */
+import vaisman from '../views/archive/2023/1/vaisman.vue'
+import graves from '../views/archive/2023/1/graves.vue'
+import cole from '../views/archive/2023/1/cole.vue'
+import marker from '../views/archive/2023/1/marker.vue'
+import saban from '../views/archive/2023/1/saban.vue'
+
 /* ISSUES */
 import Identity from '../views/archive/issues/Identity/Identity.vue'
 import Proximity from '../views/archive/issues/Proximity/Proximity.vue'
@@ -363,6 +370,32 @@ const routes = [
     component: ElliottLaurel
   },
 
+  /* TSFF */
+  {
+    path: '/trueself/vaisman',
+    name: 'vaisman',
+    component: vaisman
+  },
+  {
+    path: '/trueself/graves',
+    name: 'graves',
+    component: graves
+  },
+  {
+    path: '/trueself/cole',
+    name: 'cole',
+    component: cole
+  },
+  {
+    path: '/trueself/marker',
+    name: 'marker',
+    component: marker
+  },
+  {
+    path: '/trueself/saban',
+    name: 'saban',
+    component: saban
+  },
   /* Issues */
 
   {
