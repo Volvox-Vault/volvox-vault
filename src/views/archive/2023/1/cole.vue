@@ -10,8 +10,7 @@
     <br />
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://www.instagram.com/yslkouros/" target="_blank">Terry</a>
-      <a href="https://www.terrycole.space/" target="_blank">Cole</a>
+      <a href="https://www.instagram.com/yslkouros/" target="_blank">Terry</a> <a href="https://www.terrycole.space/" target="_blank">Cole</a>
       (He/Him).
     </p>
     <br />
