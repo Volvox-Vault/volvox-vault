@@ -43,7 +43,7 @@
           <span style="background: #f3f9e6; padding: 5px">ABOUT</span>
         </h2>
         <br />
-        <p>A killer waits for his victim.</p>
+        <p><em>A killer waits for his victim.</em></p>
         <p>
           Matador is a no-budget short made for a cinematography class at a
           public Brazilian university. It is an experimental psychological
@@ -98,42 +98,37 @@
           <strong>What thoughts has making this film sparked that you may bring into your next project or into your daily life?</strong>
 Definetly that, for independent films, the less the better in terms of production. And that cheap, non-hd cameras can also produce images that look great!
         </p>
-
-        <br />
-
-        <script
-          type="application/javascript"
-          id="cid0020000341434605351"
-          data-cfasync="false"
-          async
-          src="//st.chatango.com/js/gz/emb.js"
-          style="width: 100%; height: 300px"
-        >
-          {
-              "handle": "trueselfff",
-              "arch": "js",
-              "styles": {
-                  "a": "f3f9e6",
-                  "b": 100,
-                  "c": "664c71",
-                  "d": "664c71",
-                  "k": "f3f9e6",
-                  "l": "f3f9e6",
-                  "m": "f3f9e6",
-                  "p": "10",
-                  "q": "f3f9e6",
-                  "r": 100,
-                  "ab": false,
-                  "usricon": 0,
-                  "surl": 0,
-                  "allowpm": 0,
-                  "cnrs": "1",
-                  "fwtickm": 1
-              }
-          }
-        </script>
       </div>
     </div>
+
+    <br>
+
+     <div style="border: 1px dotted #212121; padding: 30px; height: 400px;">
+<script type="application/javascript" id="cid0020000341434605351" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%;height: 100%;">
+{
+    "handle": "trueselfff",
+    "arch": "js",
+    "styles": {
+        "a": "f3f9e6",
+        "b": 100,
+        "c": "000000",
+        "d": "000000",
+        "k": "f3f9e6",
+        "l": "f3f9e6",
+        "m": "f3f9e6",
+        "p": "10",
+        "q": "f3f9e6",
+        "r": 100,
+        "ab": false,
+        "usricon": 0,
+        "surl": 0,
+        "allowpm": 0,
+        "cnrs": "1",
+        "fwtickm": 1
+    }
+}
+</script>
+        </div>
 
     <br />
     <p>
