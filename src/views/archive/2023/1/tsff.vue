@@ -85,10 +85,6 @@ body {
   color: #f3f9e6;
   max-width: 1000px;
   position: relative;
-  box-shadow:
-    0 0 60px 30px #fff,  /* inner white */
-    0 0 100px 60px #f0f, /* middle magenta */
-    0 0 140px 90px #0ff; /* outer cyan */
 }
 
 .box {
