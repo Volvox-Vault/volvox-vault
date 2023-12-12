@@ -7,218 +7,360 @@
     <title>True Self Film Fest</title>
 
     <style>
-@font-face {
-  font-family: hersheyOld;
-  src: url(https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Hershey-Noailles-OldFrench-Bold.ttf?v=1673385487640);
-}
+      @font-face {
+        font-family: hersheyOld;
+        src: url(https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Hershey-Noailles-OldFrench-Bold.ttf?v=1673385487640);
+      }
 
-@font-face {
-  font-family: hersheyTrip;
-  src: url(https://cdn.glitch.global/a19cf884-ad98-4fca-ae58-df109a77d14a/Hershey-Noailles-Times-Triplex-Light.otf?v=1654047866384);
-}
+      @font-face {
+        font-family: hersheyTrip;
+        src: url(https://cdn.glitch.global/a19cf884-ad98-4fca-ae58-df109a77d14a/Hershey-Noailles-Times-Triplex-Light.otf?v=1654047866384);
+      }
 
-@font-face {
-  font-family: hersheyFutLight;
-  src: url(https://cdn.glitch.global/a19cf884-ad98-4fca-ae58-df109a77d14a/Hershey-Noailles-Futura-Simplex-Light.ttf?v=1654047866180);
-}
+      @font-face {
+        font-family: hersheyFutLight;
+        src: url(https://cdn.glitch.global/a19cf884-ad98-4fca-ae58-df109a77d14a/Hershey-Noailles-Futura-Simplex-Light.ttf?v=1654047866180);
+      }
 
-@font-face {
-  font-family: hersheyFut;
-  src: url(https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Hershey-Noailles-Futura-Simplex-Regular.ttf?v=1687198932418);
-}
+      @font-face {
+        font-family: hersheyFut;
+        src: url(https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Hershey-Noailles-Futura-Simplex-Regular.ttf?v=1687198932418);
+      }
 
-body {
-  font-family: "hersheyOld", arial, sans-serif;
-  background: #281E2D ;
-  padding: 0px;
-  margin: 0px;
-  height: 100vh;
-  font-size: 14pt;
-  position:relative;
-}
+      body {
+        font-family: "hersheyOld", arial, sans-serif;
+        background: #281e2d;
+        padding: 0px;
+        margin: 0px;
+        height: 100vh;
+        font-size: 14pt;
+        position: relative;
+      }
 
-main {
-  height: 100%;
-  width: 100%;
-  position:relative; 
-}
+      main {
+        height: 100%;
+        width: 100%;
+        position: relative;
+      }
 
-#container {
-  margin-left: auto;
-  margin-right: auto;
-  padding-top: 5px;
-  padding-bottom: 5px;
-  display: grid;
-  grid-template-columns: 1fr;
-  border-radius: 100%;
-  border-collapse: collapse;
-  overflow: hidden;
-  color: #f3f9e6;
-  height: 800px;
-  width: 800px;
-  max-height: 800px;
-  max-width: 800px;
-  position: relative;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-  background: rgba(102,76,113, 0.5); 
-}
+      #container {
+        margin-left: auto;
+        margin-right: auto;
+        padding-top: 5px;
+        padding-bottom: 5px;
+        display: grid;
+        grid-template-columns: 1fr;
+        border-radius: 100%;
+        border-collapse: collapse;
+        overflow: hidden;
+        color: #f3f9e6;
+        height: 800px;
+        width: 800px;
+        max-height: 800px;
+        max-width: 800px;
+        position: relative;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+        background: rgba(102, 76, 113, 0.5);
+      }
 
-.box {
-  text-align: center;
-  padding: 0px;
-  border-collapse: collapse;
-  vertical-align: middle;
-}
+      .box {
+        text-align: center;
+        padding: 0px;
+        border-collapse: collapse;
+        vertical-align: middle;
+      }
 
-.content {
-  text-align: center;
-  position: relative;
-  top: 50%;
-  -ms-transform: translateY(-50%);
-  -webkit-transform: translateY(-50%);
-  transform: translateY(-50%);
-}
+      .content {
+        text-align: center;
+        position: relative;
+        top: 50%;
+        -ms-transform: translateY(-50%);
+        -webkit-transform: translateY(-50%);
+        transform: translateY(-50%);
+      }
 
-.bottom {
-  padding-bottom: 50px;
-    border-bottom: 0px;
-}
+      .bottom {
+        padding-bottom: 50px;
+        border-bottom: 0px;
+      }
 
-.top {
-    padding-top: 50px;
-}
+      .top {
+        padding-top: 50px;
+      }
 
-.video-container {
-    height: 300px;
-    width: 300px;
-    position: relative;
-}
+      .video-container {
+        height: 300px;
+        width: 300px;
+        position: relative;
+      }
 
-video {
-  background: #f3f9e6 ;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  object-fit: cover;
-  z-index: -11;
-  opacity: 0.6;
-}
+      video {
+        background: #f3f9e6;
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        object-fit: cover;
+        z-index: -11;
+        opacity: 0.6;
+      }
 
-h1 {
-  font-family: hersheyTrip, arial, sans-serif;
-  font-size: 30pt;
-  font-weight: normal;
-  margin: 0px;
-  padding: 0px;
-}
+      h1 {
+        font-family: hersheyTrip, arial, sans-serif;
+        font-size: 30pt;
+        font-weight: normal;
+        margin: 0px;
+        padding: 0px;
+      }
 
-p {
-  font-family: hersheyFut, arial, sans-serif;
-  font-size: 15pt;
-  font-weight: normal;
-  margin: 0px;
-  padding: 0px;
-}
+      p {
+        font-family: hersheyFut, arial, sans-serif;
+        font-size: 15pt;
+        font-weight: normal;
+        margin: 0px;
+        padding: 0px;
+      }
 
-.head {
-  position: fixed;
-  top: 30px;
-  left: 30px;
-  color: #f3f9e6;
-}
+      .head {
+        position: fixed;
+        top: 30px;
+        left: 30px;
+        color: #f3f9e6;
+      }
 
-.foot {
-  position: fixed;
-  bottom: 30px;
-  right: 30px;
-  color: #f3f9e6;
-  text-align: right;
-}
+      .foot {
+        position: fixed;
+        bottom: 30px;
+        right: 30px;
+        color: #f3f9e6;
+        text-align: right;
+      }
 
-.foot h1 {
-  font-size: 20pt;
-}
+      .foot h1 {
+        font-size: 20pt;
+      }
 
-a {
-  text-decoration: none;
-  color: #f3f9e6;
-}
+      a {
+        text-decoration: none;
+        color: #f3f9e6;
+      }
 
-a:hover {
-  background: rgba(102,76,113, 0.8);
-  padding: 5px;
-  font-style: italic;
-  cursor: pointer;
-}
+      a:hover {
+        background: rgba(102, 76, 113, 0.8);
+        padding: 5px;
+        font-style: italic;
+        cursor: pointer;
+      }
+      .foot a:hover {
+        padding: 0px;
+      }
 
+      .mobile {
+        display: none;
+      }
+
+      @media only screen and (max-width: 810px) {
+        #container {
+          font-size: 12pt;
+          height: 100%;
+          width: 90%;
+          border-radius: 30px;
+          position: static;
+
+          top: 0;
+          -ms-transform: translateY(0);
+          -webkit-transform: translateY(0);
+          transform: translateY(0);
+        }
+
+        .box {
+          border-bottom: 0.5px solid white;
+        }
+
+        .bottom {
+          padding-bottom: 0px;
+          border-bottom: 0px;
+        }
+
+        .top {
+          padding-top: 0px;
+        }
+
+        video {
+          visibility: hidden;
+        }
+
+        .foot,
+        .head {
+          position: static;
+          margin: 30px;
+        }
+
+        .foot {
+          padding-bottom: 60px;
+        }
+
+        .foot h1 {
+          font-size: 18pt;
+        }
+        .mobile {
+          display: block;
+          font-style: italic;
+        }
+      }
     </style>
   </head>
 
   <body>
-
-
     <main>
+      <div class="head" style="z-index: 100">
+        <h1>true self film fest</h1>
+        <p style="margin-top: 10px">
+          presented by <a href="/">volvox observer</a>.
+        </p>
+        <p style="margin-top: 10px" class="mobile">p.s. this website is cooler on desktop!</p>
+      </div>
 
       <div id="container">
         <video autoplay="true" id="videoElement"></video>
         <div class="box top">
-          <div class="content"><a href="/trueself/vanderklipp">A Wet Cashew — Charles VanderKlipp</a>
-        </div></div>
-        <div class="box"><div class="content">
-          <a href="/trueself/liu">Vlog #1460 — Connie Liu</a></div></div>
-        <div class="box"><div class="content"><a href="/trueself/graves">I Am — Kailum Graves</a></div></div>
-        <div class="box"><div class="content"><a href="/trueself/stenberg">I Am Here — Alexandra Stenberg</a></div></div>
-        <div class="box"><div class="content"><a href="/trueself/bjerborn">Across the Water — Ellen Bjerborn</a></div></div>
-        <div class="box"><div class="content"><a href="/trueself/haver">A Film About My Grandparents — Joel Haver</a></div></div>
-        <div class="box"><div class="content"><a href="/trueself/saban">Estranged — Lisa Saban</a></div></div>
-        <div class="box"><div class="content"><a href="/trueself/olanick">Mega Memories — Lara Olanick</a></div></div>
+          <div class="content">
+            <a href="/trueself/vanderklipp"
+              >A Wet Cashew — Charles VanderKlipp</a
+            >
+          </div>
+        </div>
         <div class="box">
-          <div class="content"><a href="/trueself/tucker">Joel Meyerowitz and my Youtube Addiction — Stanley Tucker</a>
-        </div></div>
-        <div class="box"><div class="content"><a href="/trueself/marker">Goddess She Her Hers — Charli Christine Marker</a></div></div>
-        <div class="box"><div class="content"><a href="/trueself/lo">Why do Ants Go Back to Their Nests — Alex Lo</a></div></div>
+          <div class="content">
+            <a href="/trueself/liu">Vlog #1460 — Connie Liu</a>
+          </div>
+        </div>
         <div class="box">
-          <div class="content"><a href="/trueself/perry">Tracing the Materiality of a Cellular Connection — Alan Perry</a>
-        </div></div>
-        <div class="box"><div class="content"><a href="/trueself/vaisman">Matador — Matias Vaisman</a></div></div>
-        <div class="box"><div class="content"><a href="/trueself/cole">Patient Object — Terry Cole</a></div></div>
-        <div class="box"><div class="content"><a href="/trueself/Liebeskind">Okay, see you then — Maia Liebeskind</a></div></div>
-        <div class="box"><div class="content"><a href="/trueself/dueck">Salad — Tiana Dueck</a></div></div>
-        <div class="box"><div class="content"><a href="/trueself/brotman-krass">Ellie's Lipstick — Anna + Jacob Brotman-Krass</a></div></div>
+          <div class="content">
+            <a href="/trueself/graves">I Am — Kailum Graves</a>
+          </div>
+        </div>
         <div class="box">
-          <div class="content"><a href="/trueself/davis">Perfect Flowers Of The Scum Generation — Wilde Davis</a>
-        </div></div>
-        <div class="box bottom"><div class="content"><a href="/trueself/she">Echappe — Xinli She</a></div></div>
+          <div class="content">
+            <a href="/trueself/stenberg">I Am Here — Alexandra Stenberg</a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/bjerborn">Across the Water — Ellen Bjerborn</a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/haver"
+              >A Film About My Grandparents — Joel Haver</a
+            >
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/saban">Estranged — Lisa Saban</a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/olanick">Mega Memories — Lara Olanick</a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/tucker"
+              >Joel Meyerowitz and my Youtube Addiction — Stanley Tucker</a
+            >
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/marker"
+              >Goddess She Her Hers — Charli Christine Marker</a
+            >
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/lo"
+              >Why do Ants Go Back to Their Nests — Alex Lo</a
+            >
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/perry"
+              >Tracing the Materiality of a Cellular Connection — Alan Perry</a
+            >
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/vaisman">Matador — Matias Vaisman</a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/cole">Patient Object — Terry Cole</a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/Liebeskind"
+              >Okay, see you then — Maia Liebeskind</a
+            >
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/dueck">Salad — Tiana Dueck</a>
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/brotman-krass"
+              >Ellie's Lipstick — Anna + Jacob Brotman-Krass</a
+            >
+          </div>
+        </div>
+        <div class="box">
+          <div class="content">
+            <a href="/trueself/davis"
+              >Perfect Flowers Of The Scum Generation — Wilde Davis</a
+            >
+          </div>
+        </div>
+        <div class="box bottom">
+          <div class="content">
+            <a href="/trueself/she">Echappe — Xinli She</a>
+          </div>
+        </div>
       </div>
-    
-    <div class="head"  style="z-index: 100;" >
-      <h1>true self film fest</h1>
-      <p style="margin-top: 10px;">presented by <a href="/">volvox observer</a>.</p>
-    </div>
-  
-    <a href="https://www.youtube.com/@watersilk/streams"><div class="foot">
-      <h1>watch the live stream premeire</h1>
-      <p style="margin-top: 10px;">december 20 @ 7pm EST</p>
-    </div></a>
-    
-        </main>
+
+      <div class="foot">
+        <a href="https://www.youtube.com/@watersilk/streams"
+          ><h1>watch the live stream premeire</h1></a
+        >
+        <p style="margin-top: 10px">december 20 @ 7pm EST</p>
+      </div>
+    </main>
 
     <script>
       var video = document.querySelector("#videoElement");
 
-if (navigator.mediaDevices.getUserMedia) {
-  navigator.mediaDevices.getUserMedia({ video: true })
-    .then(function (stream) {
-      video.srcObject = stream;
-    })
-    .catch(function (err0r) {
-      console.log("Something went wrong!");
-    });
-}
+      if (navigator.mediaDevices.getUserMedia) {
+        navigator.mediaDevices
+          .getUserMedia({ video: true })
+          .then(function (stream) {
+            video.srcObject = stream;
+          })
+          .catch(function (err0r) {
+            console.log("Something went wrong!");
+          });
+      }
     </script>
-
   </body>
 </html>
