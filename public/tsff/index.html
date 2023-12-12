@@ -34,6 +34,7 @@ body {
   margin: 0px;
   height: 100vh;
   font-size: 14pt;
+  position:relative;
 }
 
 main {
@@ -120,15 +121,15 @@ a:hover {
 
 .head {
   position: absolute;
-  top: 30;
-  left: 30;
+  top: 0;
+  left: 0;
   color: #f3f9e6;
 }
 
 .foot {
   position: absolute;
-  bottom: 30;
-  right: 30;
+  bottom: 0;
+  right: 0;
   color: #f3f9e6;
 }
 
@@ -152,20 +153,17 @@ p {
 
   <body>
 
+    <div class="head">
+      <h1>true self film fest</h1>
+      <p>presented by <a href="/">volvox observer</a>.</p>
+    </div>
   
+    <div class="foot">
+      <h1>watch the live stream premeire</h1>
+    </div>
 
     <main>
 
-      <div class="head">
-        <h1>true self film fest</h1>
-        <p>presented by <a href="/">volvox observer</a>.</p>
-      </div>
-    
-      <div class="foot">
-        <h1>watch the live stream premeire</h1>
-      </div>
-
-      
       <div id="container">
         <video autoplay="true" id="videoElement"></video>
         <div class="box top">
