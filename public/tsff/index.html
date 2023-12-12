@@ -63,8 +63,7 @@ main {
   -ms-transform: translateY(-50%);
   -webkit-transform: translateY(-50%);
   transform: translateY(-50%);
-    background: rgba(102,76,113, 0.5); 
-    z-index: -10;
+  background: rgba(102,76,113, 0.5); 
 }
 
 .box {
@@ -125,20 +124,18 @@ p {
 }
 
 .head {
-  position: absolute;
+  position: fixed;
   top: 30px;
   left: 30px;
   color: #f3f9e6;
-  z-index: 101;
 }
 
 .foot {
-  position: absolute;
+  position: fixed;
   bottom: 30px;
   right: 30px;
   color: #f3f9e6;
   text-align: right;
-  z-index: 100;
 }
 
 .foot h1 {
@@ -157,26 +154,11 @@ a:hover {
   cursor: pointer;
 }
 
-.foot a:hover, .head a:hover {
-  padding: 0px;
-  font-style: italic;
-  cursor: pointer;
-}
-
     </style>
   </head>
 
   <body>
 
-    <div class="head"  style="z-index: 100;" >
-      <h1>true self film fest</h1>
-      <p style="margin-top: 10px;">presented by <a href="/">volvox observer</a>.</p>
-    </div>
-  
-    <a href="https://www.youtube.com/@watersilk/streams"><div class="foot">
-      <h1>watch the live stream premeire</h1>
-      <p style="margin-top: 10px;">december 20 @ 7pm EST</p>
-    </div></a>
 
     <main>
 
@@ -211,6 +193,17 @@ a:hover {
         </div></div>
         <div class="box bottom"><div class="content"><a href="/trueself/she">Echappe — Xinli She</a></div></div>
       </div>
+    
+    <div class="head"  style="z-index: 100;" >
+      <h1>true self film fest</h1>
+      <p style="margin-top: 10px;">presented by <a href="/">volvox observer</a>.</p>
+    </div>
+  
+    <a href="https://www.youtube.com/@watersilk/streams"><div class="foot">
+      <h1>watch the live stream premeire</h1>
+      <p style="margin-top: 10px;">december 20 @ 7pm EST</p>
+    </div></a>
+    
         </main>
 
     <script>
