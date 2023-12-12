@@ -12,6 +12,21 @@
   src: url(https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Hershey-Noailles-OldFrench-Bold.ttf?v=1673385487640);
 }
 
+@font-face {
+  font-family: hersheyTrip;
+  src: url(https://cdn.glitch.global/a19cf884-ad98-4fca-ae58-df109a77d14a/Hershey-Noailles-Times-Triplex-Light.otf?v=1654047866384);
+}
+
+@font-face {
+  font-family: hersheyFutLight;
+  src: url(https://cdn.glitch.global/a19cf884-ad98-4fca-ae58-df109a77d14a/Hershey-Noailles-Futura-Simplex-Light.ttf?v=1654047866180);
+}
+
+@font-face {
+  font-family: hersheyFut;
+  src: url(https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Hershey-Noailles-Futura-Simplex-Regular.ttf?v=1687198932418);
+}
+
 body {
   font-family: "hersheyOld", arial, sans-serif;
   background: #281E2D ;
@@ -101,42 +116,79 @@ a:hover {
   font-style: italic;
   cursor: pointer;
 }
+
+.head {
+  position: absolute;
+  top: 30;
+  left: 30;
+}
+
+.foot {
+  position: absolute;
+  bottom: 30;
+  right: 30;
+}
+
+h1 {
+  font-family: hersheyTrip, arial, sans-serif;
+  font-size: 30pt;
+  font-weight: normal;
+  margin: 0px;
+  padding: 0px;
+}
+
+p {
+  font-family: hersheyFut, arial, sans-serif;
+  font-size: 15pt;
+  font-weight: normal;
+  margin: 0px;
+  padding: 0px;
+}
     </style>
   </head>
 
   <body>
 
+    <div class="head">
+    <h1>true self film fest</h1>
+    <p>presented by <a href="/">volvox observer</a>.</p>
+  </div>
+
+  <div class="foot">
+    <h1>watch the live stream premeire</h1>
+  </div>
+
     <main>
       <div id="container">
         <video autoplay="true" id="videoElement"></video>
         <div class="box top">
-          <div class="content"><a href="/vanderklipp">A Wet Cashew — Charles VanderKlipp</a>
+          <div class="content"><a href="/trueself/vanderklipp">A Wet Cashew — Charles VanderKlipp</a>
         </div></div>
         <div class="box"><div class="content">
-          Vlog #1460 — Connie Liu</div></div>
-        <div class="box"><div class="content">I Am — Kailum Graves</div></div>
-        <div class="box"><div class="content">I Am Here — Alexandra Stenberg</div></div>
-        <div class="box"><div class="content">Across the Water — Ellen Bjerborn</div></div>
-        <div class="box"><div class="content">A Film About My Grandparents — Joel Haver</div></div>
-        <div class="box"><div class="content">Estranged — Lisa Saban</div></div>
-        <div class="box"><div class="content">Mega Memories — Lara Olanick</div></div>
+          <a href="/trueself/liu">Vlog #1460 — Connie Liu</a></div></div>
+        <div class="box"><div class="content"><a href="/trueself/graves">I Am — Kailum Graves</a></div></div>
+        <div class="box"><div class="content"><a href="/trueself/stenberg">I Am Here — Alexandra Stenberg</a></div></div>
+        <div class="box"><div class="content"><a href="/trueself/bjerborn">Across the Water — Ellen Bjerborn</a></div></div>
+        <div class="box"><div class="content"><a href="/trueself/haver">A Film About My Grandparents — Joel Haver</a></div></div>
+        <div class="box"><div class="content"><a href="/trueself/saban">Estranged — Lisa Saban</a></div></div>
+        <div class="box"><div class="content"><a href="/trueself/olanick">Mega Memories — Lara Olanick</a></div></div>
         <div class="box">
-          <div class="content">Joel Meyerowitz and my Youtube Addiction — Stanley Tucker
+          <div class="content"><a href="/trueself/tucker">Joel Meyerowitz and my Youtube Addiction — Stanley Tucker</a>
         </div></div>
-        <div class="box"><div class="content">Goddess She Her Hers — Charli Christine Marker</div></div>
-        <div class="box"><div class="content">Why do Ants Go Back to Their Nests — Alex Lo</div></div>
+        <div class="box"><div class="content"><a href="/trueself/marker">Goddess She Her Hers — Charli Christine Marker</a></div></div>
+        <div class="box"><div class="content"><a href="/trueself/lo">Why do Ants Go Back to Their Nests — Alex Lo</a></div></div>
         <div class="box">
-          <div class="content">Tracing the Materiality of a Cellular Connection — Alan Perry
+          <div class="content"><a href="/trueself/perry">Tracing the Materiality of a Cellular Connection — Alan Perry</a>
         </div></div>
-        <div class="box"><div class="content">Matador — Matias Vaisman</div></div>
-        <div class="box"><div class="content">Patient Object — Terry Cole</div></div>
-        <div class="box"><div class="content">Okay, see you then — Maia Liebeskind</div></div>
-        <div class="box"><div class="content">Salad — Tiana Dueck</div></div>
-        <div class="box"><div class="content">Ellie's Lipstick — Anna + Jacob Brotman-Krass</div></div>
+        <div class="box"><div class="content"><a href="/trueself/vaisman">Matador — Matias Vaisman</a></div></div>
+        <div class="box"><div class="content"><a href="/trueself/cole">Patient Object — Terry Cole</a></div></div>
+        <div class="box"><div class="content"><a href="/trueself/Liebeskind">Okay, see you then — Maia Liebeskind</a></div></div>
+        <div class="box"><div class="content"><a href="/trueself/dueck">Salad — Tiana Dueck</a></div></div>
+        <div class="box"><div class="content"><a href="/trueself/brotman-krass">Ellie's Lipstick — Anna + Jacob Brotman-Krass</a></div></div>
         <div class="box">
-          <div class="content">Perfect Flowers Of The Scum Generation — Wilde Davis
+          <div class="content"><a href="/trueself/davis">Perfect Flowers Of The Scum Generation — Wilde Davis</a></a>
         </div></div>
-        <div class="box bottom"><div class="content">Echappe — Xinli She</div></div>
+        <div class="box bottom"><div class="content"><a href="/trueself/she">Echappe — Xinli She</a></div></div>
       </div>
         </main>
 
