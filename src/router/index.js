@@ -428,12 +428,12 @@ const routes = [
     name: 'she',
     component: she
   },
-  /*
   {
     path: '/trueself/davis',
     name: 'davis',
     component: davis
   },
+  /*
   {
     path: '/trueself/liebeskind',
     name: 'liebeskind',
