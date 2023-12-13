@@ -36,14 +36,15 @@
         </h2>
         <br />
         <p>
-          A woman expolores the world to escape her inner demons through people watching.
+          A woman expolores the world to escape her inner demons through people
+          watching.
         </p>
         <br />
         <h3>TIANA DUECK</h3>
         <p>
           tianadueck{@}gmail.com<br />
-          A Canadian filmmaker and artist with a passion for fun and creative community.
-          Founder of Volvox Observer. :)
+          A Canadian filmmaker and artist with a passion for fun and creative
+          community. Founder of Volvox Observer. :)
         </p>
       </div>
 
@@ -64,49 +65,71 @@
         <br />
 
         <p>
-          <strong>Why were you inspired to make this specific film? </strong>
+          <strong>What do you like most about your film?</strong>
           <br /><br />
-          
-          <br /><br />
-          <strong>What do you like most about your film? </strong>
-          <br /><br />
-          
+          Making it by myself was liberating, although scary because if you end
+          up disliking it then it's all your fault. However, just approaching it
+          like a fun fictional diary made the stakes low. It makes me want to
+          make more films on my own.
           <br /><br />
           <strong
             >What is one of your fondest memories from the production/process of
-            making this film?
+            making this film?</strong
+          >
+          <br /><br />
+          Traveling alone was obviously incredible. I learned so much about who
+          I can be independently. I am so proud of myself and I remain inspired
+          by everything I saw. I hope I can keep that lesson with me forever,
+          that I can do it alone with joy; although company is really awesome.
+          <br /><br />
+          <strong
+            >Were there any challenges or doubts you faced in the process? How
+            did you address them?
           </strong>
           <br /><br />
-          
-          <br /><br />
-          <strong>How does your true self shine through in your film? </strong>
-          <br /><br />
-          
+          Sometimes I wasn't really sure if I liked the script I came up with.
+          But the intuitive writing bit of it (writing and performing the day
+          of) made it feel like that's what was meant to be recorded.
           <br /><br />
           <strong
             >How did you perceive films as a kid, in comparison to how you look
             at them now?</strong
           >
           <br /><br />
-          
+          Maybe I'd get more immersed as a kid, but I'm not sure. Perhaps the
+          fact that movies have had a constant existence in my life is why I
+          enjoy them.
+          <br /><br />
+          <strong
+            >What other mediums (apart from film) do you explore as an artist?
+            How do they communicate with your film practice?</strong
+          >
+          <br /><br />
+          I love making websites. TSFF is how I am merging a couple of my
+          passions. :)
           <br /><br />
           <strong
             >What is your writing process like (or are you more into
             improv)?</strong
           >
           <br /><br />
-          
+          I was traveling a bit at the end of my year abroad (Summer 2023), so I
+          decided that in each city I'd take a few minutes in my Airbnb to talk
+          fictionally or hyperbolically about my thoughts towards the place I
+          was visiting and its people. I would sit down and write without
+          stopping for about 5 minutes, and then read it to my camera, with some
+          improv. I wanted to create a character that was a bit uncanny, and
+          honest but judgmental. I was wondering what a person who decides who
+          someone is upon just a first glance would be like.
           <br /><br />
           <strong>How do you approach making a personal film?</strong>
           <br /><br />
-          
-          <br /><br />
-          <strong
-            >What thoughts has making this film sparked that you may bring into
-            your next project or into your daily life?</strong
-          >
-          <br /><br />
-          
+          Intuition. These days I try to just have an idea and then improv.
+          Although, I'm preparing to write a longer script at the moment. I
+          think it matters more so what your goal is. Do you want to practice
+          scriptwriting or improv? Personally, I cant pick one. Usually I find
+          improv more liberating while scriptwriting allows me to form a more
+          intentional story.
         </p>
       </div>
     </div>
