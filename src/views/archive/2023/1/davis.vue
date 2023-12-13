@@ -2,11 +2,11 @@
 <body>
     <a href="/tsff"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ts.png?v=1673389523276" class="logo" /></a>
 
-    <h1>Echappe</h1>
+    <h1>Perfect Flowers Of The Scum Generation</h1>
     <br />
     <p style="font-family: hersheyFut">
         A film by
-        <a href="https://instagram.com/shexinli" target="_blank">Xinli She</a> (She/Her).
+        <a href="https://instagram.com/wildedavis" target="_blank">Wilde Davis</a> (They/He).
     </p>
     <br />
 
@@ -21,14 +21,14 @@
             </h2>
             <br />
             <p>
-                Exploration of the contradiction between the physical world and inner being.    
-            </p>
+The film is a queer triptych following a clan of revolutionary femmes inspired to cause chaos by their hatred for this butch hustler named Hollywood. It's an experiment in degradation, a ritual of magick.            </p>
             <br />
-            <h3>XINLI SHE</h3>
+            <h3>WILDE DAVIS</h3>
             <p>
-                shirleyshe.xinli@gmail.com
-                <br>Echappe is a film that captures the feeling of misaligning with the rest of the world. In one way or another, I think we are constantly compromising within every decision we make, whether it be the subway's schedule, the biological clock, or expectations from others. I want to try and demonstrate this forever battle of fighting for our desires.
-            </p>
+                wildedavis2@gmail.com
+                <br> 
+                Wilde Davis is a filmmaker, writer, and curator based in Paris, France. Their filmmaking practice employs analog to invoke pagan ritual. They interrogate realities of gender, sexuality, and class politics through a punk, communist lens. They hold a BSFS in Culture and Politics from Georgetown University.
+                </p>
         </div>
 
         <div class="ts-box credits">
@@ -36,32 +36,34 @@
                 <span style="background: #f3f9e6; padding: 5px">CREDITS</span>
             </h2>
             <br />
-            <p>Director: Xinli She</p>
+            <p>
+Director / Producer / Writer / Editor: Wilde Davis<br>
+D Little: The Queen<br>
+Wilde Davis: The Witch<br>
+T.C. Williams: Hollywood<br>
+Day Vidya: The Fool<br>
+Sound Design: Christos Tejada<br>
+Sound Mixing: Louise BSX<br>
+Music: M-0ther
+            </p>
         </div>
 
         <div class="ts-box">
             <h2 style="color: #664c71">
-                <span style="background: #f3f9e6; padding: 5px">Q&A WITH XINLI</span>
+                <span style="background: #f3f9e6; padding: 5px">Q&A WITH WILDE</span>
             </h2>
             <br />
 
             <p>
-                <strong>How does your true self shine through in your film?</strong>
-                <br /><br /> Echappe represents the person I was a year ago, specifically the feeling of being stuck and wanting to break free. I was never a rule follower since I was a kid, but I would always try to hide it to avoid confrontations and judgments. Slowly I’ve gotten better at running away from things, and from life itself. Taking on the role of a filmmaker provided me with an outlook on life, and a safety nest to express myself. However, in the process of pursuing arts, I realized that there are logistics and limitations to the practice and the medium. Only this time, I won’t be a coward anymore, I will face whatever obstacles there might be, and learn from them. <br /><br />
-                <strong>Who are some of your inspirations as a filmmaker and how might their impact show up in your film?</strong>
-                <br /><br />
-                Of all the filmmakers that I admire, Edward Yang and Eric Rohmer are always the first two names that pop into my head. When I watched their films at the age of fifteen, I felt seen and understood. And that is the art of filmmaking to me, to connect people, and unite us as a whole.   Now that almost a decade has passed, and filmmaking has become my life passion, I realize that their influences are there all along. The day-to-day life stories, the grounded cinematography style, the use of amateur actors, and the middle-class characters.
-                <br /><br />
-                <strong>What emotion or human experience were you most drawn to in the making of this film and why?</strong>
-                <br /><br /> There haven't been many people who understand the message behind Echappe fully. When I first had the idea and told a friend about it, he encouraged me to explore more. And so that’s what I did for the next six weeks, only to find that I was complicating rather than elevating the original idea, which I feel deeply related to in the first place. Moreover, I had trouble trying to pitch it or explain it to people. I don’t think even my crew related to the film as much as I do. The feeling of isolation hoovered over the process of planning, making, and finishing of the project. The more feedback I received, the more I realized that the “box” can mean different things, it can be societal expectations on women, depression, or past traumas. No one shares the exact same experiences, and it is inevitable that we see the world through our lenses. Maybe the journey of creating art is meant to be isolated and alone, but our collective experience as humans will always connect us together.  
+                <strong>N/A</strong>
             </p>
         </div>
     </div>
 
     <div class="chat" style="border: 1px dotted #212121; padding: 30px; height: 400px">
-        <script type="application/javascript" id="cid0020000363485653376" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%; height: 100%">
+        <script type="application/javascript" id="cid0020000363486277724" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%; height: 100%">
             {
-                "handle": "echappexinli",
+                "handle": "perfectwilde",
                 "arch": "js",
                 "styles": {
                     "a": "f3f9e6",
@@ -98,7 +100,7 @@
 
 <script>
 export default {
-    name: "she",
+    name: "davis",
     components: {},
     metaInfo: {
         // title will be injected into parent titleTemplate
