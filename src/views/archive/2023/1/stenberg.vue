@@ -61,7 +61,8 @@
         </h2>
         <br />
         <p>
-          Director and Actor: Alexandra Stenberg Videographer: Zoe McIntosh
+          Director and Actor: Alexandra Stenberg<br>
+          Videographer: Zoe McIntosh
         </p>
       </div>
 
