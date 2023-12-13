@@ -80,11 +80,8 @@ import lo from '../views/archive/2023/1/lo.vue'
 import stenberg from '../views/archive/2023/1/stenberg.vue'
 import liu from '../views/archive/2023/1/liu.vue'
 import haver from '../views/archive/2023/1/haver.vue'
-
-/*
-import dueck from '../views/archive/2023/1/dueck.vue'
 import tucker from '../views/archive/2023/1/tucker.vue'
-*/
+import dueck from '../views/archive/2023/1/dueck.vue'
 
 /* ISSUES */
 import Identity from '../views/archive/issues/Identity/Identity.vue'
@@ -478,19 +475,17 @@ const routes = [
     name: 'haver',
     component: haver
   },
-    /*
-      {
+  {
     path: '/trueself/tucker',
     name: 'tucker',
     component: tucker
   },
-
-        {
+  {
     path: '/trueself/dueck',
     name: 'dueck',
     component: dueck
   },
-  */
+  
 
   /* Issues */
 

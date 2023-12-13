@@ -6,14 +6,14 @@
         class="logo"
     /></a>
 
-    <h1>A Film About My Grandparents</h1>
+    <h1>Salad</h1>
     <br />
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://www.youtube.com/@Joel-Haver" target="_blank"
-        >Joel Haver</a
+      <a href="https://www.youtube.com/@watersilk" target="_blank"
+        >Tiana Dueck</a
       >
-      (He/Him)
+      (She/Her)
     </p>
     <br />
 
@@ -21,7 +21,7 @@
       <iframe
         width="100%"
         height="100%"
-        src="https://www.youtube.com/embed/4qzd7x8q0_4?si=ux52NyKqEFUwirh-"
+        src="https://www.youtube.com/embed/D8h2FWEJycA?si=h7DA-l5Va1N7I_dI"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -36,17 +36,13 @@
         </h2>
         <br />
         <p>
-          A film about my grandparents.
+          A woman expolores the world to escape her inner demons through people watching.
         </p>
         <br />
-        <h3>JOEL HAVER</h3>
+        <h3>TIANA DUECK</h3>
         <p>
-          joelrhaver@gmail.com<br />
-          My grandparents have had the same quiet life as long as I've been
-          alive. At times it feels like a sort of stagnation I could never be
-          comfortable with for myself and at other times there's an immense
-          comfort in the thought of slowing down and knowing what each day will
-          bring. Either way it's always nice to see them.
+          tianadueck{@}gmail.com<br />
+          A Canadian filmmaker and artist with a passion for fun and creative community.
         </p>
       </div>
 
@@ -56,88 +52,60 @@
         </h2>
         <br />
         <p>
-          Director: Joel Haver <br />
-          Starring: Hugh and Gloria Fraser
+          Director: Tiana Dueck
         </p>
       </div>
 
       <div class="ts-box">
         <h2 style="color: #664c71">
-          <span style="background: #f3f9e6; padding: 5px">Q&A WITH JOEL</span>
+          <span style="background: #f3f9e6; padding: 5px">Q&A WITH TIANA</span>
         </h2>
         <br />
 
         <p>
           <strong>Why were you inspired to make this specific film? </strong>
           <br /><br />
-          Last time I visited my grandparents in 2018 I shot a similar
-          documentary trying my best to capture their essence without words and
-          I really enjoyed the format and wanted to do a sequel of sorts.
+          
           <br /><br />
           <strong>What do you like most about your film? </strong>
           <br /><br />
-          I like that it has no dialogue. Both of my grandparents can be
-          chatterboxes and often are telling stories and roasting each other,
-          but there's an inherent quietness to their presence on earth that I
-          think is captured better with no words.
+          
           <br /><br />
           <strong
             >What is one of your fondest memories from the production/process of
             making this film?
           </strong>
           <br /><br />
-          The weeklong trip staying with them in general was lovely. I went with
-          my friend Tom and it was the most I ever got out and explored Nova
-          Scotia. I was probably only filming about 15-30 minutes a day, so it
-          was never too distracting and I still was able to live in the moment.
+          
           <br /><br />
           <strong>How does your true self shine through in your film? </strong>
           <br /><br />
-          I wouldn't exist without these people and that in and of itself is a
-          crazy thought that only dawns on me more and more with age. And while
-          my internet-laden, super social life could not be more different than
-          my grandparents, there's a deep part of me that feels connected to
-          them and their love of nature and the mundane. It's a part of me I
-          want to give more life to.
+          
           <br /><br />
           <strong
             >How did you perceive films as a kid, in comparison to how you look
             at them now?</strong
           >
           <br /><br />
-          I typically liked big movies! Hollywood movies! I thought Forrest Gump
-          was the be all end all of what cinema could accomplish. They operated
-          as entertainment in my life first and foremost, and entertainment is
-          valuable, but establishing a deeper more emotional connection to film
-          in my adulthood has been very rewarding.
+          
           <br /><br />
           <strong
             >What is your writing process like (or are you more into
             improv)?</strong
           >
           <br /><br />
-          All improv all the way! This film in particular is a documentary, but
-          I find my loose style of narrative sometimes has more in common with
-          documentary than scripted films.
+          
           <br /><br />
           <strong>How do you approach making a personal film?</strong>
           <br /><br />
-          I want to operate freely and detach myself from the aesthetics and
-          technical qualities as much as I can. It's great to make aesthetically
-          beautifully and technically sound work, but I think personal honesty
-          is easiest done raw. The second we allow ourselves the construct too
-          much the second we risk stumbling away from honesty.
+          
           <br /><br />
           <strong
             >What thoughts has making this film sparked that you may bring into
             your next project or into your daily life?</strong
           >
           <br /><br />
-          Slow down, Joel! It's okay to take days one at a time and pass the
-          time doing nothing much at all. I've historically been a workaholic
-          but have gotten far better about taking life easier over the last few
-          years. Seeing my grandparents, especially in their retirement, is a
-          nice reminder of just how slow slow can get.
+          
         </p>
       </div>
     </div>
@@ -148,14 +116,14 @@
     >
       <script
         type="application/javascript"
-        id="cid0020000363495234586"
+        id="cid0020000363496071694"
         data-cfasync="false"
         async
         src="//st.chatango.com/js/gz/emb.js"
         style="width: 100%; height: 100%"
       >
         {
-            "handle": "aboutjoel",
+            "handle": "saladtiana",
             "arch": "js",
             "styles": {
                 "a": "f3f9e6",
@@ -192,7 +160,7 @@
 
 <script>
 export default {
-  name: "haver",
+  name: "dueck",
   components: {},
   metaInfo: {
     // title will be injected into parent titleTemplate
