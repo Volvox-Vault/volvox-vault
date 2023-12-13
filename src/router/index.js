@@ -78,11 +78,11 @@ import perry from '../views/archive/2023/1/perry.vue'
 import bjerborn from '../views/archive/2023/1/bjerborn.vue'
 import lo from '../views/archive/2023/1/lo.vue'
 import stenberg from '../views/archive/2023/1/stenberg.vue'
+import liu from '../views/archive/2023/1/liu.vue'
 
 /*
 import dueck from '../views/archive/2023/1/dueck.vue'
 import haver from '../views/archive/2023/1/haver.vue'
-import liu from '../views/archive/2023/1/liu.vue'
 import tucker from '../views/archive/2023/1/tucker.vue'
 */
 
@@ -468,17 +468,18 @@ const routes = [
     name: 'stenberg',
     component: stenberg
   },
+  {
+    path: '/trueself/liu',
+    name: 'liu',
+    component: liu
+  },
     /*
       {
     path: '/trueself/tucker',
     name: 'tucker',
     component: tucker
   },
-       {
-    path: '/trueself/liu',
-    name: 'liu',
-    component: liu
-  },
+
         {
     path: '/trueself/dueck',
     name: 'dueck',
