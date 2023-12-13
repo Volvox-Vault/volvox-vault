@@ -71,6 +71,7 @@ import saban from '../views/archive/2023/1/saban.vue'
 import klipp from '../views/archive/2023/1/klipp.vue'
 import she from '../views/archive/2023/1/she.vue'
 import davis from '../views/archive/2023/1/davis.vue'
+import krass from '../views/archive/2023/1/krass.vue'
 
 
 /*
@@ -84,7 +85,6 @@ import tucker from '../views/archive/2023/1/tucker.vue'
 import lo from '../views/archive/2023/1/lo.vue'
 import perry from '../views/archive/2023/1/perry.vue'
 import liebeskind from '../views/archive/2023/1/liebeskind.vue'
-import krass from '../views/archive/2023/1/krass.vue'
 */
 
 /* ISSUES */
@@ -434,17 +434,18 @@ const routes = [
     name: 'davis',
     component: davis
   },
+  {
+    path: '/trueself/krass',
+    name: 'krass',
+    component: krass
+  },
   /*
   {
     path: '/trueself/liebeskind',
     name: 'liebeskind',
     component: liebeskind
   },
-  {
-    path: '/trueself/krass',
-    name: 'krass',
-    component: krass
-  },
+
     {
     path: '/trueself/perry',
     name: 'perry',
