@@ -73,6 +73,7 @@ import she from '../views/archive/2023/1/she.vue'
 import davis from '../views/archive/2023/1/davis.vue'
 import krass from '../views/archive/2023/1/krass.vue'
 import liebeskind from '../views/archive/2023/1/liebeskind.vue'
+import olanik from '../views/archive/2023/1/olanik.vue'
 
 /*
 import dueck from '../views/archive/2023/1/dueck.vue'
@@ -80,7 +81,6 @@ import haver from '../views/archive/2023/1/haver.vue'
 import liu from '../views/archive/2023/1/liu.vue'
 import bjerborn from '../views/archive/2023/1/bjerborn.vue'
 import stenberg from '../views/archive/2023/1/stenberg.vue'
-import olanik from '../views/archive/2023/1/olanik.vue'
 import tucker from '../views/archive/2023/1/tucker.vue'
 import lo from '../views/archive/2023/1/lo.vue'
 import perry from '../views/archive/2023/1/perry.vue'
@@ -443,6 +443,11 @@ const routes = [
     name: 'liebeskind',
     component: liebeskind
   },
+  {
+    path: '/trueself/olanick',
+    name: 'olanick',
+    component: olanick
+  },
   /*
     {
     path: '/trueself/perry',
@@ -458,11 +463,6 @@ const routes = [
     path: '/trueself/tucker',
     name: 'tucker',
     component: tucker
-  },
-      {
-    path: '/trueself/olanick',
-    name: 'olanick',
-    component: olanick
   },
       {
     path: '/trueself/bjerborn',
