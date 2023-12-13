@@ -222,6 +222,7 @@ a:hover {
 }
 
 .chat {
+  margin-top: 10px;
     display: block;
 }
 
@@ -242,9 +243,9 @@ a:hover {
     }
     .credits {
       grid-column-start: 1;
-  grid-column-end: 2;
-  grid-row-start: 3;
-  grid-row-end: 3;
+      grid-column-end: 2;
+      grid-row-start: 3;
+      grid-row-end: 3;
     }
 }
 </style>
