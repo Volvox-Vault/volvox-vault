@@ -142,7 +142,7 @@
              those that could work in a more linear and a more reasonable way.
              <br><br> It always starts out as frantic, several yellow post-its on white wall. Abstract thesis and
              scattered ideas. I always write two concepts and draw an arrow between them, like so, "Homeland
-             < - - - > Identity". Looks stupid but it simplifies those grand ideas for me.
+            - - - Identity". Looks stupid but it simplifies those grand ideas for me.
             <br><br> Eventually I would pick some ideas from that tree of post-its and write a script or a
             treatment, not so much for myself but for organisational purposes and for other collaborators to
             understand the project so they know what to do.
@@ -164,7 +164,7 @@
             identity/ expression of identity, so, making up things is crucial for me to be more truthful.
          </p>
      </div>
-     
+
  </div>
     <div class="chat" style="border: 1px dotted #212121; padding: 30px; height: 400px">
         <script type="application/javascript" id="cid0020000363491625509" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%; height: 100%">
