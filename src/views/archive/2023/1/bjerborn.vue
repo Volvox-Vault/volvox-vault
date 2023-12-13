@@ -2,16 +2,16 @@
 <body>
     <a href="/tsff"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ts.png?v=1673389523276" class="logo" /></a>
 
-    <h1>Mega Memories</h1>
+    <h1>Across the Water</h1>
     <br />
     <p style="font-family: hersheyFut">
         A film by
-        <a href="https://instagram.com/laraolanick" target="_blank">Lara Olanick</a> (She/Her)
+        <a href="https://instagram.com/ellenmsb" target="_blank">Ellen</a> <a href="https://www.ellen.media">Bjerborn</a>
     </p>
     <br />
 
     <div class="youtube">
-        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ZnQQXSQ6nXg?si=YW0ZdAYBDXfD7oGB" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/SLJu9B4GKcA?si=tUFtf5k_RxGkolBw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
 
     <div class="ts-contain">
@@ -20,15 +20,14 @@
                 <span style="background: #f3f9e6; padding: 5px">ABOUT</span>
             </h2>
             <br />
+            <h3>ELLEN BJERBORN</h3>
             <p>
-                A one-minute audio-visual composition that layers the artist's personal videos and sounds.
-            </p>
-            <br />
-            <h3>LARA OLANICK</h3>
-            <p>
-                For this piece, I merged videos and layered sounds to transform "simple" memories into compressed, enhanced experiences. Small snippets of my life were dissected. Rearranged. Frankensteined. A night out with friends was collaged on top of Niagara Falls, and audio taken from somewhere else entirely. From this mix, maximalist images are made and new narratives are born. 
-Through "Mega Memories," I aim to encourage reflection on the nature of memory and the implications of the more-is-better maxim. 
-                </p>
+                ellenbjerborn@gmail.com<br>
+                Ellen Bjerborn, b. 1995, Sweden is a lernaean hydra and media artist based in Malmö, Sweden.
+                <br /><br />
+                Her practice explores themes of gender, technology, and spirituality using lens-based and digital media.
+                <br /><br />
+                She holds a BFA in Industrial design from Parsons School of Design, NYC. </p>
         </div>
 
         <div class="ts-box credits">
@@ -37,38 +36,38 @@ Through "Mega Memories," I aim to encourage reflection on the nature of memory a
             </h2>
             <br />
             <p>
-                All images and sounds were captured and edited by Lara Olanick. 
+                Director: Ellen Bjerborn
             </p>
         </div>
 
         <div class="ts-box">
             <h2 style="color: #664c71">
-                <span style="background: #f3f9e6; padding: 5px">Q&A WITH LARA</span>
+                <span style="background: #f3f9e6; padding: 5px">Q&A ELLEN</span>
             </h2>
             <br />
 
             <p>
                 <strong>Why were you inspired to make this specific film?</strong>
                 <br><br>
-My stupid phone kept running out of storage. I used to delete photos and videos, rather than back anything up. Whole days, weeks, months have been erased in this way. Not really of course, but the evidence of my having lived through them is gone. 
-<br><br>
-It's tiring to hear how the our generation documents everything we see. How we have to abandon our phones to live in the moment. How we observe the world through a screen. Tiring because it's been said so many times, and I sort-of-mostly agree. But I was attached to the small moments I had recorded and sent to my friends. The way the water rippled, a particularly majestic cloud. There's one small video of an orange flower swaying gently in the breeze, and I don't think I'd remember it at all if I hadn't captured it on video. I became attached to it, and wanted to preserve it in a way. So I added it to a bouquet of other images.                 
-<strong>What do you like most about your film?</strong>
+                In this short film I reflect on being torn between family and opportunity. Perpetually on the wrong side of the water. The footage is of my mother, filmed at the beach across the water from the airport in Copenhagen, where I had both left and met her many times. I made the film after I had to leave the life I had built in the US because of the pandemic and come back home. This was a bittersweet time in my life. I felt that the progress I had made in my life had regressed, I was living at home back in my home town and was unemployed. In terms of my practice it was a good time, all the blank space and frustration I channeled into creation. I made a longer film during this time Like4Like, that got attention and I got to show here and there.
                 <br><br>
-I like the creepy animatronic monkey nodding his head. It makes me happy every time I see it. 
-                <strong>What is one of your fondest memories from the process of making this film?</strong>
+                In terms of Across the Water, it was more of an experiment with video poetry. I was longing to go back, and during this walk with my mother along the beach I was with her, the main idea of home for me, but we were also so close to the airport, just the water between it and us.
                 <br><br>
-The collaging of audio. Music can add, emphasize, or manipulate an audience's reaction to a scene. A crescendoing orchestral piece in some nature documentary can make a giant lion chasing a quick gazelle so much more dramatic. Depending on the tune, we might even sympathize with the lion more. 
-<br><br>
-It was interesting to do the same with moments I had lived through. A forced reconsidering. My feelings towards objects, people, sunsets had been changed and rearranged depending on the sounds I placed upon them. Even though every video was one that was taken by me, I felt like I had found a way to take me out of the picture and put different parts of myself back in.             </p>
+                <strong>How does your true self shine through in your film?</strong>
+                <br><br>
+                The footage is very simple, just two shots faded into each other and the audio is recorded using an iPhone. This makes the film feel raw, or rather true. The subject is also a person close to me, my mother and it's shot in a location where I’ve spent time since I was a child (since always). For these reasons, I felt the film would be suitable for the theme of true self. It shows what I was feeling at the time, and to me is intimate and revealing of some things I didn’t say out loud.
+                <br><br>
+                <strong>What other mediums (apart from film) do you explore as an artist? How do they communicate with your film practice?</strong>
+                <br><br>
+                I’ve been wanting to explore the extension of film into space, for example sculpture shown in the same space as the film, or seating designed specifically for the film. I’ve always liked that in film you can control two of the audience's senses at once, their vision and hearing so that you’re more in control of what the audience receives or understands. With objects it’s up to the viewer, you can’t make sure they see what you see in the same way as with film, so to me a medium like sculpture is scary, but it also seems freeing to be less in control. </p>
         </div>
     </div>
 
     <div class="chat" style="border: 1px dotted #212121; padding: 30px; height: 400px">
 
-        <script type="application/javascript" id="cid0020000363488984566" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%; height: 100%">
+        <script type="application/javascript" id="cid0020000363491107877" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%; height: 100%">
             {
-                "handle": "megalara",
+                "handle": "acrossellen",
                 "arch": "js",
                 "styles": {
                     "a": "f3f9e6",
@@ -105,7 +104,7 @@ It was interesting to do the same with moments I had lived through. A forced rec
 
 <script>
 export default {
-   name: "olanick",
+   name: "bjerborn",
    components: {},
    metaInfo: {
        // title will be injected into parent titleTemplate

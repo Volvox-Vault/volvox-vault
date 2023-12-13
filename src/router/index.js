@@ -75,12 +75,12 @@ import krass from '../views/archive/2023/1/krass.vue'
 import liebeskind from '../views/archive/2023/1/liebeskind.vue'
 import olanick from '../views/archive/2023/1/olanick.vue'
 import perry from '../views/archive/2023/1/perry.vue'
+import bjerborn from '../views/archive/2023/1/bjerborn.vue'
 
 /*
 import dueck from '../views/archive/2023/1/dueck.vue'
 import haver from '../views/archive/2023/1/haver.vue'
 import liu from '../views/archive/2023/1/liu.vue'
-import bjerborn from '../views/archive/2023/1/bjerborn.vue'
 import stenberg from '../views/archive/2023/1/stenberg.vue'
 import tucker from '../views/archive/2023/1/tucker.vue'
 import lo from '../views/archive/2023/1/lo.vue'
@@ -453,6 +453,11 @@ const routes = [
     name: 'perry',
     component: perry
   },
+  {
+    path: '/trueself/bjerborn',
+    name: 'bjerborn',
+    component: bjerborn
+  },
     /*
     {
     path: '/trueself/lo',
@@ -463,11 +468,6 @@ const routes = [
     path: '/trueself/tucker',
     name: 'tucker',
     component: tucker
-  },
-      {
-    path: '/trueself/bjerborn',
-    name: 'bjerborn',
-    component: bjerborn
   },
        {
     path: '/trueself/stenberg',

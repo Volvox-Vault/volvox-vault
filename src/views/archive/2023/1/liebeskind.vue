@@ -51,7 +51,7 @@
 
         <div class="ts-box">
             <h2 style="color: #664c71">
-                <span style="background: #f3f9e6; padding: 5px">Q&A WITH A + J</span>
+                <span style="background: #f3f9e6; padding: 5px">Q&A WITH MAIA</span>
             </h2>
             <br />
 
