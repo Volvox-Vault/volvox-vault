@@ -1,6 +1,6 @@
 <template>
 <body>
-    <router-link to="/tsff"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ts.png?v=1673389523276" class="logo" /></router-link>
+    <a href="/tsff"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ts.png?v=1673389523276" class="logo" /></a>
     <h1>Patient Object</h1>
     <br />
     <p style="font-family: hersheyFut">
