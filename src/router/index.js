@@ -73,7 +73,7 @@ import she from '../views/archive/2023/1/she.vue'
 import davis from '../views/archive/2023/1/davis.vue'
 import krass from '../views/archive/2023/1/krass.vue'
 import liebeskind from '../views/archive/2023/1/liebeskind.vue'
-import olanik from '../views/archive/2023/1/olanick.vue'
+import olanick from '../views/archive/2023/1/olanick.vue'
 
 /*
 import dueck from '../views/archive/2023/1/dueck.vue'
