@@ -13,7 +13,7 @@
       <a href="https://www.youtube.com/@watersilk" target="_blank"
         >Tiana Dueck</a
       >
-      (She/Her)
+      (She/Her).
     </p>
     <br />
 
