@@ -19,13 +19,7 @@
 
 
     <div
-      style="
-        border: 1px dotted #212121;
-        padding: 30px;
-        margin-bottom: 10px;
-        height: 55vh;
-        min-height: 350px;
-      "
+      class="youtube"
     >
       <iframe
         width="100%"
@@ -69,7 +63,7 @@
         </p>
       </div>
 
-      <div class="ts-box">
+      <div class="ts-box credits">
         <h2 style="color: #664c71">
           <span style="background: #f3f9e6; padding: 5px">CREDITS</span>
         </h2>
@@ -159,9 +153,8 @@
       </div>
     </div>
 
-    <br>
 
-    <div style="border: 1px dotted #212121; padding: 30px; height: 400px">
+    <div class="chat" style="border: 1px dotted #212121; padding: 30px; height: 400px">
       <script
         type="application/javascript"
         id="cid0020000363315514134"
@@ -225,76 +218,103 @@ export default {
 }
 
 body {
-  line-height: 1.6;
-  background: #664c71;
-  font-family: hersheyOld;
-  height: 100%;
-  color: #f3f9e6;
-  padding: 30px;
-  overscroll-behavior: none;
+    line-height: 1.6;
+    background: #664c71;
+    font-family: hersheyOld;
+    height: 100%;
+    color: #f3f9e6;
+    padding: 30px;
+    overscroll-behavior: none;
 }
 
 h1,
 p {
-  padding: 0px;
-  margin: 0px;
+    padding: 0px;
+    margin: 0px;
 }
 
 h1 {
-  line-height: 1;
-  font-size: 45pt;
+    line-height: 1;
+    font-size: 45pt;
 }
 
 h2 {
-  padding: 0px;
-  margin: 0px;
-  line-height: 1;
+    padding: 0px;
+    margin: 0px;
+    line-height: 1;
 }
 
 ul {
-  font-size: 15pt;
+    font-size: 15pt;
 }
 
 .logo {
-  width: 50px;
-  float: right;
-  padding-left: 10px;
-  padding-bottom: 10px;
+    width: 50px;
+    float: right;
+    padding-left: 10px;
+    padding-bottom: 10px;
 }
 
 a {
-  color: #f3f9e6;
-  transition: 1s;
-  text-decoration: underline;
+    color: #f3f9e6;
+    transition: 1s;
+    text-decoration: underline;
 }
 
 a:hover {
-  text-decoration: none;
-  background: #f3f9e6;
-  color: #664c71;
+    text-decoration: none;
+    background: #f3f9e6;
+    color: #664c71;
 }
 
 .ts-contain {
-  display: grid;
-  grid-template-columns: 1fr 1fr 1fr;
-  column-gap: 10px;
-  row-gap: 10px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    column-gap: 10px;
+    row-gap: 10px;
 }
 
 .ts-box {
-  border: 1px dotted #212121;
-  padding: 30px;
-  height: 200px;
-  overflow-y: auto;
-  overflow-x: hidden;
+    border: 1px dotted #212121;
+    padding: 30px;
+    height: 200px;
+    overflow-y: auto;
+    overflow-x: hidden;
+}
+
+.youtube {
+    border: 1px dotted #212121;
+    padding: 30px;
+    margin-bottom: 10px;
+    height: 55vh;
+    min-height: 350px;
+}
+
+.chat {
+  margin-top: 10px;
+    display: block;
 }
 
 @media only screen and (max-width: 600px) {
-  .ts-contain {
-    grid-template-columns: 1fr;
-  }
-  .logo {
-    width: 200px;
-  }
+    .ts-contain {
+        grid-template-columns: 1fr;
+        row-gap: 20px;
+    }
+    .ts-box {
+        height: 300px;
+    }
+    .youtube {
+        height: 200px;
+        margin-bottom: 20px;
+    }
+    .chat {
+        display: none;
+    }
+    .credits {
+      grid-column-start: 1;
+      grid-column-end: 2;
+      grid-row-start: 3;
+      grid-row-end: 3;
+    }
 }
 </style>

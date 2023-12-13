@@ -63,29 +63,29 @@
                     <br /><br /> I like the architecture of this film. The way transitions happen, the way camera movements suggest an awkward and unsolved orientation, a seeking, walking around a cube like you'd walk around a vehicle in a used car lot to
                     assess it. This film does a lot of ambiguous assessing and it does some keeping and some holding. <br /><br />
                     <strong>Did anyone specific become critical to the creation of your film?
-                    Why do they stand out as significant to your film?</strong
-                  >
-                  <br /><br />
-                  My girlfriend Ivy was really central to the editing process. I
-                  probably showed her 2 or 3 cuts and the final thing changed a lot from
-                  what I was originally going after. I think she helped push me to
-                  sculpt this into something more specified and sanded down like a piece
-                  of wood.
-                  <br /><br />
-                  <strong
-                    >What is one of your fondest memories from the production/process of
-                    making this film?</strong
-                  >
-                  <br /><br />
-                  My fondest memories are when the camera kept calling me back; the
-                  memory of making images that did not end up in the film but held up
-                  the thick concept and looming cloud of making this project over
-                  months. There are fond memories of the way I continued to work out and
-                  define what I was trying to do with how I treated the little webcam in
-                  my pocket. There are bits of life and moving through the city and
-                  there are bits of confusion and anonymity.
-                  <br /><br />
-                  <strong>How does your true self shine through in your film?</strong>
+                        Why do they stand out as significant to your film?</strong
+                      >
+                      <br /><br />
+                      My girlfriend Ivy was really central to the editing process. I
+                      probably showed her 2 or 3 cuts and the final thing changed a lot from
+                      what I was originally going after. I think she helped push me to
+                      sculpt this into something more specified and sanded down like a piece
+                      of wood.
+                      <br /><br />
+                      <strong
+                        >What is one of your fondest memories from the production/process of
+                        making this film?</strong
+                      >
+                      <br /><br />
+                      My fondest memories are when the camera kept calling me back; the
+                      memory of making images that did not end up in the film but held up
+                      the thick concept and looming cloud of making this project over
+                      months. There are fond memories of the way I continued to work out and
+                      define what I was trying to do with how I treated the little webcam in
+                      my pocket. There are bits of life and moving through the city and
+                      there are bits of confusion and anonymity.
+                      <br /><br />
+                      <strong>How does your true self shine through in your film?</strong>
                     <br /><br /> This film shows me trying to hold onto things that I lived through but which do not identify my life all that well. This film has a lot of what I see in it. This film has a lot of things I might feel a little ashamed to have
                     taken so much joy in seeing.
                 </p>
@@ -222,7 +222,7 @@ a:hover {
 }
 
 .chat {
-  margin-top: 10px;
+    margin-top: 10px;
     display: block;
 }
 
@@ -242,10 +242,10 @@ a:hover {
         display: none;
     }
     .credits {
-      grid-column-start: 1;
-      grid-column-end: 2;
-      grid-row-start: 3;
-      grid-row-end: 3;
+        grid-column-start: 1;
+        grid-column-end: 2;
+        grid-row-start: 3;
+        grid-row-end: 3;
     }
 }
 </style>
