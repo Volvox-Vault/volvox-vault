@@ -13,7 +13,7 @@
       <a href="https://www.youtube.com/@Joel-Haver" target="_blank"
         >Joel Haver</a
       >
-      (He/Him)
+      (He/Him).
     </p>
     <br />
 

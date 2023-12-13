@@ -10,8 +10,7 @@
     <br />
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://instagram.com/ellenmsb" target="_blank">Ellen</a>
-      <a href="https://www.ellen.media">Bjerborn</a>
+      <a href="https://instagram.com/ellenmsb" target="_blank">Ellen</a> <a href="https://www.ellen.media">Bjerborn</a>.
     </p>
     <br />
 
@@ -38,10 +37,8 @@
           ellenbjerborn{@}gmail.com<br />
           Ellen Bjerborn, b. 1995, Sweden is a lernaean hydra and media artist
           based in Malmö, Sweden.
-          <br /><br />
           Her practice explores themes of gender, technology, and spirituality
           using lens-based and digital media.
-          <br /><br />
           She holds a BFA in Industrial design from Parsons School of Design,
           NYC.
         </p>

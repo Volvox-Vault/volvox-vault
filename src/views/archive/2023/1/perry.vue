@@ -10,8 +10,7 @@
     <br />
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://instagram.com/alanjperry" target="_blank">Alan</a>
-      <a href="https://www.alanjperry.com">Perry</a> (He/Him)
+      <a href="https://instagram.com/alanjperry" target="_blank">Alan</a> <a href="https://www.alanjperry.com">Perry</a> (He/Him).
     </p>
     <br />
 

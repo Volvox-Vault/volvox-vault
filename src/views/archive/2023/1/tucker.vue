@@ -12,7 +12,7 @@
       A film by
       <a href="https://www.youtube.com/@Joel-Haver" target="_blank"
         >Stanley Tucker</a
-      >
+      >.
     </p>
     <br />
 

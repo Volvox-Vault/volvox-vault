@@ -12,8 +12,7 @@
       A film by
       <a href="https://www.instagram.com/cookierill/" target="_blank"
         >Charli Christine Marker</a
-      >
-      (She/Her).
+      > (She/Her).
     </p>
     <br />
 

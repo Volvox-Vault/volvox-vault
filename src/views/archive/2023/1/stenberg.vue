@@ -12,8 +12,7 @@
       A film by
       <a href="https://instagram.com/alexandra.stenberg" target="_blank"
         >Alexandra</a
-      >
-      <a href="https://alexandrastenberg.com">Stenberg</a> (She/They)
+      > <a href="https://alexandrastenberg.com">Stenberg</a> (She/They).
     </p>
     <br />
 

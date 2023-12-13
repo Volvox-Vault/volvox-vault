@@ -6,7 +6,7 @@
     <br />
     <p style="font-family: hersheyFut">
         A film by
-        <a href="https://instagram.com/laraolanick" target="_blank">Lara Olanick</a> (She/Her)
+        <a href="https://instagram.com/laraolanick" target="_blank">Lara Olanick</a> (She/Her).
     </p>
     <br />
 

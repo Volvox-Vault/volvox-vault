@@ -12,8 +12,7 @@
 
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://instagram.com/alx.alr" target="_blank">Alex Lo</a>
-      (He/Him)
+      <a href="https://instagram.com/alx.alr" target="_blank">Alex Lo</a> (He/Him).
     </p>
 
     <br />

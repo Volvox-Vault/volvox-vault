@@ -10,8 +10,7 @@
     <br />
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://instagram.com/maipai0" target="_blank">Maia</a>
-      <a href="http://maiaworld.me/" target="_blank">Liebeskind</a> (They/Them)
+      <a href="https://instagram.com/maipai0" target="_blank">Maia</a> <a href="http://maiaworld.me/" target="_blank">Liebeskind</a> (They/Them).
     </p>
     <br />
 

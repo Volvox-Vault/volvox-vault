@@ -11,8 +11,7 @@
       A film by
       <a href="https://www.instagram.com/charlieklipp/" target="_blank"
         >Charlie</a
-      >
-      <a href="https://charlieklipp.com" target="_blank">Klipp</a> (He/Him).
+      > <a href="https://charlieklipp.com" target="_blank">Klipp</a> (He/Him).
     </p>
     <br />
     <div class="youtube">

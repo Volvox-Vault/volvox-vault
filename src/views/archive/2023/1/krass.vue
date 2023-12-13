@@ -10,8 +10,7 @@
     <br />
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://instagram.com/annabekay" target="_blank">Anna</a>
-      (She/Her) and Jacob (He/Him) Brotman-Krass.
+      <a href="https://instagram.com/annabekay" target="_blank">Anna</a> (She/Her) and Jacob (He/Him) Brotman-Krass.
     </p>
     <br />
 

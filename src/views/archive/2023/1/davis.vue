@@ -10,8 +10,7 @@
     <br />
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://instagram.com/wildedavis" target="_blank">Wilde Davis</a>
-      (They/He).
+      <a href="https://instagram.com/wildedavis" target="_blank">Wilde Davis</a> (They/He).
     </p>
     <br />
 

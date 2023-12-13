@@ -74,28 +74,28 @@
           <span style="background: #f3f9e6; padding: 5px">Q&A WITH MATIAS</span>
         </h2>
         <br />
-
-        <p>
-          <strong>Why were you inspired to make this specific film?</strong> <br><br> I
+          <h3>Why were you inspired to make this specific film?</h3> <br> <p>I
           Wanted to make a film that was at once a genre movie focused on
           process, a film about loneliness in the urban environment and an
           experimental film, all of those being themes/aesthetics/qualities that
           i deeply love in the pictures that i watch. So it was at the same time
           an ambitious but humble attempt to use my insirations to make
-          something as independently as possible. <br /><br />
-          <strong>How does your true self shine through in your film?</strong><br><br>
+          something as independently as possible. </p><br />
+          <h3>How does your true self shine through in your film?</h3><br><p>
           By two means. The first, by putting a lot of myself and my feelings at
           the time on the character, and it being perceptible despite the
           obvious differences (me not being a contract killer). The second, by
           making the film that i wanted, having my clear vision and intent
           onscreen, which is something that is always deeply personal and
           perhaps the clearest expression of true self a filmmaker can achieve.
-          <br /><br />
-          <strong
+          </p>
+          <br />
+          <h3
             >What thoughts has making this film sparked that you may bring into
-            your next project or into your daily life?</strong
+            your next project or into your daily life?</h3
           >
-          <br><br>
+          <br>
+          <p>
           Definetly that, for independent films, the less the better in terms of
           production. And that cheap, non-hd cameras can also produce images
           that look great!

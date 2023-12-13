@@ -10,8 +10,7 @@
     <br />
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://instagram.com/conliuart" target="_blank">Connie</a>
-      <a href="http://connie.surf">Liu</a> (She/Her)
+      <a href="https://instagram.com/conliuart" target="_blank">Connie</a> <a href="http://connie.surf">Liu</a> (She/Her).
     </p>
     <br />
 
