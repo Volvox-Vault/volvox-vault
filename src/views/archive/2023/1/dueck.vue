@@ -43,6 +43,7 @@
         <p>
           tianadueck{@}gmail.com<br />
           A Canadian filmmaker and artist with a passion for fun and creative community.
+          Founder of Volvox Observer. :)
         </p>
       </div>
 
