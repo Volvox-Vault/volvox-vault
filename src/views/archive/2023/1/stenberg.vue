@@ -6,12 +6,14 @@
         class="logo"
     /></a>
 
-    <h1>Across the Water</h1>
+    <h1>I Am Here</h1>
     <br />
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://instagram.com/ellenmsb" target="_blank">Ellen</a>
-      <a href="https://www.ellen.media">Bjerborn</a>
+      <a href="https://instagram.com/alexandra.stenberg" target="_blank"
+        >Alexandra</a
+      >
+      <a href="https://alexandrastenberg.com">Stenberg</a> (She/They)
     </p>
     <br />
 
@@ -19,7 +21,7 @@
       <iframe
         width="100%"
         height="100%"
-        src="https://www.youtube.com/embed/SLJu9B4GKcA?si=tUFtf5k_RxGkolBw"
+        src="https://www.youtube.com/embed/WHFnMlOSH90?si=2zNvxoeMcSmUqt8k"
         title="YouTube video player"
         frameborder="0"
         allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
@@ -33,17 +35,23 @@
           <span style="background: #f3f9e6; padding: 5px">ABOUT</span>
         </h2>
         <br />
-        <h3>ELLEN BJERBORN</h3>
         <p>
-          ellenbjerborn@gmail.com<br />
-          Ellen Bjerborn, b. 1995, Sweden is a lernaean hydra and media artist
-          based in Malmö, Sweden.
-          <br /><br />
-          Her practice explores themes of gender, technology, and spirituality
-          using lens-based and digital media.
-          <br /><br />
-          She holds a BFA in Industrial design from Parsons School of Design,
-          NYC.
+          An audio-visual representation of my journey of grounding myself. In
+          the film, you can see me engaging with nature; walking, sitting,
+          laying down, completely absorbed by the here and now. Along with this,
+          you can hear a poem, cited in form of a meditation, arriving at the
+          conclusion that I am here.
+        </p>
+        <br />
+        <h3>ALEXANDRA STENBERG</h3>
+        <p>
+          Alexandra Stenberg (b. 1999) is an emerging neurodivergent
+          Swedish/Bulgarian visual and conceptual artist based in London. Her
+          practice centers around wellbeing and mental health, exploring the
+          subjects through different mediums. Some of her previous projects
+          consist of photography, video, embroidery, collaging, and poetry. With
+          the attention turned inward, Alexandra embodies and expresses that
+          which has been repressed.
         </p>
       </div>
 
@@ -53,7 +61,7 @@
         </h2>
         <br />
         <p>
-          Director: Ellen Bjerborn
+          Director and Actor: Alexandra Stenberg Videographer: Zoe McIntosh
         </p>
       </div>
 
@@ -64,50 +72,27 @@
         <br />
 
         <p>
-          <strong>Why were you inspired to make this specific film?</strong>
-          <br /><br />
-          In this short film I reflect on being torn between family and
-          opportunity. Perpetually on the wrong side of the water. The footage
-          is of my mother, filmed at the beach across the water from the airport
-          in Copenhagen, where I had both left and met her many times. I made
-          the film after I had to leave the life I had built in the US because
-          of the pandemic and come back home. This was a bittersweet time in my
-          life. I felt that the progress I had made in my life had regressed, I
-          was living at home back in my home town and was unemployed. In terms
-          of my practice it was a good time, all the blank space and frustration
-          I channeled into creation. I made a longer film during this time
-          Like4Like, that got attention and I got to show here and there.
-          <br /><br />
-          In terms of Across the Water, it was more of an experiment with video
-          poetry. I was longing to go back, and during this walk with my mother
-          along the beach I was with her, the main idea of home for me, but we
-          were also so close to the airport, just the water between it and us.
-          <br /><br />
-          <strong>How does your true self shine through in your film?</strong>
-          <br /><br />
-          The footage is very simple, just two shots faded into each other and
-          the audio is recorded using an iPhone. This makes the film feel raw,
-          or rather true. The subject is also a person close to me, my mother
-          and it's shot in a location where I’ve spent time since I was a child
-          (since always). For these reasons, I felt the film would be suitable
-          for the theme of true self. It shows what I was feeling at the time,
-          and to me is intimate and revealing of some things I didn’t say out
-          loud.
-          <br /><br />
           <strong
-            >What other mediums (apart from film) do you explore as an artist?
-            How do they communicate with your film practice?</strong
+            >What is one of your fondest memories from the production/process of
+            making this film?</strong
           >
           <br /><br />
-          I’ve been wanting to explore the extension of film into space, for
-          example sculpture shown in the same space as the film, or seating
-          designed specifically for the film. I’ve always liked that in film you
-          can control two of the audience's senses at once, their vision and
-          hearing so that you’re more in control of what the audience receives
-          or understands. With objects it’s up to the viewer, you can’t make
-          sure they see what you see in the same way as with film, so to me a
-          medium like sculpture is scary, but it also seems freeing to be less
-          in control.
+          Waking up early and walking around Hampstead Heath at 5 am in the
+          morning, everything was so still and gorgeous and sharing that moment
+          with my friend.
+          <br /><br />
+          <strong
+            >What emotion or human experience were you most drawn to in the
+            making of this film and why?</strong
+          >
+          <br /><br />
+          The short film comprises of a poem that was written during a time when
+          I was struggling with dissociation. The concept of this project
+          started with the phrase "I am here" which manifested itself during my
+          desperation to feel more present. This film and poem are to show how
+          the phrase matured from fear of future dissociation, to a truthful
+          representation of me now: I am here, consciously here, in my body, in
+          this moment. Dissociation was my muse for this project.
         </p>
       </div>
     </div>
@@ -118,14 +103,14 @@
     >
       <script
         type="application/javascript"
-        id="cid0020000363491107877"
+        id="cid0020000363493732071"
         data-cfasync="false"
         async
         src="//st.chatango.com/js/gz/emb.js"
         style="width: 100%; height: 100%"
       >
         {
-            "handle": "acrossellen",
+            "handle": "herealexandra",
             "arch": "js",
             "styles": {
                 "a": "f3f9e6",
@@ -162,7 +147,7 @@
 
 <script>
 export default {
-  name: "bjerborn",
+  name: "stenberg",
   components: {},
   metaInfo: {
     // title will be injected into parent titleTemplate
