@@ -21,8 +21,8 @@
             </h2>
             <br />
             <p>
-The film is a queer triptych following a clan of revolutionary femmes inspired to cause chaos by their hatred for this butch hustler named Hollywood. It's an experiment in degradation, a ritual of magick.            </p>
-            <br />
+The film is a queer triptych following a clan of revolutionary femmes inspired to cause chaos by their hatred for this butch hustler named Hollywood. It's an experiment in degradation, a ritual of magick.       
+            </p><br />
             <h3>WILDE DAVIS</h3>
             <p>
                 wildedavis2@gmail.com

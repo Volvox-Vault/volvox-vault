@@ -25,6 +25,7 @@
            <br />
            <p>
                An open love letter. Missing, remembering, and losing a vibrant mind.
+               </p>
                <br />
                <h3>ANNA + JACOB BROTMAN-KRASS</h3>
                <p>
