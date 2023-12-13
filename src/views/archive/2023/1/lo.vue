@@ -2,47 +2,60 @@
 <body>
     <a href="/tsff"><img src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ts.png?v=1673389523276"
          class="logo" /></a>
+
  <h1>Why Do Ants Go Back to Their Nest?</h1>
+
  <br />
+
  <p style="font-family: hersheyFut">
      A film by
      <a href="https://instagram.com/alx.alr" target="_blank">Alex Lo</a> (He/Him)
  </p>
+
  <br />
+
  <div class="youtube">
      <iframe width="100%" height="100%" src="https://www.youtube.com/embed/PrqQPLKg1OE?si=e-Cnf0qO23N-4QYy"
          title="YouTube video player" frameborder="0"
          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
          allowfullscreen></iframe>
  </div>
+
  <div class="ts-contain">
+
      <div class="ts-box">
+
          <h2 style="color: #664c71">
              <span style="background: #f3f9e6; padding: 5px">ABOUT</span>
          </h2>
+
          <br />
+
          <p>
              An auto-fictional experimental film about the filmmaker digging a hole from Toronto to Hong Kong; exploring
              a vanishing homeland and a place that only exists in magazines, the fear of dying in a car crash before
              graduating high school and the faces of
              friends. </p>
+
          <br />
+
          <h3>ALEX LO</h3>
+
          <p>
              alexlo1037@gmail.com<br> 
              I started making this film around September 2022 when I was 22 as part of my
-             thesis project at York University. Being the final film to be made in film school, there’s a sense of a
+             thesis project at York University. Being the final film to be made in film school, there's a sense of a
              rite of passage, a statement
              piece to sum up who I am as an artist (at least up until then). Subsequently I had been offered to be in
              the Alternative Class rather than the fiction class, which offered a much wider range of freedom in what I
              could do and opened up
-             the possibility of anarchy. So I tried something I haven’t prior, to entirely fuck up my way of making
+             the possibility of anarchy. So I tried something I haven't prior, to entirely fuck up my way of making
              films and ditch linear storytelling.
              <br /><br /> At the beginning there were no specific ideas, only some vague thing for a 5 person dance film
              or a Harmony Korine mixed with Maya Deren aesthetic thing, but after some time it became too abstract to
              grasp what I wanted to
              do. Before this film I had only made absurd, other-worldly films, it was largely because of my status of
-             being an international student, I didn’t know how to relate to a Canadian expression, it was hard to think
+             being an international student, I didn't know how to relate to a Canadian expression, it was hard to think
              about how to capture the
              reality of this place or even questioning if I have anything to say about Canada for Canadians. This sense
              of alienation in itself I found conflicting yet interesting, I wanted to spotlight that, so it ended up
@@ -50,9 +63,9 @@
              film about myself coming from Hong Kong, and my brief summary of time spent here (along side with other
              tangents).
              <br /><br /> To be frank, I thought the film was “disgustingly personal” even though in retrospect it
-             didn’t reveal much detail on who I am. I wasn’t interested at all in making myself the subject matter as it
+             didn't reveal much detail on who I am. I wasn't interested at all in making myself the subject matter as it
              could easily be cynical or
-             too solipsistic. But, it’s easier to schedule things. This aspect of the self I took inspiration from the
+             too solipsistic. But, it's easier to schedule things. This aspect of the self I took inspiration from the
              films of Agnes Varda; in how she treats things in relation to herself and how it makes her feel, yet its
              not really a self-portrait
              but still a commentary.
@@ -77,14 +90,19 @@
              Eguiarte
          </p>
      </div>
+
      <div class="ts-box">
+
          <h2 style="color: #664c71">
              <span style="background: #f3f9e6; padding: 5px">Q&A WITH ALEX</span>
          </h2>
          <br />
+
          <p>
+
              <strong>Did anyone specific become critical to the creation of your film? Why do they stand out as
                  significant to your film?</strong>
+
              <br><br> The film was largely inspired by Chris Marker's Sans Soleil, because of its way of treating the
              flow of fictional narratives, and Rhayne Vermette's Domus, because of its visual-collage sensibilities.
              <br><br> In class, we were lead by Franci Duran for which brought in multiple guests, talking about their
@@ -125,30 +143,28 @@
              <br><br> It always starts out as frantic, several yellow post-its on white wall. Abstract thesis and
              scattered ideas. I always write two concepts and draw an arrow between them, like so, "Homeland
              < - - - > Identity". Looks stupid but it simplifies those grand ideas for me.
-                 <br><br> Eventually I would pick some ideas from that tree of post-its and write a script or a
-                 treatment, not so much for myself but for organisational purposes and for other collaborators to
-                 understand the project so they know what
-                 to do.
-                 <br><br> Personally I've gave up on an inherent structure (i.e introduction, climax, resolution and so
-                 on), this will always differ from project to project, but an arc kinda follows once bigger scenes
-                 formulates.
-                 <br><br> Once we got the elements of the scene, the specificity of those ideas will form via improv on
-                 the day of shooting. That's the driving force of 'Why do ants go back to their nest?' and continues for
-                 my newest project.
-                 <br><br> Nowadays, I'm trying to make my life easier by writing a script.
-                 <br><br>
-                 <strong>How do you approach making a personal film?</strong>
-                 <br><br> I find auto-fiction a great way to approach this, inspired by the works of Ann Quin, Kurt
-                 Vonnegut and Sarah Kane.
-                 <br><br> It brings be comfort that I could disguise certain aspect of reality, or talk about what I
-                 care about without being up front. To distort the self in a personal film is to make the self almost
-                 more visible. The more absurd
-                 (but truthful) the better to me. For that reason I find Leos Carax's reoccurring character Merde
-                 fascinating.
-                 <br><br> Moreover, I like to preserve my privacy as an individual, I don't like to be fetishised from
-                 identity/ expression of identity, so, making up things is crucial for me to be more truthful.
+            <br><br> Eventually I would pick some ideas from that tree of post-its and write a script or a
+            treatment, not so much for myself but for organisational purposes and for other collaborators to
+            understand the project so they know what to do.
+            <br><br> Personally I've gave up on an inherent structure (i.e introduction, climax, resolution and so
+            on), this will always differ from project to project, but an arc kinda follows once bigger scenes formulates.
+            <br><br> Once we got the elements of the scene, the specificity of those ideas will form via improv on
+            the day of shooting. That's the driving force of 'Why do ants go back to their nest?' and continues for
+            my newest project.
+            <br><br> Nowadays, I'm trying to make my life easier by writing a script.
+            <br><br>
+            <strong>How do you approach making a personal film?</strong>
+            <br><br> I find auto-fiction a great way to approach this, inspired by the works of Ann Quin, Kurt
+            Vonnegut and Sarah Kane.
+            <br><br> It brings be comfort that I could disguise certain aspect of reality, or talk about what I
+            care about without being up front. To distort the self in a personal film is to make the self almost
+            more visible. The more absurd (but truthful) the better to me. For that reason I find Leos Carax's reoccurring character Merde
+            fascinating.
+            <br><br> Moreover, I like to preserve my privacy as an individual, I don't like to be fetishised from
+            identity/ expression of identity, so, making up things is crucial for me to be more truthful.
          </p>
      </div>
+     
  </div>
     <div class="chat" style="border: 1px dotted #212121; padding: 30px; height: 400px">
         <script type="application/javascript" id="cid0020000363491625509" data-cfasync="false" async src="//st.chatango.com/js/gz/emb.js" style="width: 100%; height: 100%">
