@@ -68,6 +68,23 @@ import graves from '../views/archive/2023/1/graves.vue'
 import cole from '../views/archive/2023/1/cole.vue'
 import marker from '../views/archive/2023/1/marker.vue'
 import saban from '../views/archive/2023/1/saban.vue'
+import klipp from '../views/archive/2023/1/klipp.vue'
+
+/*
+import dueck from '../views/archive/2023/1/dueck.vue'
+import haver from '../views/archive/2023/1/haver.vue'
+import liu from '../views/archive/2023/1/liu.vue'
+import bjerborn from '../views/archive/2023/1/bjerborn.vue'
+import stenberg from '../views/archive/2023/1/stenberg.vue'
+import olanik from '../views/archive/2023/1/olanik.vue'
+import tucker from '../views/archive/2023/1/tucker.vue'
+import lo from '../views/archive/2023/1/lo.vue'
+import perry from '../views/archive/2023/1/perry.vue'
+import liebeskind from '../views/archive/2023/1/liebeskind.vue'
+import krass from '../views/archive/2023/1/krass.vue'
+import davis from '../views/archive/2023/1/davis.vue'
+import she from '../views/archive/2023/1/she.vue'
+*/
 
 /* ISSUES */
 import Identity from '../views/archive/issues/Identity/Identity.vue'
@@ -401,7 +418,78 @@ const routes = [
     path: '/trueself/saban',
     name: 'saban',
     component: saban
+  },  {
+    path: '/trueself/klipp',
+    name: 'klipp',
+    component: klipp
   },
+  /*
+  {
+    path: '/trueself/she',
+    name: 'she',
+    component: she
+  },
+  {
+    path: '/trueself/davis',
+    name: 'davis',
+    component: davis
+  },
+  {
+    path: '/trueself/liebeskind',
+    name: 'liebeskind',
+    component: liebeskind
+  },
+  {
+    path: '/trueself/krass',
+    name: 'krass',
+    component: krass
+  },
+    {
+    path: '/trueself/perry',
+    name: 'perry',
+    component: perry
+  },
+    {
+    path: '/trueself/lo',
+    name: 'lo',
+    component: lo
+  },
+      {
+    path: '/trueself/tucker',
+    name: 'tucker',
+    component: tucker
+  },
+      {
+    path: '/trueself/olanick',
+    name: 'olanick',
+    component: olanick
+  },
+      {
+    path: '/trueself/bjerborn',
+    name: 'bjerborn',
+    component: bjerborn
+  },
+       {
+    path: '/trueself/stenberg',
+    name: 'stenberg',
+    component: stenberg
+  },
+       {
+    path: '/trueself/liu',
+    name: 'liu',
+    component: liu
+  },
+        {
+    path: '/trueself/dueck',
+    name: 'dueck',
+    component: dueck
+  },
+        {
+    path: '/trueself/haver',
+    name: 'haver',
+    component: haver
+  },
+  */
 
   /* Issues */
 
