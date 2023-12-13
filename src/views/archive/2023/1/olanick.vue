@@ -105,7 +105,7 @@ It was interesting to do the same with moments I had lived through. A forced rec
 
 <script>
 export default {
-   name: "liebeskind",
+   name: "olanick",
    components: {},
    metaInfo: {
        // title will be injected into parent titleTemplate
