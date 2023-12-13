@@ -40,7 +40,7 @@
                 </p>
             </div>
     
-            <div class="ts-box">
+            <div class="ts-box credits">
                 <h2 style="color: #664c71">
                     <span style="background: #f3f9e6; padding: 5px">CREDITS</span>
                 </h2>
@@ -236,10 +236,15 @@ a:hover {
     .youtube {
         height: 200px;
         margin-bottom: 20px;
-
     }
     .chat {
         display: none;
+    }
+    .credits {
+      grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 3;
+  grid-row-end: 3;
     }
 }
 </style>
