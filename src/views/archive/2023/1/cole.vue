@@ -216,7 +216,6 @@ a:hover {
 .youtube {
     border: 1px dotted #212121;
     padding: 30px;
-    margin-bottom: 10px;
     height: 55vh;
     min-height: 350px;
 }
