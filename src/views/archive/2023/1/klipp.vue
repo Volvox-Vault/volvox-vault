@@ -9,7 +9,7 @@
     </p>
     <br />
     <div class="youtube">
-        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/ZByBKFhH5j8?si=SGU0DPQemY5_BYTH" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+        <iframe width="100%" height="100%" src="https://www.youtube.com/embed/45XoRGdBrVs?si=ZEwitHshzAnDvfvp" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>
     <div class="ts-contain">
         <div class="ts-box">
@@ -23,6 +23,7 @@
             <br />
             <h3>CHARLIE KLIPP</h3>
             <p>
+            c.vanderklipp@gmail.com<br>
                 I am a filmmaker and video artist working to build connection and community around grief, joy, and creativity.
             </p>
         </div>
@@ -36,11 +37,11 @@
         </div>
         <div class="ts-box">
             <h2 style="color: #664c71">
-                <span style="background: #f3f9e6; padding: 5px">Q&A WITH TERRY</span>
+                <span style="background: #f3f9e6; padding: 5px">Q&A WITH CHARLIE</span>
             </h2>
             <br />
             <p>
-                <h3>Why were you inspired to make this specific film?</h3>
+                <strong>Why were you inspired to make this specific film?</strong>
                 <br /><br />
                 I made a film this past year called "The Great Wake" about the death of my friend, and it was really thought out, a fiction film with a character who finds some catharsis in dreaming and remembering, how love connects us. We shot it in a really beautiful place and a deer walked into the film and it all felt great.
                 <br /><br />
@@ -50,7 +51,7 @@
                 <br /><br />
                 It was really great focusing on feeling. I deal with my own reflection and endless water sources doing this job so the connection to my friend's drowning felt right to me.
                 <br /><br />
-                <h3>What do you like most about your film?</h3>
+                <strong>What do you like most about your film?</strong>
                 <br /><br />
                 I really tried to find beauty in the ugliest place I know.
                 <br /><br />
