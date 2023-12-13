@@ -38,6 +38,8 @@
         </h2>
         <br />
         <p><em>A killer waits for his victim.</em></p>
+        <br>
+        <h3>MATIAS VAISMAN</h3>
         <p>
           Matador is a no-budget short made for a cinematography class at a
           public Brazilian university. It is an experimental psychological
@@ -58,7 +60,7 @@
         <br />
         <p>
           Starring: José Miranda<br />
-          Written, Directed, Shot And Edited By: Matias Vaisman<br />
+          Writer / Director / Cinematographer / Editor: Matias Vaisman<br />
           Assistant Directors: Pedro Perpétuo, Lipe Dal-cól & Isabelle De<br />
           Freitas Producers: Kauane Castro, Pedro Perpétuo & Isabelle De
           Freitas<br />

@@ -39,7 +39,7 @@
         <br />
         <h3>CONNIE LIU</h3>
         <p>
-          cliu55567@gmail.com<br />
+          cliu55567{@}gmail.com<br />
           Growing up in my majorly white suburb as the daughter of Asian
           immigrants, I always had felt out of place when I was growing up. It
           wasn't until the latter end of high school, I had found people who had

@@ -50,7 +50,7 @@
         <h3>ALEX LO</h3>
 
         <p>
-          alexlo1037@gmail.com<br />
+          alexlo1037{@}gmail.com<br />
           I started making this film around September 2022 when I was 22 as part
           of my thesis project at York University. Being the final film to be
           made in film school, there's a sense of a rite of passage, a statement

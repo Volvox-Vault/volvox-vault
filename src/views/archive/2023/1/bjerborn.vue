@@ -35,7 +35,7 @@
         <br />
         <h3>ELLEN BJERBORN</h3>
         <p>
-          ellenbjerborn@gmail.com<br />
+          ellenbjerborn{@}gmail.com<br />
           Ellen Bjerborn, b. 1995, Sweden is a lernaean hydra and media artist
           based in Malmö, Sweden.
           <br /><br />

@@ -41,7 +41,7 @@
         <br />
         <h3>JOEL HAVER</h3>
         <p>
-          joelrhaver@gmail.com<br />
+          joelrhaver{@}gmail.com<br />
           My grandparents have had the same quiet life as long as I've been
           alive. At times it feels like a sort of stagnation I could never be
           comfortable with for myself and at other times there's an immense
