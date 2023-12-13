@@ -216,6 +216,7 @@ a:hover {
 .youtube {
     border: 1px dotted #212121;
     padding: 30px;
+    margin-bottom: 10px;
     height: 55vh;
     min-height: 350px;
 }
@@ -234,6 +235,8 @@ a:hover {
     }
     .youtube {
         height: 200px;
+        margin-bottom: 20px;
+
     }
     .chat {
         display: none;
