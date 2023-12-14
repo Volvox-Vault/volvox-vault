@@ -31,7 +31,7 @@
     <iframe
       src="https://docs.google.com/forms/d/e/1FAIpQLSe3ikgMzpEYPoDDbd8xkLeLwNMQjKgqWVJ9uQBcehLpBoIjCA/viewform?embedded=true"
       width="100%"
-      height="500px"
+      height="100%"
       frameborder="0"
       marginheight="0"
       style="overflow: auto; overflow-x: hidden"
@@ -75,8 +75,6 @@ body {
   overflow: hidden;
   color: #f3f9e6;
   padding: 30px;
-
-  height: 100vh;
 
   scrollbar-width: thin;
   scrollbar-color: #664b71 #664b71;
@@ -147,7 +145,7 @@ a:hover,
 .ts-box {
   border: 1px dotted #212121;
   padding: 30px;
-  height: 250px;
+  height: 100%;
   overflow-y: auto;
   overflow-x: hidden;
 }
