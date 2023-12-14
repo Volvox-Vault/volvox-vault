@@ -31,7 +31,6 @@
     <iframe
       src="https://docs.google.com/forms/d/e/1FAIpQLSe3ikgMzpEYPoDDbd8xkLeLwNMQjKgqWVJ9uQBcehLpBoIjCA/viewform?embedded=true"
       width="100%"
-      height="1000px"
       frameborder="0"
       marginheight="0"
       style="overflow: auto; overflow-x: hidden"
@@ -150,6 +149,10 @@ a:hover,
   overflow-x: hidden;
 }
 
+iframe {
+    height: 1000px;
+}
+
 @media only screen and (max-width: 600px) {
   .ts-contain {
     grid-template-columns: 1fr;
@@ -157,5 +160,8 @@ a:hover,
   .logo {
     width: 200px;
   }
+  iframe {
+    height: 500px;
+    }
 }
 </style>
