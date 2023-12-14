@@ -75,6 +75,8 @@ body {
   color: #f3f9e6;
   padding: 30px;
 
+  height: 99vh;
+
   scrollbar-width: thin;
   scrollbar-color: #664b71 #664b71;
 }
