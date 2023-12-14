@@ -75,49 +75,49 @@
         </h2>
         <br />
 
-        <p>
-          <strong
+        
+          <h3
             >Did anyone specific become critical to the creation of your film?
-            Why do they stand out as significant to your film?</strong
+            Why do they stand out as significant to your film?</h3
           >
-          <br /><br />
-          Grandma Ellie. It’s her lipstick that melts to a puddle, and it’s her
+          <br /><p>
+          Grandma Ellie. It's her lipstick that melts to a puddle, and it's her
           wicked sharp mind that we lament the loss of. Through the muddled
           confusion of feeling herself slip away, bursts of Brooklyn wit make it
-          clear that she’s still there. To her increasing anxiety and
+          clear that she's still there. To her increasing anxiety and
           depression, I have to face myself with her predicament: What is it
           like to feel yourself fade?
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >What is one of your fondest memories from the process of making
-            this film?</strong
+            this film?</h3
           >
-          <br /><br />
+          <br /><p>
           Carrying out a sibling collaboration between brother and sister,
           musician and filmmaker. Processing this stuff is hard, especially
           alone. Being able to work on this together has meant a lot, both
           artistically and in grieving.
-          <br /><br />
-          <strong>How does your true self shine through in your film?</strong>
-          <br /><br />
+         </p><br />
+          <h3>How does your true self shine through in your film?</h3>
+          <br /><p>
           Anna: My true self shines through this film in my remapping of my
           grandmother. Hardened feminine decoration becomes a liquid, swirling
-          brain. Ellie’s lipstick liquifying from decoration into a
-          cerebral-looking puddle connects my admiration for Ellie’s sense of
+          brain. Ellie's lipstick liquifying from decoration into a
+          cerebral-looking puddle connects my admiration for Ellie's sense of
           color and adornment to her intellectual wit. The sharpness of these
-          hyper feminine colors dissolves into a topographic map of Ellie’s
+          hyper feminine colors dissolves into a topographic map of Ellie's
           Alzheimer's - flattening and disarticulating her once pointed, clear
           thinking (and loving). My true self comes through when my anger melts
           and I can come into contact with the amorphous, sanguine sadness of
           loss.
           <br /><br />
           Jacob: When writing music, it can be really tough for me to reach the
-          super raw, emotionally bare places. I don’t feel I can do this all
+          super raw, emotionally bare places. I don't feel I can do this all
           that often, but this is one of the few songs that felt more like it
           just kind of bled out of me. This song was the culmination of a really
           intense pang of empathy for my grandma that had me seeing her disease
           through her lens for all of its terrifying, gut wrenching horror. I
-          just can’t shake that idea of what it would feel like to not just
+          just can't shake that idea of what it would feel like to not just
           deteriorate, but to feel yourself deteriorate.
         </p>
       </div>

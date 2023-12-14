@@ -91,30 +91,30 @@
         </h2>
         <br />
 
-        <p>
-          <strong>Why were you inspired to make this specific film?</strong>
-          <br /><br />
+        
+          <h3>Why were you inspired to make this specific film?</h3>
+          <br /><p>
           I was inspired to make this film because I was living away from home,
           in a new city and in my own apartment, for the first time in my life.
           I was having a hard time maintaining long distance relationships with
-          my friends and family. This film isn’t 100% real text messages, but it
+          my friends and family. This film isn't 100% real text messages, but it
           pretty much represented what my communication with my mother had been
           like for months - both wanting to talk, but never finding the time. I
           wanted to capture the feelings of longing, boredom, and distraction,
           as that was a lot of what I was experiencing in that time period of my
           life and needed an outlet for it. I made it really just as a dairy
           video, and was pleasantly surprised to see people relate to it.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >What thoughts has making this film sparked that you may bring into
-            your next project or into your daily life?</strong
+            your next project or into your daily life?</h3
           >
-          <br /><br />
+          <br /><p>
           This film is one of my first pieces using text messages. Making it, I
           started to realize the potential they hold emotionally. To me they
           have this sort of hollow connection, which is sometimes hard to
           capture in person. For example, if the film was inter-cut with my mom
-          and I having very short phone calls, I don’t think it would hold the
+          and I having very short phone calls, I don't think it would hold the
           same longing feelings. I also think the screen recordings make the
           “real life” scenes feel more weighted - especially the part when I
           call my mom and get her voicemail, a tiny moment of hearing her real
@@ -122,18 +122,18 @@
           making this reminded me just how important juxtaposition is in
           filmmaking, and how cool of a tool it can be to play around with. A
           cut from the digital world to the real world always hits with this
-          kind of loneliness that I’m always chasing after in my videos. I
+          kind of loneliness that I'm always chasing after in my videos. I
           definitely am a sucker for a hard cut - and making this reminded me
-          how powerful of a tool it is. <br /><br />
-          <strong
+          how powerful of a tool it is. </p><br />
+          <h3
             >Who are some of your inspirations as a filmmaker and how might
-            their impact show up in your film?</strong
+            their impact show up in your film?</h3
           >
-          <br /><br />
+          <br /><p>
           Some of my biggest film inspirations are Hito Steyerl, Andrew Haigh,
           Maya Deren, and (maybe obviously) Frederick Wisemen. My favorite thing
           about their work, and what I am most inspired by, is their ability to
-          shape reality with such a strong point of view, both visually and
+          shape reality with such a h3 point of view, both visually and
           emotionally. Even Andrew Haigh, who is a fiction filmmaker, makes
           films that are painfully real feeling. I also love the shooting style
           of all of these filmmakers, who all often play with shadow,

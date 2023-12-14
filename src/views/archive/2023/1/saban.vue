@@ -76,7 +76,7 @@
           Cinematographer: Kat Zoumboulakis<br />
           Production Manager: Clare Workentin <br />
           Production Designer: Juliana Bergen<br />
-          Costumer Designer: Zoe Van’t Hof <br />
+          Costumer Designer: Zoe Van't Hof <br />
           Hair & Makeup Artist: Kurt Brown <br />
           1st Camera Assistant: Kiana Tagabing <br />
           Gaffer: Khanh Tudo <br />
@@ -101,9 +101,9 @@
         </h2>
         <br />
 
-        <p>
-          <strong>Why were you inspired to make this specific film?</strong>
-          <br><br>
+        
+          <h3>Why were you inspired to make this specific film?</h3>
+          <br><p>
           When I started writing the story, I was going through a break up and
           was feeling a lot of shame, anger and resentment. I wasn't sure how to
           navigate these feelings. I finally realized that I needed to forgive
@@ -117,36 +117,38 @@
           resilience, perseverance, and being strong. There is less room for
           feelings like sadness, shame, resentment and anger—being vulnerable.
           So I ended up telling a story about forgiveness, within a Serbian
-          immigrant family, that struggles to communicate and be vulnerable.<br /><br />
-          <strong
+          immigrant family, that struggles to communicate and be vulnerable.
+          </p><br>
+          <h3
             >Were there any challenges or doubts you faced in the
-            process?</strong
+            process?</h3
           >
-          <br><br>
+          <br><p>
           The biggest challenge I faced during the process was being in denial
-          that I needed to produce the film. I convinced myself that I couldn’t
+          that I needed to produce the film. I convinced myself that I couldn't
           produce it, and I tried to bring a producer onboard, but after a year
           of waiting around, I realized that no-one was going to prioritize
           making my film—other than me. So finally, I taught myself how to
           produce (I watched YouTube videos on making a budget, organizing a
           shoot, etc) and I went full force into it—confronting my fears. And
-          then—it’s funny how the universe works—the moment I took the project
+          then—it's funny how the universe works—the moment I took the project
           into my own hands, everything started to fall into place. Within a
           month, I confirmed my cast, found a crew, and locked in the location
           and shoot dates. It honestly felt like magic. The rest of the process
-          was so smooth and enjoyable. <br /><br />
-          <strong
-            >What is your writing process like?</strong
+          was so smooth and enjoyable. 
+          </p><br>
+          <h3
+            >What is your writing process like?</h3
           >
-          <br><br>
+          <br><p>
           My writing process continues to reveal itself to me everyday. It still
           feels like a mystery in a lot of ways. The challenge is embracing that
           mystery, and trusting that it will eventually bring out a new story
-          that’s exciting, fresh and feels like *me*. Lately, I have been going
-          to the public pool on Monday afternoons. After swimming, I’ll lay on
-          my towel, put my headphones in, and listen to music—observing what’s
+          that's exciting, fresh and feels like *me*. Lately, I have been going
+          to the public pool on Monday afternoons. After swimming, I'll lay on
+          my towel, put my headphones in, and listen to music—observing what's
           happening around me. And then suddenly, ideas and characters will come
-          flowing through me, and I’ll write them down. Before I know it, I’m
+          flowing through me, and I'll write them down. Before I know it, I'm
           lost in my notebook.
         </p>
 

@@ -64,55 +64,55 @@
         </h2>
         <br />
 
-        <p>
-          <strong>What do you like most about your film?</strong>
-          <br /><br />
+        
+          <h3>What do you like most about your film?</h3>
+          <br /><p>
           Making it by myself was liberating, although scary because if you end
           up disliking it then it's all your fault. However, just approaching it
           like a fun fictional diary made the stakes low. It makes me want to
-          make more films on my own.
-          <br /><br />
-          <strong
+          make more films on my own.</p>
+          <br />
+          <h3
             >What is one of your fondest memories from the production/process of
-            making this film?</strong
+            making this film?</h3
           >
-          <br /><br />
+          <br /><p>
           Traveling alone was obviously incredible. I learned so much about who
           I can be independently. I am so proud of myself and I remain inspired
           by everything I saw. I hope I can keep that lesson with me forever,
-          that I can do it alone with joy; although company is really awesome.
-          <br /><br />
-          <strong
+          that I can do it alone with joy; although company is really awesome.</p>
+          <br />
+          <h3
             >Were there any challenges or doubts you faced in the process? How
             did you address them?
-          </strong>
-          <br /><br />
+          </h3>
+          <br /><p>
           Sometimes I wasn't really sure if I liked the script I came up with.
           But the intuitive writing bit of it (writing and performing the day
-          of) made it feel like that's what was meant to be recorded.
-          <br /><br />
-          <strong
+          of) made it feel like that's what was meant to be recorded.</p>
+          <br />
+          <h3
             >How did you perceive films as a kid, in comparison to how you look
-            at them now?</strong
+            at them now?</h3
           >
-          <br /><br />
+          <br /><p>
           Maybe I'd get more immersed as a kid, but I'm not sure. Perhaps the
           fact that movies have had a constant existence in my life is why I
-          enjoy them.
-          <br /><br />
-          <strong
+          enjoy them.</p>
+          <br />
+          <h3
             >What other mediums (apart from film) do you explore as an artist?
-            How do they communicate with your film practice?</strong
+            How do they communicate with your film practice?</h3
           >
-          <br /><br />
+          <br /><p>
           I love making websites. TSFF is how I am merging a couple of my
-          passions. :)
-          <br /><br />
-          <strong
+          passions. :)</p>
+          <br />
+          <h3
             >What is your writing process like (or are you more into
-            improv)?</strong
+            improv)?</h3
           >
-          <br /><br />
+          <br /><p>
           I was traveling a bit at the end of my year abroad (Summer 2023), so I
           decided that in each city I'd take a few minutes in my Airbnb to talk
           fictionally or hyperbolically about my thoughts towards the place I
@@ -120,10 +120,10 @@
           stopping for about 5 minutes, and then read it to my camera, with some
           improv. I wanted to create a character that was a bit uncanny, and
           honest but judgmental. I was wondering what a person who decides who
-          someone is upon just a first glance would be like.
-          <br /><br />
-          <strong>How do you approach making a personal film?</strong>
-          <br /><br />
+          someone is upon just a first glance would be like.</p>
+          <br />
+          <h3>How do you approach making a personal film?</h3>
+          <br /><p>
           Intuition. These days I try to just have an idea and then improv.
           Although, I'm preparing to write a longer script at the moment. I
           think it matters more so what your goal is. Do you want to practice

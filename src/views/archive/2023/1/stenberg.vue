@@ -71,21 +71,21 @@
         </h2>
         <br />
 
-        <p>
-          <strong
+        
+          <h3
             >What is one of your fondest memories from the production/process of
-            making this film?</strong
+            making this film?</h3
           >
-          <br /><br />
+          <br /><p>
           Waking up early and walking around Hampstead Heath at 5 am in the
           morning, everything was so still and gorgeous and sharing that moment
           with my friend.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >What emotion or human experience were you most drawn to in the
-            making of this film and why?</strong
+            making of this film and why?</h3
           >
-          <br /><br />
+          <br /><p>
           The short film comprises of a poem that was written during a time when
           I was struggling with dissociation. The concept of this project
           started with the phrase "I am here" which manifested itself during my

@@ -74,18 +74,18 @@
         </h2>
         <br />
 
-        <p>
-          <strong>Why were you inspired to make this specific film?</strong>
-          <br /><br />
+        
+          <h3>Why were you inspired to make this specific film?</h3>
+          <br /><p>
           My dad looks JUST like former ex-gay movement spokesman John Paulk did
           in the cover of Newsweek in the eighties, so I thought examining his
           gender and sexuality would be both helpful and fun, especially since
-          both my parents are such bigots. <br /><br />
-          <strong
+          both my parents are such bigots. </p><br />
+          <h3
             >Did anyone specific become critical to the creation of your film?
-            Why do they stand out as significant to your film?</strong
+            Why do they stand out as significant to your film?</h3
           >
-          <br /><br />
+          <br /><p>
           Well, on the media database site RateYourMusic, the only ratings
           currently there for Goddess other than my own gave it 0.5 stars. Part
           of me is not too surprised by that, since not only are they not THAT
@@ -95,12 +95,12 @@
           (see: Lili Loofbourow's theory of the "Male Glance"). What really made
           me uncomfortable, though, was that the only rating listed on the site
           was just a one-word statement of "Bro...", which was REALLY hard to
-          not take as blatantly transphobic.<br /><br />
-          <strong
+          not take as blatantly transphobic.</p><br />
+          <h3
             >What thoughts has making this film sparked that you may bring into
-            your next project or into your daily life?</strong
+            your next project or into your daily life?</h3
           >
-          <br /><br />
+          <br /><p>
           It will be three years since I made this short in November, and while
           I tried to follow it up with a spiritual sequel in my April 2021 short
           The Milf Cinema (included in the Google Drive), but even back then it
@@ -109,12 +109,12 @@
           Eraserhead again, and I'm still trying to figure out my equivalent to
           Twin Peaks The Return Episode 8 to show what I would do with Goddess
           today.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >How did you perceive films as a kid, in comparison to how you look
-            at them now?</strong
+            at them now?</h3
           >
-          <br /><br />
+          <br /><p>
           It's funny, because when talking about the aesthetic differences
           between me and my high school best friend Dan Lotz, I would always use
           our shared childhood experience with the Lego Spielberg MovieMaker set
@@ -136,11 +136,11 @@
           early digital technology created its own aesthetic that sometimes
           doesn't feel that much different from what made me fall in love with
           Akerman's Je Tu Il Elle at the end of high school.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >What other mediums (apart from film) do you explore as an artist?
-            How do they communicate with your film practice?</strong
-          ><br /><br />
+            How do they communicate with your film practice?</h3
+          ><br /><p>
           I was a competitive dancer for two years. It was in ballroom, which is
           often cringe and patriarchal and racist, but one thing I don't know if
           people realize about it compared to, say, ballet, is how it's all
@@ -149,13 +149,13 @@
           your partner's hands to figure out where they might want to go next. I
           genuinely think this was an extraordinary training for me as a
           filmmaker, and you can see that dancerly energy in so much of my work.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >How do you imagine the audience might perceive your film? Or how
             have you seen people react to it in a way that stood out to
-            you?</strong
+            you?</h3
           >
-          <br /><br />
+          <br /><p>
           I've noticed since screening my growing catalog of short films at
           Chicago's Sweet Void microcinema that lots of people are very stressed
           out by how raw my movies are. Part of it is the frenetic way I've
@@ -166,9 +166,9 @@
           Trilogy I genuinely DID think I was making something happy), but I
           can't help that I LOVE miserablism in movies, probably because it
           makes my C-PTSD feel SEEN.
-          <br /><br />
-          <strong>How do you approach making a personal film?</strong>
-          <br /><br />
+          </p><br />
+          <h3>How do you approach making a personal film?</h3>
+          <br /><p>
           I honestly don't think I know HOW to make any other kind of film.
           Maybe part of that is that I spent so much of my life hiding my
           womanhood, and with that so many other essential parts of myself, so I

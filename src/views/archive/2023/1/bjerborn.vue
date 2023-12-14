@@ -60,9 +60,8 @@
         </h2>
         <br />
 
-        <p>
-          <strong>Why were you inspired to make this specific film?</strong>
-          <br /><br />
+          <h3>Why were you inspired to make this specific film?</h3>
+          <br /><p>
           In this short film I reflect on being torn between family and
           opportunity. Perpetually on the wrong side of the water. The footage
           is of my mother, filmed at the beach across the water from the airport
@@ -78,30 +77,30 @@
           In terms of Across the Water, it was more of an experiment with video
           poetry. I was longing to go back, and during this walk with my mother
           along the beach I was with her, the main idea of home for me, but we
-          were also so close to the airport, just the water between it and us.
-          <br /><br />
-          <strong>How does your true self shine through in your film?</strong>
-          <br /><br />
+          were also so close to the airport, just the water between it and us.</p>
+          <br />
+          <h3>How does your true self shine through in your film?</h3>
+          <br /><p>
           The footage is very simple, just two shots faded into each other and
           the audio is recorded using an iPhone. This makes the film feel raw,
           or rather true. The subject is also a person close to me, my mother
-          and it's shot in a location where I’ve spent time since I was a child
+          and it's shot in a location where I've spent time since I was a child
           (since always). For these reasons, I felt the film would be suitable
           for the theme of true self. It shows what I was feeling at the time,
-          and to me is intimate and revealing of some things I didn’t say out
-          loud.
-          <br /><br />
-          <strong
+          and to me is intimate and revealing of some things I didn't say out
+          loud.</p>
+          <br />
+          <h3
             >What other mediums (apart from film) do you explore as an artist?
-            How do they communicate with your film practice?</strong
+            How do they communicate with your film practice?</h3
           >
-          <br /><br />
-          I’ve been wanting to explore the extension of film into space, for
+          <br /><p>
+          I've been wanting to explore the extension of film into space, for
           example sculpture shown in the same space as the film, or seating
-          designed specifically for the film. I’ve always liked that in film you
+          designed specifically for the film. I've always liked that in film you
           can control two of the audience's senses at once, their vision and
-          hearing so that you’re more in control of what the audience receives
-          or understands. With objects it’s up to the viewer, you can’t make
+          hearing so that you're more in control of what the audience receives
+          or understands. With objects it's up to the viewer, you can't make
           sure they see what you see in the same way as with film, so to me a
           medium like sculpture is scary, but it also seems freeing to be less
           in control.

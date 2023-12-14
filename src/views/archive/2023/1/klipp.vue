@@ -59,9 +59,9 @@
           >
         </h2>
         <br />
-        <p>
-          <strong>Why were you inspired to make this specific film?</strong>
-          <br /><br />
+        
+          <h3>Why were you inspired to make this specific film?</h3>
+          <br /><p>
           I made a film this past year called "The Great Wake" about the death
           of my friend, and it was really thought out, a fiction film with a
           character who finds some catharsis in dreaming and remembering, how
@@ -80,24 +80,24 @@
           It was really great focusing on feeling. I deal with my own reflection
           and endless water sources doing this job so the connection to my
           friend's drowning felt right to me.
-          <br /><br />
-          <strong>What do you like most about your film?</strong>
-          <br /><br />
+          </p><br />
+          <h3>What do you like most about your film?</h3>
+          <br /><p>
           I really tried to find beauty in the ugliest place I know.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >Did anyone specific become critical to the creation of your film?
-            Why do they stand out as significant to your film?</strong
+            Why do they stand out as significant to your film?</h3
           >
-          <br /><br />
+          <br /><p>
           A dear coworker watched for my managers while I dumped water on my
           head and then mopped it up. I love them for understanding.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >What is one of your fondest memories from the production/process of
-            making this film?</strong
+            making this film?</h3
           >
-          <br /><br />
+          <br /><p>
           My Dad took me out to a lake back home and recorded the cannonball
           shot into the water. We spent a day out together and mostly just sat
           around and read until I asked him to do this, he got that I was into
@@ -113,8 +113,8 @@
           working like that so that was cool and interesting. Work is typically
           very separate from my filmmaking.
           <br /><br />
-          <strong>How does your true self shine through in your film?</strong>
-          <br /><br />
+          <h3>How does your true self shine through in your film?</h3>
+          <br /><p>
           I hope this film exemplifies my love for gallows humor and reverence
           for fluorescent lights, mopwater, and cashews. I think my late best
           friend would laugh at it and that feels true.

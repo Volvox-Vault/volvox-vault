@@ -77,9 +77,9 @@
         </h2>
         <br />
 
-        <p>
-          <strong>Why were you inspired to make this specific film?</strong>
-          <br /><br />
+        
+          <h3>Why were you inspired to make this specific film?</h3>
+          <br /><p>
           I recently moved to a new home in the last few months, and in my new
           living room I discovered that I am able to stand in a spot and see two
           cell towers simultaneously. After that, I began to imagine and
@@ -88,20 +88,20 @@
           infrastructure that exists and is sometimes literally made invisible
           with things like "stealth towers" - perhaps some people have seen
           memes of fake palm trees with cell tower panels on them, for example.
-          <br /><br />
-          <strong>What do you like most about your film?</strong>
-          <br /><br />
+          </p><br>
+          <h3>What do you like most about your film?</h3>
+          <br /><p>
           I've always enjoyed the way light and shadow work. In the first half I
           did some experimentation with cyan, magenta, and yellow lights
           rotating around the camera subject to see what might happen with the
           way the lights interact. Alternatives to linear perspective are also
           interesting to me, so using both orthographic and "regular" virtual
-          cameras for this was very interesting.
-          <strong
+          cameras for this was very interesting.</p><br>
+          <h3
             >What other mediums (apart from film) do you explore as an artist?
-            How do they communicate with your film practice?</strong
+            How do they communicate with your film practice?</h3
           >
-          <br /><br />
+          <br /><p>
           In addition to film and video, I've worked with photography, creative
           coding, installation art, artist's books, and 3D printing. I see each
           medium I work with as something uniquely capable of accomplishing or

@@ -67,72 +67,72 @@
         </h2>
         <br />
 
-        <p>
-          <strong>Why were you inspired to make this specific film? </strong>
-          <br /><br />
+        
+          <h3>Why were you inspired to make this specific film? </h3>
+          <br /><p>
           Last time I visited my grandparents in 2018 I shot a similar
           documentary trying my best to capture their essence without words and
           I really enjoyed the format and wanted to do a sequel of sorts.
           <br /><br />
-          <strong>What do you like most about your film? </strong>
-          <br /><br />
+          <h3>What do you like most about your film? </h3>
+          <br /><p>
           I like that it has no dialogue. Both of my grandparents can be
           chatterboxes and often are telling stories and roasting each other,
           but there's an inherent quietness to their presence on earth that I
           think is captured better with no words.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >What is one of your fondest memories from the production/process of
             making this film?
-          </strong>
-          <br /><br />
+          </h3>
+          <br /><p>
           The weeklong trip staying with them in general was lovely. I went with
           my friend Tom and it was the most I ever got out and explored Nova
           Scotia. I was probably only filming about 15-30 minutes a day, so it
           was never too distracting and I still was able to live in the moment.
-          <br /><br />
-          <strong>How does your true self shine through in your film? </strong>
-          <br /><br />
+          </p><br />
+          <h3>How does your true self shine through in your film? </h3>
+          <br /><p>
           I wouldn't exist without these people and that in and of itself is a
           crazy thought that only dawns on me more and more with age. And while
           my internet-laden, super social life could not be more different than
           my grandparents, there's a deep part of me that feels connected to
           them and their love of nature and the mundane. It's a part of me I
-          want to give more life to.
-          <br /><br />
-          <strong
+          want to give more life to.</p>
+          <br />
+          <h3
             >How did you perceive films as a kid, in comparison to how you look
-            at them now?</strong
+            at them now?</h3
           >
-          <br /><br />
+          <br /><p>
           I typically liked big movies! Hollywood movies! I thought Forrest Gump
           was the be all end all of what cinema could accomplish. They operated
           as entertainment in my life first and foremost, and entertainment is
           valuable, but establishing a deeper more emotional connection to film
-          in my adulthood has been very rewarding.
-          <br /><br />
-          <strong
+          in my adulthood has been very rewarding.</p>
+          <br />
+          <h3
             >What is your writing process like (or are you more into
-            improv)?</strong
+            improv)?</h3
           >
-          <br /><br />
+          <br /><p>
           All improv all the way! This film in particular is a documentary, but
           I find my loose style of narrative sometimes has more in common with
-          documentary than scripted films.
-          <br /><br />
-          <strong>How do you approach making a personal film?</strong>
-          <br /><br />
+          documentary than scripted films.</p>
+          <br />
+          <h3>How do you approach making a personal film?</h3>
+          <br /><p>
           I want to operate freely and detach myself from the aesthetics and
           technical qualities as much as I can. It's great to make aesthetically
           beautifully and technically sound work, but I think personal honesty
           is easiest done raw. The second we allow ourselves the construct too
-          much the second we risk stumbling away from honesty.
-          <br /><br />
-          <strong
+          much the second we risk stumbling away from honesty.</p>
+          <br />
+          <h3
             >What thoughts has making this film sparked that you may bring into
-            your next project or into your daily life?</strong
+            your next project or into your daily life?</h3
           >
-          <br /><br />
+          <br /><p>
           Slow down, Joel! It's okay to take days one at a time and pass the
           time doing nothing much at all. I've historically been a workaholic
           but have gotten far better about taking life easier over the last few

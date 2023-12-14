@@ -74,7 +74,7 @@
         <br />
 
         <p>
-          <strong>N/A</strong>
+          <h3>N/A</h3>
         </p>
       </div>
     </div>

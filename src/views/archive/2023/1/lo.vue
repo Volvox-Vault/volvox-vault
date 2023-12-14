@@ -113,13 +113,13 @@
         </h2>
         <br />
 
-        <p>
-          <strong
+        
+          <h3
             >Did anyone specific become critical to the creation of your film?
-            Why do they stand out as significant to your film?</strong
+            Why do they stand out as significant to your film?</h3
           >
 
-          <br /><br />
+          <br /><p>
           The film was largely inspired by Chris Marker's Sans Soleil, because
           of its way of treating the flow of fictional narratives, and Rhayne
           Vermette's Domus, because of its visual-collage sensibilities.
@@ -134,12 +134,12 @@
           school were stuck to film-the perfect idea, the text goes against it
           and prompts to film every idea for the project, for which me and my
           DOP Alex Curren did. Around 1/3 of the footage made it into the film.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >How did you perceive films as a kid, in comparison to how you look
-            at them now?</strong
+            at them now?</h3
           >
-          <br /><br />
+          <br /><p>
           I think when I was a kid, films are almost more emotional compared to
           viewing it as an adult. A large part of it is the naïvety and the
           misunderstanding of a narrative mixed with imagination. <br /><br />
@@ -153,12 +153,12 @@
           more magical, similar to the adrenaline I had listening to Dubstep in
           the van as a teenager. In some sense I'm envious of that feeling, but
           as substitute I could now enjoy the films of Michael Haneke.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >What emotion or human experience were you most drawn to in the
-            making of this film and why?</strong
+            making of this film and why?</h3
           >
-          <br /><br />
+          <br /><p>
           I was most drawn to the feeling of great anxiety and dread; a sense of
           a perpetual identity crisis in flux between two land geographically
           opposite to each other. All of this came to a point of melancholia in
@@ -166,12 +166,12 @@
           Above that I'm also interested in how others experience the film
           emotionally, its like a collaboration between the audience and the
           filmmaker given that the film could be abstract and completely
-          subjective at times. <br /><br />
-          <strong
+          subjective at times. </p><br />
+          <h3
             >What is your writing process like (or are you more into
-            improv)?</strong
+            improv)?</h3
           >
-          <br /><br />
+          <br /><p>
           I find my own writing process tedious and unnecessarily complicated,
           hence I'm always envious of those that could work in a more linear and
           a more reasonable way. <br /><br />
@@ -192,9 +192,9 @@
           of 'Why do ants go back to their nest?' and continues for my newest
           project. <br /><br />
           Nowadays, I'm trying to make my life easier by writing a script.
-          <br /><br />
-          <strong>How do you approach making a personal film?</strong>
-          <br /><br />
+          </p><br />
+          <h3>How do you approach making a personal film?</h3>
+          <br /><p>
           I find auto-fiction a great way to approach this, inspired by the
           works of Ann Quin, Kurt Vonnegut and Sarah Kane. <br /><br />
           It brings be comfort that I could disguise certain aspect of reality,

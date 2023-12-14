@@ -129,21 +129,20 @@
         </h2>
         <br />
 
-        <p>
-          <strong>Why were you inspired to make this specific film?</strong>
-          <br /><br />
+          <h3>Why were you inspired to make this specific film?</h3>
+          <br /><p>
           The inspiration for creating this specific film emerged from a series
           of recent events that ultimately confronted a lifetime of emotional
           pain. In an effort to grapple with and find acceptance for these
           experiences, I embarked on a deeply introspective journey, chronicling
           the entirety of my existence. This process revealed the core essence
           of my being, encompassing my consciousness, fears, vulnerabilities,
-          and insecurities—an unfiltered representation of my soul.<br /><br />
-          <strong
+          and insecurities—an unfiltered representation of my soul.</p><br />
+          <h3
             >Did anyone specific become critical to the creation of your film?
-            Why do they stand out as significant to your film?</strong
+            Why do they stand out as significant to your film?</h3
           >
-          <br /><br />
+          <br /><p>
           Definitely, the support and connection I found with individuals who
           shared similar backgrounds and histories were absolutely critical to
           the creation of my film. These connections served as a powerful
@@ -166,12 +165,12 @@
           me. The combination of artistic expression and therapy allowed me to
           redefine my existence on my own terms, reshaping my narrative and
           reaffirming my presence in a way that I never thought possible.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >Were there any challenges or doubts you faced in the process? How
-            did you address them?</strong
+            did you address them?</h3
           >
-          <br /><br />
+          <br /><p>
           Absolutely, there were a multitude of challenges and doubts that I
           encountered throughout this process. Confronting the lingering impact
           of my childhood and adolescence on my self-perception was deeply
@@ -186,9 +185,9 @@
           these aspects, that they did not encapsulate the entirety of my
           identity. I recognised that my formative experiences, despite their
           difficulties, shaped me into the person I am today, a fact I came to
-          accept and even embrace. <br /><br />
-          <strong>How does your true self shine through in your film?</strong>
-          <br /><br />
+          accept and even embrace. </p><br />
+          <h3>How does your true self shine through in your film?</h3>
+          <br /><p>
           In my film, my true self shines through in its unfiltered
           authenticity. It's a raw and unvarnished reflection of my journey,
           where I've confronted my past and embraced my vulnerabilities head-on.

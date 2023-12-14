@@ -64,9 +64,9 @@
         </h2>
         <br />
 
-        <p>
-          <strong>How does your true self shine through in your film?</strong>
-          <br /><br />
+        
+          <h3>How does your true self shine through in your film?</h3>
+          <br /><p>
           Echappe represents the person I was a year ago, specifically the
           feeling of being stuck and wanting to break free. I was never a rule
           follower since I was a kid, but I would always try to hide it to avoid
@@ -76,12 +76,12 @@
           express myself. However, in the process of pursuing arts, I realized
           that there are logistics and limitations to the practice and the
           medium. Only this time, I won’t be a coward anymore, I will face
-          whatever obstacles there might be, and learn from them. <br /><br />
-          <strong
+          whatever obstacles there might be, and learn from them. </p><br />
+          <h3
             >Who are some of your inspirations as a filmmaker and how might
-            their impact show up in your film?</strong
+            their impact show up in your film?</h3
           >
-          <br /><br />
+          <br /><p>
           Of all the filmmakers that I admire, Edward Yang and Eric Rohmer are
           always the first two names that pop into my head. When I watched their
           films at the age of fifteen, I felt seen and understood. And that is
@@ -90,12 +90,12 @@
           my life passion, I realize that their influences are there all along.
           The day-to-day life stories, the grounded cinematography style, the
           use of amateur actors, and the middle-class characters.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >What emotion or human experience were you most drawn to in the
-            making of this film and why?</strong
+            making of this film and why?</h3
           >
-          <br /><br />
+          <br /><p>
           There haven't been many people who understand the message behind
           Echappe fully. When I first had the idea and told a friend about it,
           he encouraged me to explore more. And so that’s what I did for the

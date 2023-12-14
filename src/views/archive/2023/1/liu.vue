@@ -77,9 +77,9 @@
         </h2>
         <br />
 
-        <p>
-          <strong>Why were you inspired to make this specific film? </strong>
-          <br /><br />
+        
+          <h3>Why were you inspired to make this specific film? </h3>
+          <br /><p>
           The film is a smattering of three different times in my life where I
           was taking video to film something. The first time I made my vlog, it
           was because I was extremely happy at the end of high school and just
@@ -92,12 +92,12 @@
           of boyhood. No one is acting from the time it was taken, it was all
           from different times but feels like the same time. I wanted to answer
           where do I stand with these memories? How can I go forward?
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >What is one of your fondest memories from the production/process of
             making this film?
-          </strong>
-          <br /><br />
+          </h3>
+          <br /><p>
           I think it was the act of sharing it with my close friends and getting
           their feedback, as well as jokingly filming it along with my friend
           who also wanted to film something to remember the summer days in my
@@ -109,12 +109,12 @@
           with my friend, it made me think about the circularity of time. At one
           point, people didn't understand why I had vlogged back then, it's
           interesting how things change but also converge.
-          <br /><br />
-          <strong
+          </p><br />
+          <h3
             >What emotion or human experience were you most drawn to in the
             making of this film and why?
-          </strong>
-          <br /><br />
+          </h3>
+          <br /><p>
           I think I was always enamored with the idea of memory and nostalgia. I
           joked with a friend the other day that I would definitely be one of
           the first to become fevered in Severance (in the book it's those who
