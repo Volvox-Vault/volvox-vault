@@ -1,9 +1,9 @@
 <template>
   <body>
-    <img
+   <a href="/tsff"> <img
       src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/ts.png?v=1673389523276"
       class="logo"
-    />
+    /></a>
 
     <h1>
       <router-link to="/trueself" style="text-decoration: none"
@@ -16,14 +16,6 @@
       <a href="https://ko-fi.com/volvoxobserver">support us on ko-fi</a> <br />
       hosted by <a href="https://tiana.computer">tiana dueck</a> &
       <a href="http://kalilhaddad.com">kalil haddad</a>
-      <br />
-      visit us again in october when webpages for each film with special
-      features are up! review the
-      <a
-        href="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/rotterdamprogramme-post.jpg?v=1693132954142"
-        target="_blank"
-        >programme</a
-      >.
     </p>
     <hr />
     <br />
