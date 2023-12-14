@@ -110,8 +110,7 @@
               was taken by me, I felt like I had found a way to take me out of
               the picture and put different parts of myself back in.
             </p>
-          </p>
-        </p>
+
       </div>
     </div>
 
