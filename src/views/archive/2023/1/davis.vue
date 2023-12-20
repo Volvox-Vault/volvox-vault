@@ -10,7 +10,8 @@
     <br />
     <p style="font-family: hersheyFut">
       A film by
-      <a href="https://instagram.com/wildedavis" target="_blank">Wilde Davis</a> (They/He).
+      <a href="https://instagram.com/wildedavis" target="_blank">Wilde Davis</a>
+      (They/He).
     </p>
     <br />
 
@@ -73,8 +74,60 @@
         </h2>
         <br />
 
+        <h3>
+          Who are some of your inspirations as a filmmaker and how might their
+          impact show up in your film?
+        </h3>
+        <br />
         <p>
-          <h3>N/A</h3>
+          At this very present moment in time I'm super attracted to the
+          archive. I really want to start working with found footage and
+          archival material, kind of like Kalil has done and many other fab
+          filmmakers. The queer archive is a rich dirty place and I think there
+          is a lot of it hidden in people's basements that I want to find and
+          uncover. Because queer art has always been edgey and fleeting and
+          transgressive, it hasn't gotten any sort of preservation or
+          restoration from elite institutions. Some films of course have but the
+          smut has only survived because some queer was too sentimental to let
+          it go. God bless the hoarding queers.
+        </p>
+        <br />
+        <h3>
+          What emotion or human experience were you most drawn to in the making
+          of this film and why?
+        </h3>
+        <br />
+        <p>
+          Magic! I'm very entranced by Kenneth Anger's insistence that cinema
+          making is a form of magic. He always talked about how he wanted to
+          convince his audience to perform dark magic and hello that's why I am
+          here. He made me do it. Every piece of celluloid a little spell. I
+          wanted to cast a spell to bind whiteness and capitalism. I created the
+          film while the Black Lives Matter protests were unfolding and shifting
+          the world's consciousness in the summer of 2020. Simultaneously, I was
+          reading tarot for the first time and I sought to create a film that
+          used archetypes to express the complex array of influences, emotions,
+          and experiences I was having during this period.
+        </p>
+        <br />
+        <h3>
+          Who are some of your inspirations as a filmmaker and how might their
+          impact show up in your film?
+        </h3>
+        <br />
+        <p>
+          Alongside some of the inspirations I mentioned, I see my filmmaking as
+          this sort of hyperpop-like amalgamation of influences that thrusts a
+          gen z brain onto a magical thing like celluloid and unleashes
+          monstrosity. By this I mean that I am addicted to cinema and I never
+          stop watching and reading about it. I love genre cinema particularly
+          horror and anything goth and punky. When I was creating this film I
+          essentially imagined each scene as if it was being stolen from another
+          film and reworked for my movie. The tarot reading from Cleo from 5 to
+          7, the hitchhiking scene from Super 8 1/2, so on and so forth. And the
+          whole thing was basically like what if a bunch of femme fags took on
+          Valerie Solanas' Scum Manifesto and brought it to life by killing a
+          hustler named Hollywood (cuz I fucking hate Hollywood).
         </p>
       </div>
     </div>
