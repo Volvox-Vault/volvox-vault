@@ -40,9 +40,7 @@
         </p>
         <br />
         <h3>STANLEY TUCKER</h3>
-        <p>
-          A 22 year old art student from the UK.
-        </p>
+        <p>A 22 year old art student from the UK.</p>
       </div>
 
       <div class="ts-box credits">
@@ -50,20 +48,55 @@
           <span style="background: #f3f9e6; padding: 5px">CREDITS</span>
         </h2>
         <br />
-        <p>
-          Director: Stanley Tucker
-        </p>
+        <p>Director: Stanley Tucker</p>
       </div>
 
       <div class="ts-box">
         <h2 style="color: #664c71">
-          <span style="background: #f3f9e6; padding: 5px">Q&A WITH STANLEY</span>
+          <span style="background: #f3f9e6; padding: 5px"
+            >Q&A WITH STANLEY</span
+          >
         </h2>
         <br />
 
-          <h3
-            >N/A</h3
-          >
+        <h3>Why were you inspired to make this specific film?</h3>
+        <p>
+          When I made this film I was in a bit of a rut. Making it was a means
+          of catharsis. It gave me a chance to articulate how I was feeling and
+          better understand my rut. I was watching too much YouTube. It was
+          every night and every meal. It was a distraction and an escape. I
+          wasn’t giving myself time to pause and appreciate the things around
+          me. I could feel myself being washed away. The film was an attempt to
+          resolve this problem creatively. I ended up with something I’m really
+          proud of, and it sort of worked. I still watch YouTube but nowhere
+          near as much.
+        </p>
+        <h3>
+          What is one of your fondest memories from the production/process of
+          making this film?
+        </h3>
+        <p>
+          The fondest memory from making the film was when I came up with the
+          music. It was late and I was playing my keyboard instead of editing. I
+          stumbled across two really nice chords and came up with some words to
+          go over the top. It was quite simple but I thought it really captured
+          how I was feeling at the time. It was funny and sad and felt very
+          human. One of the reasons why I think it works so well is because the
+          rest of the film is so quiet.
+        </p>
+        <h3>
+          Who are some of your inspirations as a filmmaker and how might their
+          impact show up in your film?
+        </h3>
+        <p>
+          In my film I talk about how watching too much YouTube can be a bad
+          thing but a lot of my inspiration actually came from YouTubers I like
+          to watch. A lot of videos can help you to switch off for a bit. But
+          there are other videos that do the opposite; videos that are
+          thoughtful and inventive, make you feel something and encourage you to
+          go and make your own stuff. There's something honest and vulnerable
+          about a lot of YouTube. It inspired me to do the same.
+        </p>
       </div>
     </div>
 
