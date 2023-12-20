@@ -31,7 +31,9 @@ import skirt from '../views/archive/2023/3/skirt.vue'
 import cleaning from '../views/archive/2023/2/cleaning.vue'
 import vote from '../views/archive/2023/1/vote.vue'
 import trueselftemplate from '../views/archive/2023/1/trueselftemplate.vue'
+/*
 import trueself from '../views/archive/2023/1/trueself.vue'
+*/
 import myleswheeler from '../views/archive/2022/12/myleswheeler.vue'
 import belongingthroughcreativity from '../views/archive/2022/11/belongingthroughcreativity.vue'
 import figmadinnerparty from '../views/archive/2022/10/figmadinnerparty.vue'
@@ -239,11 +241,13 @@ const routes = [
     name: 'trueselftemplate',
     component: trueselftemplate
   },
+  /*
   {
     path: '/trueself',
     name: 'trueself',
     component: trueself
   },
+  */
   {
     path: '/archive/myleswheeler',
     name: 'myleswheeler',

@@ -166,7 +166,7 @@
 
 <script>
 export default {
-    name: "trueself",
+    name: "tsff",
     components: {},
     metaInfo: {
         // title will be injected into parent titleTemplate
