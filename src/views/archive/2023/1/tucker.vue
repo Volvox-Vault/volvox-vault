@@ -60,6 +60,7 @@
         <br />
 
         <h3>Why were you inspired to make this specific film?</h3>
+        <br>
         <p>
           When I made this film I was in a bit of a rut. Making it was a means
           of catharsis. It gave me a chance to articulate how I was feeling and
@@ -71,10 +72,12 @@
           proud of, and it sort of worked. I still watch YouTube but nowhere
           near as much.
         </p>
+        <br>
         <h3>
           What is one of your fondest memories from the production/process of
           making this film?
         </h3>
+        <br>
         <p>
           The fondest memory from making the film was when I came up with the
           music. It was late and I was playing my keyboard instead of editing. I
@@ -84,10 +87,12 @@
           human. One of the reasons why I think it works so well is because the
           rest of the film is so quiet.
         </p>
+        <br>
         <h3>
           Who are some of your inspirations as a filmmaker and how might their
           impact show up in your film?
         </h3>
+        <br>
         <p>
           In my film I talk about how watching too much YouTube can be a bad
           thing but a lot of my inspiration actually came from YouTubers I like
