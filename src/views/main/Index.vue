@@ -32,10 +32,10 @@
                   <p>MAGAZINES</p>
                 </div></router-link
               >
-              <router-link to="/trueself"
+              <a href="/trueself"
                 ><div class="new-box">
                   <p style="background: #f3f9e6;">TRUE SELF FILM FEST</p>
-                </div></router-link
+                </div></a
               >
               <router-link to="/diary"
                 ><div class="new-box">
