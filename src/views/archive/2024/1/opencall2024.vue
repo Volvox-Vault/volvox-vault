@@ -84,23 +84,12 @@ body {
         overflow: auto;
       }
 
-      .div1 {
-        grid-column-start: 1;
-        grid-column-end: 3;
-        grid-row-start: 2;
-        grid-row-end: 2;
-      }
-      
-      .title {
-        text-align: center;
-      }
-
       @media only screen and (max-width: 600px) {
         .container {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
         grid-column-gap: 0px;
-        grid-row-gap: 0px;
+        grid-row-gap: 4px;
         height: 100vh;
         }
 
