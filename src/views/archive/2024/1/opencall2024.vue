@@ -93,9 +93,11 @@ body {
         grid-column-gap: 4px;
         grid-row-gap: 10px;
         height: 100%;
+        background-color: rgba(108, 75, 113, 0.8);
         }
 
         .box {
+        background-color: rgba(108, 75, 113, 0);
         height: 100%;
         overflow: hidden;
         }
