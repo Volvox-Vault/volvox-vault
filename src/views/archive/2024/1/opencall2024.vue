@@ -64,7 +64,7 @@ body {
         grid-template-columns: repeat(2, 1fr);
         grid-column-gap: 4px;
         grid-row-gap: 4px;
-        height: 100%;
+        height: 100vh;
         color: #f3f9e6;
       }
 
