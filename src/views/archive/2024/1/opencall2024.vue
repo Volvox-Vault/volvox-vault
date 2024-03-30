@@ -82,7 +82,7 @@ body {
         background-color: rgba(108, 75, 113, 0.8);
         padding: 20px;
         height: 100%;
-        overflow: hidden;
+        overflow: auto;
       }
 
       @media only screen and (max-width: 600px) {
