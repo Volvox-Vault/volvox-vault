@@ -2,12 +2,6 @@
   <MainLayout>
      <body>
     <div class="container">
-      <div class="box div1 title">
-        <h1>volvox observer</h1>
-        <p>
-          <em>explore our archive</em>
-        </p>
-      </div>
       <div class="box">
         <h2>Open Call 2024</h2>
         <p>
@@ -74,9 +68,13 @@ body {
         color: #f3f9e6;
       }
 
+      p {
+        background: rgb(108, 75, 113);
+      }
+
       .box {
         background-color: rgba(108, 75, 113, 0.8);
-        padding: 10px;
+        padding: 20px;
         overflow: auto;
       }
 
