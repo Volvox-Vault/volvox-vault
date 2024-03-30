@@ -63,7 +63,6 @@ body {
         margin: 0px;
         background-image: url("https://cdn.glitch.global/1bc078b6-0415-4e03-b37b-6732f286da4c/images.png?v=1711829203596");
         background-size: cover;
-        color: #f3f9e6;
       }
 
       .container {
@@ -72,10 +71,11 @@ body {
         grid-column-gap: 4px;
         grid-row-gap: 4px;
         height: 100vh;
+        color: #f3f9e6;
       }
 
       .box {
-        background-color: rgba(108, 75, 113, 0.5);
+        background-color: rgba(108, 75, 113, 0.8);
         padding: 10px;
         overflow: auto;
       }
