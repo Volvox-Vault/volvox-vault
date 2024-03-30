@@ -58,12 +58,12 @@ export default {
 </script>
 
 <style scoped>
-bbody {
-        font-family: Times New Roman, Times, serif;
+body {
         line-height: 1.6;
         margin: 0px;
         background-image: url("https://cdn.glitch.global/1bc078b6-0415-4e03-b37b-6732f286da4c/images.png?v=1711829203596");
         background-size: cover;
+        color: #f3f9e6;
       }
 
       .container {
