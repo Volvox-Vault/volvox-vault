@@ -69,7 +69,11 @@ body {
       }
 
       p {
-        background: rgb(108, 75, 113);
+        background: rgba(108, 75, 113, 0.8);
+      }
+
+      h2 {
+        font-size: font-size: 30px;
       }
 
       .box {
