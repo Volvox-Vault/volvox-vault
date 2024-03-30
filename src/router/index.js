@@ -85,6 +85,9 @@ import haver from '../views/archive/2023/1/haver.vue'
 import tucker from '../views/archive/2023/1/tucker.vue'
 import dueck from '../views/archive/2023/1/dueck.vue'
 
+import opencall2024 from '../views/archive/2024/1/opencall2024.vue'
+
+
 /* ISSUES */
 import Identity from '../views/archive/issues/Identity/Identity.vue'
 import Proximity from '../views/archive/issues/Proximity/Proximity.vue'
@@ -221,6 +224,11 @@ const routes = [
   },
 
   /* ARCHIVE */ 
+  {
+    path: '/2024',
+    name: 'opencall2024',
+    component: opencall2024
+  },
   {
     path: '/archive/skirt',
     name: 'skirt',
