@@ -92,7 +92,7 @@ body {
         grid-template-columns: repeat(1, 1fr);
         grid-column-gap: 4px;
         grid-row-gap: 4px;
-        height: 100vh;
+        height: 100%;
         }
 
         .box {
