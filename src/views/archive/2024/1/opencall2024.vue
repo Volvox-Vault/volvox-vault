@@ -57,6 +57,7 @@ body {
         margin: 0px;
         background-image: url("https://cdn.glitch.global/1bc078b6-0415-4e03-b37b-6732f286da4c/images.png?v=1711829203596");
         background-size: cover;
+        overflow: hidden;
       }
 
       .container {
@@ -75,7 +76,7 @@ body {
       h2 {
         font-size: 30px;
         color: #f3f9e6;
-        background: #664b71;
+        background: rgba(108, 75, 113, 0.8);
       }
 
       .box {
@@ -89,7 +90,7 @@ body {
         .container {
         display: grid;
         grid-template-columns: repeat(1, 1fr);
-        grid-column-gap: 0px;
+        grid-column-gap: 4px;
         grid-row-gap: 4px;
         height: 100vh;
         }
