@@ -103,5 +103,10 @@ body {
         grid-row-gap: 0px;
         height: 100vh;
         }
+
+        .box {
+        height: 100%;
+        overflow: hidden;
+        }
       }
 </style>
