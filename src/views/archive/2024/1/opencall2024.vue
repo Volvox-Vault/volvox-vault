@@ -81,7 +81,8 @@ body {
       .box {
         background-color: rgba(108, 75, 113, 0.8);
         padding: 20px;
-        overflow: auto;
+        height: 100%;
+        overflow: hidden;
       }
 
       @media only screen and (max-width: 600px) {
