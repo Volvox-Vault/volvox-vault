@@ -73,7 +73,7 @@ body {
       }
 
       h2 {
-        font-size: font-size: 30px;
+        font-size: 30px;
       }
 
       .box {
