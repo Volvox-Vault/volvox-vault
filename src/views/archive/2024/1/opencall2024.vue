@@ -14,13 +14,7 @@
           have an idea you're passionate about that could be made into an
           interactive web experience? An essay, game, photo/video, experimental
           art...
-        </p>
-        <p>
-          <strong
-            >Email hello@volvox.observer with your pitch.<br />
-            Deadline: June 1, 2024</strong
-          >
-        </p>
+        </p>      
       </div>
       <div class="box">
         <h2>Pitch Guide</h2>
@@ -29,6 +23,11 @@
           of up to 300 words on your idea, your portfolio, and list your top 3
           favourite websites. Please note this is an unfunded and unpaid passion
           project. We hope to work with you for the creative joy of it!
+        </p>
+         <p>
+          <strong
+            >Email hello@volvox.observer with your pitch.<br />
+            Deadline: June 1, 2024</strong>
         </p>
       </div>
     </div>
