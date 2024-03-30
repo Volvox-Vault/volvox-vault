@@ -74,6 +74,8 @@ body {
 
       h2 {
         font-size: 30px;
+        color: #f3f9e6;
+        background: #664b71;
       }
 
       .box {
@@ -91,5 +93,15 @@ body {
       
       .title {
         text-align: center;
+      }
+
+      @media only screen and (max-width: 600px) {
+        .container {
+        display: grid;
+        grid-template-columns: repeat(1, 1fr);
+        grid-column-gap: 0px;
+        grid-row-gap: 0px;
+        height: 100vh;
+        }
       }
 </style>
