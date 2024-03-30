@@ -26,7 +26,7 @@
         <h2>Pitch Guide</h2>
         <p>
           Please include your name, your website (or social media), a working title for your idea, a summary
-          of up to 300 words on your idea, your portfolio (if any), and list your top 3
+          of up to 300 words on your idea, your portfolio, and list your top 3
           favourite websites. Please note this is an unfunded and unpaid passion
           project.
         </p>
