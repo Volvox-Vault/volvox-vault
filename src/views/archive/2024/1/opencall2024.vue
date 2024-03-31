@@ -3,7 +3,7 @@
      <body>
     <div class="container">
       <div class="box">
-        <h2>Open Call 2024</h2>
+        <h2>Open Call 2024: BLOOM</h2>
         <p>
           <em>Dear net artists, thinkers, creatives, designers...</em>
         </p>
