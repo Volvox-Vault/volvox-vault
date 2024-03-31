@@ -47,7 +47,7 @@
 
             <router-link to="/2024"  class="newest-link">
             <div style="width: 100%; height: 300px;"><img style="height: 300px; width: 100%;  object-fit: cover;"
-                src="https://cdn.glitch.global/1bc078b6-0415-4e03-b37b-6732f286da4c/algaebloom.png?v=1711893921767"
+                src="https://cdn.glitch.global/1bc078b6-0415-4e03-b37b-6732f286da4c/algaebloom1.png?v=1711894134486"
               /></div>
             <div class="newest"><marquee><h1>THIS JUST IN — 2024 OPEN CALL: BLOOM</h1></marquee></div></router-link>
 
