@@ -45,11 +45,11 @@
             </div>
 
 
-            <router-link to="/archive/cleaning"  class="newest-link">
+            <router-link to="/2024"  class="newest-link">
             <div style="width: 100%; height: 300px;"><img style="height: 300px; width: 100%;  object-fit: cover;"
-                src="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/athena-dither.png?v=1687205643861"
+                src="https://cdn.glitch.global/1bc078b6-0415-4e03-b37b-6732f286da4c/images.png?v=1711829203596"
               /></div>
-            <div class="newest"><marquee><h1>THIS JUST IN — ATHENA SCOTT'S SPRING CLEANING DIARY</h1></marquee></div></router-link>
+            <div class="newest"><marquee><h1>THIS JUST IN — 2024 OPEN CALL: BLOOM</h1></marquee></div></router-link>
 
 
             <div class="column-container">
