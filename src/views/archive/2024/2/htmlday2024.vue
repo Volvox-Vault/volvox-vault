@@ -16,6 +16,8 @@
                 </em>
             </p>
 
+            <hr>
+
 
             <p>
             Volvox Observer loves HTML! <br>
