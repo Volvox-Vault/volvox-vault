@@ -34,7 +34,7 @@ Please RSVP by emailing hello@volvox.observer with your name and website (or soc
 See you there! 
             </p>
 
-            <hr>
+            <br>
 
             <a href="https://paypal.me/ti4na" target="_blank"> Tip Jar ☕ </a>
           </div>
