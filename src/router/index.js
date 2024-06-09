@@ -34,6 +34,7 @@ import trueselftemplate from '../views/archive/2023/1/trueselftemplate.vue'
 /*
 import trueself from '../views/archive/2023/1/trueself.vue'
 */
+import htmlday2024 from '../views/archive/2024/2/htmlday2024.vue'
 import myleswheeler from '../views/archive/2022/12/myleswheeler.vue'
 import belongingthroughcreativity from '../views/archive/2022/11/belongingthroughcreativity.vue'
 import figmadinnerparty from '../views/archive/2022/10/figmadinnerparty.vue'
@@ -224,6 +225,11 @@ const routes = [
   },
 
   /* ARCHIVE */ 
+  {
+    path: '/archive/htmlday2024',
+    name: 'htmlday2024',
+    component: htmlday2024
+  },
   {
     path: '/2024',
     name: 'opencall2024',
