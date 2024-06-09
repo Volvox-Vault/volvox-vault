@@ -19,12 +19,12 @@
 
             <p>
             Volvox Observer loves HTML! <br>
-            Join us for an afternoon of freewriting this HTML Day (<a href="https://html.energy/events.html">learn more</a>...<br><br>
+            Join us for an afternoon of freewriting this <a href="https://html.energy/events.html">HTML Day</a>...<br><br>
 
             City: Toronto, Canada<br>
 Date: Saturday, July 13 (HTML Day 2024!)<br>
 Time: 3pm EDT<br>
-Organizer: Tiana<br>
+Organizer: <a href="https://tiana.computer">Tiana</a><br>
 Location: Trinity Bellwoods Park
 <br><br>
 Please RSVP by emailing hello@volvox.observer with your name and website (or social media).
