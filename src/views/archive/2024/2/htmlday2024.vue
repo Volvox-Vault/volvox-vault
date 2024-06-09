@@ -18,9 +18,10 @@
 
 
             <p>
-            Volvox Observer loves HTML! Join us for an afternoon of freewriting this HTML Day...<br><br>
+            Volvox Observer loves HTML! <br>
+            Join us for an afternoon of freewriting this HTML Day (<a href="https://html.energy/events.html">learn more</a>...<br><br>
 
-            Toronto<br>
+            City: Toronto, Canada<br>
 Date: Saturday, July 13 (HTML Day 2024!)<br>
 Time: 3pm EDT<br>
 Organizer: Tiana<br>
