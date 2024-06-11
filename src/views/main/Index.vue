@@ -37,9 +37,9 @@
                   <p style="background: #f3f9e6;">TRUE SELF FILM FEST</p>
                 </div></a
               >
-              <router-link to="/diary"
+              <router-link to="/archive/htmlday2024"
                 ><div class="new-box">
-                  <p>VOLVOX DIARY</p>
+                  <p>HTML DAY 2024</p>
                 </div></router-link
               >
             </div>
