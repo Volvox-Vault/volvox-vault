@@ -27,7 +27,7 @@
 Date: Saturday, July 13 (HTML Day 2024!)<br>
 Time: 3pm EDT<br>
 Organizer: <a href="https://tiana.computer">Tiana</a><br>
-Location: Trinity Bellwoods Park<br>
+Location: TBA<br>
 Bring your own computer and note pad + pen.
 <br><br>
 Please RSVP by emailing hello@volvox.observer with your name and website (or social media).
