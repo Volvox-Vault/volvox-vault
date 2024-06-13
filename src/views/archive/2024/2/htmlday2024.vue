@@ -31,7 +31,9 @@ Bring your own computer and note pad + pen.
 <br>
 <a href="https://lu.ma/8qp16v85?tk=WlM0Ia">RSVP here!</a>
 <br><br>
-See you there! 
+We'll be providing an HTML cookbook, which describes the basics of HTML and CSS, as well as provides some prompts.<br>
+See you there,
+Tiana, Garry, and Ross
             </p>
 
             <br>
