@@ -12,7 +12,7 @@
                 >Hosted by
                 <a href="https://tiana.computer" target="_blank"
                   >Tiana</a
-                >. <a href="mailto:hello@volvox.observer">Cohost?</a>
+                >, <a href="https://html.green">Garry, Ross</a>, and <a href="https://vectorfestival.org/">Vector Festival</a>.
                 </em>
             </p>
 
@@ -26,11 +26,11 @@
             City: Toronto, Canada<br>
 Date: Saturday, July 13 (HTML Day 2024!)<br>
 Time: 3pm EDT<br>
-Organizer: <a href="https://tiana.computer">Tiana</a><br>
-Location: TBA<br>
+Location: Dovercourt Park<br>
 Bring your own computer and note pad + pen.
+<br>
+<a href="https://lu.ma/8qp16v85?tk=WlM0Ia">RSVP here!</a>
 <br><br>
-Please RSVP by emailing hello@volvox.observer with your name and website (or social media).
 See you there! 
             </p>
 
