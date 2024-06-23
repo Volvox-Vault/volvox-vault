@@ -25,7 +25,7 @@
 
             City: Toronto, Canada<br>
 Date: Saturday, July 13 (HTML Day 2024!)<br>
-Time: 3pm EDT<br>
+Time: 2pm EDT<br>
 Location: Dovercourt Park<br>
 Bring your own computer and note pad + pen.
 <br>
