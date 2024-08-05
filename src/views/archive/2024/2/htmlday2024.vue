@@ -30,7 +30,9 @@ Location: Dovercourt Park<br>
 <br>
 <a href="https://lu.ma/html-toronto">Subscribe to RSVP for future events.</a>
 <br><br>
-We'll be provided an HTML cookbook (<a href="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HTML%20Day%20Zine.pdf?v=1722898564618">download the PDF</a>), which describes the basics of HTML and CSS, as well as lists some prompts.<br><br>
+<a href="https://html.green/">You can explore the archive of websites we made and more images here.</a>
+<br><br>
+We provided an HTML cookbook (<a href="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HTML%20Day%20Zine.pdf?v=1722898564618">download the PDF</a>), which describes the basics of HTML and CSS, as well as lists some prompts.<br><br>
 Thanks for joining us,<br>
 Tiana, Garry, and Ross
             </p>
