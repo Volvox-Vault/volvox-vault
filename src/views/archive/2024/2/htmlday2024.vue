@@ -20,7 +20,7 @@
 
 
             <p>
-            Volvox Observer, <a href="https://html.green/">HTML Green</a>, and <a href="https://html.energy/">HTML Energy</a> love HTML! <br>
+            Volvox Observer, <a href="https://html.green/">HTML Green</a>, <a href="https://vectorfestival.org/">Vector Festival</a>, and <a href="https://html.energy/">HTML Energy</a> love HTML! <br>
             We gathered for an afternoon of freewriting for <a href="https://html.energy/events.html">HTML Day 2024</a>...<br><br>
 
             City: Toronto, Canada<br>
