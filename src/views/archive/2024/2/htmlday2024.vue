@@ -20,19 +20,18 @@
 
 
             <p>
-            Volvox Observer loves HTML! <br>
-            Join us for an afternoon of freewriting this <a href="https://html.energy/events.html">HTML Day</a>...<br><br>
+            Volvox Observer, <a href="https://html.green/">HTML Green</a>, and <a href="https://html.energy/">HTML Energy</a> love HTML! <br>
+            We gathered for an afternoon of freewriting for <a href="https://html.energy/events.html">HTML Day 2024</a>...<br><br>
 
             City: Toronto, Canada<br>
 Date: Saturday, July 13 (HTML Day 2024!)<br>
 Time: 2pm EDT<br>
 Location: Dovercourt Park<br>
-Bring your own computer and note pad + pen.
 <br>
-<a href="https://lu.ma/8qp16v85?tk=WlM0Ia">RSVP here!</a>
+<a href="https://lu.ma/html-toronto">Subscribe to RSVP for future events.</a>
 <br><br>
-We'll be providing an HTML cookbook, which describes the basics of HTML and CSS, as well as lists some prompts.<br><br>
-See you there,<br>
+We'll be provided an HTML cookbook (<a href="https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/HTML%20Day%20Zine.pdf?v=1722898564618">download the PDF</a>), which describes the basics of HTML and CSS, as well as lists some prompts.<br><br>
+Thanks for joining us,<br>
 Tiana, Garry, and Ross
             </p>
 
