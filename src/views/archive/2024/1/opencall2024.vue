@@ -72,7 +72,11 @@ body {
         color: #f3f9e6;
       }
 
-      p {
+      a {
+        color: #f3f9e6;
+      }
+
+      p, ul {
         background: rgba(108, 75, 113, 0.8);
       }
 
