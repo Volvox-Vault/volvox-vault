@@ -61,6 +61,7 @@ body {
         background-image: url("https://cdn.glitch.global/1bc078b6-0415-4e03-b37b-6732f286da4c/algaebloom.png?v=1711893921767");
         background-size: cover;
         overflow: hidden;
+        font-size: 14pt;
       }
 
       .container {
