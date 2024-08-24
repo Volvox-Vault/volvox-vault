@@ -37,9 +37,9 @@
                   <p style="background: #f3f9e6;">TRUE SELF FILM FEST</p>
                 </div></a
               >
-              <router-link to="/archive/htmlday2024"
+              <router-link to="/latesummer"
                 ><div class="new-box">
-                  <p>HTML DAY 2024</p>
+                  <p>FILM: LATE SUMMER</p>
                 </div></router-link
               >
             </div>
