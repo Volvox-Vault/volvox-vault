@@ -253,12 +253,12 @@ const routes = [
     name: 'vote',
     component: vote
   },
+  /*
   {
     path: '/trueselftemplate',
     name: 'trueselftemplate',
     component: trueselftemplate
   },
-  /*
   {
     path: '/trueself',
     name: 'trueself',
