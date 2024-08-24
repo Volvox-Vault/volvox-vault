@@ -30,8 +30,7 @@ import CafePost from '../views/cafe/CafePost.vue'
 import skirt from '../views/archive/2023/3/skirt.vue'
 import cleaning from '../views/archive/2023/2/cleaning.vue'
 import vote from '../views/archive/2023/1/vote.vue'
-import trueselftemplate from '../views/archive/2023/1/trueselftemplate.vue'
-/*
+/*import trueselftemplate from '../views/archive/2023/1/trueselftemplate.vue'
 import trueself from '../views/archive/2023/1/trueself.vue'
 */
 import htmlday2024 from '../views/archive/2024/2/htmlday2024.vue'
@@ -86,8 +85,12 @@ import haver from '../views/archive/2023/1/haver.vue'
 import tucker from '../views/archive/2023/1/tucker.vue'
 import dueck from '../views/archive/2023/1/dueck.vue'
 
+/* 2024 */
 import opencall2024 from '../views/archive/2024/1/opencall2024.vue'
-
+import latesummer from '../views/archive/2024/3/latesummer.vue'
+import lsFilm from '../views/archive/2024/3/ls-film.vue'
+import lsBTS from '../views/archive/2024/3/ls-bts.vue'
+import lsRyan from '../views/archive/2024/3/ls-ryan.vue'
 
 /* ISSUES */
 import Identity from '../views/archive/issues/Identity/Identity.vue'
@@ -504,6 +507,27 @@ const routes = [
     component: dueck
   },
   
+  /* 2024 */
+  {
+    path: '/latesummer',
+    name: 'latesummer',
+    component: latesummer
+  },
+  {
+    path: '/ls-film',
+    name: 'lsFilm',
+    component: lsFilm
+  },
+  {
+    path: '/ls-ryan',
+    name: 'lsRyan',
+    component: lsRyan
+  },
+  {
+    path: '/ls-bts',
+    name: 'lsBTS',
+    component: lsBTS
+  },
 
   /* Issues */
 
