@@ -3,7 +3,7 @@
 <img class="star1" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/star.png?v=1723342341788" />
 <a href="/ls-bts" title="info + bts"><img class="mask" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/mask.png?v=1723342341390" /></a>
 <a href="/ls-ryan" title="note from ryan"><img class="ryan" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/latesummer-head.png?v=1724116787870" /></a>
-<a href="/" title="back to volvox"><img class="star2" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/star.png?v=1723342341788" /></a>
+<a href="/2024" title="back to volvox"><img class="star2" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/star.png?v=1723342341788" /></a>
 
 <audio autoplay loop controls>
     <source src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/Late%20Summer%20Track%202.wav?v=1724013284563" type="audio/mpeg" />

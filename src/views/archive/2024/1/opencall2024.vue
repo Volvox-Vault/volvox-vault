@@ -25,7 +25,7 @@
          <p>
           <strong
             >Email hello@volvox.observer with your pitch.<br />
-            Deadline: June 1, 2024</strong>
+            Deadline: October 1, 2024</strong>
         </p>     
       </div>
       <div class="box">

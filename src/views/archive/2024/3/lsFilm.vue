@@ -3,7 +3,7 @@
 <a href="/latesummer" title="back"><img class="star1" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/star.png?v=1723342341788" /></a>
 <a href="/ls-bts" title="info + bts"><img class="mask" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/mask.png?v=1723342341390" /></a>
 <a href="/ls-ryan" title="note from ryan"><img class="ryan" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/latesummer-head.png?v=1724116787870" /></a>
-<a href="/" title="back to volvox"><img class="star2" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/star.png?v=1723342341788" /></a>
+<a href="/2024" title="back to volvox"><img class="star2" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/star.png?v=1723342341788" /></a>
 
 <div id="lateSummer"><iframe src="https://player.vimeo.com/video/718386367?h=bd5c46c194&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" frameborder="0" allow="autoplay; fullscreen; picture-in-picture; clipboard-write" title="Late Summer"></iframe></div>
 
