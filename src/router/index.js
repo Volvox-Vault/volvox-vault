@@ -87,10 +87,10 @@ import dueck from '../views/archive/2023/1/dueck.vue'
 
 /* 2024 */
 import opencall2024 from '../views/archive/2024/1/opencall2024.vue'
-import latesummer from '../views/archive/2024/3/latesummer.vue'
-import lsFilm from '../views/archive/2024/3/ls-film.vue'
-import lsBTS from '../views/archive/2024/3/ls-bts.vue'
-import lsRyan from '../views/archive/2024/3/ls-ryan.vue'
+import latesummer from '../views/archive/2024/3/lateSummer.vue'
+import lsFilm from '../views/archive/2024/3/lsFilm.vue'
+import lsBTS from '../views/archive/2024/3/lsBTS.vue'
+import lsRyan from '../views/archive/2024/3/lsRyan.vue'
 
 /* ISSUES */
 import Identity from '../views/archive/issues/Identity/Identity.vue'
@@ -511,7 +511,7 @@ const routes = [
   {
     path: '/latesummer',
     name: 'latesummer',
-    component: latesummer
+    component: lateSummer
   },
   {
     path: '/ls-film',
