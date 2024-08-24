@@ -1,4 +1,5 @@
 <template>
+<div>
 <a href="/latesummer" title="back"><img class="star1" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/star.png?v=1723342341788" /></a>
 <a href="/ls-bts" title="info + bts"><img class="mask" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/mask.png?v=1723342341390" /></a>
 <a href="/ls-ryan" title="note from ryan"><img class="ryan" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/latesummer-head.png?v=1724116787870" /></a>
@@ -13,6 +14,7 @@
         <source src="https://cdn.glitch.me/48b6270f-d761-4f15-89c3-24651ec28511/Cloud%20Loop.mp4?v=1724013306066" type="video/mp4">
         Your browser does not support HTML5 video.
     </video>
+</div>
 </div>
 </template>
 
