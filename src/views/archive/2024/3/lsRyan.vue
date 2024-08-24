@@ -29,7 +29,7 @@ export default {
 
 <style scoped>
 .main {
-    height: 100%;
+    height: 100vh;
     width: 100vw;
     background: #c1d6fb;
 }
