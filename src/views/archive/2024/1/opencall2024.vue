@@ -14,9 +14,7 @@
           have an idea you're passionate about that could be made into an
           interactive web experience? An essay, game, photo/video, experimental
           art...
-        </p>      
-      </div>
-      <div class="box">
+        </p> 
         <h2>Pitch Guide</h2>
         <p>
           Please include your name, your website (or social media), a working title for your idea, a summary
@@ -28,7 +26,13 @@
           <strong
             >Email hello@volvox.observer with your pitch.<br />
             Deadline: June 1, 2024</strong>
-        </p>
+        </p>     
+      </div>
+      <div class="box">
+        <h2>Blooms So Far...</h2>
+        <ul>
+        <li><router-link to="/latesummer">Late Summer (Film by Ryan Steel archived as a web experience)</router-link></li>
+        </ul>
       </div>
     </div>
   </MainLayout>

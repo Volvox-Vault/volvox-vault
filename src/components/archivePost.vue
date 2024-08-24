@@ -147,6 +147,33 @@ export default {
       title: "Archive",
       colony: [
         {
+          date: "2024",
+          author: "Tiana Dueck & Friends",
+          title: "Bloom",
+          link: "/2024",
+          type: "Project",
+          image:
+            "https://cdn.glitch.global/1bc078b6-0415-4e03-b37b-6732f286da4c/algaebloom1.png?v=1711894134486",
+        },
+        {
+          date: "2024",
+          author: "Tiana Dueck & HTML Green",
+          title: "HTML Day Toronto 2024",
+          link: "/archive/htmlday2024",
+          type: "Notebook",
+          image:
+            "https://uploads.html.green/images/html-day-in-the-park-3.jpg",
+        },
+        {
+          date: "2023",
+          author: "Tiana Dueck, Kalil Haddad, & Friends",
+          title: "Films straight from the source.",
+          link: "/trueself",
+          type: "Project",
+          image:
+            "https://cdn.glitch.global/31c7994a-ff45-4592-b835-14262460c504/Screenshot%202024-08-24%20at%2011.10.41%E2%80%AFAM.png?v=1724512267144",
+        },
+        {
           date: "2023",
           author: "Wietske Nutma & Tiana Dueck",
           title: "How to make the most practical skirt ever.",
