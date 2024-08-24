@@ -55,8 +55,10 @@ export default {
 </script>
 
 <style scoped>
-body {
+:global(body) {
     background: #c1d6fb;
+}
+body {
     margin: 0px;
     padding: 0px;
 }
@@ -200,6 +202,7 @@ audio {
     bottom: 0px;
     left: 50%;
     transform: translate(-50%);
+    z-index: 100;
 }
 
 .BTSimg {

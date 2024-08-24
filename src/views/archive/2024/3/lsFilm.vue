@@ -30,9 +30,10 @@ export default {
 </script>
 
 <style scoped>
-body {
-      height: 100vh;
+:global(body) {
     background: #c1d6fb;
+}
+body {
     margin: 0px;
     padding: 0px;
 }
