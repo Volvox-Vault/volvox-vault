@@ -31,6 +31,7 @@ export default {
 
 <style scoped>
 body {
+      height: 100vh;
     background: #c1d6fb;
     margin: 0px;
     padding: 0px;

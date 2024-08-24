@@ -11,7 +11,7 @@
 </audio>
 
 <div class="mobile">
-    <a href="/latesummer-film" title="watch late summer">
+    <a href="/ls-film" title="watch late summer">
         <img class="drawing firstImage" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/BIGFOOT-DRAWING-CRUMPLE-1a.png?v=1723337914904" />
         <img class="drawing secondImage" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/BIGFOOT-DRAWING-2a.png?v=1723337915361" />
     </a>
@@ -21,7 +21,7 @@
 </div>
 
 <div class="desktop">
-    <a href="/latesummer-film" title="watch late summer">
+    <a href="/ls-film" title="watch late summer">
         <img class="drawing" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/BIGFOOT-DRAWING-CRUMPLE-1a.png?v=1723337914904" onmouseover="this.src='https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/BIGFOOT-DRAWING-2a.png?v=1723337915361';" onmouseout="this.src='https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/BIGFOOT-DRAWING-CRUMPLE-1a.png?v=1723337914904';" />
     </a>
     <p class="click2">
