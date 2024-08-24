@@ -43,7 +43,7 @@
 
 <script>
 export default {
-    name: "lateSummer",
+    name: "lsHome",
     components: {},
     metaInfo: {
         // title will be injected into parent titleTemplate

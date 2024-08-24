@@ -87,7 +87,7 @@ import dueck from '../views/archive/2023/1/dueck.vue'
 
 /* 2024 */
 import opencall2024 from '../views/archive/2024/1/opencall2024.vue'
-import lateSummer from '../views/archive/2024/3/lateSummer.vue'
+import lsHome from '../views/archive/2024/3/lsHome.vue'
 import lsFilm from '../views/archive/2024/3/lsFilm.vue'
 import lsBTS from '../views/archive/2024/3/lsBTS.vue'
 import lsRyan from '../views/archive/2024/3/lsRyan.vue'
@@ -510,8 +510,8 @@ const routes = [
   /* 2024 */
   {
     path: '/latesummer',
-    name: 'lateSummer',
-    component: lateSummer
+    name: 'lsHome',
+    component: lsHome
   },
   {
     path: '/ls-film',
