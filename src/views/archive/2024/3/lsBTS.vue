@@ -11,6 +11,7 @@
     <h1>
       behind the scenes
     </h1>
+    <br>
     
     <img class="BTSimg" src="https://cdn.glitch.global/48b6270f-d761-4f15-89c3-24651ec28511/lastsummer-09.jpg?v=1724022140891"/>
     
